@@ -54,7 +54,7 @@
 </v>
 <v t="amd.20151021114454.1" a="E"><vh>@path user</vh>
 <v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
-<v t="amd.20151021114504.1" a="E"><vh>@path 9999</vh>
+<v t="amd.20151021114504.1"><vh>@path 9999</vh>
 <v t="amd.20151021213523.1"><vh>以下為投影片 ------------</vh></v>
 <v t="amd.20151021114639.1"><vh>@edit 9999_cp_w1_p.html</vh></v>
 <v t="amd.20151021114516.1" a="E"><vh>@path pelican</vh>
@@ -68,88 +68,10 @@
 </v>
 <v t="40323250.20151022203905.1" a="E"><vh>@path 40323250</vh>
 <v t="40323250.20151022203905.2"><vh>以下為投影片 ------------</vh></v>
-<v t="40323250.20151022204943.1"><vh>@edit 40323250_cp_w1_p.html</vh>
-<v t="40323250.20151022204943.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151022204943.3" a="E"><vh>html 標註</vh>
-<v t="40323250.20151022204943.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151022204943.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151022204943.6" a="E"><vh>div class="slides"</vh>
-<v t="40323250.20151022204943.7"><vh>投影頁面1 封面</vh></v>
-<v t="40323250.20151022204943.8" a="E"><vh>投影頁面2 筆記</vh>
-<v t="40323250.20151022204943.9"><vh>1</vh></v>
-<v t="40323250.20151022204943.10"><vh>2</vh></v>
-<v t="40323250.20151022204943.11"><vh>3</vh></v>
-<v t="40323250.20151022204943.12"><vh>4</vh></v>
-</v>
-<v t="40323250.20151022204943.13"><vh>投影頁面 自評與心得</vh></v>
-<v t="40323250.20151022204943.14"><vh>投影頁面 參考資料</vh></v>
-</v>
-</v>
-<v t="40323250.20151022204943.15"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="40323250.20151022204938.1"><vh>@edit 40323250_cp_w2_p.html</vh>
-<v t="40323250.20151022204938.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151022204938.3" a="E"><vh>html 標註</vh>
-<v t="40323250.20151022204938.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151022204938.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151022204938.6" a="E"><vh>div class="slides"</vh>
-<v t="40323250.20151022204938.7"><vh>投影頁面1 封面</vh></v>
-<v t="40323250.20151022204938.8" a="E"><vh>投影頁面2 筆記</vh>
-<v t="40323250.20151022204938.9"><vh>1</vh></v>
-<v t="40323250.20151022204938.10"><vh>2</vh></v>
-<v t="40323250.20151022204938.11"><vh>3</vh></v>
-</v>
-<v t="40323250.20151022204938.12"><vh>投影頁面 solvespace繪圖心得</vh></v>
-<v t="40323250.20151022204938.13"><vh>投影頁面 自評與心得</vh></v>
-<v t="40323250.20151022204938.14"><vh>投影頁面 參考資料</vh></v>
-</v>
-</v>
-<v t="40323250.20151022204938.15"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="40323250.20151022204932.1"><vh>@edit 40323250_cp_w5_p.html</vh>
-<v t="40323250.20151022204932.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151022204932.3" a="E"><vh>html 標註</vh>
-<v t="40323250.20151022204932.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151022204932.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151022204932.6" a="E"><vh>div class="slides"</vh>
-<v t="40323250.20151022204932.7"><vh>投影頁面1 封面</vh></v>
-<v t="40323250.20151022204932.8" a="E"><vh>投影頁面2 筆記</vh>
-<v t="40323250.20151022204932.9"><vh>1</vh></v>
-<v t="40323250.20151022204932.10"><vh>2</vh></v>
-</v>
-<v t="40323250.20151022204932.11"><vh>投影頁面 creo繪圖心得</vh></v>
-<v t="40323250.20151022204932.12"><vh>投影頁面 自評與心得</vh></v>
-<v t="40323250.20151022204932.13"><vh>投影頁面 參考資料</vh></v>
-</v>
-</v>
-<v t="40323250.20151022204932.14"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="40323250.20151022205311.1"><vh>@edit 40323250_cp_w6_p.html</vh>
-<v t="40323250.20151022205311.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151022205311.3" a="E"><vh>html 標註</vh>
-<v t="40323250.20151022205311.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151022205311.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151022205311.6" a="E"><vh>div class="slides"</vh>
-<v t="40323250.20151022205311.7"><vh>投影頁面1 封面</vh></v>
-<v t="40323250.20151022205311.8" a="E"><vh>投影頁面2 筆記</vh>
-<v t="40323250.20151022205311.9"><vh>1</vh></v>
-<v t="40323250.20151022205311.10"><vh>2</vh></v>
-</v>
-<v t="40323250.20151022205311.11"><vh>投影頁面 creo繪圖心得</vh></v>
-<v t="40323250.20151022205311.12"><vh>投影頁面 自評與心得</vh></v>
-<v t="40323250.20151022205311.13"><vh>投影頁面 參考資料</vh></v>
-</v>
-</v>
-<v t="40323250.20151022205311.14"><vh>script</vh></v>
-</v>
-</v>
-</v>
+<v t="40323250.20151022211054.1"><vh>@edit 40323250_cp_w1_p.html</vh></v>
+<v t="40323250.20151022211057.1"><vh>@edit 40323250_cp_w2_p.html</vh></v>
+<v t="40323250.20151022211102.1"><vh>@edit 40323250_cp_w6_p.html</vh></v>
+<v t="40323250.20151022211059.1"><vh>@edit 40323250_cp_w5_p.html</vh></v>
 <v t="40323250.20151022203905.4" a="E"><vh>@path pelican</vh>
 <v t="40323250.20151022203905.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323250.20151022203905.6"><vh>@edit publishconf.py</vh></v>
@@ -230,408 +152,6 @@ NOTEBOOK_DIR = 'notebook'
 </t>
 <t tx="40323250.20151022203905.7"></t>
 <t tx="40323250.20151022203905.8"></t>
-<t tx="40323250.20151022204932.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="40323250.20151022204932.10">&lt;section id="hw-task-two"&gt;
-    &lt;p align="left"&gt;&lt;/p&gt;
-   
-    
-
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204932.11">&lt;section&gt;
-    &lt;h3&gt; creo繪圖心得&lt;/h3&gt;
-    &lt;br&gt;
-    &lt;p&gt;繼solvespace之後，creo又是一套從來沒有接觸過的繪圖軟體，功能比solvespace多了許多，能做各種的圖形，對零件的顏色配置也很方便，可是個人認為也有少部分缺點，右鍵的選單需要按著才會出現，標註有時候也需要使用到右鍵的選單，對於剛開始接觸這套軟體花了很大的心力，光是一個組合件作業就花了大約6個小時研究，也許是習慣了別種軟體後才導致的不適應&lt;/p&gt;
-
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204932.12">&lt;section&gt;
-    &lt;h3&gt;自評和上課心得&lt;/h3&gt;
-    &lt;br&gt;
-    &lt;p&gt;creo、solvespace 大致上都知道如何使用了，對於pdf轉檔之後上傳到gitub之後，如何將內容轉至投影片內這部分還想不到如何做，想學的還有很多，要趕緊把握時間了&lt;/p&gt;
-    &lt;p&gt;評分 :  90 &lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204932.13">&lt;section&gt;
-    &lt;h3&gt;相關連結&lt;/h3&gt;
-    
-    &lt;li&gt;&lt;p align="left"&gt;&lt;a href=""&gt;&lt;/a&gt;
-
-
-
-
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204932.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="40323250.20151022204932.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="40323250.20151022204932.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="40323250.20151022204932.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="40323250.20151022204932.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323250.20151022204932.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323250.20151022204932.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 16 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
-    &lt;br&gt;
-    &lt;br&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;br&gt;
-    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
-    &lt;h3&gt;第五週作業&lt;/h3&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="40323250.20151022204932.8">&lt;section id="hw-task-one"&gt;
-&lt;p&gt;
-@others
-&lt;/p&gt;
-				&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204932.9">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1. 繪製草圖之前，要先選擇要繪製的平面後，再選擇旋轉或是拉伸&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;2. 如果要加入限制條件，需選取該線段後按著右鍵後，才會出現選單&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3. 在標註尺寸時，點選兩端點或者一線段後，按著右鍵後找出選單中所需要的尺寸種類&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;4. 旋轉材料的時候，要訂定一個旋轉軸，否則繪製的建構線會消失&lt;/p&gt;
-    &lt;br&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204938.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="40323250.20151022204938.10">&lt;section id="hw-task-two"&gt;
-    &lt;p align="left"&gt;4. solvespace 也能旋轉填料( shift + l )，點選旋轉軸後按下指令即可&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;5. ctrl + shift + t 追蹤點的位置，並在結束( ctrl + shift + s )後產生一個csv檔 ( 可用 SciTE 或 Excel 查看位置變化，便於結構運動時的運算 )&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;6. 測量線段 : 如果是以點對點，測量出來的可能是有經過一角度的偏轉得到的長度，如果想要測量兩平行線段，須以一線段的點及另一線段整段者作測量&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;7. 如果草圖沒有封閉或是有多餘的線條，伸長或旋轉只會產生線條延伸，沒有實體的產生&lt;/p&gt;
-    &lt;br&gt;
-    
-
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204938.11">&lt;section id="hw-task-three"&gt;
-    &lt;p align="left"&gt;8. 建立新平面 : 點選所需要的平面上的 2 條線 ( 建立平面 ) 之後 點選一個基準點 
-後 shift + w   ( new group 底下的 sketch in new workplane )
-    &lt;br&gt;
-&lt;/section&gt;</t>
-<t tx="40323250.20151022204938.12">&lt;section&gt;
-    &lt;h3&gt; solvespace繪圖心得&lt;/h3&gt;
-    &lt;br&gt;
-    &lt;p&gt;solvespace是一個簡便且容易攜帶的繪圖軟體，雖然類似solidworks，但在繪製過程中還是遇到許多問題，如建立繪製的草圖後還是會產生無法圓角，或是切割線段後如有重疊的線段還要找出來刪掉，光畫一個丙級題目就花了快2個小時，但至少現在能畫出一個基本的立體圖了&lt;/p&gt;
-
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204938.13">&lt;section&gt;
-    &lt;h3&gt;自評&lt;/h3&gt;
-    &lt;br&gt;
-    &lt;p&gt;這禮拜大概知道老師想要表達的是什麼，我們所學到的很多事物其實都可以融會在一起，只是還沒用到而已，我也下定決心要開始鑽研英文領域了，對於資訊的進步我也嚇了一大跳，只要不久時間，剛學完的東西很快就會變成舊版，對於自己的能力要好好加強，否則很快就會被淘汰；至於網誌方面，剛好因為颱風假，我在家都已經試過如何新建和更改，也查了一些關於html的語法，建立網誌的方法我也有拍一個影片放在班網上。&lt;/p&gt;
-    &lt;p&gt;評分 :  95 &lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204938.14">&lt;section&gt;
-    &lt;h3&gt;相關連結&lt;/h3&gt;
-    
-    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.powmo.com/#b14?p=3643#more-3643"&gt;HTML語法&lt;/a&gt;
-   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://www.copy.com/page/"&gt;Copy.com&lt;/a&gt;
-   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://github.com/doggy8088/Learn-Git-in-30-days/"&gt;Learn-Git-in-30-days&lt;/a&gt;
-   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.tpjh.kh.edu.tw/edu/fp/theory/30syn/htmlteach.files/html.htm#t1"&gt;HTML語法教學&lt;/a&gt;
-
-
-
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204938.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="40323250.20151022204938.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="40323250.20151022204938.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="40323250.20151022204938.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="40323250.20151022204938.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323250.20151022204938.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323250.20151022204938.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 10 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
-    &lt;br&gt;
-    &lt;br&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;br&gt;
-    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
-    &lt;h3&gt;第四週作業&lt;/h3&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="40323250.20151022204938.8">&lt;section id="hw-task-one"&gt;
-&lt;p&gt;
-@others
-&lt;/p&gt;
-				&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204938.9">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;hr size="1" align="center" noshade width="100%" color=RED&gt;
-    &lt;p align="left"&gt;1. 建立網誌須注意檔案名稱是否衝突&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;2. 測試多筆資料時，新建一個測試倉儲&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3. solvespace 繪圖 :
-    &lt;br&gt;
-    &lt;p align="left"&gt;* 完成伸長填料或除料後按shift + 3 ( 新建一個草圖 )&lt;/p&gt;
-    &lt;p align="left"&gt;*指定基準面後按  2  &lt;/p&gt;
-    &lt;p align="left"&gt;*f3 : 等角視圖&lt;/p&gt;
-    &lt;p align="left"&gt;*f2 : 正視圖&lt;/p&gt;
-    &lt;p align="left"&gt;*繪製相切圓及使用其他功能時，需注意所繪製的線是否在正確的基準面上，否則會出現錯誤&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204943.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="40323250.20151022204943.10">&lt;section&gt;
-    &lt;p align="left"&gt;6. dir  : 檢察所屬分支的檔案數量和狀況&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;7. git config (--global) user.name  .... , 括弧內若省略 , 此次僅為單
-    一1次 , 若沒有省略 , 則以後皆為默認 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;8. REM = REMARK  ,  .bat 檔 = batch 批次檔  ,  -s = set 設定&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;9.  reveal.leo 存檔之後所產生的simplest.html檔案 , 可以很方便的檢查近端leo的編輯狀況&lt;/p&gt;
-    &lt;br&gt;
-        &lt;p align="left"&gt;10. github 產生的倉儲可以依造自己所需 , 產生 https 或者 ssh 的clone  URL&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;11. leo 檔案不正當的關閉 , 將導致 leo editor 出現錯誤而無法正常開啟&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204943.11">&lt;section&gt;
-    &lt;p align="left"&gt;12. 如果leo出現問題無法開啟 , 試著將 home 底下的 .leo 資料夾刪除
-    &lt;br&gt;
-    &lt;p align="left"&gt;13. 如果推回遠端有問題 , 可能和 .git 檔 、  路徑錯誤 或 者其他問題
-    &lt;br&gt;
-    &lt;p align="left"&gt;14. 無法正常出現分頁頁面( io ) 網址的原因 : github 尚未進行 信箱認證 、 抓錯檔案等原因 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;15. 如果將老師的檔案推到自己倉儲的 master , 遠端頁面顯示404  File not found , 但是推到 gh-pages 卻會顯示網頁 , 代表 github 的 gh-pages  能支援靜態網站 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;16. 如果分支有新增資料，要先展開、提交之後才能再切換分支&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;17. git rm 檔案名稱.副檔名 ( 移除檔案在近端動作即可 ) &lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204943.12">&lt;section&gt;
-    &lt;p align="left"&gt;18. git rm 資料夾名稱 -r 可刪除資料夾( 含內部文件 ) &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;19. git push origin :分支名稱 ( 刪除github 分支 )&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204943.13">&lt;section&gt;
-    &lt;h3&gt;自評&lt;/h3&gt;
-    &lt;br&gt;
-    &lt;p&gt;對門課秉持著做實驗的精神 , 雖然上課有很多不懂的地方 ,  但是回家都會一步一步的測試 , 也知道大概是哪個地方出問題 , 希望之後對自己的要求高一點&lt;/p&gt;
-    &lt;p&gt;評分 :  90 &lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204943.14">&lt;section&gt;
-    &lt;h3&gt;相關連結&lt;/h3&gt;
-    
-    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3643#more-3643"&gt;2015Fall CP&lt;/a&gt;
-    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.phd.com.tw/knowledge/html/article/"&gt;HTML語法&lt;/a&gt;
-    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://openshift.redhat.com/app/console/applications"&gt;Openshift&lt;/a&gt;
-    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://bitbucket.org/"&gt;Bitbucket&lt;/a&gt;
-    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://vimeo.com/"&gt;Vimeo&lt;/a&gt;
-    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://www.copy.com/page/"&gt;Copy.com&lt;/a&gt;
-    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://blog.kejyun.com/2013/06/Build-Web-Page-On-Github.html"&gt;gh-pages 相關說明&lt;/a&gt;
-    &lt;hr&gt;
-    &lt;p align="left"&gt;上述某些網站會因太久沒有使用而遭刪除帳號 , 網址也會停擺 , 有時間都要回去看一下&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204943.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="40323250.20151022204943.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="40323250.20151022204943.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="40323250.20151022204943.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="40323250.20151022204943.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323250.20151022204943.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323250.20151022204943.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-       &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 10 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
-    &lt;br&gt;
-    &lt;br&gt;
-    &lt;br&gt;	
-    &lt;h3&gt;四設計二乙&lt;/h3&gt;
-    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
-	
-&lt;/section&gt;
-	
-</t>
-<t tx="40323250.20151022204943.8">&lt;section&gt;
-&lt;p&gt;
-@others
-&lt;/p&gt;
-				&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022204943.9">&lt;section&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;hr size="1" align="center" noshade width="100%" color=YELLOW&gt;
-    &lt;p align="left"&gt;1. 如果從學校電腦抓12G的檔案 , leo 套件要自己下載 ,安裝到 site- package 裡面。 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;2. launchLeo.py 和 start 可以從老師提供的壓縮檔中找到 , 複製到相同路徑即可 ( start 多個啟動程序 )。&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3. 檢查分支 : git bramch  &lt;/p&gt;
-    &lt;p align="left"&gt; 新建分支 : git branch (分支名稱)  &lt;/p&gt;
-    &lt;p align="left"&gt; 切換分支 : git checkout (分支名稱)&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;4. 因所在的分支不同 , 資料夾所顯示的檔案也有所不同 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;5. 新建的分支會複製原有的分支檔案&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="40323250.20151022204954.1">@language md
 Title: 2015 電腦輔助設計 ( W5 )
 Date: 2015-10-16 09:11
@@ -747,268 +267,12 @@ Summary: 作業與心得
 &lt;hr&gt;
 
 </t>
-<t tx="40323250.20151022205002.1">@language md
-Title: 2015 電腦輔助設計實習 第二週
-Date: 2015-09-27 20:41
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w1
-Authors: b850617
-Summary: 作業與心得
-
-以下為作業一內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40323250_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業一投影片](40323250_cp_w1_p.html){:target="_blank"}
-
-使用 H1 標題
-============
-
-文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視為連續的資料
-
-使用. *斜體文字*, **黑體文字**, 以及 `單線文字`. 表列資料可以寫為:
-
-  * 第1項說明
-  * 第2項說明
-  * 第3項說明
-
-特別注意 --- 不包括星號 --- 表列文字從第四欄位開始.
-
-&gt; 引用的內容寫在這裡
-&gt; 主要是以大於的符號開頭.
-&gt;
-&gt; 其中也可以利用空白行隔開,
-&gt; 整區都是引用內容的範圍.
-
-em-dash 符號是3個 dashes. 利用兩個 dashes 來連接開始與結束 (ex., "這個禮拜要閱讀章節 12--14"). 3個逗點 ... 則會被轉為 ellipsis.
-pelican 可以支援 unicode. ☺
-
-H2 標題
-------------
-
-有數字的表列資料:
-
- 1. 第1項
- 2. 第2項
- 3. 第3項
-
-跟前面一樣, 文字從第四個欄位開始.
-
-程式碼的表達:
-
-    # for 重複迴圈 ...
-    for i in 1 .. 10 { 呼叫特定函式(i) }
-
-這裡也是要空4個 space 鍵. 
-
-除了每一行空4個空白, 也可以使用 delimited 來界定程式碼範圍, 就像這樣:
-
-~~~
-define foobar() {
-    print("歡迎進入程式的世界!")
-}
-~~~
-
-(這樣的表達比較容易用來複製程式碼內容).
-
-python 的程式碼, 可以寫成下列格式
-
-~~~python
-import time
-# 以下會從 0 數到 9
-for i in range(10):
-    # 稍微暫停一下
-    time.sleep(0.5)
-    print(i)
-~~~
-
-以下為另外一種嵌入程式碼的方法:
-
-    #!python
-    import time
-    # 以下會從 0 數到 9
-    for i in range(10):
-        # 稍微暫停一下
-        time.sleep(0.5)
-        print(i)
-
-### H3 標題 ###
-
-以下則為內嵌式的表列法t:
-
- 1. 首先, 將完成下列元件的設計:
-
-      * 轉向機構
-      * 煞車系統
-      * 踩踏機構
-
- 2. 接著連繫工業設計部門.
-
- 3. 確定上述元件的各項設計與用料都符合原始設計規格的要求
-    查驗表:
-
-        各元件材質
-        車蓋顏色
-        機構調校流程
-        需要熱處理的元件列表
-
-    完成上述查驗後, 請通知品保部門, 以便接續處理.
-
-特別注意各階資料都以內縮4個空白鍵來加以區隔, 包含最後一行.
-
-Markdown 的超文件連結寫法 [連到 Google](http://www.google.com){:target="_blank"}, 也可以連到同目錄下的檔案 [cadpbw1.html](cadpbw1.html){:target="_blank"}, 也能使用註腳 [^1].
-
-[^1]: 註腳會連結到這裡.
-
-放入圖檔, 可以直接利用 html 的 img 標註:
-
-&lt;img src="images/spur.png" width="500" alt="正齒輪繪圖"&gt;&lt;/img&gt;
-
-Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):
-
-&lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;br&gt;
-&lt;hr&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;title&gt;Eight melodies - mother  piano version&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;audio controls pause&gt;
-        &lt;source src="https://copy.com/HrxeQ92VMmnkAXlg"&gt;
-    &lt;/audio&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-&lt;hr&gt;
-</t>
-<t tx="40323250.20151022205311.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="40323250.20151022205311.10">&lt;section id="hw-task-two"&gt;
-    &lt;p align="left"&gt;&lt;/p&gt;
-   
-    
-
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022205311.11">&lt;section&gt;
-    &lt;h3&gt; creo繪圖心得&lt;/h3&gt;
-    &lt;br&gt;
-    &lt;p&gt;繼solvespace之後，creo又是一套從來沒有接觸過的繪圖軟體，功能比solvespace多了許多，能做各種的圖形，對零件的顏色配置也很方便，可是個人認為也有少部分缺點，右鍵的選單需要按著才會出現，標註有時候也需要使用到右鍵的選單，對於剛開始接觸這套軟體花了很大的心力，光是一個組合件作業就花了大約6個小時研究，也許是習慣了別種軟體後才導致的不適應&lt;/p&gt;
-
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022205311.12">&lt;section&gt;
-    &lt;h3&gt;自評和上課心得&lt;/h3&gt;
-    &lt;br&gt;
-    &lt;p&gt;creo、solvespace 大致上都知道如何使用了，對於pdf轉檔之後上傳到gitub之後，如何將內容轉至投影片內這部分還想不到如何做，想學的還有很多，要趕緊把握時間了&lt;/p&gt;
-    &lt;p&gt;評分 :  90 &lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022205311.13">&lt;section&gt;
-    &lt;h3&gt;相關連結&lt;/h3&gt;
-    
-    &lt;li&gt;&lt;p align="left"&gt;&lt;a href=""&gt;&lt;/a&gt;
-
-
-
-
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022205311.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="40323250.20151022205311.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="40323250.20151022205311.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="40323250.20151022205311.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="40323250.20151022205311.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323250.20151022205311.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323250.20151022205311.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 16 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
-    &lt;br&gt;
-    &lt;br&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;br&gt;
-    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
-    &lt;h3&gt;第五週作業&lt;/h3&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="40323250.20151022205311.8">&lt;section id="hw-task-one"&gt;
-&lt;p&gt;
-@others
-&lt;/p&gt;
-				&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151022205311.9">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1. 繪製草圖之前，要先選擇要繪製的平面後，再選擇旋轉或是拉伸&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;2. 如果要加入限制條件，需選取該線段後按著右鍵後，才會出現選單&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3. 在標註尺寸時，點選兩端點或者一線段後，按著右鍵後找出選單中所需要的尺寸種類&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;4. 旋轉材料的時候，要訂定一個旋轉軸，否則繪製的建構線會消失&lt;/p&gt;
-    &lt;br&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="40323250.20151022205316.1">@language md
 Title: 2015 電腦輔助設計 ( W6 )
 Date: 2015-10-22 20:54
 Category: Python
 Tags: pelican, publishing
-Slug: 2015cp_hw_w5
+Slug: 2015cp_hw_w6
 Authors: b850617
 Summary: 作業與心得
 
@@ -1063,6 +327,392 @@ Summary: 作業與心得
 &lt;/body&gt;
 &lt;/html&gt;
 &lt;hr&gt;
+</t>
+<t tx="40323250.20151022211054.1">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+       &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 10 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;br&gt;	
+    &lt;h3&gt;四設計二乙&lt;/h3&gt;
+    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
+	
+&lt;/section&gt;
+	
+&lt;section&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;hr size="1" align="center" noshade width="100%" color=YELLOW&gt;
+    &lt;p align="left"&gt;1. 如果從學校電腦抓12G的檔案 , leo 套件要自己下載 ,安裝到 site- package 裡面。 &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;2. launchLeo.py 和 start 可以從老師提供的壓縮檔中找到 , 複製到相同路徑即可 ( start 多個啟動程序 )。&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;3. 檢查分支 : git bramch  &lt;/p&gt;
+    &lt;p align="left"&gt; 新建分支 : git branch (分支名稱)  &lt;/p&gt;
+    &lt;p align="left"&gt; 切換分支 : git checkout (分支名稱)&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;4. 因所在的分支不同 , 資料夾所顯示的檔案也有所不同 &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;5. 新建的分支會複製原有的分支檔案&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;p align="left"&gt;6. dir  : 檢察所屬分支的檔案數量和狀況&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;7. git config (--global) user.name  .... , 括弧內若省略 , 此次僅為單
+    一1次 , 若沒有省略 , 則以後皆為默認 &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;8. REM = REMARK  ,  .bat 檔 = batch 批次檔  ,  -s = set 設定&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;9.  reveal.leo 存檔之後所產生的simplest.html檔案 , 可以很方便的檢查近端leo的編輯狀況&lt;/p&gt;
+    &lt;br&gt;
+        &lt;p align="left"&gt;10. github 產生的倉儲可以依造自己所需 , 產生 https 或者 ssh 的clone  URL&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;11. leo 檔案不正當的關閉 , 將導致 leo editor 出現錯誤而無法正常開啟&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;p align="left"&gt;12. 如果leo出現問題無法開啟 , 試著將 home 底下的 .leo 資料夾刪除
+    &lt;br&gt;
+    &lt;p align="left"&gt;13. 如果推回遠端有問題 , 可能和 .git 檔 、  路徑錯誤 或 者其他問題
+    &lt;br&gt;
+    &lt;p align="left"&gt;14. 無法正常出現分頁頁面( io ) 網址的原因 : github 尚未進行 信箱認證 、 抓錯檔案等原因 &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;15. 如果將老師的檔案推到自己倉儲的 master , 遠端頁面顯示404  File not found , 但是推到 gh-pages 卻會顯示網頁 , 代表 github 的 gh-pages  能支援靜態網站 &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;16. 如果分支有新增資料，要先展開、提交之後才能再切換分支&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;17. git rm 檔案名稱.副檔名 ( 移除檔案在近端動作即可 ) &lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;p align="left"&gt;18. git rm 資料夾名稱 -r 可刪除資料夾( 含內部文件 ) &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;19. git push origin :分支名稱 ( 刪除github 分支 )&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h3&gt;自評&lt;/h3&gt;
+    &lt;br&gt;
+    &lt;p&gt;對門課秉持著做實驗的精神 , 雖然上課有很多不懂的地方 ,  但是回家都會一步一步的測試 , 也知道大概是哪個地方出問題 , 希望之後對自己的要求高一點&lt;/p&gt;
+    &lt;p&gt;評分 :  90 &lt;/p&gt;
+&lt;/section&gt;
+				
+
+		
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+</t>
+<t tx="40323250.20151022211057.1">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 10 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
+    &lt;h3&gt;第四週作業&lt;/h3&gt;		
+&lt;/section&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;hr size="1" align="center" noshade width="100%" color=RED&gt;
+    &lt;p align="left"&gt;1. 建立網誌須注意檔案名稱是否衝突&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;2. 測試多筆資料時，新建一個測試倉儲&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;3. solvespace 繪圖 :
+    &lt;br&gt;
+    &lt;p align="left"&gt;* 完成伸長填料或除料後按shift + 3 ( 新建一個草圖 )&lt;/p&gt;
+    &lt;p align="left"&gt;*指定基準面後按  2  &lt;/p&gt;
+    &lt;p align="left"&gt;*f3 : 等角視圖&lt;/p&gt;
+    &lt;p align="left"&gt;*f2 : 正視圖&lt;/p&gt;
+    &lt;p align="left"&gt;*繪製相切圓及使用其他功能時，需注意所繪製的線是否在正確的基準面上，否則會出現錯誤&lt;/p&gt;
+&lt;/section&gt;
+		&lt;section id="hw-task-two"&gt;
+    &lt;p align="left"&gt;4. solvespace 也能旋轉填料( shift + l )，點選旋轉軸後按下指令即可&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;5. ctrl + shift + t 追蹤點的位置，並在結束( ctrl + shift + s )後產生一個csv檔 ( 可用 SciTE 或 Excel 查看位置變化，便於結構運動時的運算 )&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;6. 測量線段 : 如果是以點對點，測量出來的可能是有經過一角度的偏轉得到的長度，如果想要測量兩平行線段，須以一線段的點及另一線段整段者作測量&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;7. 如果草圖沒有封閉或是有多餘的線條，伸長或旋轉只會產生線條延伸，沒有實體的產生&lt;/p&gt;
+    &lt;br&gt;
+    
+
+&lt;/section&gt;
+				
+		
+&lt;section id="hw-task-three"&gt;
+    &lt;p align="left"&gt;8. 建立新平面 : 點選所需要的平面上的 2 條線 ( 建立平面 ) 之後 點選一個基準點 
+後 shift + w   ( new group 底下的 sketch in new workplane )
+    &lt;br&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h3&gt; solvespace繪圖心得&lt;/h3&gt;
+    &lt;br&gt;
+    &lt;p&gt;solvespace是一個簡便且容易攜帶的繪圖軟體，雖然類似solidworks，但在繪製過程中還是遇到許多問題，如建立繪製的草圖後還是會產生無法圓角，或是切割線段後如有重疊的線段還要找出來刪掉，光畫一個丙級題目就花了快2個小時，但至少現在能畫出一個基本的立體圖了&lt;/p&gt;
+
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h3&gt;自評&lt;/h3&gt;
+    &lt;br&gt;
+    &lt;p&gt;這禮拜大概知道老師想要表達的是什麼，我們所學到的很多事物其實都可以融會在一起，只是還沒用到而已，我也下定決心要開始鑽研英文領域了，對於資訊的進步我也嚇了一大跳，只要不久時間，剛學完的東西很快就會變成舊版，對於自己的能力要好好加強，否則很快就會被淘汰；至於網誌方面，剛好因為颱風假，我在家都已經試過如何新建和更改，也查了一些關於html的語法，建立網誌的方法我也有拍一個影片放在班網上。&lt;/p&gt;
+    &lt;p&gt;評分 :  95 &lt;/p&gt;
+&lt;/section&gt;
+
+
+&lt;section&gt;
+    &lt;h3&gt;相關連結&lt;/h3&gt;
+    
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.powmo.com/#b14?p=3643#more-3643"&gt;HTML語法&lt;/a&gt;
+   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://www.copy.com/page/"&gt;Copy.com&lt;/a&gt;
+   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://github.com/doggy8088/Learn-Git-in-30-days/"&gt;Learn-Git-in-30-days&lt;/a&gt;
+   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.tpjh.kh.edu.tw/edu/fp/theory/30syn/htmlteach.files/html.htm#t1"&gt;HTML語法教學&lt;/a&gt;
+
+
+
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h3&gt;相關連結&lt;/h3&gt;
+    
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3643#more-3643"&gt;2015Fall CP&lt;/a&gt;
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.phd.com.tw/knowledge/html/article/"&gt;HTML語法&lt;/a&gt;
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://openshift.redhat.com/app/console/applications"&gt;Openshift&lt;/a&gt;
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://bitbucket.org/"&gt;Bitbucket&lt;/a&gt;
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://vimeo.com/"&gt;Vimeo&lt;/a&gt;
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://www.copy.com/page/"&gt;Copy.com&lt;/a&gt;
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://blog.kejyun.com/2013/06/Build-Web-Page-On-Github.html"&gt;gh-pages 相關說明&lt;/a&gt;
+    &lt;hr&gt;
+    &lt;p align="left"&gt;上述某些網站會因太久沒有使用而遭刪除帳號 , 網址也會停擺 , 有時間都要回去看一下&lt;/p&gt;
+&lt;/section&gt;
+				
+
+		
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+</t>
+<t tx="40323250.20151022211059.1">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 16 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
+    &lt;h3&gt;第五週作業&lt;/h3&gt;		
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
+    &lt;p align="left"&gt;1. 繪製草圖之前，要先選擇要繪製的平面後，再選擇旋轉或是拉伸&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;2. 如果要加入限制條件，需選取該線段後按著右鍵後，才會出現選單&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;3. 在標註尺寸時，點選兩端點或者一線段後，按著右鍵後找出選單中所需要的尺寸種類&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;4. 旋轉材料的時候，要訂定一個旋轉軸，否則繪製的建構線會消失&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
+
+&lt;section&gt;
+    &lt;h3&gt; creo繪圖心得&lt;/h3&gt;
+    &lt;br&gt;
+    &lt;p&gt;繼solvespace之後，creo又是一套從來沒有接觸過的繪圖軟體，功能比solvespace多了許多，能做各種的圖形，對零件的顏色配置也很方便，可是個人認為也有少部分缺點，右鍵的選單需要按著才會出現，標註有時候也需要使用到右鍵的選單，對於剛開始接觸這套軟體花了很大的心力，光是一個組合件作業就花了大約6個小時研究，也許是習慣了別種軟體後才導致的不適應&lt;/p&gt;
+
+&lt;/section&gt;
+				
+
+
+				
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+</t>
+<t tx="40323250.20151022211102.1">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 22 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
+    &lt;h3&gt;第六週作業&lt;/h3&gt;		
+&lt;/section&gt;
+	
+
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;hr size="1" align="center" noshade width="100%" color=purple&gt;
+    &lt;p align="left"&gt;1. &lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
+
+&lt;section&gt;
+    &lt;h3&gt; creo繪圖心得&lt;/h3&gt;
+    &lt;br&gt;
+    &lt;p&gt;繼solvespace之後，creo又是一套從來沒有接觸過的繪圖軟體，功能比solvespace多了許多，能做各種的圖形，對零件的顏色配置也很方便，可是個人認為也有少部分缺點，右鍵的選單需要按著才會出現，標註有時候也需要使用到右鍵的選單，對於剛開始接觸這套軟體花了很大的心力，光是一個組合件作業就花了大約6個小時研究，也許是習慣了別種軟體後才導致的不適應&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h3&gt;自評和上課心得&lt;/h3&gt;
+    &lt;br&gt;
+    &lt;p&gt;creo、solvespace 大致上都知道如何使用了，對於pdf轉檔之後上傳到gitub之後，如何將內容轉至投影片內這部分還想不到如何做，想學的還有很多，要趕緊把握時間了&lt;/p&gt;
+    &lt;p&gt;評分 :  90 &lt;/p&gt;
+&lt;/section&gt;
+				
+
+					
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
