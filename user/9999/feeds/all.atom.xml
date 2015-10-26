@@ -1398,8 +1398,8 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;hr&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;table width="600" border=PURPLE cellspacing="4"&gt;
-&lt;tr&gt;&lt;td colspan=4 align=center&gt;&lt;font size="5"&gt;組別&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;table width="600" border=4 cellspacing="4"&gt;
+&lt;tr&gt;&lt;td colspan=4 align="CENTER"&gt;&lt;font size="5"&gt;組別&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan=1 align=center&gt;&lt;font size="3"&gt;第一組&lt;/font&gt;&lt;/td&gt;
 &lt;td colspan=1 align=center&gt;&lt;font size="3"&gt;第二組&lt;/font&gt;&lt;/td&gt;
