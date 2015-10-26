@@ -150,7 +150,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151026181506.1"><vh>@clean 40323250_cp_w7.html</vh>
+<v t="40323250.20151026181506.1" a="E"><vh>@clean 40323250_cp_w7.html</vh>
 <v t="40323250.20151026181506.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151026181506.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151026181506.4" a="E"><vh>body 標註</vh>
@@ -699,9 +699,9 @@
 <t tx="40323250.20151026181506.11">&lt;section&gt;
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;這一週開始將自己的各週作業導入班上倉儲，出錯機率提高了八成至九成，如果檔案建置不完全還可以補救，但是reveal.leo檔案如果無法正常開啟，我也不知道該如何是好了，目前的對策也只有備份資料而已，對於"幫助"班上理解倉儲的營運好像是目前的首要目標&lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;評分 :  &lt;/p&gt; 
+    &lt;p&gt;評分 : 尚未完成 &lt;/p&gt; 
 &lt;/section&gt;		
 </t>
 <t tx="40323250.20151026181506.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -772,7 +772,7 @@
 <t tx="40323250.20151026181506.9">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt; &lt;/p&gt;
+    &lt;p align="left"&gt;&lt;/p&gt;
     &lt;br&gt;
 
 &lt;/section&gt;</t>
