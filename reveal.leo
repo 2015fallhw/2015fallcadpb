@@ -19,7 +19,7 @@
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
 <v t="amd.20151021120245.1"><vh>@button admin pelican</vh></v>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
@@ -54,7 +54,7 @@
 </v>
 <v t="amd.20151021114454.1" a="E"><vh>@path user</vh>
 <v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
-<v t="amd.20151021114504.1" a="E"><vh>@path 9999</vh>
+<v t="amd.20151021114504.1"><vh>@path 9999</vh>
 <v t="amd.20151021213523.1"><vh>以下為投影片 ------------</vh></v>
 <v t="amd.20151021114639.1"><vh>@edit 9999_cp_w1_p.html</vh></v>
 <v t="amd.20151021114516.1" a="E"><vh>@path pelican</vh>
@@ -128,16 +128,16 @@
 </v>
 </v>
 </v>
-<v t="leo.20151026230425.42"><vh>@path pelican</vh>
+<v t="leo.20151026230425.42" a="E"><vh>@path pelican</vh>
 <v t="leo.20151026230425.43"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20151026230425.44"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151027010855.1"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151026230425.45" a="E"><vh>@path content</vh>
 <v t="leo.20151026230425.46"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151026230425.47"><vh>@edit 2015cpnote1.md</vh></v>
-<v t="leo.20151026230425.48"><vh>@edit 40323218_cp_w2.md</vh></v>
-<v t="leo.20151026230425.49"><vh>@edit 40323218_cp_w4.md</vh></v>
-<v t="leo.20151026230425.50"><vh>@edit 40323218_cp_w5.md</vh></v>
-<v t="leo.20151026230425.51"><vh>@edit 40323218_cp_w6.md</vh></v>
+<v t="leo.20151027011121.1"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20151027011226.1"><vh>@edit 40323218_cp_w2.md</vh></v>
+<v t="leo.20151027011942.1"><vh>@edit 40323218_cp_w4.md</vh></v>
+<v t="leo.20151027012302.1"><vh>@edit 40323218_cp_w5.md</vh></v>
+<v t="leo.20151027012309.1"><vh>@edit 40323218_cp_w6.md</vh></v>
 </v>
 </v>
 </v>
@@ -223,7 +223,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151026181506.1" a="E"><vh>@clean 40323250_cp_w7.html</vh>
+<v t="40323250.20151026181506.1"><vh>@clean 40323250_cp_w7.html</vh>
 <v t="40323250.20151026181506.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151026181506.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151026181506.4" a="E"><vh>body 標註</vh>
@@ -241,7 +241,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151026181302.4" a="E"><vh>@path pelican</vh>
+<v t="40323250.20151026181302.4"><vh>@path pelican</vh>
 <v t="40323250.20151026181302.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323250.20151026181302.6"><vh>@edit publishconf.py</vh></v>
 <v t="40323250.20151026181302.7" a="E"><vh>@path content</vh>
