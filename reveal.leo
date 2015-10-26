@@ -319,12 +319,12 @@
 <v t="leo.20151026103415.42" a="E"><vh>@path pelican</vh>
 <v t="leo.20151026103415.43"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151026103415.44"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151026103415.45" a="E"><vh>@path content</vh>
-<v t="leo.20151026103415.46"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151026103415.47"><vh>@edit 40323218_cp_w2.md</vh></v>
-<v t="leo.20151026103415.48"><vh>@edit 40323218_cp_w4.md</vh></v>
-<v t="leo.20151026103415.49"><vh>@edit 40323218_cp_w5.md</vh></v>
-<v t="leo.20151026103415.50"><vh>@edit 40323218_cp_w6.md</vh></v>
+<v t="leo.20151026104951.1" a="E"><vh>@path content</vh>
+<v t="leo.20151026104951.2"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151026104951.3"><vh>@edit 40323218_cp_w2.md</vh></v>
+<v t="leo.20151026104951.4"><vh>@edit 40323218_cp_w4.md</vh></v>
+<v t="leo.20151026104951.5"><vh>@edit 40323218_cp_w5.md</vh></v>
+<v t="leo.20151026104951.6"><vh>@edit 40323218_cp_w6.md</vh></v>
 </v>
 </v>
 </v>
@@ -1690,8 +1690,6 @@ git config --global user.email 自己的信箱&lt;br&gt;
 </t>
 <t tx="leo.20151026103415.42"></t>
 <t tx="leo.20151026103415.43"></t>
-<t tx="leo.20151026103415.45"></t>
-<t tx="leo.20151026103415.46"></t>
 <t tx="leo.20151026103415.5">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
@@ -1729,5 +1727,7 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 	
 </t>
+<t tx="leo.20151026104951.1"></t>
+<t tx="leo.20151026104951.2"></t>
 </tnodes>
 </leo_file>
