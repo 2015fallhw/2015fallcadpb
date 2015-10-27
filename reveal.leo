@@ -19,7 +19,7 @@
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="amd.20151021120245.1"><vh>@button admin pelican</vh></v>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
@@ -67,7 +67,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151026230425.1" a="E"><vh>@path 40323214</vh>
+<v t="leo.20151026230425.1"><vh>@path 40323214</vh>
 <v t="leo.20151026230425.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151026230425.3"><vh>@clean 40323214_cp_w2.html</vh>
 <v t="leo.20151026230425.4"><vh>檔案說明</vh></v>
@@ -216,7 +216,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151026181302.1"><vh>@path 40323250</vh>
+<v t="40323250.20151026181302.1" a="E"><vh>@path 40323250</vh>
 <v t="40323250.20151026181302.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323250.20151026181431.1"><vh>@clean 40323250_cp_w2.html</vh>
 <v t="40323250.20151026181431.2"><vh>檔案說明</vh></v>
@@ -298,7 +298,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151026181506.1"><vh>@clean 40323250_cp_w7.html</vh>
+<v t="40323250.20151026181506.1" a="E"><vh>@clean 40323250_cp_w7.html</vh>
 <v t="40323250.20151026181506.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151026181506.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151026181506.4" a="E"><vh>body 標註</vh>
@@ -310,13 +310,14 @@
 <v t="40323250.20151026181506.10"><vh>2</vh></v>
 </v>
 <v t="40323250.20151026181506.11"><vh>投影頁面 自評與心得</vh></v>
+<v t="40323250.20151027161058.1"><vh>投影頁面 參考資料</vh></v>
 </v>
 </v>
 <v t="40323250.20151026181506.12"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="40323250.20151026181302.4"><vh>@path pelican</vh>
+<v t="40323250.20151026181302.4" a="E"><vh>@path pelican</vh>
 <v t="40323250.20151026181302.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323250.20151026181302.6"><vh>@edit publishconf.py</vh></v>
 <v t="40323250.20151026181302.7" a="E"><vh>@path content</vh>
@@ -1242,6 +1243,17 @@ git config --global user.email 自己的信箱&lt;br&gt;
     &lt;br&gt;
 
 &lt;/section&gt;</t>
+<t tx="40323250.20151027161058.1">&lt;section&gt;
+    &lt;h3&gt;相關連結&lt;/h3&gt;
+    
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://clie.ws/bbs/?app=blog&amp;blogid=15&amp;showentry=496&amp;"&gt;HTML 語法 Table 表格標籤語法&lt;/a&gt;
+   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.webtech.tw/info.php?tid=HTML+%E8%A1%A8%E6%A0%BC%E6%AC%84%E4%BD%8D%E5%85%A7%E6%96%87%E5%AD%97%E6%B0%B4%E5%B9%B3%E7%BD%AE%E4%B8%AD%E8%88%87%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD"&gt;HTML 表格欄位內文字水平置中與垂直置中&lt;/a&gt;
+
+
+
+&lt;/section&gt;
+				
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
