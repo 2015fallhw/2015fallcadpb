@@ -265,7 +265,7 @@
 <v t="leo.20151026230425.42" a="E"><vh>@path pelican</vh>
 <v t="leo.20151026230425.43"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151027010855.1"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151026230425.45"><vh>@path content</vh>
+<v t="leo.20151026230425.45" a="E"><vh>@path content</vh>
 <v t="leo.20151026230425.46"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151027011121.1"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="leo.20151027011226.1"><vh>@edit 40323236_cp_w2.md</vh></v>
