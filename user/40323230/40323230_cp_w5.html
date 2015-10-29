@@ -1,0 +1,65 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>電腦輔助設計與實習</h1>
+    <hr>
+    <p>40323230-張元-10/18</p>		
+</section>
+<section id="hw-task-one">
+    <h1>摘要與心得</h1>
+    <p>首次使用Creo軟體繪圖，跟以往的CAD軟體不太一樣。操作上很像Inventor（也許ProE比較貼切，可是我沒用過），檔案也是從屬的樹狀結構，不過結構不同的地方在於「群組的觀念」，陣列的時候必須將從屬物體排除，否則會遇到運算錯誤。而空間的概念也差不多，但是預設軸線方面卻無法使用，必須自行建立暫時工作軸線或公用的軸線，有些繁瑣。</p>
+</section>
+<section id="hw-task-one">
+    <p>至於組合的檔案，操作上和Inventor一模一樣，但是檔案結構卻不一樣。並非使用約束的方式來合併零件，而是以「參考基準」的方式插入物件座標與方向，而且插入的物件似乎無法以副本的形式管理，應用性比較侷限些。</p>
+    <hr>
+    <img src="images/zz.JPG" width="600" alt="3D 零件檢視"></img>
+</section>
+<section id="hw-task-one">
+    <p>使用過後的感想，Creo仍然有諸多不人性之處，例如沒有單一草圖的概念、標註麻煩、快捷鍵很少、分類違和直覺、右鍵選單不盡人意等等，不過在系統上消耗的資源比較少，我想這個軟體總比起使用更簡陋的工具，已經算很萬用了。</p>
+    <hr>
+    <img src="images/ff.JPG" width="600" alt="3D 零件檢視2"></img>
+    <p>參考自 <a href="http://coursemdetw.github.io/creo2primer/">Creo的PDF教學</a>
+</section>
+<section>
+    <h1>自評</h1>
+    <p>此次作業我盡了許多努力，拍攝影片和講解（可惜的是筆電麥克風收音太差），給自己93分。</p>
+    <hr>
+    <a href="https://wordpress-2015course.rhcloud.com/">課程資料</a>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
