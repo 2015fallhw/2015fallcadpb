@@ -36,21 +36,30 @@
 
 &lt;p&gt;筆記&lt;/p&gt;
 
-&lt;p&gt;
-帳戶資料結構：
-path 學號
+&lt;p&gt;帳戶資料結構：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;path 學號
+
     以下為投影片 ------------
+
     clean 投影片
+
     path pelican
+
         以下為設定檔 ------------
+
         edit publishconf.py
+
         path content
+
             以下為網誌 md 檔案 ------------
-            @edit 主頁
-&lt;/p&gt;
+
+            edit 主頁
+&lt;/pre&gt;&lt;/div&gt;
+
 
 &lt;p&gt;publishconf.py更動項目：&lt;/p&gt;
 &lt;p&gt;import os&lt;/p&gt;
-&lt;p&gt;AUTHOR = '學號'
-SITENAME = '2015FALL 學號 科目 作業'
-SITEURL = ''&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;p&gt;AUTHOR = '學號'&lt;/p&gt;
+&lt;p&gt;SITENAME = '2015FALL 學號 科目 作業'&lt;/p&gt;
+&lt;p&gt;SITEURL = ''&lt;/p&gt;
+&lt;hr&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
