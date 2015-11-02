@@ -530,65 +530,6 @@
 </v>
 </v>
 </v>
-<v t="leo.20151102232842.1"><vh>@path 40323248</vh>
-<v t="leo.20151102232842.2"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20151102232842.3"><vh>@clean 40323248_cp_w2.html</vh>
-<v t="leo.20151102232842.4"><vh>檔案說明</vh></v>
-<v t="leo.20151102232842.5" a="E"><vh>html 標註</vh>
-<v t="leo.20151102232842.6" a="E"><vh>body 標註</vh>
-<v t="leo.20151102232842.7" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151102232842.8" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151102232842.9"><vh>標題</vh></v>
-<v t="leo.20151102232842.10"><vh>作業任務一</vh></v>
-<v t="leo.20151102232842.11"><vh>自評</vh></v>
-</v>
-</v>
-<v t="leo.20151102232842.12"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="leo.20151102232842.13"><vh>@clean 40323248_cp_w4.html</vh>
-<v t="leo.20151102232842.14"><vh>檔案說明</vh></v>
-<v t="leo.20151102232842.15" a="E"><vh>html 標註</vh>
-<v t="leo.20151102232842.16" a="E"><vh>body 標註</vh>
-<v t="leo.20151102232842.17" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151102232842.18" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151102232842.19"><vh>標題</vh></v>
-<v t="leo.20151102232842.20"><vh>作業任務一</vh></v>
-<v t="leo.20151102232842.21"><vh>自評</vh></v>
-</v>
-</v>
-<v t="leo.20151102232842.22"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="leo.20151102232842.23"><vh>@clean 40323248_cp_w5.html</vh>
-<v t="leo.20151102232842.24"><vh>檔案說明</vh></v>
-<v t="leo.20151102232842.25" a="E"><vh>html 標註</vh>
-<v t="leo.20151102232842.26" a="E"><vh>body 標註</vh>
-<v t="leo.20151102232842.27" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151102232842.28" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151102232842.29"><vh>標題</vh></v>
-<v t="leo.20151102232842.30"><vh>作業任務一</vh></v>
-<v t="leo.20151102232842.31"><vh>自評</vh></v>
-</v>
-</v>
-<v t="leo.20151102232842.32"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="leo.20151102232842.33"><vh>@path pelican</vh>
-<v t="leo.20151102232842.34"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20151102232842.35"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151102232842.36" a="E"><vh>@path content</vh>
-<v t="leo.20151102232842.37"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151102232842.38"><vh>@edit 2015cpnote1.md</vh></v>
-<v t="leo.20151102232842.39"><vh>@edit 40323248_cp_w2.md</vh></v>
-<v t="leo.20151102232842.40"><vh>@edit 40323248_cp_w4.md</vh></v>
-<v t="leo.20151102232842.41"><vh>@edit 40323248_cp_w5.md</vh></v>
-</v>
-</v>
-</v>
 <v t=".20151029193149.1"><vh>@path 40323230</vh>
 <v t=".20151029193149.2"><vh>以下為投影片 ------------</vh></v>
 <v t=".20151029193149.3"><vh>@clean 40323230_cp_w2.html</vh>
@@ -665,6 +606,65 @@
 <v t=".20151029194021.1"><vh>@edit 40323230_cp_w4.md</vh></v>
 <v t=".20151029194438.1"><vh>@edit 40323230_cp_w5.md</vh></v>
 <v t=".20151029195049.1"><vh>@edit 40323230_cp_w6.md</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151102234450.1"><vh>@path 40323248</vh>
+<v t="leo.20151102234450.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151102234450.3"><vh>@clean 40323248_cp_w2.html</vh>
+<v t="leo.20151102234450.4"><vh>檔案說明</vh></v>
+<v t="leo.20151102234450.5" a="E"><vh>html 標註</vh>
+<v t="leo.20151102234450.6" a="E"><vh>body 標註</vh>
+<v t="leo.20151102234450.7" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151102234450.8" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151102234450.9"><vh>標題</vh></v>
+<v t="leo.20151102234450.10"><vh>作業任務一</vh></v>
+<v t="leo.20151102234450.11"><vh>自評</vh></v>
+</v>
+</v>
+<v t="leo.20151102234450.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151102234450.13"><vh>@clean 40323248_cp_w4.html</vh>
+<v t="leo.20151102234450.14"><vh>檔案說明</vh></v>
+<v t="leo.20151102234450.15" a="E"><vh>html 標註</vh>
+<v t="leo.20151102234450.16" a="E"><vh>body 標註</vh>
+<v t="leo.20151102234450.17" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151102234450.18" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151102234450.19"><vh>標題</vh></v>
+<v t="leo.20151102234450.20"><vh>作業任務一</vh></v>
+<v t="leo.20151102234450.21"><vh>自評</vh></v>
+</v>
+</v>
+<v t="leo.20151102234450.22"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151102234450.23"><vh>@clean 40323248_cp_w5.html</vh>
+<v t="leo.20151102234450.24"><vh>檔案說明</vh></v>
+<v t="leo.20151102234450.25" a="E"><vh>html 標註</vh>
+<v t="leo.20151102234450.26" a="E"><vh>body 標註</vh>
+<v t="leo.20151102234450.27" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151102234450.28" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151102234450.29"><vh>標題</vh></v>
+<v t="leo.20151102234450.30"><vh>作業任務一</vh></v>
+<v t="leo.20151102234450.31"><vh>自評</vh></v>
+</v>
+</v>
+<v t="leo.20151102234450.32"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151102234450.33"><vh>@path pelican</vh>
+<v t="leo.20151102234450.34"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151102234450.35"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151102234450.36" a="E"><vh>@path content</vh>
+<v t="leo.20151102234450.37"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151102234450.38"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20151102234450.39"><vh>@edit 40323248_cp_w2.md</vh></v>
+<v t="leo.20151102234450.40"><vh>@edit 40323248_cp_w4.md</vh></v>
+<v t="leo.20151102234450.41"><vh>@edit 40323248_cp_w5.md</vh></v>
 </v>
 </v>
 </v>
@@ -2958,8 +2958,8 @@ cadpb.txt 檔案內容
 <t tx="leo.20151027190508.5"></t>
 <t tx="leo.20151027190508.7"></t>
 <t tx="leo.20151027190508.8"></t>
-<t tx="leo.20151102232842.1"></t>
-<t tx="leo.20151102232842.10">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151102234450.1"></t>
+<t tx="leo.20151102234450.10">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;第一周:&lt;br&gt;複習git add  git push 操作&lt;br&gt;
     第二周:&lt;br&gt;使用git在github管理個人資料利用Leo Editor 更改 有關於我的作業 ，作業任務，及我的投影片，save後再推至遠端剛開始點開start並沒有Leo&lt;br&gt;要至https://github.com/leo-editor/leo-editor 下載得到目錄之後再把leo檔案傳至Ana3→Lib→site packages 丟start到編輯器修改&lt;br&gt;之後到2015Fall CADP 第2週 下載reveal 在自己github件一個倉儲 建分支 git clone git branch(檢查分支) git checkout gh-pages →git commit -m ""→git push→pip install pelicam Markdown→貼回自己的檔案，推回去，開Leo編輯reveal.leo 改投影片內容&lt;br&gt;完成後存檔 開啟simplest，可以在近端確定自己改的投影片內容，沒問題即在push回去  &lt;/p&gt;
@@ -2967,7 +2967,7 @@ cadpb.txt 檔案內容
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151102232842.11">&lt;section&gt;
+<t tx="leo.20151102234450.11">&lt;section&gt;
     &lt;h2&gt;自評70分&lt;/h2&gt;
     &lt;p&gt;修改作業時，遇到許多狀況，修改許久還是沒有改善問題，經過跟同學們一番討論，才能排除許多問題原因，像是遲遲無法推上去分支，遠端網頁無法顯示之類的，一年級上的python就覺得英文很重要，應該是說不論是課堂上，還是日常生活上，學會第二語言是重要的，還有要完全瞭解整個步驟，如何創分支，如何利用Leo Editor更改架網頁，如何SciTE 文字編輯器, 經由python.properties 設定, 可以在編輯器中執行簡單的 Python 3 程式等等，才能知道自己在做些什麼，不然只是一步錯，步步錯。&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
@@ -2975,7 +2975,7 @@ cadpb.txt 檔案內容
 
 				
 </t>
-<t tx="leo.20151102232842.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151102234450.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -2984,19 +2984,19 @@ cadpb.txt 檔案內容
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151102232842.13">@language xml
+<t tx="leo.20151102234450.13">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151102232842.14">&lt;!--
+<t tx="leo.20151102234450.14">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151102232842.15">&lt;!doctype html&gt;
+<t tx="leo.20151102234450.15">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -3010,21 +3010,21 @@ cadpb.txt 檔案內容
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151102232842.16">&lt;body&gt;
+<t tx="leo.20151102234450.16">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151102232842.17">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151102234450.17">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151102232842.18">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151102234450.18">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151102232842.19">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151102234450.19">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -3033,8 +3033,8 @@ cadpb.txt 檔案內容
 &lt;/section&gt;
 	
     </t>
-<t tx="leo.20151102232842.2"></t>
-<t tx="leo.20151102232842.20">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151102234450.2"></t>
+<t tx="leo.20151102234450.20">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest2→在切換button pelican content之後按 pelican-content 確認執行完畢→練習solvespace.exe 繪圖→練習後畫好截圖→把圖丟進資料夾images→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
@@ -3042,7 +3042,7 @@ cadpb.txt 檔案內容
 
 				
 </t>
-<t tx="leo.20151102232842.21">&lt;section&gt;
+<t tx="leo.20151102234450.21">&lt;section&gt;
     &lt;h2&gt;自評85分&lt;/h2&gt;
     &lt;p&gt;第一次使用solvespace.exe繪圖軟體很不上手，以往的inventor差異極大，經由同學指導，了解大部分的指令步驟，也知道要如何再建一個新的分頁，看了solve space官網的教學步驟  深深認為英文真的非常非常的重要，現在還是無法完整了解，遇到沒見過的單字就卡住，希望我能更深入了解電腦輔助設計!&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
@@ -3051,7 +3051,7 @@ cadpb.txt 檔案內容
         
 				
 </t>
-<t tx="leo.20151102232842.22">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151102234450.22">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -3060,19 +3060,19 @@ cadpb.txt 檔案內容
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151102232842.23">@language xml
+<t tx="leo.20151102234450.23">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151102232842.24">&lt;!--
+<t tx="leo.20151102234450.24">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151102232842.25">&lt;!doctype html&gt;
+<t tx="leo.20151102234450.25">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -3086,21 +3086,21 @@ cadpb.txt 檔案內容
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151102232842.26">&lt;body&gt;
+<t tx="leo.20151102234450.26">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151102232842.27">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151102234450.27">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151102232842.28">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151102234450.28">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151102232842.29">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151102234450.29">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -3109,18 +3109,18 @@ cadpb.txt 檔案內容
 &lt;/section&gt;
 	
     </t>
-<t tx="leo.20151102232842.3">@language xml
+<t tx="leo.20151102234450.3">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151102232842.30">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151102234450.30">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest3→在切換button pelican content之後按 pelican-content 確認執行完畢→練習Creo Parametric 繪製方塊及連接桿→練習時錄製影片→並把影片上傳至vimeo→複製嵌入程式碼→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20151102232842.31">&lt;section&gt;
+<t tx="leo.20151102234450.31">&lt;section&gt;
     &lt;h2&gt;自評80分&lt;/h2&gt;
     &lt;p&gt;上週使用solvespace.exe繪圖軟體很不上手，以往的inventor差異極大，經由同學指導，了解大部分的指令步驟，這週則是使用Creo Parametric 繪製方塊及連接桿 以及熟悉指令，但跟inventor比Creo Parametric的一些操作指令還是有些不便，還有錄製過程影片的時間還要多加把握 &lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
@@ -3129,7 +3129,7 @@ cadpb.txt 檔案內容
         
 				
 </t>
-<t tx="leo.20151102232842.32">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151102234450.32">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -3138,18 +3138,18 @@ cadpb.txt 檔案內容
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151102232842.33"></t>
-<t tx="leo.20151102232842.34"></t>
-<t tx="leo.20151102232842.36"></t>
-<t tx="leo.20151102232842.37"></t>
-<t tx="leo.20151102232842.4">&lt;!--
+<t tx="leo.20151102234450.33"></t>
+<t tx="leo.20151102234450.34"></t>
+<t tx="leo.20151102234450.36"></t>
+<t tx="leo.20151102234450.37"></t>
+<t tx="leo.20151102234450.4">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151102232842.5">&lt;!doctype html&gt;
+<t tx="leo.20151102234450.5">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -3163,21 +3163,21 @@ cadpb.txt 檔案內容
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151102232842.6">&lt;body&gt;
+<t tx="leo.20151102234450.6">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151102232842.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151102234450.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151102232842.8">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151102234450.8">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151102232842.9">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151102234450.9">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
