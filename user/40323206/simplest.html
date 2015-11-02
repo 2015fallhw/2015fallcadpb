@@ -1,0 +1,89 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>四設計二乙</h2>
+    <p>40323206 黃婉菁</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h2>上課筆記</h2>
+    <br>
+     <p align="left">1. git  clone 網址  ( Github個人帳號網址)</p>
+    <br>
+     <p align="left">2. cd  資料夾名稱 ( cd - 進入資料夾)</p>
+    <br>
+     <p align="left">3. git  config  user.name  "名字" </p>
+     <p align="left">git  config  user.name    信箱  </p>
+     <p align="left">有--global表示之後都默認</p>
+    <br>
+     <p align="left">4. git  add 檔名 (檔案在近端展開)</p>
+    <br>
+     <p align="left">5. git  commit  -m  "檔案註解" </p>
+</section>
+				
+<section id="hw-task-two">
+     <p align="left">6. git  remote  -v ( V - View )</p>
+    <br>
+     <p align="left">7. git push origin 分支名稱 (有分支的話 --> 需指定分支) , 之後輸入帳號密碼</p>
+    <br>
+     <p align="left">8.  git branch 查看分支</p>
+    <br>
+     <p align="left">9. git branch gh-pages ( 建立分支 , 名稱為 gh-pages
+     ) </p>
+    <br>
+     <p align="left">10. git checkout gh-pages ( 切換分支 )
+    </p>
+    <br>
+     <p align="left">11. git add -A ( 將所有檔案展開 : A = All )</p>
+</section>
+				
+<section>
+    <h2>心得</h2>
+    <br>
+    <p>這次的作業跟大一所學的Github有所連結，所以省去了不少麻煩，但是軟體上的更新容量太大，所以在從學校電腦取得時不太方便，我有試著先壓縮再拉進隨身碟，可是電腦卻跑出錯誤，上傳到雲端再下載，時間又不夠，結果反而軟體才是最大的阻礙...有點本末倒置，後來還是靠同學協助才完成，再來就是將近端推送到遠端還不是很熟練，還需再加強。</p>
+
+</section>
+				
+<section>
+    <h2>自評分數</h2>
+    <br>
+    <p>這次學習的內容雖有了解，但在實做方面並不完美，自評分數80</p>
+
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

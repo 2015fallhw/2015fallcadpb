@@ -1,0 +1,72 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>四設計二乙</h2>
+    <p>40323206 黃婉菁</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h2>作業執行過程</h2>
+    <br>
+     <p align="left">1. 到上課網頁2015Fall CADPB 第4週</p>
+    <br>
+     <p align="left">2. 第三個選項Solvespace 基本操作</p>
+    <br>
+     <p align="left">3. 資料夾 Ana3_2015→data→apps 有solespace的軟體可直接使用 </p>
+     <p align="left">4.solespace基本介紹  </p>
+     <p align="left">a.右手邊的工具欄分成四部分，主要會用到的是上面兩個</p>
+     <p align="left">b.第一部分是形狀的繪製 (2D)</p>
+     <p align="left">c.第二部分是線條的定義 </p>
+       <p align="left">d.第三部分左上角的符號是長料、除料；右上角則是產生一個新的基準面</p>
+</section>
+				
+<section>
+    <h2>心得</h2>
+    <br>
+    <p>第四週的作業主要是要使用solespace畫出操作說明示範的立體圖，接著比照第二週的作業用Leo編輯上課筆記、心得、自評，產生遠端網頁並上傳Github，所以我把這次學習的重點放在solespace的使用上，由於不是製圖科出生，接觸過的立體繪圖軟體只有Solidwork，所以照著網路上的操作說明進行繪圖時除了要克服英文上的閱讀問題，還有繪圖上的反應能力偏弱，前後花了約3小時在完成繪製的部分，了解後發現solespace的使用並不困難，只是面對英文面板多少卻步，實際操作並不複雜，檔案儲存的種類也不少，算是自學也容易上手的軟體，我也google了網路上的其他教學，內容都非常完善，是會讓人願意繼續使用的軟體。</p>
+
+</section>
+				
+<section>
+    <h2>自評分數</h2>
+    <br>
+    <p>對於這次從作業中學習到的東西，覺得還可以再更完整，但過程還算滿意，對於軟體的使用及指令也都有用心去記，不過因之前的怠惰遲交作業這點，覺得學習態度還須改善，自評分數80分。</p>
+
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
