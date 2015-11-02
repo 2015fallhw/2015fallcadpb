@@ -56,7 +56,7 @@
 </v>
 <v t="amd.20151021114454.1" a="E"><vh>@path user</vh>
 <v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
-<v t="amd.20151021114504.1" a="E"><vh>@path 9999</vh>
+<v t="amd.20151021114504.1"><vh>@path 9999</vh>
 <v t="amd.20151021213523.1"><vh>以下為投影片 ------------</vh></v>
 <v t="amd.20151021114639.1"><vh>@edit 9999_cp_w1_p.html</vh></v>
 <v t="amd.20151021114516.1"><vh>@path pelican</vh>
@@ -144,7 +144,7 @@
 </v>
 </v>
 </v>
-<v t="40323214.20151027152715.1" a="E"><vh>@path 40323218</vh>
+<v t="40323214.20151027152715.1"><vh>@path 40323218</vh>
 <v t="40323214.20151027152715.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323214.20151027152715.3"><vh>@clean 40323218_cp_w2.html</vh>
 <v t="40323214.20151027152715.4"><vh>檔案說明</vh></v>
@@ -205,10 +205,10 @@
 </v>
 </v>
 </v>
-<v t="40323214.20151027152715.42" a="E"><vh>@path pelican</vh>
+<v t="40323214.20151027152715.42"><vh>@path pelican</vh>
 <v t="40323214.20151027152715.43"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323214.20151027152715.44"><vh>@edit publishconf.py</vh></v>
-<v t="40323214.20151027152715.45" a="E"><vh>@path content</vh>
+<v t="40323214.20151027152715.45"><vh>@path content</vh>
 <v t="40323214.20151027152715.46"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="40323214.20151027152715.47"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="40323214.20151027152715.48"><vh>@edit 40323218_cp_w2.md</vh></v>
@@ -338,9 +338,9 @@
 </v>
 <v t="40323250.20151026181302.1"><vh>@path 40323250</vh>
 <v t="40323250.20151026181302.2"><vh>以下為投影片 ------------</vh></v>
-<v t="40323250.20151026181431.1" a="E"><vh>@clean 40323250_cp_w2.html</vh>
+<v t="40323250.20151026181431.1"><vh>@clean 40323250_cp_w2.html</vh>
 <v t="40323250.20151026181431.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151026181431.3" a="E"><vh>html 標註</vh>
+<v t="40323250.20151026181431.3"><vh>html 標註</vh>
 <v t="40323250.20151026181431.4" a="E"><vh>body 標註</vh>
 <v t="40323250.20151026181431.5" a="E"><vh>div class="reveal"</vh>
 <v t="40323250.20151026181431.6" a="E"><vh>div class="slides"</vh>
@@ -448,6 +448,67 @@
 <v t="40323250.20151026181543.1"><vh>@edit 40323250_cp_w5.md</vh></v>
 <v t="40323250.20151026181546.1"><vh>@edit 40323250_cp_w6.md</vh></v>
 <v t="40323250.20151026181540.1"><vh>@edit 40323250_cp_w7.md</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151102100535.1" a="E"><vh>@path 40323204</vh>
+<v t="leo.20151102100535.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151102101409.1"><vh>@clean simplest.html</vh>
+<v t="leo.20151102101409.2"><vh>檔案說明</vh></v>
+<v t="leo.20151102101409.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151102101409.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151102101409.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151102101409.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151102101409.7"><vh>封面</vh></v>
+<v t="leo.20151102101409.8"><vh>第一頁</vh></v>
+<v t="leo.20151102101409.9"><vh>第二頁</vh></v>
+</v>
+</v>
+<v t="leo.20151102101409.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151102101529.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151102101529.2"><vh>檔案說明</vh></v>
+<v t="leo.20151102101529.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151102101529.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151102101529.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151102101529.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151102101529.7"><vh>封面</vh></v>
+<v t="leo.20151102101529.8"><vh>第一頁</vh></v>
+<v t="leo.20151102101529.9"><vh>第二頁</vh></v>
+<v t="leo.20151102101529.10"><vh>第三頁</vh></v>
+</v>
+</v>
+<v t="leo.20151102101529.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151102101545.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151102101545.2"><vh>檔案說明</vh></v>
+<v t="leo.20151102101545.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151102101545.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151102101545.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151102101545.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151102101545.7"><vh>封面</vh></v>
+<v t="leo.20151102101545.8"><vh>第一頁</vh></v>
+<v t="leo.20151102101545.9"><vh>第二頁</vh></v>
+<v t="leo.20151102101545.10"><vh>第三頁</vh></v>
+</v>
+</v>
+<v t="leo.20151102101545.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151102100535.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151102100535.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151102100535.6"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151102100535.7" a="E"><vh>@path content</vh>
+<v t="leo.20151102100535.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151102101003.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151102101749.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="leo.20151102101757.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151102100535.10"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
 </v>
@@ -2834,5 +2895,250 @@ cadpb.txt 檔案內容
 <t tx="leo.20151027190508.5"></t>
 <t tx="leo.20151027190508.7"></t>
 <t tx="leo.20151027190508.8"></t>
+<t tx="leo.20151102100535.1"></t>
+<t tx="leo.20151102100535.2"></t>
+<t tx="leo.20151102100535.4"></t>
+<t tx="leo.20151102100535.5"></t>
+<t tx="leo.20151102100535.7"></t>
+<t tx="leo.20151102100535.8"></t>
+<t tx="leo.20151102101409.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151102101409.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151102101409.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151102101409.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151102101409.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151102101409.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151102101409.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151102101409.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323204 &lt;/p&gt;
+    &lt;p&gt; 張筱萱  &lt;/p&gt;
+    &lt;p&gt; 9/29&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151102101409.8">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;利用git branch和git checkout做出倉儲分支，並在分支中的檔案進行更改後回傳，更改leo檔中的投影片區塊(有關我的任務、作業任務一、第三張投影片)，改完後確認近端網頁中的投影片是否有更新，接下來git commit -m "40323204"再來git push origin gh-pages(倉儲分支名稱)推回遠端，若push成功後網頁沒有東西要用指令pip install pelican Markdown下載模組&lt;/p&gt;
+    &lt;p&gt;參考 &lt;a href="https://kingofamani.gitbooks.io/git-teach/content/chapter_3_branch/git.html"&gt;github 分支教學&lt;/a&gt;
+    &lt;/section&gt;</t>
+<t tx="leo.20151102101409.9">&lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;成績自評分數78分&lt;/h3&gt;
+    &lt;p&gt;一開始我就從參考網址中學會了怎麼建構分支但是關於檔案怎麼傳回分支中是等老師講了才知道的，檔案改完之後發現網頁中的內容無法顯示，才發現是沒有下載模組，多虧同學的幫忙才成功更新頁，還是不太了解遠端的資料是怎麼運作的。
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151102101529.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151102101529.10">&lt;section id="hw-task-two"&gt;
+    &lt;h3&gt;成績自評分數72分&lt;/h3&gt;
+    &lt;p&gt;這次作業因為完全不了解所以遲交，自己努力了解後畫出圖，但是不知道如何讓它與第一次的作業結合，對於軟體的工具使用方法還需要多了解，不知道為什麼leo檔裡面有Jupyter的連結，但我的網頁卻沒有顯示，關於這點我還需要問同學，給自己72分是因為遲交，但我自己努力做出來了。&lt;/p&gt; 
+    &lt;/section&gt;
+				
+</t>
+<t tx="leo.20151102101529.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151102101529.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151102101529.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151102101529.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151102101529.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151102101529.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151102101529.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323204 &lt;/p&gt;
+    &lt;p&gt; 張筱萱 &lt;/p&gt;
+    &lt;p&gt;  9/28&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151102101529.8">&lt;section id="hw-task-two"&gt;
+    &lt;h3&gt;作業內容&lt;/h3&gt;
+    &lt;p&gt;利用solvespace軟體繪出有角度和肋的L型支架，並說明流程和方法， 如圖&lt;/p&gt;
+    
+    &lt;img src="https://copy.com/e7snUmz1fauAhmoL" width="200" height="200" alt="成品圖"&gt;&lt;/img&gt;
+
+    &lt;p&gt;參考:&lt;a href="http://solvespace.com/bracket.pl"&gt;TUTORIAL: DRAWING AN ANGLE BRACKET教學&lt;/a&gt;
+    &lt;/section&gt;</t>
+<t tx="leo.20151102101529.9">&lt;section id="hw-task-two"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;1.X軸又稱為R，顏色為紅色&lt;/p&gt;
+    &lt;p&gt; 2.Y軸又稱為G，顏色為綠色&lt;/p&gt; 
+    &lt;p&gt;3.Z軸又稱為B，顏色為藍色&lt;/p&gt; 
+    &lt;p&gt;4.要畫相切圓就點兩條欲與圓相切的線，在按左邊工具列的T就好&lt;/p&gt; 
+    &lt;/section&gt;</t>
+<t tx="leo.20151102101545.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151102101545.10">&lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;成績自評分數76分&lt;/h3&gt;
+    &lt;p&gt;這次有點遲交了，關於Creo自己畫過之後覺得跟其他繪圖軟體差不多，沒有很難，這次不只研究了Creo，對於網頁的寫法也研究了不少，改了文字的顏色等等....，成功改了之後覺得很新奇而且開心，對於我沒碰過的東西多了這麼多知識，覺得這堂課真是獲益良多。
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151102101545.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151102101545.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151102101545.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151102101545.4">&lt;body bgcolor="green"&gt;
+&lt;/body&gt;
+</t>
+<t tx="leo.20151102101545.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151102101545.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151102101545.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;body bgcolor="green"&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323204 &lt;/p&gt;
+    &lt;p&gt; 張筱萱  &lt;/p&gt;
+    &lt;p&gt; 10/26&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151102101545.8">&lt;section id="hw-task-one"&gt;
+   &lt;h3&gt;作業內容&lt;/h3&gt;
+      &lt;p&gt;利用Creo軟體繪出方塊即連桿組合成的物件，並說明流程和方法， 如圖&lt;/p&gt;
+    
+    &lt;img src="https://copy.com/cVpabI3A7wSM9fjv" width="200" height="150" alt="成品圖"&gt;&lt;/img&gt;
+
+    &lt;p&gt;參考:&lt;a href="https://www.copy.com/s/t%3A97ZkQ0UqfVUPTxn8%3Bp%3A%252FCollege_Student_Primer_Creo_2.pdf%3Boid%3A84"&gt;Creo Parametric 最基本的零件繪製&lt;/a&gt;
+    &lt;/section&gt;</t>
+<t tx="leo.20151102101545.9">&lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;筆記&lt;/h3&gt;
+        &lt;p&gt;1.Tab→標籤&lt;/p&gt;
+        &lt;p&gt;2.dashboard→儀錶板&lt;/p&gt; 
+        &lt;p&gt;3.feature→認證&lt;/p&gt; 
+        &lt;p&gt;4.dragged→拖曳&lt;/p&gt; 
+        &lt;p&gt;5.creo parametric→較原始的模組，有參數的約束，早期變化性不大，有繪圖的歷程&lt;/p&gt; 
+         &lt;p&gt;6.creo direct→直接建模&lt;/p&gt; 
+         &lt;p&gt;7.creo simulate→模擬&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
 </tnodes>
 </leo_file>
