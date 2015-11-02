@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/40323218.atom.xml" rel="self"></link><id>/</id><updated>2015-10-24T10:56:00+00:00</updated><entry><title>2015 計算機程式 第六週作業</title><link href="/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-10-24T10:56:00+00:00</updated><author><name>40323218</name></author><id>tag:,2015-10-24:2015cp_hw_w6.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="40323218_cp_w6_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;[第六週作業投影片]
+(40323218_cp_w6_p.html){:target="_blank"}&lt;/p&gt;
+&lt;hr/&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第五週作業</title><link href="/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-19T11:41:00+00:00</updated><author><name>40323218</name></author><id>tag:,2015-10-19:2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="40323218_cp_w5_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;[第五週作業投影片]
+(40323218_cp_w5_p.html){:target="_blank"}&lt;/p&gt;
+&lt;p&gt;&lt;hr/&gt;
+&lt;iframe src="https://player.vimeo.com/video/142799794" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/142799794"&gt;作業3&lt;/a&gt; from &lt;a href="https://vimeo.com/user44943624"&gt;Li Steven&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第四週作業</title><link href="/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-11T11:41:00+00:00</updated><author><name>40323218</name></author><id>tag:,2015-10-11:2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="40323218_cp_w4_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;[第四週作業投影片]
+(40323218_cp_w4_p.html){:target="_blank"}&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第二週作業</title><link href="/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-19T11:41:00+00:00</updated><author><name>40323218</name></author><id>tag:,2015-09-19:2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="40323218_cp_w2_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40323218_cp_w2_p.html" target="_blank"&gt;第二週作業投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
