@@ -26,17 +26,16 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
-<v t="amd.20151030003958.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="40323250.20151102200201.1"><vh>@edit 2015cphww7.md</vh></v>
 <v t="amd.20151030003041.1"><vh>@edit 2015cphww7-1.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1"><vh>html 標註</vh>
+<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4"><vh>body 標註</vh>
 <v t="amd.20150915211351.5"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6"><vh>div class="slides"</vh>
