@@ -1,0 +1,103 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>電腦輔助設計與實習</h2>
+    <h3>40323253-劉瑜俊-09/24</h3>	
+</section>
+	
+<section id="hw-task-one">
+    <h3>筆記</h3>
+    <p>內部IP v.s. 外部IP</p>
+    
+    <p>內部:外部不可連結</p>
+    <p>外部:任何地方皆可連結</p>
+    
+    <p>git clone v.s. downlood</p>
+    <p>git clone 有 .git (版本資料)</p>
+    <p>downlood 無 .git</p></a>
+</section>
+
+<section id="hw-task-one">
+   
+    <h3>筆記</h3>
+    <p>batch→bat→P次檔</p>
+    <p>建立分支 : git branch (分支名稱)</p>
+    <p>查看分支 : git branch</p>
+    <p>切換分支 : git checkout (切換分支名稱)</p>
+    <p>上傳 : git push origin (指定上傳分支)</p>
+    <p>上課網站 : <a href="https://wordpress-2015course.rhcloud.com/?m=20150914">2015計算機程式
+    
+    </a></section>
+				
+<section id="hw-task-one">
+   
+    <h3>重點摘要</h3>
+     <p>資料 : <a href="http://backlogtool.com/git-guide/tw/intro/intro1_1.html">連猴子都能懂得Git入門指南
+     <p><a href="https://leoeditor-coursemdetw.rhcloud.com/get_page?heading=Leo%20Editor%20Tutorial">Leo Editor Tutorial
+     <p><a href="http://www.sciencedirect.com/science/article/pii/B9780815514473500029">What Engineers do?
+    </a></section>
+				
+<section id="hw-task-one">
+   
+    <h3>連猴子都能懂得Git入門指南</h3>
+     <p>Git為分散式版本控制系統，是為了更好管理Linux內核而開發的。</p>
+     <p>Git的數據庫分為遠端數據庫和本地端數據庫。</p>
+     <p>如果遠端數據庫中有其他人的修改歷史，那麼把它完整地複製下來，就可以接著進行工作了。</p>
+     <p>若上次的push到執行下一次的push的期間，有其他人push更新了遠端數據庫，而你沒有更新你的本地端數據庫，那麼你的push會被拒絕。</p>
+     <p>如果遠端數據庫和本地端數據庫的同一個地方都發生了修改的情況下，因為Git不能自動判斷要導入那一個修改內容於是就會發生錯誤。</p>
+     <p>發生衝突的地方，Git會修改檔案的內容，所以衝突的地方需要手動修改。</p>
+    </a></section>
+<section id="hw-task-one">
+   
+    <h3>Leo Editor Tutorial</h3>
+    <p>Leo 編輯器是一個功能特殊的軟體套件，不僅能作為集思廣益用的大綱編輯，程式編輯架構器，電子書編輯器，也是絕佳的網站管理套件。</p>
+    <p>Leo 編輯器畫面包含:
+ 大綱區(專案的大綱內容)、內文區(與大綱對應的內文)、紀錄區(顯示執行結果之紀錄)、緩衝指令區(直接下特殊執行指令用)、執行狀態區(顯示執行狀態)、圖標指令區(以按鍵或圖像顯示可執行指令)。</p>
+    <p>使用者若希望充分發揮 Leo 編輯器的所有功能， 仍然必須對 Python 程式語法有一定程度的了解,，幾乎所有 Leo 編輯器的操作都在執行 Python 程式，因此推廣 Leo 編輯器另外一個附加功能就是可以讓更多人了解 Python 程式語言的特性，進而透過 Python 語言高度的黏合性整合更多優秀的程式管理典範。</p>
+    
+    </a></section>
+				
+<section>
+    <h2>心得與評分</h2>
+    <p>大二的第一份作業，做了好幾次才成功，萬事起頭難，因為一開始找不到作業的方向，根本摸不著頭緒，如果沒有面對失敗的勇氣，就很難一直試下去，上傳成功後，覺得前面的堅持都值得了。面對英文還有程式，我的能力還不足夠，希望能朝這個目標繼續努力學習下去。
+    
+    <h2>評分 : 86分</h2>
+    
+    </a></section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

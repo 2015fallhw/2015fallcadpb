@@ -1,0 +1,116 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>電腦輔助設計與實習</h2>
+    <h3>40323253-劉瑜俊-11/02</h3>	
+</section>
+	
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>第一、二週</h2>
+    <h3>日期 : 09/14~09/27</h3>	
+</section>
+	
+<section id="hw-task-one">
+    <h3>筆記</h3>
+    <p>內部IP v.s. 外部IP</p>
+    <p>內部:外部不可連結</p>
+    <p>外部:任何地方皆可連結</p>
+    <p>git clone v.s. downlood</p>
+    <p>git clone 有 .git (版本資料)</p>
+    <p>downlood 無 .git</p></a>
+</section>
+<section id="hw-task-one">
+   
+    <h3>筆記</h3>
+    <p>batch→bat→P次檔</p>
+    <p>建立分支 : git branch (分支名稱)</p>
+    <p>查看分支 : git branch</p>
+    <p>切換分支 : git checkout (切換分支名稱)</p>
+    <p>上傳 : git push origin (指定上傳分支)</p>
+    <p>上課網站 : <a href="https://wordpress-2015course.rhcloud.com/?m=20150914">2015計算機程式
+    
+    </a></section>
+				
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>第四週</h2>
+    <h3>日期 : 10/05~10/11</h3>	
+</section>
+	
+  <section id="hw-task-one">
+<p>繪製過程 : https://player.vimeo.com/video/144323697 </p>
+    </a></section>
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>第五週</h2>
+    <h3>日期 : 10/12~10/18</h3>	
+</section>
+	
+<section id="hw-task-one">
+    <h3>筆記</h3>
+    <p>1.選擇繪製平面後，決定引伸或旋轉</p>
+    <p>2.欲標註限制尺寸，長按右鍵選取功能</p>
+    <p>3.選擇旋轉軸之後，點取該軸兩端</p>
+    <p>4.欲讓零件全部上色 ，點取模型樹檔名.PRT在著色</p>
+    <p>5.組裝時可把零件先拉至欲組裝孔之附近，較好選取及組裝</p>
+    <p></p>
+    </a></section>
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>第八週期中報告</h2>
+    <h3>日期 : 11/02~11/08</h3>	
+</section>
+	
+<section>
+    <h2>心得與評分</h2>
+    <p>期中前的課程已經結束,這八週裡我學會了兩個繪圖程式的基本操作,還有使用全班倉儲推送作業,手冊的英文很多,推送作業的流程很繁雜,不過我努力尋找解答,希望自己在下半學期能夠學習到更多東西。</p>
+    
+    <h2>評分 : 80分</h2>
+    
+    </a></section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
