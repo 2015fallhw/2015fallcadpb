@@ -1,0 +1,67 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>電腦輔助設計與實習</h2>
+    <p>四設計二乙</p>	
+    <p>40323255 鄭智文</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h2>Creo Parametric操作流程(1)</h2>
+    <p>我們第一個零件，是一個邊長都是30mm的正立方體，並且在六面的中間都給它去除直徑8mm的孔，在給邊長做圓角半徑5mm，再給孔一個導角0.5mmX0.5mm。</p>
+    
+</section>
+<section id="hw-task-one">
+    <h2>Creo Parametric操作流程(2)</h2>
+    <p>我們先按下引伸，在前視圖建立草圖；在creo這套軟體，我們在繪製草圖我們必須先給草圖參照線，它才能定義在我們要的地方；在給草圖水平以及垂直的中心線，這樣等等畫矩形才能給它定義尺寸，給它一個矩形30mmX30mm，尺寸給好後按確認，給它深長30mm。</p>
+    
+</section>
+				
+<section id="hw-task-one">
+    <h2>Creo Parametric操作流程(3)</h2>
+    <p>在一次做引伸，不過這次是引伸除料，再矩形中心畫直徑8mm的圓孔，選擇貫穿除料，同樣的動作在其他面進行，完成後，就會有六個圓孔；在選擇導圓角，尺寸5mm在每個邊線進行，最後要在圓孔上進行導角，尺寸為0.5mmX0.5mm，第一個零件就完成了。</p>
+</section>
+				
+<section>
+    <h2>心得及自評分數</h2>
+    <p>剛接觸Creo，對於它的界面有點不熟悉，因為我平常都是使用SoildWorks，但是視角的觀念、畫圖的觀念，基本上都是一樣的，所以在畫一段時間，一定可以使用Creo畫出其他的東西的。 </p>
+    <p>自評分數：80 </p>
+
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
