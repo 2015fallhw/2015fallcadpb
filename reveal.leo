@@ -144,65 +144,6 @@
 </v>
 </v>
 </v>
-<v t="40323217.20151105180933.1"><vh>@path 40323217</vh>
-<v t="40323217.20151105180933.2"><vh>以下為投影片 ------------</vh></v>
-<v t="40323217.20151105181645.1"><vh>@clean 40323217_cp_w2.html</vh>
-<v t="40323217.20151105181645.2"><vh>檔案說明</vh></v>
-<v t="40323217.20151105181645.3" a="E"><vh>html 標註</vh>
-<v t="40323217.20151105181645.4" a="E"><vh>body 標註</vh>
-<v t="40323217.20151105181645.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323217.20151105181645.6" a="E"><vh>div class="slides"</vh>
-<v t="40323217.20151105181645.7"><vh>有關我的作業</vh></v>
-<v t="40323217.20151105181645.8"><vh>作業任務一</vh></v>
-<v t="40323217.20151105181645.9"><vh>第3張投影片</vh></v>
-</v>
-</v>
-<v t="40323217.20151105181645.10"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="40323217.20151105181443.1"><vh>@clean 40323217_cp_w4.html</vh>
-<v t="40323217.20151105181443.2"><vh>檔案說明</vh></v>
-<v t="40323217.20151105181443.3" a="E"><vh>html 標註</vh>
-<v t="40323217.20151105181443.4" a="E"><vh>body 標註</vh>
-<v t="40323217.20151105181443.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323217.20151105181443.6" a="E"><vh>div class="slides"</vh>
-<v t="40323217.20151105181443.7"><vh>有關我的作業</vh></v>
-<v t="40323217.20151105181443.8"><vh>作業任務一</vh></v>
-<v t="40323217.20151105181443.9"><vh>第3張投影片</vh></v>
-</v>
-</v>
-<v t="40323217.20151105181443.10"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="40323217.20151105181537.1"><vh>@clean 40323217_cp_w5-6.html</vh>
-<v t="40323217.20151105181537.2"><vh>檔案說明</vh></v>
-<v t="40323217.20151105181537.3" a="E"><vh>html 標註</vh>
-<v t="40323217.20151105181537.4" a="E"><vh>body 標註</vh>
-<v t="40323217.20151105181537.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323217.20151105181537.6" a="E"><vh>div class="slides"</vh>
-<v t="40323217.20151105181537.7"><vh>有關我的作業</vh></v>
-<v t="40323217.20151105181537.8"><vh>作業任務一</vh></v>
-<v t="40323217.20151105181537.9"><vh>第3張投影片</vh></v>
-</v>
-</v>
-<v t="40323217.20151105181537.10"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="40323217.20151105180933.4" a="E"><vh>@path pelican</vh>
-<v t="40323217.20151105180933.5"><vh>以下為設定檔 ------------</vh></v>
-<v t="40323217.20151105180933.6"><vh>@edit publishconf.py</vh></v>
-<v t="40323217.20151105180933.7" a="E"><vh>@path content</vh>
-<v t="40323217.20151105180933.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="40323217.20151105200946.1"><vh>@edit 2015cpnote1.md</vh></v>
-<v t="40323217.20151105200901.1"><vh>@edit 40323217_cp_w2.md</vh></v>
-<v t="40323217.20151105201054.1"><vh>@edit 40323217_cp_w4.md</vh></v>
-<v t="40323217.20151105201101.1"><vh>@edit 40323217_cp_w5-6.md</vh></v>
-</v>
-</v>
-</v>
 <v t="40323253.20151104013106.1"><vh>@path 40323253</vh>
 <v t="40323253.20151104013106.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323253.20151104013106.3"><vh>@clean 40323253_cp_w1~2.html</vh>
@@ -676,7 +617,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151026181302.1" a="E"><vh>@path 40323250</vh>
+<v t="40323250.20151026181302.1"><vh>@path 40323250</vh>
 <v t="40323250.20151026181302.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323250.20151026181431.1"><vh>@clean 40323250_cp_w2.html</vh>
 <v t="40323250.20151026181431.2"><vh>檔案說明</vh></v>
@@ -699,7 +640,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151026181451.1" a="E"><vh>@clean 40323250_cp_w4.html</vh>
+<v t="40323250.20151026181451.1"><vh>@clean 40323250_cp_w4.html</vh>
 <v t="40323250.20151026181451.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151026181451.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151026181451.4" a="E"><vh>body 標註</vh>
@@ -777,10 +718,10 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151026181302.4" a="E"><vh>@path pelican</vh>
+<v t="40323250.20151026181302.4"><vh>@path pelican</vh>
 <v t="40323250.20151026181302.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323250.20151026181302.6"><vh>@edit publishconf.py</vh></v>
-<v t="40323250.20151026181302.7" a="E"><vh>@path content</vh>
+<v t="40323250.20151026181302.7"><vh>@path content</vh>
 <v t="40323250.20151026181302.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="40323250.20151026183616.1"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="40323250.20151026181302.9"><vh>@edit 40323250_cp_w2.md</vh></v>
@@ -941,6 +882,331 @@
 <v t="leo.20151102234450.39"><vh>@edit 40323248_cp_w2.md</vh></v>
 <v t="leo.20151102234450.40"><vh>@edit 40323248_cp_w4.md</vh></v>
 <v t="leo.20151102234450.41"><vh>@edit 40323248_cp_w5.md</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205533.1"><vh>@path 40323231</vh>
+<v t="40323217.20151105205533.2"><vh>以下為投影片 ------------</vh></v>
+<v t="40323217.20151105205533.3"><vh>@clean simplest.html</vh>
+<v t="40323217.20151105205533.4"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205533.5" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205533.6" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205533.7" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205533.8" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205533.9"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205533.10"><vh>作業任務一</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205533.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205533.12"><vh>@clean simplest2.html</vh>
+<v t="40323217.20151105205533.13"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205533.14" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205533.15" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205533.16" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205533.17" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205533.18"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205533.19"><vh>作業任務一</vh></v>
+<v t="40323217.20151105205533.20"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205533.21"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205533.22"><vh>@clean simplest3.html</vh>
+<v t="40323217.20151105205533.23"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205533.24" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205533.25" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205533.26" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205533.27" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205533.28"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205533.29"><vh>作業任務一</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205533.30"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205533.31"><vh>@clean simplest4.html</vh>
+<v t="40323217.20151105205533.32"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205533.33" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205533.34" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205533.35" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205533.36" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205533.37"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205533.38"><vh>作業任務一</vh></v>
+<v t="40323217.20151105205533.39"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205533.40"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205533.41" a="E"><vh>@clean simplest5.html</vh>
+<v t="40323217.20151105205533.42"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205533.43" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205533.44" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205533.45" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205533.46" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205533.47"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205533.48"><vh>作業任務一</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205533.49"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205533.50" a="E"><vh>@path pelican</vh>
+<v t="40323217.20151105205533.51"><vh>以下為設定檔 ------------</vh></v>
+<v t="40323217.20151105205533.52"><vh>@edit publishconf.py</vh></v>
+<v t="40323217.20151105205533.53" a="E"><vh>@path content</vh>
+<v t="40323217.20151105205533.54"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="40323217.20151105205533.55"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="40323217.20151105205533.56"><vh>@edit 2015cphww2.md</vh></v>
+<v t="40323217.20151105205533.57"><vh>@edit 2015cphww4.md</vh></v>
+<v t="40323217.20151105205533.58"><vh>@edit 2015cphww5.md</vh></v>
+<v t="40323217.20151105205533.59"><vh>@edit 2015cphww6.md</vh></v>
+<v t="40323217.20151105205533.60"><vh>@edit 2015cphww7.md</vh></v>
+<v t="40323217.20151105205533.61"><vh>@edit 2015cphww8.md</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205541.1"><vh>@path 40323203</vh>
+<v t="40323217.20151105205541.2"><vh>以下為投影片 ------------</vh></v>
+<v t="40323217.20151105205541.3"><vh>@clean simplest.html</vh>
+<v t="40323217.20151105205541.4"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205541.5" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205541.6" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205541.7" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205541.8" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205541.9"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205541.10"><vh>作業任務一</vh></v>
+<v t="40323217.20151105205541.11"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205541.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205541.13"><vh>@clean simplest2.html</vh>
+<v t="40323217.20151105205541.14"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205541.15" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205541.16" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205541.17" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205541.18" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205541.19"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205541.20"><vh>作業任務一</vh></v>
+<v t="40323217.20151105205541.21"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205541.22"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205541.23"><vh>@clean simplest3.html</vh>
+<v t="40323217.20151105205541.24"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205541.25" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205541.26" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205541.27" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205541.28" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205541.29"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205541.30"><vh>作業任務一</vh></v>
+<v t="40323217.20151105205541.31"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205541.32"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205541.33" a="E"><vh>@path pelican</vh>
+<v t="40323217.20151105205541.34"><vh>以下為設定檔 ------------</vh></v>
+<v t="40323217.20151105205541.35"><vh>@edit publishconf.py</vh></v>
+<v t="40323217.20151105205541.36" a="E"><vh>@path content</vh>
+<v t="40323217.20151105205541.37"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="40323217.20151105205541.38"><vh>@edit 2015cphww1.md</vh></v>
+<v t="40323217.20151105205541.39"><vh>@edit 2015cphww4.md</vh></v>
+<v t="40323217.20151105205541.40"><vh>@edit 2015cphww5.md</vh></v>
+<v t="40323217.20151105205541.41"><vh>@edit 2015cpnote1.md</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205547.1"><vh>@path 40323207</vh>
+<v t="40323217.20151105205547.2"><vh>以下為投影片 ------------</vh></v>
+<v t="40323217.20151105205547.3"><vh>@clean simplest.html</vh>
+<v t="40323217.20151105205547.4"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205547.5" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205547.6" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205547.7" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205547.8" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205547.9"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205547.10"><vh>作業任務一</vh></v>
+<v t="40323217.20151105205547.11"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205547.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205547.13"><vh>@clean simplest2.html</vh>
+<v t="40323217.20151105205547.14"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205547.15" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205547.16" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205547.17" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205547.18" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205547.19"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205547.20"><vh>作業任務一</vh></v>
+<v t="40323217.20151105205547.21"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205547.22"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205547.23"><vh>@clean simplest3.html</vh>
+<v t="40323217.20151105205547.24"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205547.25" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205547.26" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205547.27" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205547.28" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205547.29"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205547.30"><vh>作業任務一</vh></v>
+<v t="40323217.20151105205547.31"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205547.32"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205547.33"><vh>@path pelican</vh>
+<v t="40323217.20151105205547.34"><vh>以下為設定檔 ------------</vh></v>
+<v t="40323217.20151105205547.35"><vh>@edit publishconf.py</vh></v>
+<v t="40323217.20151105205547.36" a="E"><vh>@path content</vh>
+<v t="40323217.20151105205547.37"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="40323217.20151105205547.38"><vh>@edit 2015cphww1.md</vh></v>
+<v t="40323217.20151105205547.39"><vh>@edit 2015cphww4.md</vh></v>
+<v t="40323217.20151105205547.40"><vh>@edit 2015cphww5.md</vh></v>
+<v t="40323217.20151105205547.41"><vh>@edit 2015cpnote1.md</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205555.1"><vh>@path 40323201</vh>
+<v t="40323217.20151105205555.2"><vh>以下為投影片 ------------</vh></v>
+<v t="40323217.20151105205555.3"><vh>@clean simplest.html</vh>
+<v t="40323217.20151105205555.4"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205555.5" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205555.6" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205555.7" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205555.8" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205555.9"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205555.10"><vh>作業任務一</vh></v>
+<v t="40323217.20151105205555.11"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205555.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205555.13"><vh>@clean simplest2.html</vh>
+<v t="40323217.20151105205555.14"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205555.15" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205555.16" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205555.17" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205555.18" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205555.19"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205555.20"><vh>作業任務一</vh></v>
+<v t="40323217.20151105205555.21"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205555.22"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205555.23"><vh>@clean simplest3.html</vh>
+<v t="40323217.20151105205555.24"><vh>檔案說明</vh></v>
+<v t="40323217.20151105205555.25" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105205555.26" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105205555.27" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105205555.28" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105205555.29"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105205555.30"><vh>作業任務一</vh></v>
+<v t="40323217.20151105205555.31"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105205555.32"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205555.33" a="E"><vh>@path pelican</vh>
+<v t="40323217.20151105205555.34"><vh>以下為設定檔 ------------</vh></v>
+<v t="40323217.20151105205555.35"><vh>@edit publishconf.py</vh></v>
+<v t="40323217.20151105205555.36" a="E"><vh>@path content</vh>
+<v t="40323217.20151105205555.37"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="40323217.20151105205555.38"><vh>@edit 2015cphww1.md</vh></v>
+<v t="40323217.20151105205555.39"><vh>@edit 2015cphww4.md</vh></v>
+<v t="40323217.20151105205555.40"><vh>@edit 2015cphww5.md</vh></v>
+<v t="40323217.20151105205555.41"><vh>@edit 2015cpnote1.md</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205612.1"><vh>@path 40323217</vh>
+<v t="40323217.20151105205612.2"><vh>以下為投影片 ------------</vh></v>
+<v t="40323217.20151105210009.1"><vh>@clean simplest.html</vh>
+<v t="40323217.20151105210009.2"><vh>檔案說明</vh></v>
+<v t="40323217.20151105210009.3"><vh>html 標註</vh>
+<v t="40323217.20151105210009.4"><vh>body 標註</vh>
+<v t="40323217.20151105210009.5"><vh>div class="reveal"</vh>
+<v t="40323217.20151105210009.6"><vh>div class="slides"</vh>
+<v t="40323217.20151105210009.7"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105210009.8"><vh>作業任務一</vh></v>
+<v t="40323217.20151105210009.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105210009.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105210018.1"><vh>@clean simplest2.html</vh>
+<v t="40323217.20151105210018.2"><vh>檔案說明</vh></v>
+<v t="40323217.20151105210018.3" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105210018.4" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105210018.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105210018.6" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105210018.7"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105210018.8"><vh>作業任務一</vh></v>
+<v t="40323217.20151105210018.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105210018.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105210025.1"><vh>@clean simplest3.html</vh>
+<v t="40323217.20151105210025.2"><vh>檔案說明</vh></v>
+<v t="40323217.20151105210025.3" a="E"><vh>html 標註</vh>
+<v t="40323217.20151105210025.4" a="E"><vh>body 標註</vh>
+<v t="40323217.20151105210025.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323217.20151105210025.6" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105210025.7"><vh>有關我的作業</vh></v>
+<v t="40323217.20151105210025.8"><vh>作業任務一</vh></v>
+<v t="40323217.20151105210025.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323217.20151105210025.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323217.20151105205612.4"><vh>@path pelican</vh>
+<v t="40323217.20151105205612.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="40323217.20151105205612.6"><vh>@edit publishconf.py</vh></v>
+<v t="40323217.20151105205612.7" a="E"><vh>@path content</vh>
+<v t="40323217.20151105205612.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="40323217.20151105205612.10"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="40323217.20151105205848.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="40323217.20151105205905.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="40323217.20151105205912.1"><vh>@edit 2015cphww5.md</vh></v>
 </v>
 </v>
 </v>
@@ -1587,18 +1853,16 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="40323217.20151105180933.1"></t>
-<t tx="40323217.20151105180933.2"></t>
-<t tx="40323217.20151105180933.4"></t>
-<t tx="40323217.20151105180933.5"></t>
-<t tx="40323217.20151105180933.7"></t>
-<t tx="40323217.20151105180933.8"></t>
-<t tx="40323217.20151105181443.1">@language xml
-@tabwidth -4
-@others
+<t tx="40323217.20151105205533.1"></t>
+<t tx="40323217.20151105205533.10">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;心得與分數&lt;/h1&gt;
+    &lt;p&gt;這兩個禮拜下來，我重新複習了一年級所學的東西和學習到了新的東西，可是分枝的地方不是很懂，但是經過同學的指導已經了解了，也很順利的完成了這次的作業。&lt;/p&gt;
+    &lt;p&gt;分數 : 70&lt;/p&gt;
 
+&lt;/section&gt;
+				
 </t>
-<t tx="40323217.20151105181443.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="40323217.20151105205533.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -1607,14 +1871,19 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/script&gt;
 	
 </t>
-<t tx="40323217.20151105181443.2">&lt;!--
+<t tx="40323217.20151105205533.12">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205533.13">﻿&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="40323217.20151105181443.3">&lt;!doctype html&gt;
+<t tx="40323217.20151105205533.14">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1628,21 +1897,1155 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/head&gt;
 @others
 </t>
-<t tx="40323217.20151105181443.4">&lt;body&gt;
+<t tx="40323217.20151105205533.15">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="40323217.20151105181443.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="40323217.20151105205533.16">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="40323217.20151105181443.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="40323217.20151105205533.17">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="40323217.20151105181443.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="40323217.20151105205533.18">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323231 張立昇&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323217.20151105205533.19">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;這週的還滿好玩的，他能畫出自己想要的東西，而且比CAD還簡單很多，不用擔心很多事情，而且這次的作業可以沿用上週的東西，所以做起來不會那麼困難。&lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205533.2"></t>
+<t tx="40323217.20151105205533.20">&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;這次的作業很用心的製作，因此&lt;pr&gt;分數:75&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205533.21">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105205533.22">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205533.23">﻿&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105205533.24">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105205533.25">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105205533.26">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205533.27">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205533.28">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323231 張立昇&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323217.20151105205533.29">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;這次的作業很困難，有同學熱心的製作成影片讓大家參考，讓我能夠
+    快速回憶上課所教的東西，雖然做起來還是很難，摸索很久，可是最後的完成讓我很開心。&lt;/p&gt;
+    &lt;hr&gt;
+    &lt;p&gt;自評分數 : 75&lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205533.3">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205533.30">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105205533.31">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205533.32">﻿&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105205533.33">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105205533.34">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105205533.35">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205533.36">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205533.37">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323231 張立昇&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323217.20151105205533.38">&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;拍攝影片，把上一週所做得所有零件和組合作成影片，之後拍推送的影片，雖然常常因為小問題而重拍，可是拍完後觀看會很有成就感。而且也讓我有機會去體驗用電腦去拍影片，很充實的一週。&lt;/p&gt;
+    &lt;hr&gt;
+    &lt;p&gt;分數 : 80&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205533.39">&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;拍攝影片，把上一週所做得所有零件和組合作成影片，之後拍推送的影片，雖然常常因為小問題而重拍，可是拍完後觀看會很有成就感。而且也讓我有機會去體驗用電腦去拍影片，很充實的一週。&lt;/p&gt;
+    &lt;hr&gt;
+    &lt;p&gt;分數 : 75&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205533.4">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105205533.40">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105205533.41">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205533.42">﻿&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105205533.43">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105205533.44">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105205533.45">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205533.46">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205533.47">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323231 張立昇&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323217.20151105205533.48">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;我和同組的組員共同徒手描繪腳踏車外型，以及同心協力測量腳踏車各個部位的尺寸，在過程中雖然有些意見不同，可是經過磨合後漸漸地步入了正軌，之後共同完成這項任務。&lt;/p&gt;
+    &lt;hr&gt;
+    &lt;p&gt;自評分數 : 70&lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205533.49">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105205533.5">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105205533.50"></t>
+<t tx="40323217.20151105205533.51"></t>
+<t tx="40323217.20151105205533.53"></t>
+<t tx="40323217.20151105205533.54"></t>
+<t tx="40323217.20151105205533.6">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105205533.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205533.8">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205533.9">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323231 張立昇&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323217.20151105205541.1"></t>
+<t tx="40323217.20151105205541.10">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;步驟簡單說明&lt;/h1&gt;
+    &lt;p&gt;1.下載gitthub和Ana3資料夾&lt;/p&gt;
+    &lt;p&gt;2.到leo打開資料夾之後修改&lt;/p&gt;
+     &lt;p&gt;3.建立分支之後再推回去&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205541.11">&lt;section&gt;
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;自評分數:60&lt;/p&gt;
+    &lt;p&gt;這次的課程有點關於上學期的課程,雖然步驟上需要很仔細,不過只要上課有抄筆記就容易上手了。&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205541.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105205541.13">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205541.14">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105205541.15">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105205541.16">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105205541.17">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205541.18">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205541.19">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323203施郁琪&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323217.20151105205541.2"></t>
+<t tx="40323217.20151105205541.20">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;步驟簡單說明&lt;/h1&gt;
+    &lt;p&gt;1.至http://wordpress-2015course.rhcloud.com/ 下載solvespace&lt;/p&gt;
+    &lt;p&gt;2.之後進入solvespace網站點選Tutorials&lt;/p&gt;
+     &lt;p&gt;3.再點選 introductory tutorial&lt;/p&gt;
+     &lt;p&gt;4.進入後即可按照步驟畫出零件&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205541.21">&lt;section&gt;
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;自評分數:60&lt;/p&gt;
+    &lt;p&gt;solvespace這個軟體不需要任何鍵盤指令，只要在介面操作就可以完成圖形了，雖然感覺上這個軟體沒有什麼功用，不過看到課程網頁裡有一些形狀畫起來較為困難，就可以知道某些圖形還是需要靠此軟體將大概的形體畫出來，因此就能讓人一目了然。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205541.22">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105205541.23">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205541.24">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105205541.25">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105205541.26">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105205541.27">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205541.28">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205541.29">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323203施郁琪&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323217.20151105205541.3">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205541.30">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;步驟簡單說明&lt;/h1&gt;
+    &lt;p&gt;1.至電腦教室將creo2_64bit複製到自備硬碟&lt;/p&gt;
+    &lt;p&gt;2.至資料夾選Parametric裡的bin&lt;/p&gt;    
+    &lt;p&gt;3.進入後可選擇parametric.bat(英文版)或parametric.exe(中文版)&lt;/p&gt;
+    &lt;p&gt;4.點進去後要先畫出零件才能組合起來&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205541.31">&lt;section&gt;
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
+    &lt;p&gt;剛開始接觸到Creo時覺得此軟體很像inventor，在操作標註尺寸、擠出材料等等都覺得蠻方便的，後來在組合時才發現並沒有想像中簡單，光對中心軸對面就用很久，因為一不小心可能就按成確定了，雖然方便不過還是會有小小缺點，不過這個軟體在市面上必較常用，另外我也錄製了影片，因為我覺得教學影片可以讓人快速進入課程也易了解，所以我藉由課程學習到了新軟體，同時也體會了錄製影片的辛苦需要重複再重複的體驗過才會有完美的成果。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205541.32">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105205541.33"></t>
+<t tx="40323217.20151105205541.34"></t>
+<t tx="40323217.20151105205541.36"></t>
+<t tx="40323217.20151105205541.37"></t>
+<t tx="40323217.20151105205541.4">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105205541.5">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105205541.6">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105205541.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205541.8">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205541.9">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323203施郁琪&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323217.20151105205547.1"></t>
+<t tx="40323217.20151105205547.10">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;做法:&lt;/h1&gt;
+    &lt;p&gt;1.下載所需的檔案
+          2.下載後把Ana3_lite2打開分別把start launchleo和leo貼回原本的Ana3_2015
+          3.開啟start後會有一個視窗在上面打leo，leo就會跳出來
+          4.在leo中按File後開啟reveal-master
+          5.建立分枝(在github新建資料，在git clone下來)
+          6.在leo中更改內容後按save，之再點button pelican contwnt後再按pelican-content
+          7.最後在把它git push上去&lt;/p&gt;
+  
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205547.11">&lt;section&gt;
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;在上課的時候有試著自己操作，但因為自己吸收速度太慢，跟不太上老師，只能大概的了解，希望老師可以把電腦輔助再講得比較簡單化點，然後速度再放慢一點。在做作業過程中比較想問的是往下換頁要怎麼做，希望老師能教到。
+    &lt;/p&gt;
+    &lt;p&gt;自評分數:70&lt;a href="#/hw-task-one"&gt;&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205547.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105205547.13">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205547.14">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105205547.15">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105205547.16">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105205547.17">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205547.18">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205547.19">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323207 歐芳汝 10/15&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323217.20151105205547.2"></t>
+<t tx="40323217.20151105205547.20">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;做法:&lt;/h1&gt;
+    &lt;p&gt;步驟1:到 wordpress-2015course.rhcloud.com. 搜尋 Solvespace 可以找到2.1版本，進入到 github 裡，下載 solvespace.exe 即可使用
+  步驟2:到第四週找 Solvespace 基本操作: http://solvespace.com/tutorial.pl (簡介) 點選網址進入
+  步驟3:進入 Solvespace 簡介後，點選  introductory tutorial ，進入後跟著做
+&lt;/p&gt;
+  
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205547.21">&lt;section&gt;
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;solvespace的操作還算ok步驟的介紹過程，雖然是英文有看不太懂的單字，但大至上還算看得懂。另外，又一次的試過把網站推上去一次，有同學的幫助跟老師上次的講解，總算比較明白了，但在過程中有改變的地方，那邊感覺比較模糊，更改的地方是要複製一個@edit 2015cphww4.md在裡面做更改，一開始搞不清楚更改過後的地方會再什麼地方出現，也不太懂網頁的編排，不過後來經過同學的講解終於比較明白
+
+    &lt;/p&gt;
+    &lt;p&gt;自評分數:82&lt;a href="#/hw-task-one"&gt;&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205547.22">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105205547.23">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205547.24">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105205547.25">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105205547.26">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105205547.27">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205547.28">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205547.29">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323207 歐芳汝 10/21&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323217.20151105205547.3">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205547.30">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;做法:&lt;/h1&gt;
+    &lt;p&gt;1.進入Ana3_2015點data點apps點creo2_64bit點parametric點bin就可找到creo的程式
+          2.畫圖方式:
+          a.零件一 
+          (1)進入creo後點選新建點選零件按確定
+          (2)點選正視圖然後畫一個正方形，再讓它長料
+          (3)在正方形中心畫一個圓再除料(圓要整個貫穿，所以必須除三面)
+          (4)最後做倒角跟圓角並上色         
+          b.零件二
+          (1)進入creo後點選新建點選零件按確定
+          (2)選擇右側視圖畫一個圓直徑8並長料長90
+          (3)再選一次右側視圖再畫一個圓直徑12再長料長70
+          (4)畫圓弧做桿子的弧度曲線
+          (5)做倒角並上色
+          c.組合圖 
+          (1)進入creo後點選新建點選組合按確定
+          (2)把零件一跟零件二叫出
+          (3)讓正方體一面圓的中心軸對上桿子的中心軸，再點選它們相切的面，它們就會合併了
+          (4)重複動作至完成&lt;/p&gt;
+  
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205547.31">&lt;section&gt;
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;對於一個新的程式，其實一開始真的不那麼熟悉，但之後看了同學們拍的影片後了解其使用方法，其實跟solidwork有相同之處。不過我在繪製組合圖時其重複性的動作很多，不知道有沒有更快的方法，我個人在畫組合圖時程式會自己跳掉，但因為沒有存檔所以重畫了兩三次，所以一定要記得存檔
+    &lt;/p&gt;
+    &lt;p&gt;自評分數:78&lt;a href="#/hw-task-one"&gt;&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205547.32">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105205547.33"></t>
+<t tx="40323217.20151105205547.34"></t>
+<t tx="40323217.20151105205547.36"></t>
+<t tx="40323217.20151105205547.37"></t>
+<t tx="40323217.20151105205547.4">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105205547.5">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105205547.6">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105205547.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205547.8">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205547.9">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323207 歐芳汝 10/1&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323217.20151105205555.1"></t>
+<t tx="40323217.20151105205555.10">&lt;section&gt;
+    &lt;h2&gt;覺得重要部分&lt;/h2&gt;
+    &lt;p&gt;1.要把Ana3_lite2的start/launchLeo.py/資料夾leo複製到Ana3_2015&lt;/p&gt;
+    &lt;p&gt;2.更改revea.leo裡的檔案要記得儲存,然後到@button pelican content後按pelican-content&lt;p&gt;
+    &lt;p&gt;3.如果要重新打開Leo,記得先把home裡面的.leo刪掉,不然會打不開&lt;p&gt; 
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205555.11">&lt;section&gt;
+    &lt;h2&gt;自評與心得&lt;/h2&gt;
+    &lt;p&gt;1.其實最近挺忙得都沒什麼時間碰到功課上的事情,然後終於找到老師存放教學影片的位置,雖然並不齊全,不過幸好可以詢問有做成功的同學,非常花時間的,在不會的情況下...&lt;/p&gt;
+    &lt;p&gt;2.知道自己的邏輯很差,但是肯下工夫的話我相信還是會完成的,再接再厲吧&lt;p&gt;
+    &lt;p&gt;&lt;h2&gt;75分&lt;/h2&gt;&lt;p&gt;
+    &lt;p&gt;連結至本次GitHub倉儲&lt;a
+href="https://github.com/baconLEE/20150925/tree/gh-pages"&gt;20150925&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205555.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105205555.13">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205555.14">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105205555.15">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105205555.16">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105205555.17">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205555.18">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205555.19">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323201-李佩蓁 - 10/15&lt;/p&gt;		
+&lt;/section&gt;</t>
+<t tx="40323217.20151105205555.2"></t>
+<t tx="40323217.20151105205555.20">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;覺得重要的部分&lt;/h2&gt;
+    &lt;p&gt;1.本次作業為第二次製作,要記得在GitHub重新建立新的倉儲,以免老師會以為你之前沒做&lt;/p&gt;
+    &lt;p&gt;2.在建立新的作業頁面時,LEO檔裡的@edit 2015cphww1.md為其中一個,若新建,及複製貼上即可,但是裡面一開始  simplest.html 的最後面要增加隨便一個字,算是相對應到吧  &lt;p&gt;
+    &lt;p&gt;3.原本一開始的頁碼或是語法可以留著,這樣之後在做作業時就有可以參考的項目了&lt;p&gt;
+    &lt;p&gt;4.為了增加資訊,需要錄製操作步驟,以及把相關連結分享上來&lt;p&gt; 
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205555.21">&lt;section&gt;
+    &lt;h2&gt;自評與心得&lt;/h2&gt;
+    &lt;p&gt;1.這次作業中的 Solvespace 繪製,真的是一大挑戰,全英文的軟體,然後又跟往常繪圖軟體的用法不一樣,耗了相當多時間啊&lt;/p&gt;
+    &lt;p&gt;2.在頁面內容的LEO中更改,對照著原本遠端的資訊下去做比照,進而逐步發現其中的相關性與使用方法&lt;p&gt;
+    &lt;p&gt;3.謝謝教導我的同學,謝謝老師細心的步驟&lt;p&gt;
+    &lt;p&gt;4.在這次的自我評量裡,真的還有太多不會的地方,二年級了加上擔任社團幹部,不好使的小腦袋,太多太多事情壓在一起,覺得沒有一件事情能做好,但是這樣也是一個很好的學習機會,畢竟到時候剛出社會時,一定還有比現在更有壓力的生活,共勉之&lt;p&gt;
+    &lt;p&gt;&lt;h2&gt;75分&lt;/h2&gt;&lt;p&gt;
+    &lt;p&gt;連結至本次GitHub倉儲&lt;a
+href="https://github.com/baconLEE/20151015NEW/tree/gh-pages"&gt;20151015&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205555.22">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105205555.23">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205555.24">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105205555.25">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105205555.26">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105205555.27">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205555.28">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205555.29">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323201-李佩蓁 - 10/20&lt;/p&gt;		
+&lt;/section&gt;</t>
+<t tx="40323217.20151105205555.3">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105205555.30">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;覺得重要的部分&lt;/h2&gt;
+&lt;p&gt;1.打開Creo的步驟Ana3_lite2\data\apps\creo2_64bit\Parametric\bin\parametric&lt;/p&gt;
+&lt;p&gt;2. parametric.bat 為英文版, parametric.exe 為中文版 &lt;p&gt;
+&lt;p&gt;3.繪圖時要謹慎&lt;p&gt;
+&lt;p&gt;4.加強軟體熟悉度,需要多畫幾次,這樣遇到英文版才知道有些是代表什麼意思,但是不懂的地方還是建議查單字&lt;p&gt; 
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205555.31">&lt;section&gt;
+    &lt;h2&gt;自評與心得&lt;/h2&gt;
+    &lt;p&gt;1.一個軟體的學習,通常初次靠自己摸索,體驗其中的樂趣與成就&lt;/p&gt;
+    &lt;p&gt;2.遇到不懂的地方就是要不恥下問&lt;p&gt;
+    &lt;p&gt;3.Creo還是第一次用呢! 非常生手啊,有些地方都跟之前學過的繪圖軟體不一樣,還需要多加油&lt;p&gt;
+    &lt;p&gt;&lt;h2&gt;75分&lt;/h2&gt;&lt;p&gt;
+    &lt;p&gt;連結至本次GitHub倉儲&lt;a
+href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105205555.32">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105205555.33"></t>
+<t tx="40323217.20151105205555.34"></t>
+<t tx="40323217.20151105205555.36"></t>
+<t tx="40323217.20151105205555.37"></t>
+<t tx="40323217.20151105205555.4">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105205555.5">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105205555.6">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105205555.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205555.8">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105205555.9">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323201-李佩蓁 - 9/25&lt;/p&gt;		
+&lt;/section&gt;
+</t>
+<t tx="40323217.20151105205612.1"></t>
+<t tx="40323217.20151105205612.2"></t>
+<t tx="40323217.20151105205612.4"></t>
+<t tx="40323217.20151105205612.5"></t>
+<t tx="40323217.20151105205612.7"></t>
+<t tx="40323217.20151105205612.8"></t>
+<t tx="40323217.20151105210009.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105210009.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105210009.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105210009.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105210009.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105210009.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105210009.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105210009.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙cpwork&lt;/h1&gt;
+    &lt;p&gt;40323217 李伯皇 2015/9/24&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323217.20151105210009.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;CP筆記&lt;/h1&gt;
+    &lt;p&gt;利用Git和Github來達到版次管理，並且在近端測試再把資料推送至遠端，在電腦輔助下把重複性的動作藉由批次檔達到我們的需求。第一週重點: git add . -&gt; git commit  -m "推送依據" -&gt; git push origin master(非常重要,推送至起初的master) 第二週重點: 1.git clone 網址 -&gt; revel貼上(除README.md) -&gt; push回去遠端 -&gt; 在推送前要先建分支 -&gt; git branch 分支 -&gt; git checkout 分支名子 -&gt; revel-gh-pages 覆蓋 -&gt;推回去所建立的分支 -&gt;利用leo進行檔案更改. 補充筆記: 1. git config --global.user "名子" 和 git config --global.email"輸入信箱" 這兩點是要確認身分 2. pip install pelican markdown 是下載模組.  &lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105210009.9">&lt;section&gt;
+    &lt;h1&gt;自評分數75分&lt;/h1&gt;
+    &lt;p&gt;我發覺在git branch (git checkout) 這點很重要在推送資料時才知道是推送至分支還是master因為我在這點花了很多時間才弄懂，master檔案要推到master，分支的要推到分支，都要非常清楚自己在每個步驟的重要性一步一步的達到老師的要求，更重要的是英文因為很多第一首的資料都是以英文呈現另外網路上資料都是以英文呈現，看不懂就沒辦法知道解決方法。&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="40323217.20151105210018.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323217.20151105210018.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323217.20151105210018.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323217.20151105210018.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323217.20151105210018.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323217.20151105210018.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105210018.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323217.20151105210018.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -1651,7 +3054,7 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 	
 </t>
-<t tx="40323217.20151105181443.8">&lt;section id="hw-task-one"&gt;
+<t tx="40323217.20151105210018.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;CPW4筆記&lt;/h1&gt;
     &lt;p&gt;1.Sketch → Tangent Arc at Point 選擇兩條線所相接的點,可以使那個點形成圓角並且拖曳相切的點可以改變半徑大小.2.New Group → Extrude, or choose the equivalent button from the toolbar.可以使你所畫的圖,往+x方向長料或者從工具列選擇長料.3.Change the extrusion depth by dragging a point on the extruded face.拉動所指定的面可以使所選擇的面身長或縮短4.New Group -&gt; Sketch in 3D(Shift + 3 建立新平面)5.New Group → Sketch in New Workplane 用在孔的時候必須選擇新平面.
 
@@ -1659,19 +3062,19 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="40323217.20151105181443.9">&lt;section&gt;
+<t tx="40323217.20151105210018.9">&lt;section&gt;
     &lt;h1&gt;自評分數79分&lt;/h1&gt;
     &lt;p&gt;基準面沒有先建立好的話在長料的過程中很容易發生問題,假如在執行過程中有不符合軟體規定會產生破圖(圖框會呈現紅色)所以在執行軟體繪製過程中要特別注意這點,再來就是在畫肋的時候假如沒有先選擇基準點下去畫我發現明明在XY平面下所畫的盡然從側視圖看會跑到後面去(意思是沒有在我所預料的地方下畫圖),所以在畫肋的時候基準點須點好(shift+3)在中線下畫才能夠達到自己的預設,最後在掏孔的時候需要用到(New group-&gt;setch in new workplane)以這平面為基準下去畫要不然會跟肋一樣的產生相同的問題. &lt;/p&gt;
    
 &lt;/section&gt;
 				
 </t>
-<t tx="40323217.20151105181537.1">@language xml
+<t tx="40323217.20151105210025.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="40323217.20151105181537.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="40323217.20151105210025.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -1680,14 +3083,14 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/script&gt;
 	
 </t>
-<t tx="40323217.20151105181537.2">&lt;!--
+<t tx="40323217.20151105210025.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="40323217.20151105181537.3">&lt;!doctype html&gt;
+<t tx="40323217.20151105210025.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1701,21 +3104,21 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/head&gt;
 @others
 </t>
-<t tx="40323217.20151105181537.4">&lt;body&gt;
+<t tx="40323217.20151105210025.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="40323217.20151105181537.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="40323217.20151105210025.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="40323217.20151105181537.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="40323217.20151105210025.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="40323217.20151105181537.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="40323217.20151105210025.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -1724,7 +3127,7 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 	
 </t>
-<t tx="40323217.20151105181537.8">&lt;section id="hw-task-one"&gt;
+<t tx="40323217.20151105210025.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;CPW6筆記&lt;/h1&gt;
 &lt;p&gt;1.標註尺寸時要按住Ctrl鍵選取兩點-&gt;滑鼠右鍵,就可以去改變尺寸。
      2.零件組合時要靠近所組裝的地方，再去制定建置(不然會離太遠只會顯示距離)
@@ -1735,80 +3138,9 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="40323217.20151105181537.9">&lt;section&gt;
+<t tx="40323217.20151105210025.9">&lt;section&gt;
     &lt;h1&gt;自評分數80分&lt;/h1&gt;
     &lt;p&gt;這次的Cero跟上禮拜的solvespace有點大不同地方是solvespace會有個小視窗可以讓你控制是要長料還是上色而且可以看到每個畫圖的步驟，而且約束條件比較明確。Cero的特點是跟介面相對整齊而且功能列完整但約束條件必須透過滑鼠右鍵去選擇，而且組裝零件圖，可以先畫完零件圖之後再選擇組件，就可以把每個所畫的零件圖組合起來，這對機械工程師來講非常重要，因為一個機台或者物件不太可能一次畫完所以先計畫好要先畫什麼，之後再利用這功能一個一個組裝起來，來達到所預設的實體。&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
-<t tx="40323217.20151105181645.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="40323217.20151105181645.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="40323217.20151105181645.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="40323217.20151105181645.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="40323217.20151105181645.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="40323217.20151105181645.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323217.20151105181645.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323217.20151105181645.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;四設計二乙cpwork&lt;/h1&gt;
-    &lt;p&gt;40323217 李伯皇 2015/9/24&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="40323217.20151105181645.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;CP筆記&lt;/h1&gt;
-    &lt;p&gt;利用Git和Github來達到版次管理，並且在近端測試再把資料推送至遠端，在電腦輔助下把重複性的動作藉由批次檔達到我們的需求。第一週重點: git add . -&gt; git commit  -m "推送依據" -&gt; git push origin master(非常重要,推送至起初的master) 第二週重點: 1.git clone 網址 -&gt; revel貼上(除README.md) -&gt; push回去遠端 -&gt; 在推送前要先建分支 -&gt; git branch 分支 -&gt; git checkout 分支名子 -&gt; revel-gh-pages 覆蓋 -&gt;推回去所建立的分支 -&gt;利用leo進行檔案更改. 補充筆記: 1. git config --global.user "名子" 和 git config --global.email"輸入信箱" 這兩點是要確認身分 2. pip install pelican markdown 是下載模組.  &lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323217.20151105181645.9">&lt;section&gt;
-    &lt;h1&gt;自評分數75分&lt;/h1&gt;
-    &lt;p&gt;我發覺在git branch (git checkout) 這點很重要在推送資料時才知道是推送至分支還是master因為我在這點花了很多時間才弄懂，master檔案要推到master，分支的要推到分支，都要非常清楚自己在每個步驟的重要性一步一步的達到老師的要求，更重要的是英文因為很多第一首的資料都是以英文呈現另外網路上資料都是以英文呈現，看不懂就沒辦法知道解決方法。&lt;/p&gt;
    
 &lt;/section&gt;
 				
