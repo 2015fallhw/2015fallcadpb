@@ -101,18 +101,18 @@
 </v>
 </v>
 </v>
-<v t="leo.20151105181848.1"><vh>@clean simplest3.html</vh>
-<v t="leo.20151105181848.2"><vh>檔案說明</vh></v>
-<v t="leo.20151105181848.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151105181848.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151105181848.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151105181848.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151105181848.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151105181848.8"><vh>作業任務一</vh></v>
-<v t="leo.20151105181848.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151105183330.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151105183330.2"><vh>檔案說明</vh></v>
+<v t="leo.20151105183330.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151105183330.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151105183330.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151105183330.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151105183330.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151105183330.8"><vh>作業任務一</vh></v>
+<v t="leo.20151105183330.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="leo.20151105181848.10"><vh>script</vh></v>
+<v t="leo.20151105183330.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -123,7 +123,7 @@
 <v t="leo.20151105181820.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151105181921.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151105181926.1"><vh>@edit 2015cphww4.md</vh></v>
-<v t="leo.20151105181931.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151105183339.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151105181820.10"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -4841,12 +4841,12 @@ href="https://github.com/baconLEE/20151015NEW/tree/gh-pages"&gt;20151015&lt;/a&g
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151105181848.1">@language xml
+<t tx="leo.20151105183330.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151105181848.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151105183330.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -4855,14 +4855,14 @@ href="https://github.com/baconLEE/20151015NEW/tree/gh-pages"&gt;20151015&lt;/a&g
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151105181848.2">&lt;!--
+<t tx="leo.20151105183330.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151105181848.3">&lt;!doctype html&gt;
+<t tx="leo.20151105183330.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -4876,28 +4876,28 @@ href="https://github.com/baconLEE/20151015NEW/tree/gh-pages"&gt;20151015&lt;/a&g
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151105181848.4">&lt;body&gt;
+<t tx="leo.20151105183330.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151105181848.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151105183330.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151105181848.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151105183330.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151105181848.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151105183330.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323201-李佩蓁 - 10/20&lt;/p&gt;		
 &lt;/section&gt;</t>
-<t tx="leo.20151105181848.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151105183330.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;覺得重要的部分&lt;/h2&gt;
 &lt;p&gt;1.打開Creo的步驟Ana3_lite2\data\apps\creo2_64bit\Parametric\bin\parametric&lt;/p&gt;
 &lt;p&gt;2. parametric.bat 為英文版, parametric.exe 為中文版 &lt;p&gt;
@@ -4906,7 +4906,7 @@ href="https://github.com/baconLEE/20151015NEW/tree/gh-pages"&gt;20151015&lt;/a&g
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151105181848.9">&lt;section&gt;
+<t tx="leo.20151105183330.9">&lt;section&gt;
     &lt;h2&gt;自評與心得&lt;/h2&gt;
     &lt;p&gt;1.一個軟體的學習,通常初次靠自己摸索,體驗其中的樂趣與成就&lt;/p&gt;
     &lt;p&gt;2.遇到不懂的地方就是要不恥下問&lt;p&gt;
