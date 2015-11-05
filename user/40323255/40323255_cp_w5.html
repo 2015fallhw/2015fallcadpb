@@ -1,0 +1,69 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>電腦輔助設計與實習</h2>
+    <p>四設計二乙</p>	
+    <p>40323255 鄭智文</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h2>Creo Parametric使用心得</h2>
+    <p>這次使用一套繪圖軟體[ Creo Parametric ]，因為我目前也有在學這套高端的繪圖軟體，所以畫起來蠻得心應手的，我認為它的功能性，跟其他我使用過的繪圖軟體比起來，它的功能性強大很多，它可以用於建立模具上，甚至可以在模具上建立模穴、澆道，對於我而言，是一套值得好好學習的繪圖軟體。</p>
+    
+</section>
+				
+<section id="hw-task-one">
+    <h2>Creo Parametric資料</h2>
+    <p>Creo Parametric (前身為 Pro/ENGINEER) 已儼然成為 3D CAD 產品設計的標準；它提供了先進的產能工具，不但能夠促成最佳設計工作模式，還能確保符合業界與公司標準。Creo Parametric 擁有業界最廣泛的強大且富彈性 3D CAD 設計功能，可協助您因應最急切的設計挑戰，包括整合後期變更、處理多種 CAD 資料和機電設計。</p>
+    
+</section>
+				
+<section id="hw-task-one">
+    <h2>Creo Parametric特點</h2>
+    <p>1.功能強大且富彈性的參數式 3D CAD 功能創造出卓越的產品區隔和製造可行性。</p>
+    <p>2.廣泛的概念設計功能協助快速推出新產品上市。</p>
+    <p>3.整合後期變更，並將設計變更自動傳播到所有下游交付物，這些能力讓您能夠充滿信心地進行設計。</p>
+</section>
+				
+<section>
+    <h1>自評分數</h1>
+    <p>我給我自己的分數：80 </p>
+
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
