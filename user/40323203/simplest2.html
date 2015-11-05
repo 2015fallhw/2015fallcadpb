@@ -1,0 +1,57 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>四設計二乙</h1>
+    <p>40323203施郁琪</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h1>步驟簡單說明</h1>
+    <p>1.至http://wordpress-2015course.rhcloud.com/ 下載solvespace</p>
+    <p>2.之後進入solvespace網站點選Tutorials</p>
+     <p>3.再點選 introductory tutorial</p>
+     <p>4.進入後即可按照步驟畫出零件</p>
+</section>
+				
+<section>
+    <h1>自評與心得</h1>
+    <p>自評分數:60</p>
+    <p>solvespace這個軟體不需要任何鍵盤指令，只要在介面操作就可以完成圖形了，雖然感覺上這個軟體沒有什麼功用，不過看到課程網頁裡有一些形狀畫起來較為困難，就可以知道某些圖形還是需要靠此軟體將大概的形體畫出來，因此就能讓人一目了然。</p>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
