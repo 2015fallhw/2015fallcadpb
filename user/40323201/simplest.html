@@ -1,0 +1,58 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>四設計二乙</h2>
+    <p>40323201-李佩蓁 - 9/25</p>		
+</section>
+<section>
+    <h2>覺得重要部分</h2>
+    <p>1.要把Ana3_lite2的start/launchLeo.py/資料夾leo複製到Ana3_2015</p>
+    <p>2.更改revea.leo裡的檔案要記得儲存,然後到@button pelican content後按pelican-content<p>
+    <p>3.如果要重新打開Leo,記得先把home裡面的.leo刪掉,不然會打不開<p> 
+</section>
+				
+<section>
+    <h2>自評與心得</h2>
+    <p>1.其實最近挺忙得都沒什麼時間碰到功課上的事情,然後終於找到老師存放教學影片的位置,雖然並不齊全,不過幸好可以詢問有做成功的同學,非常花時間的,在不會的情況下...</p>
+    <p>2.知道自己的邏輯很差,但是肯下工夫的話我相信還是會完成的,再接再厲吧<p>
+    <p><h2>75分</h2><p>
+    <p>連結至本次GitHub倉儲<a
+href="https://github.com/baconLEE/20150925/tree/gh-pages">20150925</a>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
