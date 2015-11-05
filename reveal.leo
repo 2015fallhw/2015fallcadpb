@@ -116,7 +116,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151105224651.4"><vh>@path pelican</vh>
+<v t="leo.20151105224651.4" a="E"><vh>@path pelican</vh>
 <v t="leo.20151105224651.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151105224651.6"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151105224651.7" a="E"><vh>@path content</vh>

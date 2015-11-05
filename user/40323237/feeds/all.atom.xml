@@ -1399,6 +1399,10 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 
 &lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;方塊繪製:&lt;/p&gt;
+&lt;p&gt;1.影片:&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2ZnVJ7qlL1g" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;2.圖解&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/ripxbGmiAPDxtLAM" width="400" height="300"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;於FRONT繪製一個30X30的方形 再擠出30(使用對稱擠出)&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/e9jQUANEoZHP69Lx" width="400" height="300"&gt;&lt;/img&gt;&lt;/p&gt;
@@ -1406,6 +1410,10 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;p&gt;&lt;img src="https://copy.com/oPyVdpKw0QnOME26" width="400" height="300"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;方塊的每個邊都倒r5的圓角，圓孔導0.5X0.5的倒角，之後彩現就完成了&lt;/p&gt;
 &lt;p&gt;圓軸繪製:&lt;/p&gt;
+&lt;p&gt;1.影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/d-LsjIggPgw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;2.圖解&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/HlDGZiJCdYZQShJ6" width="400" height="300"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;開啟零件後於RIGHT畫一個直徑為8的圓，並擠出長度90(使用對稱)&lt;/p&gt;
 &lt;p&gt;步驟同上再擠出一次不過尺寸改為直徑12，擠出70&lt;/p&gt;
@@ -1415,7 +1423,11 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;p&gt;除料完成後，倒角，尺寸為0.5X0.5&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/cdaZOIZ2HEsTLcj7" width="400" height="300"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;彩現&lt;/p&gt;
-&lt;p&gt;組裝步驟:&lt;/p&gt;
+&lt;p&gt;組裝:&lt;/p&gt;
+&lt;p&gt;1.影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pcuuSvTzI60" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;2.圖解&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/DE7NwVtziBw9y8mg" width="400" height="300"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;開啟零件 並將方塊與圓軸組合&lt;/p&gt;
 &lt;p&gt;重覆步驟至完成&lt;/p&gt;
