@@ -1,0 +1,66 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>四設計二乙</h1>
+    <p>40323205 陳子潔 10/31</p>		
+</section>
+
+	
+<section id="hw-task-one">
+    <h2>作業過程-</h2>
+    <p>1. 使用Slovespace軟體繪製出以下圖片<br/>
+    並拍下自己所畫的圖形<br/>
+    2. 在reveal.leo新增新的文章<br/>
+    依照第2週作業的步驟<br/>
+    製作投影片 並將作業繳交完成<p> 
+</section>
+				
+<section>
+    <h2>心得 自評-</h2>
+    <p>自評分數：65分，這次的作業<br/>
+    畫圖部分並沒有碰到甚麼大問題<br/>
+    而在新增分支 文章放上作業 一直卡住<br/>
+    例如 按照同學的拍攝影片的步驟做 卻還是沒有成功<br/>
+    在git clone下來的資料夾中 有出現新的simplest2，卻遲遲沒有出現2015_cp_hw_w4<br/>
+    在cmd.exe中出現「'pelican'不是內部或外部命令、可執行的程式或批次檔」字樣<br/>
+    詢問同學後，才發現是自己沒有輸入「pip install pelican markdown」<br/>
+    才一直沒有成功推上。<br/>
+    解決這個問題後，其他都沒有問題了。
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
