@@ -69,6 +69,65 @@
 </v>
 </v>
 </v>
+<v t="2015cp.20151107230936.1"><vh>@path 40323205</vh>
+<v t="2015cp.20151107230936.2"><vh>以下為投影片 ------------</vh></v>
+<v t="2015cp.20151107230936.3"><vh>@clean simplest3.html</vh>
+<v t="2015cp.20151107230936.4"><vh>檔案說明</vh></v>
+<v t="2015cp.20151107230936.5" a="E"><vh>html 標註</vh>
+<v t="2015cp.20151107230936.6" a="E"><vh>body 標註</vh>
+<v t="2015cp.20151107230936.7" a="E"><vh>div class="reveal"</vh>
+<v t="2015cp.20151107230936.8" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151107230936.9"><vh>有關我的作業</vh></v>
+<v t="2015cp.20151107230936.10"><vh>作業任務一</vh></v>
+<v t="2015cp.20151107230936.11"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="2015cp.20151107230936.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="2015cp.20151107230936.13"><vh>@clean simplest2.html</vh>
+<v t="2015cp.20151107230936.14"><vh>檔案說明</vh></v>
+<v t="2015cp.20151107230936.15" a="E"><vh>html 標註</vh>
+<v t="2015cp.20151107230936.16" a="E"><vh>body 標註</vh>
+<v t="2015cp.20151107230936.17" a="E"><vh>div class="reveal"</vh>
+<v t="2015cp.20151107230936.18" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151107230936.19"><vh>有關我的作業</vh></v>
+<v t="2015cp.20151107230936.20"><vh>作業任務一</vh></v>
+<v t="2015cp.20151107230936.21"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="2015cp.20151107230936.22"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="2015cp.20151107230936.23"><vh>@clean simplest.html</vh>
+<v t="2015cp.20151107230936.24"><vh>檔案說明</vh></v>
+<v t="2015cp.20151107230936.25" a="E"><vh>html 標註</vh>
+<v t="2015cp.20151107230936.26" a="E"><vh>body 標註</vh>
+<v t="2015cp.20151107230936.27" a="E"><vh>div class="reveal"</vh>
+<v t="2015cp.20151107230936.28" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151107230936.29"><vh>有關我的作業</vh></v>
+<v t="2015cp.20151107230936.30"><vh>作業任務一</vh></v>
+<v t="2015cp.20151107230936.31"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="2015cp.20151107230936.32"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="2015cp.20151107230936.33"><vh>@path pelican</vh>
+<v t="2015cp.20151107230936.34"><vh>以下為設定檔 ------------</vh></v>
+<v t="2015cp.20151107230936.35"><vh>@edit publishconf.py</vh></v>
+<v t="2015cp.20151107230936.36" a="E"><vh>@path content</vh>
+<v t="2015cp.20151107230936.37"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="2015cp.20151107230936.38"><vh>@edit 2015cphww5.md</vh></v>
+<v t="2015cp.20151107230936.39"><vh>@edit 2015cphww4.md</vh></v>
+<v t="2015cp.20151107230936.40"><vh>@edit 2015cphww1.md</vh></v>
+<v t="2015cp.20151107230936.41"><vh>@edit 2015cpnote1.md</vh></v>
+</v>
+</v>
+</v>
 <v t="leo.20151027190508.1"><vh>@path 40223212</vh>
 <v t="leo.20151027190508.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151027190508.3"><vh>@edit 40223212_cp_w1_p.html</vh></v>
@@ -2692,6 +2751,259 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
     &lt;h1&gt;四設計二乙&lt;/h1&gt;
     &lt;p&gt;40323207 歐芳汝 10/1&lt;/p&gt;		
 &lt;/section&gt;
+	
+</t>
+<t tx="2015cp.20151107230936.1"></t>
+<t tx="2015cp.20151107230936.10">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;作業過程-&lt;/h2&gt;
+    &lt;p&gt;1. 點選Ana3_2015&gt;date&gt;apps&gt;creo2_64bit&gt;Parametric&gt;bin中找到parametric應用程式&lt;br/&gt;
+    2. 在creo中繪製出 以下兩個零件 並組裝成組合圖&lt;br/&gt;
+    3. 在reveal.leo新增新的文章&lt;br/&gt;
+    依照第4週作業的步驟&lt;br/&gt;
+    製作投影片 並將作業繳交完成&lt;p&gt; 
+&lt;/section&gt;
+				
+</t>
+<t tx="2015cp.20151107230936.11">&lt;section&gt;
+    &lt;h2&gt;心得 自評-&lt;/h2&gt;
+    &lt;p&gt;自評分數：70分&lt;br/&gt;
+    第一次操作Creo，整體的感覺跟Solidworks大概相同&lt;br/&gt;
+    但還是有些不大一致，所以在操作時有些卡住&lt;br/&gt;
+    例如 要標註尺寸、讓軸平行，及在組裝時旋轉物件&lt;br/&gt;
+    慢慢熟悉Creo後，畫圖時間越來越縮短。&lt;br/&gt;
+    而在上傳教學影片時，碰到影片無法推上遠端的窘境&lt;br/&gt;
+    詢問同學後才發現是要用崁入的方式&lt;br/&gt;
+    (一開始是直接複製語法 貼上網址 結果失敗)&lt;br/&gt;
+    之後就順利推上教學影片了。
+&lt;/section&gt;
+				
+</t>
+<t tx="2015cp.20151107230936.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="2015cp.20151107230936.13">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="2015cp.20151107230936.14">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="2015cp.20151107230936.15">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="2015cp.20151107230936.16">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="2015cp.20151107230936.17">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="2015cp.20151107230936.18">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="2015cp.20151107230936.19">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323205 陳子潔 10/31&lt;/p&gt;		
+&lt;/section&gt;
+
+	
+</t>
+<t tx="2015cp.20151107230936.2"></t>
+<t tx="2015cp.20151107230936.20">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;作業過程-&lt;/h2&gt;
+    &lt;p&gt;1. 使用Slovespace軟體繪製出以下圖片&lt;br/&gt;
+    並拍下自己所畫的圖形&lt;br/&gt;
+    2. 在reveal.leo新增新的文章&lt;br/&gt;
+    依照第2週作業的步驟&lt;br/&gt;
+    製作投影片 並將作業繳交完成&lt;p&gt; 
+&lt;/section&gt;
+				
+</t>
+<t tx="2015cp.20151107230936.21">&lt;section&gt;
+    &lt;h2&gt;心得 自評-&lt;/h2&gt;
+    &lt;p&gt;自評分數：65分，這次的作業&lt;br/&gt;
+    畫圖部分並沒有碰到甚麼大問題&lt;br/&gt;
+    而在新增分支 文章放上作業 一直卡住&lt;br/&gt;
+    例如 按照同學的拍攝影片的步驟做 卻還是沒有成功&lt;br/&gt;
+    在git clone下來的資料夾中 有出現新的simplest2，卻遲遲沒有出現2015_cp_hw_w4&lt;br/&gt;
+    在cmd.exe中出現「'pelican'不是內部或外部命令、可執行的程式或批次檔」字樣&lt;br/&gt;
+    詢問同學後，才發現是自己沒有輸入「pip install pelican markdown」&lt;br/&gt;
+    才一直沒有成功推上。&lt;br/&gt;
+    解決這個問題後，其他都沒有問題了。
+&lt;/section&gt;
+				
+</t>
+<t tx="2015cp.20151107230936.22">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="2015cp.20151107230936.23">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="2015cp.20151107230936.24">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="2015cp.20151107230936.25">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="2015cp.20151107230936.26">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="2015cp.20151107230936.27">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="2015cp.20151107230936.28">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="2015cp.20151107230936.29">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323205 陳子潔 10/1&lt;/p&gt;		
+&lt;/section&gt;
+
+	
+</t>
+<t tx="2015cp.20151107230936.3">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="2015cp.20151107230936.30">&lt;section&gt;
+    &lt;h2&gt;作業過程-&lt;/h2&gt;
+    &lt;p&gt;從Ana3_lite2複製start到Ana3_2015&lt;br/&gt;
+    從Ana3_lite2資料夾中的data&gt;apps&gt;複製launchLeo.py到Ana3_2015&lt;br/&gt;
+    從Ana3_lite2資料夾中的data&gt;Anaconda3&gt;Lib&gt;site-packages複製到Ana3_2015&lt;br/&gt;
+    點取Ana3_2015的start&lt;br/&gt;
+    git clone老師的reveal及自己創的github&lt;br/&gt;
+    用Leo打開reveal裡的reveal.Leo更改資料&lt;br/&gt;
+    更改完之後，依照一年級教的推上遠端的步驟，即結束。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="2015cp.20151107230936.31">&lt;section&gt;
+    &lt;h2&gt;心得 自評-&lt;/h2&gt;
+    &lt;p&gt;自評分數：75分，雖然一年級有學習過python&lt;br/&gt;
+    但新的學期要重新弄的時候，卻完全不記得&lt;br/&gt;
+    詢問了作業做成功的同學之後，自己的作業也大概完成了&lt;br/&gt;
+    目前為止是沒有碰到甚麼大問題。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="2015cp.20151107230936.32">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="2015cp.20151107230936.33"></t>
+<t tx="2015cp.20151107230936.34"></t>
+<t tx="2015cp.20151107230936.36"></t>
+<t tx="2015cp.20151107230936.37"></t>
+<t tx="2015cp.20151107230936.4">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="2015cp.20151107230936.5">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="2015cp.20151107230936.6">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="2015cp.20151107230936.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="2015cp.20151107230936.8">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="2015cp.20151107230936.9">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323205 陳子潔 11/01&lt;/p&gt;		
+&lt;/section&gt;
+
 	
 </t>
 <t tx="31.20151107130737.1"></t>
