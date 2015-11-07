@@ -1,0 +1,61 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>四設二乙 </h2>
+    <p>40323218 李冠興</p>		
+</section>
+	
+<section>
+    <h2>心得和自評分數</h2>
+    <p>我給自己90分。  </br>  
+    這一個禮拜幫了許多人做功課...</br>
+    真的體會到偉志的辛苦</br>
+    最近偉志要忙研究室所以自己研究了許多</br>
+    現在也會處理許多問題了</br>
+    班級倉儲真的會把人搞瘋</br>
+    一個做爆全班都爆了，需要修復</br>
+    這個周末需要幫助的人越來越多</br>
+    可是自己要忙的事情也很多</br>
+    所以也順便為了做功課錄製影片教別人</br>
+    這半學期到這裡真的學到很多</br>
+    感謝老師教導，也感謝偉志讓我問了許多問題
+    </p>
+
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
