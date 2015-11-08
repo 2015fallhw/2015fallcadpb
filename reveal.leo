@@ -1205,6 +1205,33 @@
 </v>
 </v>
 </v>
+<v t="leo.20151109021457.1" a="E"><vh>@path 40323226</vh>
+<v t="leo.20151109021457.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151109021651.1" a="E"><vh>@clean simplest.html</vh>
+<v t="leo.20151109021651.2"><vh>檔案說明</vh></v>
+<v t="leo.20151109021651.3"><vh>html 標註</vh>
+<v t="leo.20151109021651.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151109021651.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151109021651.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151109021651.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151109021651.8"><vh>作業任務一</vh></v>
+<v t="leo.20151109021651.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151109021651.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151109021457.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151109021457.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151109021457.6"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151109021457.7" a="E"><vh>@path content</vh>
+<v t="leo.20151109021457.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151109021638.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151109021457.10"><vh>@edit 2015cpnote1.md</vh></v>
+</v>
+</v>
+</v>
 <v t=".20151029193149.1"><vh>@path 40323230</vh>
 <v t=".20151029193149.2"><vh>以下為投影片 ------------</vh></v>
 <v t=".20151029193149.3"><vh>@clean 40323230_cp_w2.html</vh>
@@ -13491,6 +13518,7 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 				
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109022723.1"></t>
 <t tx="leo.20151109022723.2"></t>
 <t tx="leo.20151109022723.4"></t>
@@ -13498,11 +13526,24 @@ git config --global user.email 自己的信箱&lt;br&gt;
 <t tx="leo.20151109022723.7"></t>
 <t tx="leo.20151109022723.8"></t>
 <t tx="leo.20151109022821.1">@language xml
+=======
+<t tx="leo.20151109021457.1"></t>
+<t tx="leo.20151109021457.2"></t>
+<t tx="leo.20151109021457.4"></t>
+<t tx="leo.20151109021457.5"></t>
+<t tx="leo.20151109021457.7"></t>
+<t tx="leo.20151109021457.8"></t>
+<t tx="leo.20151109021651.1">@language xml
+>>>>>>> 665b49c4228d0aa49a93bbcd2a1aebc7fbf5c5d5
 @tabwidth -4
 @others
 
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109022821.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+=======
+<t tx="leo.20151109021651.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+>>>>>>> 665b49c4228d0aa49a93bbcd2a1aebc7fbf5c5d5
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -13511,14 +13552,22 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/script&gt;
 	
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109022821.2">&lt;!--
+=======
+<t tx="leo.20151109021651.2">&lt;!--
+>>>>>>> 665b49c4228d0aa49a93bbcd2a1aebc7fbf5c5d5
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109022821.3">&lt;!doctype html&gt;
+=======
+<t tx="leo.20151109021651.3">&lt;!doctype html&gt;
+>>>>>>> 665b49c4228d0aa49a93bbcd2a1aebc7fbf5c5d5
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -13532,25 +13581,42 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/head&gt;
 @others
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109022821.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151109022821.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+=======
+<t tx="leo.20151109021651.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151109021651.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+>>>>>>> 665b49c4228d0aa49a93bbcd2a1aebc7fbf5c5d5
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109022821.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+=======
+<t tx="leo.20151109021651.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+>>>>>>> 665b49c4228d0aa49a93bbcd2a1aebc7fbf5c5d5
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109022821.7">&lt;!-- 以下為投影片 --&gt;
+=======
+<t tx="leo.20151109021651.7">&lt;!-- 以下為投影片 --&gt;
+>>>>>>> 665b49c4228d0aa49a93bbcd2a1aebc7fbf5c5d5
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設二乙&lt;/h1&gt;
+<<<<<<< HEAD
     &lt;p&gt;40323229高郁宸&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -13562,13 +13628,45 @@ git config --global user.email 自己的信箱&lt;br&gt;
     &lt;p&gt;3.建立分支&lt;/p&gt;
     &lt;p&gt;4.儲存tmp資料夾&lt;/p&gt;
     &lt;p&gt;5.PUSH上去&lt;/p&gt;
+=======
+    &lt;p&gt;40323226洪子翔 10月20日&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151109021651.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;筆記&lt;/h1&gt;
+    &lt;p&gt;Git confit – global user.email “ “：讓系統知道使用者之信箱
+
+Git confit – global user.name “ “：讓系統知道使用者是誰
+
+Pip install pelican Markdown：安裝pelican模組
+
+Cd tmp ：進入tmp資料夾內
+
+Git clone 網址：下載網址的內容
+Git add –A：告訴系統要新增全部
+
+Git commit –m “ “：為此註記
+
+Git push origin master (gh-pages) ：推回主支(分支)
+
+Git branch gh-pages：分支之名稱
+
+Git checkout gh-pages：切換分支&lt;/p&gt;
+>>>>>>> 665b49c4228d0aa49a93bbcd2a1aebc7fbf5c5d5
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
+<<<<<<< HEAD
 <t tx="leo.20151109022821.9">&lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;謝謝同學的幫忙 真的如果沒有同學幫忙 不知道這次的作業完不完成的了 所以60&lt;/p&gt;
+=======
+<t tx="leo.20151109021651.9">&lt;section&gt;
+    &lt;h1&gt;自評60分&lt;/h1&gt;
+    &lt;p&gt;雖然上課時都聽不懂，但在同學的幫忙下完成了，中間也有許多的問題，也都順利的解決了。&lt;/p&gt;
+>>>>>>> 665b49c4228d0aa49a93bbcd2a1aebc7fbf5c5d5
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
