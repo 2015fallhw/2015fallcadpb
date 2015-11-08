@@ -1408,7 +1408,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151106232806.1"><vh>@path 40323237</vh>
+<v t="leo.20151106232806.1" a="E"><vh>@path 40323237</vh>
 <v t="leo.20151106232806.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151106232806.3"><vh>@clean simplest3.html</vh>
 <v t="leo.20151106232806.4"><vh>檔案說明</vh></v>
@@ -1464,6 +1464,65 @@
 <v t="leo.20151106232806.39"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151106232806.40"><vh>@edit 2015cphww2.md</vh></v>
 <v t="leo.20151106232806.41"><vh>@edit 2015cpnote1.md</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151108143359.1" a="E"><vh>@path 40323239</vh>
+<v t="leo.20151108143359.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151108144948.1"><vh>@clean simplest.html</vh>
+<v t="leo.20151108144948.2"><vh>檔案說明</vh></v>
+<v t="leo.20151108144948.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151108144948.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151108144948.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151108144948.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108144948.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151108144948.8"><vh>作業任務一</vh></v>
+<v t="leo.20151108144948.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151108144948.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151108144955.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151108144955.2"><vh>檔案說明</vh></v>
+<v t="leo.20151108144955.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151108144955.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151108144955.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151108144955.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108144955.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151108144955.8"><vh>作業任務二</vh></v>
+<v t="leo.20151108144955.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151108144955.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151108145002.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151108145002.2"><vh>檔案說明</vh></v>
+<v t="leo.20151108145002.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151108145002.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151108145002.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151108145002.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108145002.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151108145002.8"><vh>作業任務三</vh></v>
+<v t="leo.20151108145002.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151108145002.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151108143359.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151108143359.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151108143359.6"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151108143359.7" a="E"><vh>@path content</vh>
+<v t="leo.20151108143359.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151108143359.10"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20151108144422.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151108144430.1"><vh>@edit 2015cphww2.md</vh></v>
+<v t="leo.20151108144438.1"><vh>@edit 2015cphww3.md</vh></v>
 </v>
 </v>
 </v>
@@ -10124,209 +10183,8 @@ git config --global user.email 40323214@gm.nfu.edu.tw 更改使用者名稱以�
 <t tx="leo.20151108124417.2"></t>
 <t tx="leo.20151108124417.72"></t>
 <t tx="leo.20151108124417.73"></t>
-<t tx="leo.20151108124417.74">@language python
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
-# This file is only used if you use `make publish` or
-# explicitly specify it as your config file.
-
-import os
-
-AUTHOR = '40328245'
-SITENAME = '2015FALL 40328245 電腦輔助設計實習 作業'
-SITEURL = ''
-
-PATH = 'content'
-
-TIMEZONE = 'Asia/Taipei'
-
-DEFAULT_LANG = 'en'
-
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-
-# Blogroll
-LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),('Version_1', 'http://b850617.github.io/2015cpHW/'),('Version_2', 'http://b850617.github.io/reveal2//'),('2015作業主頁', '../../'))
-
-# Social widget
-SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
-          ('github', 'http://github.com/ametaireau'),)
-          
-DEFAULT_PAGINATION = 10
-
-SITEURL = 'http://coursemdetw.github.io/reveal'
-RELATIVE_URLS = True
-
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-
-DELETE_OUTPUT_DIRECTORY = True
-
-# Following items are often useful when publishing
-
-#DISQUS_SITENAME = ""
-DISQUS_SITENAME = "2015fall"
-#GOOGLE_ANALYTICS = ""
-
-# 必須絕對目錄或相對於設定檔案所在目錄
-PLUGIN_PATHS = ['./../../../plugin']
-PLUGINS = ['liquid_tags.notebook']
-# 目錄設定相對於 reveal 下的 content 目錄
-NOTEBOOK_DIR = 'notebook'
-
-
-</t>
 <t tx="leo.20151108124417.75"></t>
 <t tx="leo.20151108124417.76"></t>
-<t tx="leo.20151108124417.77">@language md
-Title: 2015 計算機程式 Jupyter
-Date: 2015-09-19 21:41
-Category: Python
-Tags: Jupyter, IPython
-Slug: 2015cp_note1
-Authors: b850617
-Summary: 導入 notebook 內容
-
-以下為 Jupyter notebook 檔案內容:
-
-{% notebook brython_ex1.ipynb %}
-
-{% notebook demo.ipynb %}
-
-
-
-</t>
-<t tx="leo.20151108124939.1">@language md
-Title: 2015 計算機程式 作業四
-Date: 2015-11-06 20:44
-Modified: 2015-11-06 20:44
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w4
-Authors: 40328245
-Summary: 作業四摘要
-以下為作業四內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業四投影片](simplest4.html){:target="_blank"}
-
-============
-
-第四周作業
-
-&lt;img src="https://copy.com/TsvO1jcRJmLPzJXh" width="500" alt="步驟一"&gt;&lt;/img&gt;
-
-步驟一:先做出簡單幾何圖
-
-並利用工具欄(下圖)來做修改
-
-&lt;img src="https://copy.com/iarlwvGAMml2BMWW" height="300" alt="工具欄"&gt;&lt;/img&gt;
-
-在按工具攔下正方體的格式,長出立體圖
-
-記得修改另外視窗的工具列裡的"extrude plane sketch"成"two-sided"(如下圖)
-
-&lt;img src="https://copy.com/Q7w63wY8sQYsVgjU" width="500" alt="小工具欄"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/DpWwLb2kKO02wr8y" width=500" alt="步驟二"&gt;&lt;/img&gt;
-
-步驟二:在中間建立一個平面(利用一點及兩條線去建立)
-
-&lt;img src="https://copy.com/8xxbl68zpjIBeefJ" width="500" alt="上排工具欄"&gt;&lt;/img&gt;
-
-(上排工具欄的NewGroup點開選取sketch in new work plane)
-
-畫完簡單的三角形圖並與之前的線做連結
-再長出
-
-&lt;img src="https://copy.com/pbU7R7hTNSvB17rC" width="500" alt="成品"&gt;&lt;/img&gt;
-
-最後:與步驟二一樣,在斜面建立草圖,
- 並畫出兩個圓,與中間線對稱,再向另一邊長出,
-
- 在另外視窗的工具列裡選擇"difference"
-
-&lt;img src="https://copy.com/ZsuDYpG7nKiC61SM" width="500" alt="小工具欄2"&gt;&lt;/img&gt;
-
-這樣就結束了~~
-
-=============
-
-第五周作業
-
-&lt;iframe src="https://player.vimeo.com/video/144261899" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144261899"&gt;正方體&lt;/a&gt; from &lt;a href="https://vimeo.com/user45396653"&gt;40328245@gm.nfu.edu.tw&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-  &lt;marquee&gt;先製作一個正方體&lt;/marquee&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/144261900" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144261900"&gt;細桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user45396653"&gt;40328245@gm.nfu.edu.tw&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-  &lt;marquee&gt;再製作一個連接桿&lt;/marquee&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/144261901" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144261901"&gt;組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user45396653"&gt;40328245@gm.nfu.edu.tw&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
- 
-  &lt;marquee&gt;再組合在一起&lt;/marquee&gt;
- 
- 
- &lt;img src="https://copy.com/S8m9LnpyzcQAutVd" width="500" alt="成品"&gt;&lt;/img&gt;
- 
-  &lt;marquee&gt;就這樣結束了~~&lt;/marquee&gt;
-  
-  ===============
-  
-  第八周小作業
-  
-  &lt;img src="https://copy.com/BOZ34Uq4dLPfKH8S" width="500" alt="ADJUSTER_BASE"&gt;&lt;/img&gt;
-
- ADJUSTER_BASE
-
-&lt;img src="https://copy.com/b4WyI0VCbXHrVKLS" width="500" alt="ADJUSTER"&gt;&lt;/img&gt;
-
- ADJUSTER
-
-&lt;img src="https://copy.com/4uYVk6KyguqswGRQ" width="500"
-alt="BASE"&gt;&lt;/img&gt;
-
- BASE
-
-&lt;img src="https://copy.com/uBXWxhT3PLuxsvib" width="500" alt="CONNECTION"&gt;&lt;/img&gt;
-
- CONNECTION
-
-&lt;img src="https://copy.com/hYb6LQfIZKtJichn" width="500" alt="CYLINDER"&gt;&lt;/img&gt;
-
- CYLINDER
-
-&lt;img src=https://copy.com/fsbIdV3D2CDbsVpY" width="500" alt="HANDLE"&gt;&lt;/img&gt;
-
- HANDLE
-
-&lt;img src="https://copy.com/tmEj1kLoNyNrvROA" width="500" alt="HINGE"&gt;&lt;/img&gt;
-
- HINGE
-
-&lt;img src="https://copy.com/6bbpRwRD3lcxP0pn" width="500" alt="PISTON"&gt;&lt;/img&gt;
-
- PISTON
-
-&lt;img src="https://copy.com/Trpd7R4esSMf6ruS" width="500" alt="成品"&gt;&lt;/img&gt;
-
- 成品
-
-
-  
-  
-
-</t>
 <t tx="leo.20151108124945.1">@language xml
 @tabwidth -4
 @others
@@ -10452,56 +10310,6 @@ alt="BASE"&gt;&lt;/img&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151108124951.1">@language md
-Title: 2015 計算機程式 作業三
-Date: 2015-11-01 17:16
-Modified: 2015-11-01 17:16
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w3
-Authors: 40328245
-Summary: 作業三摘要
-以下為作業三內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業三投影片](simplest3.html){:target="_blank"}
-============
-
-
-&lt;iframe src="https://player.vimeo.com/video/144261899" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144261899"&gt;正方體&lt;/a&gt; from &lt;a href="https://vimeo.com/user45396653"&gt;40328245@gm.nfu.edu.tw&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-  &lt;marquee&gt;先製作一個正方體&lt;/marquee&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/144261900" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144261900"&gt;細桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user45396653"&gt;40328245@gm.nfu.edu.tw&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-  &lt;marquee&gt;再製作一個連接桿&lt;/marquee&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/144261901" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144261901"&gt;組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user45396653"&gt;40328245@gm.nfu.edu.tw&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
- 
-  &lt;marquee&gt;再組合在一起&lt;/marquee&gt;
- 
- 
- &lt;img src="https://copy.com/S8m9LnpyzcQAutVd" width="500" alt="成品"&gt;&lt;/img&gt;
- 
-  &lt;marquee&gt;就這樣結束了~~&lt;/marquee&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</t>
 <t tx="leo.20151108124957.1">@language xml
 @tabwidth -4
 @others
@@ -10590,68 +10398,6 @@ Summary: 作業三摘要
     &lt;/p&gt;military:軍事&lt;/p&gt;
 &lt;/section&gt;
 				
-</t>
-<t tx="leo.20151108125004.1">@language md
-Title: 2015 計算機程式 作業二
-Date: 2015-10-28 21:34
-Modified: 2015-10-28 21:34
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w2
-Authors: 40328245
-Summary: 作業二摘要
-以下為作業二內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業二投影片](simplest2.html){:target="_blank"}
-============
-
-&lt;img src="https://copy.com/TsvO1jcRJmLPzJXh" width="500" alt="步驟一"&gt;&lt;/img&gt;
-
-步驟一:先做出簡單幾何圖
-
-並利用工具欄(下圖)來做修改
-
-&lt;img src="https://copy.com/iarlwvGAMml2BMWW" height="300" alt="工具欄"&gt;&lt;/img&gt;
-
-在按工具攔下正方體的格式,長出立體圖
-
-記得修改另外視窗的工具列裡的"extrude plane sketch"成"two-sided"(如下圖)
-
-&lt;img src="https://copy.com/Q7w63wY8sQYsVgjU" width="500" alt="小工具欄"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/DpWwLb2kKO02wr8y" width=500" alt="步驟二"&gt;&lt;/img&gt;
-
-步驟二:在中間建立一個平面(利用一點及兩條線去建立)
-
-&lt;img src="https://copy.com/8xxbl68zpjIBeefJ" width="500" alt="上排工具欄"&gt;&lt;/img&gt;
-
-(上排工具欄的NewGroup點開選取sketch in new work plane)
-
-畫完簡單的三角形圖並與之前的線做連結
-再長出
-
-&lt;img src="https://copy.com/pbU7R7hTNSvB17rC" width="500" alt="成品"&gt;&lt;/img&gt;
-
-最後:與步驟二一樣,在斜面建立草圖,
- 並畫出兩個圓,與中間線對稱,再向另一邊長出,
-
- 在另外視窗的工具列裡選擇"difference"
-
-&lt;img src="https://copy.com/ZsuDYpG7nKiC61SM" width="500" alt="小工具欄2"&gt;&lt;/img&gt;
-
-這樣就結束了~~
-
-
-
-
-
-
-
-
 </t>
 <t tx="leo.20151108125016.1">@language xml
 @tabwidth -4
@@ -10743,23 +10489,6 @@ Summary: 作業二摘要
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151108125022.1">@language md
-Title: 2015 計算機程式 Jupyter
-Date: 2015-09-19 21:41
-Modified: 2015-09-19 21:41
-Category: Python
-Tags: Jupyter, IPython
-Slug: 2015cp_note1
-Authors: 40328245
-Summary: 導入 notebook 內容
-
-以下為 Jupyter notebook 檔案內容:
-
-{% notebook demo.ipynb %}
-
-
-
-</t>
 <t tx="leo.20151108125028.1">@language xml
 @tabwidth -4
 @others
@@ -10849,23 +10578,244 @@ Summary: 導入 notebook 內容
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151108125035.1">@language md
-Title: 2015 計算機程式 作業一
-Date: 2015-10-28 20:09
-Modified: 2015-10-28 20:09
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w1
-Authors: 40328245
-Summary: 作業一摘要
-以下為作業一內容
+<t tx="leo.20151108143359.1"></t>
+<t tx="leo.20151108143359.2"></t>
+<t tx="leo.20151108143359.4"></t>
+<t tx="leo.20151108143359.5"></t>
+<t tx="leo.20151108143359.7"></t>
+<t tx="leo.20151108143359.8"></t>
+<t tx="leo.20151108144948.1">@language xml
+@tabwidth -4
+@others
 
-利用 iframe 嵌入投影片:
+</t>
+<t tx="leo.20151108144948.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151108144948.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151108144948.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151108144948.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151108144948.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108144948.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108144948.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323239陳信榮&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151108144948.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;筆記&lt;/h1&gt;
+    &lt;p&gt;1.把學校電腦裡的Ana3_2015帶回家
 
-&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+2.git config --global user.name "自己的學號 或名稱"
+3.git config --global user.email 自己的信箱
+4.到github網站，建立一個 github 倉儲，建好之後git clone，在建立分支 gh-pages
+5.在近端建立分支 git branch 名稱，切換分支 git checkout 名稱
+把老師的資料 複製到 自己的資料夾
+用leo 修改，然後推回去 自己的 gh-pages&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108144948.9">&lt;section&gt;
+    &lt;h1&gt;心得與自評&lt;/h1&gt;
+    &lt;p&gt;心得:我其實做了很多次了，但是不知道為啥東西都傳不上去，所以時間才會拖到這麼晚，可是我還是把它做完了，所以我也花了許多時間來做這個作業，多做了幾次發現比較熟練了。
+    自評分數:70&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108144955.1">@language xml
+@tabwidth -4
+@others
 
-[作業一投影片](simplest.html){:target="_blank"}
+</t>
+<t tx="leo.20151108144955.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151108144955.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151108144955.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151108144955.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151108144955.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108144955.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108144955.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323239陳信榮&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151108144955.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;筆記&lt;/h1&gt;
+    &lt;p&gt;1.先開啟slovesplace然後先畫出圖形的大概樣子
+    2.水平線跟垂直線要約束
+    3.圓角和對稱尺寸100
+    4.做肋尺寸15
+    5.2個通孔尺寸15距離底邊25對稱&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108144955.9">&lt;section&gt;
+    &lt;h1&gt;心得與自評&lt;/h1&gt;
+    &lt;p&gt;心得:我這次有先參考別人的畫法，然後再做出我自己覺得最快的畫法，可能會比較隨意但東西還是正確的，而且這次沒有想像真的難所以我覺得我自己做的還不錯
+    自評分數:75&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務二&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108145002.1">@language xml
+@tabwidth -4
+@others
 
+</t>
+<t tx="leo.20151108145002.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151108145002.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151108145002.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151108145002.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151108145002.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108145002.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108145002.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323239陳信榮&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151108145002.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;筆記&lt;/h1&gt;
+    &lt;p&gt;1有一個CREO的PDF檔
+    2.裡面有零件的尺寸
+    3.把它組裝起來
+    4.要開啟右鍵內容，要按著右鍵往下滑&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108145002.9">&lt;section&gt;
+    &lt;h1&gt;心得與自評&lt;/h1&gt;
+    &lt;p&gt;心得:CREO比起有先繪圖軟體比較好用，因為我常常懶得把視圖縮放，但是她會自己縮放所以我覺得比起其他的方便了那一些些，但是有先地方也是比較麻煩的。
+    自評分數:75&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務三&lt;/a&gt;
+&lt;/section&gt;
+				
 </t>
 <t tx="leo40323206.20151102101501.1"></t>
 <t tx="leo40323206.20151102101501.2"></t>
