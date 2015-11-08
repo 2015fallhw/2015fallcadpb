@@ -1178,30 +1178,30 @@
 </v>
 </v>
 </v>
-<v t="leo.20151109015835.1" a="E"><vh>@path 40323226</vh>
-<v t="leo.20151109015835.2"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20151109020046.1"><vh>@clean simplest.html</vh>
-<v t="leo.20151109020046.2"><vh>檔案說明</vh></v>
-<v t="leo.20151109020046.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151109020046.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151109020046.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151109020046.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151109020046.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151109020046.8"><vh>作業任務一</vh></v>
-<v t="leo.20151109020046.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151109021457.1" a="E"><vh>@path 40323226</vh>
+<v t="leo.20151109021457.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151109021651.1" a="E"><vh>@clean simplest.html</vh>
+<v t="leo.20151109021651.2"><vh>檔案說明</vh></v>
+<v t="leo.20151109021651.3"><vh>html 標註</vh>
+<v t="leo.20151109021651.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151109021651.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151109021651.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151109021651.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151109021651.8"><vh>作業任務一</vh></v>
+<v t="leo.20151109021651.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="leo.20151109020046.10"><vh>script</vh></v>
+<v t="leo.20151109021651.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151109015835.4" a="E"><vh>@path pelican</vh>
-<v t="leo.20151109015835.5"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20151109015835.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151109015835.7" a="E"><vh>@path content</vh>
-<v t="leo.20151109015835.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151109020147.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="leo.20151109015835.10"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20151109021457.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151109021457.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151109021457.6"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151109021457.7" a="E"><vh>@path content</vh>
+<v t="leo.20151109021457.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151109021638.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151109021457.10"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
 </v>
@@ -13491,18 +13491,18 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151109015835.1"></t>
-<t tx="leo.20151109015835.2"></t>
-<t tx="leo.20151109015835.4"></t>
-<t tx="leo.20151109015835.5"></t>
-<t tx="leo.20151109015835.7"></t>
-<t tx="leo.20151109015835.8"></t>
-<t tx="leo.20151109020046.1">@language xml
+<t tx="leo.20151109021457.1"></t>
+<t tx="leo.20151109021457.2"></t>
+<t tx="leo.20151109021457.4"></t>
+<t tx="leo.20151109021457.5"></t>
+<t tx="leo.20151109021457.7"></t>
+<t tx="leo.20151109021457.8"></t>
+<t tx="leo.20151109021651.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151109020046.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151109021651.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -13511,14 +13511,14 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151109020046.2">&lt;!--
+<t tx="leo.20151109021651.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151109020046.3">&lt;!doctype html&gt;
+<t tx="leo.20151109021651.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -13532,21 +13532,21 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151109020046.4">&lt;body&gt;
+<t tx="leo.20151109021651.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151109020046.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151109021651.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151109020046.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151109021651.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151109020046.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151109021651.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -13555,7 +13555,7 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151109020046.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151109021651.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;筆記&lt;/h1&gt;
     &lt;p&gt;Git confit – global user.email “ “：讓系統知道使用者之信箱
 
@@ -13579,7 +13579,7 @@ Git checkout gh-pages：切換分支&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151109020046.9">&lt;section&gt;
+<t tx="leo.20151109021651.9">&lt;section&gt;
     &lt;h1&gt;自評60分&lt;/h1&gt;
     &lt;p&gt;雖然上課時都聽不懂，但在同學的幫忙下完成了，中間也有許多的問題，也都順利的解決了。&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
