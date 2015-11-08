@@ -86,7 +86,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151109032704.1"><vh>@clean simplest1.html</vh>
+<v t="leo.20151109032704.1" a="E"><vh>@clean simplest1.html</vh>
 <v t="leo.20151109032704.2"><vh>檔案說明</vh></v>
 <v t="leo.20151109032704.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151109032704.4" a="E"><vh>body 標註</vh>
@@ -101,7 +101,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151109032709.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151109032709.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="leo.20151109032709.2"><vh>檔案說明</vh></v>
 <v t="leo.20151109032709.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151109032709.4" a="E"><vh>body 標註</vh>
