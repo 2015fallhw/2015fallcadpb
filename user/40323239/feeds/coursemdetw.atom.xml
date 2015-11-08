@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/python.atom.xml" rel="self"></link><id>/</id><updated>2015-11-02T11:41:00+00:00</updated><entry><title>2015 計算機程式 作業三</title><link href="/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-11-02T11:41:00+00:00</updated><author><name>coursemdetw</name></author><id>tag:,2015-11-02:2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;以下為作業三內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/coursemdetw.atom.xml" rel="self"></link><id>/</id><updated>2015-11-02T11:41:00+00:00</updated><entry><title>2015 計算機程式 作業三</title><link href="/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-11-02T11:41:00+00:00</updated><author><name>coursemdetw</name></author><id>tag:,2015-11-02:2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;以下為作業三內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
