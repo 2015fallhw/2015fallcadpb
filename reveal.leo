@@ -71,7 +71,7 @@
 </v>
 <v t="leo.20151109024625.1" a="E"><vh>@path 40323229</vh>
 <v t="leo.20151109024625.2"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20151109024653.1" a="E"><vh>@clean simplest.html</vh>
+<v t="leo.20151109024653.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151109024653.2"><vh>檔案說明</vh></v>
 <v t="leo.20151109024653.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151109024653.4" a="E"><vh>body 標註</vh>
