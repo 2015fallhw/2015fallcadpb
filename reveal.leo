@@ -69,30 +69,30 @@
 </v>
 </v>
 </v>
-<v t="leo.20151109023858.1" a="E"><vh>@path 40323229</vh>
-<v t="leo.20151109023858.2"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20151109023932.1"><vh>@clean simplest.html</vh>
-<v t="leo.20151109023932.2"><vh>檔案說明</vh></v>
-<v t="leo.20151109023932.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151109023932.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151109023932.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151109023932.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151109023932.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151109023932.8"><vh>作業任務一</vh></v>
-<v t="leo.20151109023932.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151109024625.1" a="E"><vh>@path 40323229</vh>
+<v t="leo.20151109024625.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151109024653.1" a="E"><vh>@clean simplest.html</vh>
+<v t="leo.20151109024653.2"><vh>檔案說明</vh></v>
+<v t="leo.20151109024653.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151109024653.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151109024653.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151109024653.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151109024653.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151109024653.8"><vh>作業任務一</vh></v>
+<v t="leo.20151109024653.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="leo.20151109023932.10"><vh>script</vh></v>
+<v t="leo.20151109024653.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151109023858.4" a="E"><vh>@path pelican</vh>
-<v t="leo.20151109023858.5"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20151109023858.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151109023858.7" a="E"><vh>@path content</vh>
-<v t="leo.20151109023858.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151109023942.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="leo.20151109023858.10"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20151109024625.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151109024625.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151109024625.6"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151109024625.7" a="E"><vh>@path content</vh>
+<v t="leo.20151109024625.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151109024705.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151109024625.10"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
 </v>
@@ -13491,36 +13491,18 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151109023858.1"></t>
-<t tx="leo.20151109023858.10">@language md
-Title: 2015 計算機程式 Jupyter
-Date: 2015-09-19 21:41
-Category: Python
-Tags: Jupyter, IPython
-Slug: 2015cp_note1
-Authors: coursemdetw
-Summary: 導入 notebook 內容
-
-以下為 Jupyter notebook 檔案內容:
-
-{% notebook brython_ex1.ipynb %}
-
-{% notebook demo.ipynb %}
-
-
-
-</t>
-<t tx="leo.20151109023858.2"></t>
-<t tx="leo.20151109023858.4"></t>
-<t tx="leo.20151109023858.5"></t>
-<t tx="leo.20151109023858.7"></t>
-<t tx="leo.20151109023858.8"></t>
-<t tx="leo.20151109023932.1">@language xml
+<t tx="leo.20151109024625.1"></t>
+<t tx="leo.20151109024625.2"></t>
+<t tx="leo.20151109024625.4"></t>
+<t tx="leo.20151109024625.5"></t>
+<t tx="leo.20151109024625.7"></t>
+<t tx="leo.20151109024625.8"></t>
+<t tx="leo.20151109024653.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151109023932.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151109024653.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -13529,14 +13511,14 @@ Summary: 導入 notebook 內容
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151109023932.2">&lt;!--
+<t tx="leo.20151109024653.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151109023932.3">&lt;!doctype html&gt;
+<t tx="leo.20151109024653.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -13550,21 +13532,21 @@ Summary: 導入 notebook 內容
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151109023932.4">&lt;body&gt;
+<t tx="leo.20151109024653.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151109023932.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151109024653.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151109023932.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151109024653.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151109023932.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151109024653.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -13573,7 +13555,7 @@ Summary: 導入 notebook 內容
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151109023932.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151109024653.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;步驟與說明&lt;/h1&gt;
     &lt;p&gt;1.下載reveal的內容&lt;/p&gt;
     &lt;p&gt;2.用LEO修改投影片&lt;/p&gt;
@@ -13584,7 +13566,7 @@ Summary: 導入 notebook 內容
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151109023932.9">&lt;section&gt;
+<t tx="leo.20151109024653.9">&lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;謝謝同學的幫忙 真的如果沒有同學幫忙 不知道這次的作業完不完成的了 所以60&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
