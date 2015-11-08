@@ -1,5 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 49923230 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-19T21:41:00+08:00</updated><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323250 電腦輔助設計實習 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-27T20:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第一次上傳</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;Bellow is the 1st uploading slide&lt;/p&gt;
+&lt;p&gt;Using iframe to insert slides:&lt;/p&gt;
+&lt;iframe src="2015cadpslidesw1.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="2015cadpslidesw1.html" target="_blank"&gt;Fullscreen slides&lt;/a&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;bgm001.mp3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;audio controls pause loop&gt;
+        &lt;source src="https://copy.com/7VjtFXZ0pwRP0fly"&gt;
+    &lt;/audio&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;hr&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;What's the contents of the slides?&lt;/h1&gt;
+&lt;p&gt;The 1st uploading slide included a few items below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reading and reviews of &lt;strong&gt;What engineers do?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Reading and reviews of &lt;strong&gt;Computer in Engineering&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Studying &lt;strong&gt;LeoEditor tutorials&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;1st uploading learning video from Vimeo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Convert pdf file to html file and push up to github pages&lt;/h2&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?m=20151012" target="_blank"&gt;Professor's web&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://49923230.github.io/creo2primer/" target="_blank"&gt;My Creo2primer Github Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Operation detail: convert creo tutorials pdf file to himl file. And push the html file to the new repositories that you created. Then name the new repositories "Creo2primer".&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1.Go to "Professor's web" and link it to the web that professor offered.&lt;/li&gt;
+&lt;li&gt;2.Download the file converter and creo pdf file from professor's web.&lt;/li&gt;
+&lt;li&gt;3.Open a new repositories and name it "creo2primer.&lt;/li&gt;
+&lt;li&gt;4.Open cmd and type in "cd tmp" then type "git clone" to sync the github and local folder.&lt;/li&gt;
+&lt;li&gt;5.After you did you step 4 you will see a folder name creo2primer will show up in the y disk/tmp.&lt;/li&gt;
+&lt;li&gt;6.Copy the creo tutorials html file and paste them into the folder called creo2primer in disk y/tmp.&lt;/li&gt;
+&lt;li&gt;7.Open cmd and type in "cd creo2primer" and type in "git branch gh-pages" for creating a new web branch.&lt;/li&gt;
+&lt;li&gt;8.For switching the branch to gh-pages must type in "git checkout gh-pages".&lt;/li&gt;
+&lt;li&gt;9.Then type in "git add -A" then "git commit -m"initial add" then "git origin push gh-pages" then type in the account and password for pushing files.&lt;/li&gt;
+&lt;li&gt;10.After pushing all the files to the github then it's able to open the file from the link " http://49923230.github.io/creo2primer/".&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;My 1st learning record video:&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/144497585" width="500" height="276" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/144497585"&gt;w1hm&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第二次上傳</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;Below is the 2nd uploading slide&lt;/p&gt;
+&lt;p&gt;Using iframe insert slides:&lt;/p&gt;
+&lt;iframe src="2015cadpslidesw2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="2015cadpslidesw2.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;bgm001.mp3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;audio controls pause loop&gt;
+        &lt;source src="https://copy.com/7VjtFXZ0pwRP0fly"&gt;
+    &lt;/audio&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;hr&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;What's the contents of the sides?&lt;/h1&gt;
+&lt;p&gt;The 2nd uploading homework slides included a few items bellow.&lt;/p&gt;
+&lt;p&gt;These items are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Videos of &lt;strong&gt;Learning Splvespace&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Videos of &lt;strong&gt;Learning Creo&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Reviews of &lt;strong&gt;Learning Solvespace and Creo&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Solvespace practice pics&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/O27sA0aQIv7gPfIf"width="450"height="450"&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;Creo practice pics&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Kit - Cube &lt;/p&gt;
+&lt;img src="https://copy.com/2Fp3eWZkvLaIqfjt"width="450"height="450"&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Kit - Strut &lt;/p&gt;
+&lt;img src="https://copy.com/3gCH14QfiCxwW94P"width="450"height="450"&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Kit - Assembly &lt;/p&gt;
+&lt;img src="https://copy.com/FAgfyzFNDPoGM76F"width="450"height="450"&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
 &lt;p&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
@@ -312,7 +411,30 @@ doc["btn-stop"].bind("click", stop)
 &lt;p&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[1]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[&amp;nbsp;]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="n"&gt;html5&lt;/span&gt; &lt;span class="n"&gt;music&lt;/span&gt; &lt;span class="n"&gt;player&lt;/span&gt;
+&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;html&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;head&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;&lt;span class="n"&gt;Title&lt;/span&gt;&lt;span class="o"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="o"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="n"&gt;head&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;body&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;audio&lt;/span&gt; &lt;span class="n"&gt;controls&lt;/span&gt; &lt;span class="n"&gt;pause&lt;/span&gt; &lt;span class="n"&gt;loop&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;source&lt;/span&gt; &lt;span class="n"&gt;src&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;music file link&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class="o"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="n"&gt;audio&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="o"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="n"&gt;body&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="o"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="n"&gt;html&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[2]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# print 函式可以列印字串&lt;/span&gt;
@@ -342,7 +464,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[2]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[3]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# 利用 print 列印3個 *&lt;/span&gt;
@@ -370,7 +492,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[3]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[4]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# 利用 print 列印空白與 *&lt;/span&gt;
@@ -402,7 +524,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[4]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[5]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# 可以用乘號列印五個 *&lt;/span&gt;
@@ -430,7 +552,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[5]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[6]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# for 迴圈可以透過 iterator 逐一執行迴圈內容&lt;/span&gt;
@@ -463,7 +585,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[6]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[7]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -494,7 +616,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[7]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[8]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -526,7 +648,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[8]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[9]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -557,7 +679,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[9]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[10]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -587,7 +709,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[10]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[11]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -618,7 +740,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[11]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[12]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -649,7 +771,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[12]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[13]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -680,7 +802,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[13]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[14]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -712,7 +834,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[14]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[15]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -746,7 +868,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[15]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[16]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -779,7 +901,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[16]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[17]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -829,7 +951,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[17]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[18]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -891,7 +1013,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[18]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[19]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -953,7 +1075,7 @@ doc["btn-stop"].bind("click", stop)
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[19]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[20]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -1025,7 +1147,7 @@ a       a
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[20]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[21]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -1107,7 +1229,7 @@ sssssssss
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[21]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[22]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;菱形&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
@@ -1180,7 +1302,7 @@ sssssssss
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
-&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[22]:&lt;/div&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[23]:&lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
 &lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="sd"&gt;&amp;#39;&amp;#39;&amp;#39;請設法利用上述程式片段, 列印下列字串圖案:&lt;/span&gt;
@@ -1269,7 +1391,7 @@ sssssssss
 &lt;div class="output"&gt;
 
 
-&lt;div class="output_area"&gt;&lt;div class="prompt output_prompt"&gt;Out[22]:&lt;/div&gt;
+&lt;div class="output_area"&gt;&lt;div class="prompt output_prompt"&gt;Out[23]:&lt;/div&gt;
 
 
 &lt;div class="output_text output_subarea output_execute_result"&gt;
@@ -1281,116 +1403,4 @@ sssssssss
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>2015 計算機程式 範例</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="9999_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="9999_cp_w1_p.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;使用 H1 標題&lt;/h1&gt;
-&lt;p&gt;文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視為連續的資料&lt;/p&gt;
-&lt;p&gt;使用. &lt;em&gt;斜體文字&lt;/em&gt;, &lt;strong&gt;黑體文字&lt;/strong&gt;, 以及 &lt;code&gt;單線文字&lt;/code&gt;. 表列資料可以寫為:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;第1項說明&lt;/li&gt;
-&lt;li&gt;第2項說明&lt;/li&gt;
-&lt;li&gt;第3項說明&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;特別注意 --- 不包括星號 --- 表列文字從第四欄位開始.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;引用的內容寫在這裡
-主要是以大於的符號開頭.&lt;/p&gt;
-&lt;p&gt;其中也可以利用空白行隔開,
-整區都是引用內容的範圍.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;em-dash 符號是3個 dashes. 利用兩個 dashes 來連接開始與結束 (ex., "這個禮拜要閱讀章節 12--14"). 3個逗點 ... 則會被轉為 ellipsis.
-pelican 可以支援 unicode. ☺&lt;/p&gt;
-&lt;h2&gt;H2 標題&lt;/h2&gt;
-&lt;p&gt;有數字的表列資料:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;第1項&lt;/li&gt;
-&lt;li&gt;第2項&lt;/li&gt;
-&lt;li&gt;第3項&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;跟前面一樣, 文字從第四個欄位開始.&lt;/p&gt;
-&lt;p&gt;程式碼的表達:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;# for 重複迴圈 ...
-for i in 1 .. 10 { 呼叫特定函式(i) }
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;這裡也是要空4個 space 鍵. &lt;/p&gt;
-&lt;p&gt;除了每一行空4個空白, 也可以使用 delimited 來界定程式碼範圍, 就像這樣:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;define foobar() {
-    print(&amp;quot;歡迎進入程式的世界!&amp;quot;)
-}
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;(這樣的表達比較容易用來複製程式碼內容).&lt;/p&gt;
-&lt;p&gt;python 的程式碼, 可以寫成下列格式&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;time&lt;/span&gt;
-&lt;span class="c"&gt;# 以下會從 0 數到 9&lt;/span&gt;
-&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
-    &lt;span class="c"&gt;# 稍微暫停一下&lt;/span&gt;
-    &lt;span class="n"&gt;time&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;sleep&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-    &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;以下為另外一種嵌入程式碼的方法:&lt;/p&gt;
-&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
-2
-3
-4
-5
-6&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;time&lt;/span&gt;
-&lt;span class="c"&gt;# 以下會從 0 數到 9&lt;/span&gt;
-&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
-    &lt;span class="c"&gt;# 稍微暫停一下&lt;/span&gt;
-    &lt;span class="n"&gt;time&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;sleep&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-    &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
-&lt;h3&gt;H3 標題&lt;/h3&gt;
-&lt;p&gt;以下則為內嵌式的表列法t:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;首先, 將完成下列元件的設計:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;轉向機構&lt;/li&gt;
-&lt;li&gt;煞車系統&lt;/li&gt;
-&lt;li&gt;踩踏機構&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;接著連繫工業設計部門.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;確定上述元件的各項設計與用料都符合原始設計規格的要求
-    查驗表:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;各元件材質
-車蓋顏色
-機構調校流程
-需要熱處理的元件列表
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;完成上述查驗後, 請通知品保部門, 以便接續處理.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;特別注意各階資料都以內縮4個空白鍵來加以區隔, 包含最後一行.&lt;/p&gt;
-&lt;p&gt;Markdown 的超文件連結寫法 &lt;a href="http://www.google.com" target="_blank"&gt;連到 Google&lt;/a&gt;, 也可以連到同目錄下的檔案 &lt;a href="cadpbw1.html" target="_blank"&gt;cadpbw1.html&lt;/a&gt;, 也能使用註腳 &lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;放入圖檔, 可以直接利用 html 的 img 標註:&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/spur.png" width="500" alt="正齒輪繪圖"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;div class="footnote"&gt;
-&lt;hr /&gt;
-&lt;ol&gt;
-&lt;li id="fn:1"&gt;
-&lt;p&gt;註腳會連結到這裡.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry></feed>

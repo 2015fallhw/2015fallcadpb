@@ -25,7 +25,7 @@
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
-<v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
+<v t="amd.20151006113136.1"><vh>@path content</vh>
 <v t="40323250.20151102200201.1"><vh>@edit 2015cphww7.md</vh></v>
 <v t="amd.20151030003041.1"><vh>@edit 2015cphww7-1.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
@@ -33,9 +33,9 @@
 </v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
+<v t="amd.20150915211351.1"><vh>html 標註</vh>
 <v t="amd.20150915211351.4"><vh>body 標註</vh>
 <v t="amd.20150915211351.5"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6"><vh>div class="slides"</vh>
@@ -62,21 +62,21 @@
 <v t="amd.20151021114516.1"><vh>@path pelican</vh>
 <v t="amd.20151021213548.1"><vh>以下為設定檔 ------------</vh></v>
 <v t="amd.20151021114727.1"><vh>@edit publishconf.py</vh></v>
-<v t="amd.20151021114712.1" a="E"><vh>@path content</vh>
+<v t="amd.20151021114712.1"><vh>@path content</vh>
 <v t="amd.20151021213558.1"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="amd.20151021114905.1"><vh>@edit 9999_cp_w1.md</vh></v>
 <v t="40323250.20151026210731.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151108174951.1" a="E"><vh>@path 40323208</vh>
+<v t="leo.20151108174951.1"><vh>@path 40323208</vh>
 <v t="leo.20151108174951.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151108175236.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151108175236.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108175236.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108175236.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108175236.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108175236.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108175236.3"><vh>html 標註</vh>
+<v t="leo.20151108175236.4"><vh>body 標註</vh>
+<v t="leo.20151108175236.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108175236.6"><vh>div class="slides"</vh>
 <v t="leo.20151108175236.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151108175236.8"><vh>作業任務一</vh></v>
 <v t="leo.20151108175236.9"><vh>第3張投影片</vh></v>
@@ -88,10 +88,10 @@
 </v>
 <v t="leo.20151108175243.1"><vh>@clean simplest2.html</vh>
 <v t="leo.20151108175243.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108175243.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108175243.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108175243.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108175243.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108175243.3"><vh>html 標註</vh>
+<v t="leo.20151108175243.4"><vh>body 標註</vh>
+<v t="leo.20151108175243.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108175243.6"><vh>div class="slides"</vh>
 <v t="leo.20151108175243.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151108175243.8"><vh>作業任務一</vh></v>
 <v t="leo.20151108175243.9"><vh>第3張投影片</vh></v>
@@ -103,10 +103,10 @@
 </v>
 <v t="leo.20151108175251.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151108175251.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108175251.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108175251.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108175251.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108175251.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108175251.3"><vh>html 標註</vh>
+<v t="leo.20151108175251.4"><vh>body 標註</vh>
+<v t="leo.20151108175251.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108175251.6"><vh>div class="slides"</vh>
 <v t="leo.20151108175251.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151108175251.8"><vh>作業任務一</vh></v>
 <v t="leo.20151108175251.9"><vh>第3張投影片</vh></v>
@@ -116,7 +116,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151108174951.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151108174951.4"><vh>@path pelican</vh>
 <v t="leo.20151108174951.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151108174951.6"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151108174951.7"><vh>@path content</vh>
@@ -132,10 +132,10 @@
 <v t="leo.20151108160347.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151108160858.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151108160858.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108160858.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108160858.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108160858.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108160858.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108160858.3"><vh>html 標註</vh>
+<v t="leo.20151108160858.4"><vh>body 標註</vh>
+<v t="leo.20151108160858.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108160858.6"><vh>div class="slides"</vh>
 <v t="leo.20151108160858.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151108160858.8"><vh>作業任務一</vh></v>
 <v t="leo.20151108160858.9"><vh>第3張投影片</vh></v>
@@ -147,10 +147,10 @@
 </v>
 <v t="leo.20151108160851.1"><vh>@clean simplest2.html</vh>
 <v t="leo.20151108160851.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108160851.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108160851.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108160851.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108160851.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108160851.3"><vh>html 標註</vh>
+<v t="leo.20151108160851.4"><vh>body 標註</vh>
+<v t="leo.20151108160851.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108160851.6"><vh>div class="slides"</vh>
 <v t="leo.20151108160851.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151108160851.8"><vh>作業任務一</vh></v>
 <v t="leo.20151108160851.9"><vh>第3張投影片</vh></v>
@@ -163,9 +163,9 @@
 <v t="leo.20151108160845.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151108160845.2"><vh>檔案說明</vh></v>
 <v t="leo.20151108160845.3"><vh>html 標註</vh>
-<v t="leo.20151108160845.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108160845.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108160845.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108160845.4"><vh>body 標註</vh>
+<v t="leo.20151108160845.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108160845.6"><vh>div class="slides"</vh>
 <v t="leo.20151108160845.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151108160845.8"><vh>作業任務一</vh></v>
 <v t="leo.20151108160845.9"><vh>第3張投影片</vh></v>
@@ -175,10 +175,10 @@
 </v>
 </v>
 </v>
-<v t="leo.20151108160347.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151108160347.4"><vh>@path pelican</vh>
 <v t="leo.20151108160347.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151108160347.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151108160347.7" a="E"><vh>@path content</vh>
+<v t="leo.20151108160347.7"><vh>@path content</vh>
 <v t="leo.20151108160347.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151108160801.1"><vh>@edit 2015cphww3.md</vh></v>
 <v t="leo.20151108160755.1"><vh>@edit 2015cphww2.md</vh></v>
@@ -190,10 +190,10 @@
 <v t="leo.20151027190508.1"><vh>@path 40223212</vh>
 <v t="leo.20151027190508.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151027190508.3"><vh>@edit 40223212_cp_w1_p.html</vh></v>
-<v t="leo.20151027190508.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151027190508.4"><vh>@path pelican</vh>
 <v t="leo.20151027190508.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151027190508.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151027190508.7" a="E"><vh>@path content</vh>
+<v t="leo.20151027190508.7"><vh>@path content</vh>
 <v t="leo.20151027190508.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151027230336.1"><vh>@edit 40223212_cp_w4.md</vh></v>
 <v t="leo.20151027190508.9"><vh>@edit 9999_cp_w1.md</vh></v>
@@ -205,10 +205,10 @@
 <v t="2015cp.20151107135611.2"><vh>以下為投影片 ------------</vh></v>
 <v t="2015cp.20151107135611.3"><vh>@clean simplest.html</vh>
 <v t="2015cp.20151107135611.4"><vh>檔案說明</vh></v>
-<v t="2015cp.20151107135611.5" a="E"><vh>html 標註</vh>
-<v t="2015cp.20151107135611.6" a="E"><vh>body 標註</vh>
-<v t="2015cp.20151107135611.7" a="E"><vh>div class="reveal"</vh>
-<v t="2015cp.20151107135611.8" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151107135611.5"><vh>html 標註</vh>
+<v t="2015cp.20151107135611.6"><vh>body 標註</vh>
+<v t="2015cp.20151107135611.7"><vh>div class="reveal"</vh>
+<v t="2015cp.20151107135611.8"><vh>div class="slides"</vh>
 <v t="2015cp.20151107135611.9"><vh>有關我的作業</vh></v>
 <v t="2015cp.20151107135611.10"><vh>作業任務一</vh></v>
 <v t="2015cp.20151107135611.11"><vh>第3張投影片</vh></v>
@@ -220,10 +220,10 @@
 </v>
 <v t="2015cp.20151107135611.13"><vh>@clean simplest2.html</vh>
 <v t="2015cp.20151107135611.14"><vh>檔案說明</vh></v>
-<v t="2015cp.20151107135611.15" a="E"><vh>html 標註</vh>
-<v t="2015cp.20151107135611.16" a="E"><vh>body 標註</vh>
-<v t="2015cp.20151107135611.17" a="E"><vh>div class="reveal"</vh>
-<v t="2015cp.20151107135611.18" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151107135611.15"><vh>html 標註</vh>
+<v t="2015cp.20151107135611.16"><vh>body 標註</vh>
+<v t="2015cp.20151107135611.17"><vh>div class="reveal"</vh>
+<v t="2015cp.20151107135611.18"><vh>div class="slides"</vh>
 <v t="2015cp.20151107135611.19"><vh>有關我的作業</vh></v>
 <v t="2015cp.20151107135611.20"><vh>作業任務一</vh></v>
 <v t="2015cp.20151107135611.21"><vh>第3張投影片</vh></v>
@@ -235,10 +235,10 @@
 </v>
 <v t="2015cp.20151107135611.23"><vh>@clean simplest3.html</vh>
 <v t="2015cp.20151107135611.24"><vh>檔案說明</vh></v>
-<v t="2015cp.20151107135611.25" a="E"><vh>html 標註</vh>
-<v t="2015cp.20151107135611.26" a="E"><vh>body 標註</vh>
-<v t="2015cp.20151107135611.27" a="E"><vh>div class="reveal"</vh>
-<v t="2015cp.20151107135611.28" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151107135611.25"><vh>html 標註</vh>
+<v t="2015cp.20151107135611.26"><vh>body 標註</vh>
+<v t="2015cp.20151107135611.27"><vh>div class="reveal"</vh>
+<v t="2015cp.20151107135611.28"><vh>div class="slides"</vh>
 <v t="2015cp.20151107135611.29"><vh>有關我的作業</vh></v>
 <v t="2015cp.20151107135611.30"><vh>作業任務一</vh></v>
 <v t="2015cp.20151107135611.31"><vh>第3張投影片</vh></v>
@@ -248,10 +248,10 @@
 </v>
 </v>
 </v>
-<v t="2015cp.20151107135611.33" a="E"><vh>@path pelican</vh>
+<v t="2015cp.20151107135611.33"><vh>@path pelican</vh>
 <v t="2015cp.20151107135611.34"><vh>以下為設定檔 ------------</vh></v>
 <v t="2015cp.20151107135611.35"><vh>@edit publishconf.py</vh></v>
-<v t="2015cp.20151107135611.36" a="E"><vh>@path content</vh>
+<v t="2015cp.20151107135611.36"><vh>@path content</vh>
 <v t="2015cp.20151107135611.37"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="2015cp.20151107135611.38"><vh>@edit 2015cphww1.md</vh></v>
 <v t="2015cp.20151107135611.39"><vh>@edit 2015cphww4.md</vh></v>
@@ -264,10 +264,10 @@
 <v t="leo.20151107102800.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151107104609.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151107104609.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107104609.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107104609.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107104609.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107104609.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107104609.3"><vh>html 標註</vh>
+<v t="leo.20151107104609.4"><vh>body 標註</vh>
+<v t="leo.20151107104609.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107104609.6"><vh>div class="slides"</vh>
 <v t="leo.20151107104609.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107104609.8"><vh>作業任務一</vh></v>
 <v t="leo.20151107104609.9"><vh>第3張投影片</vh></v>
@@ -279,10 +279,10 @@
 </v>
 <v t="leo.20151107104559.1"><vh>@clean simplest2.html</vh>
 <v t="leo.20151107104559.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107104559.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107104559.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107104559.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107104559.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107104559.3"><vh>html 標註</vh>
+<v t="leo.20151107104559.4"><vh>body 標註</vh>
+<v t="leo.20151107104559.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107104559.6"><vh>div class="slides"</vh>
 <v t="leo.20151107104559.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107104559.8"><vh>作業任務一</vh></v>
 <v t="leo.20151107104559.9"><vh>第3張投影片</vh></v>
@@ -294,10 +294,10 @@
 </v>
 <v t="leo.20151107104545.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151107104545.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107104545.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107104545.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107104545.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107104545.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107104545.3"><vh>html 標註</vh>
+<v t="leo.20151107104545.4"><vh>body 標註</vh>
+<v t="leo.20151107104545.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107104545.6"><vh>div class="slides"</vh>
 <v t="leo.20151107104545.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107104545.8"><vh>作業任務一</vh></v>
 <v t="leo.20151107104545.9"><vh>第3張投影片</vh></v>
@@ -310,7 +310,7 @@
 <v t="leo.20151107102800.4"><vh>@path pelican</vh>
 <v t="leo.20151107102800.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151107102800.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151107102800.7" a="E"><vh>@path content</vh>
+<v t="leo.20151107102800.7"><vh>@path content</vh>
 <v t="leo.20151107102800.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151107104413.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151107104401.1"><vh>@edit 2015cphww4.md</vh></v>
@@ -323,10 +323,10 @@
 <v t="leo.20151106231331.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151106232104.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151106232104.2"><vh>檔案說明</vh></v>
-<v t="leo.20151106232104.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151106232104.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151106232104.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151106232104.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151106232104.3"><vh>html 標註</vh>
+<v t="leo.20151106232104.4"><vh>body 標註</vh>
+<v t="leo.20151106232104.5"><vh>div class="reveal"</vh>
+<v t="leo.20151106232104.6"><vh>div class="slides"</vh>
 <v t="leo.20151106232104.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151106232104.8"><vh>作業任務一</vh></v>
 <v t="leo.20151106232104.9"><vh>第3張投影片</vh></v>
@@ -338,10 +338,10 @@
 </v>
 <v t="leo.20151106232057.1"><vh>@clean simplest2.html</vh>
 <v t="leo.20151106232057.2"><vh>檔案說明</vh></v>
-<v t="leo.20151106232057.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151106232057.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151106232057.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151106232057.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151106232057.3"><vh>html 標註</vh>
+<v t="leo.20151106232057.4"><vh>body 標註</vh>
+<v t="leo.20151106232057.5"><vh>div class="reveal"</vh>
+<v t="leo.20151106232057.6"><vh>div class="slides"</vh>
 <v t="leo.20151106232057.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151106232057.8"><vh>作業任務一</vh></v>
 <v t="leo.20151106232057.9"><vh>第3張投影片</vh></v>
@@ -353,10 +353,10 @@
 </v>
 <v t="leo.20151106232048.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151106232048.2"><vh>檔案說明</vh></v>
-<v t="leo.20151106232048.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151106232048.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151106232048.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151106232048.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151106232048.3"><vh>html 標註</vh>
+<v t="leo.20151106232048.4"><vh>body 標註</vh>
+<v t="leo.20151106232048.5"><vh>div class="reveal"</vh>
+<v t="leo.20151106232048.6"><vh>div class="slides"</vh>
 <v t="leo.20151106232048.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151106232048.8"><vh>作業任務一</vh></v>
 <v t="leo.20151106232048.9"><vh>第3張投影片</vh></v>
@@ -369,7 +369,7 @@
 <v t="leo.20151106231331.4"><vh>@path pelican</vh>
 <v t="leo.20151106231331.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151106231331.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151106231331.7" a="E"><vh>@path content</vh>
+<v t="leo.20151106231331.7"><vh>@path content</vh>
 <v t="leo.20151106231331.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151106232017.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151106232010.1"><vh>@edit 2015cphww4.md</vh></v>
@@ -382,10 +382,10 @@
 <v t="leo40323206.20151102101501.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo40323206.20151102102305.1"><vh>@clean simplest.html</vh>
 <v t="leo40323206.20151102102305.2"><vh>檔案說明</vh></v>
-<v t="leo40323206.20151102102305.3" a="E"><vh>html 標註</vh>
-<v t="leo40323206.20151102102305.4" a="E"><vh>body 標註</vh>
-<v t="leo40323206.20151102102305.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo40323206.20151102102305.6" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151102102305.3"><vh>html 標註</vh>
+<v t="leo40323206.20151102102305.4"><vh>body 標註</vh>
+<v t="leo40323206.20151102102305.5"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151102102305.6"><vh>div class="slides"</vh>
 <v t="leo40323206.20151102102305.7"><vh>封面</vh></v>
 <v t="leo40323206.20151102102305.8"><vh>投影片2</vh></v>
 <v t="leo40323206.20151102102305.9"><vh>投影片3</vh></v>
@@ -399,10 +399,10 @@
 </v>
 <v t="leo40323206.20151102102410.1"><vh>@clean simplest2.html</vh>
 <v t="leo40323206.20151102102410.2"><vh>檔案說明</vh></v>
-<v t="leo40323206.20151102102410.3" a="E"><vh>html 標註</vh>
-<v t="leo40323206.20151102102410.4" a="E"><vh>body 標註</vh>
-<v t="leo40323206.20151102102410.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo40323206.20151102102410.6" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151102102410.3"><vh>html 標註</vh>
+<v t="leo40323206.20151102102410.4"><vh>body 標註</vh>
+<v t="leo40323206.20151102102410.5"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151102102410.6"><vh>div class="slides"</vh>
 <v t="leo40323206.20151102102410.7"><vh>封面</vh></v>
 <v t="leo40323206.20151102102410.8"><vh>投影片2</vh></v>
 <v t="leo40323206.20151102102410.9"><vh>投影片3 ( 心得 )</vh></v>
@@ -415,10 +415,10 @@
 </v>
 <v t="leo40323206.20151102102418.1"><vh>@clean simplest3.html</vh>
 <v t="leo40323206.20151102102418.2"><vh>檔案說明</vh></v>
-<v t="leo40323206.20151102102418.3" a="E"><vh>html 標註</vh>
-<v t="leo40323206.20151102102418.4" a="E"><vh>body 標註</vh>
-<v t="leo40323206.20151102102418.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo40323206.20151102102418.6" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151102102418.3"><vh>html 標註</vh>
+<v t="leo40323206.20151102102418.4"><vh>body 標註</vh>
+<v t="leo40323206.20151102102418.5"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151102102418.6"><vh>div class="slides"</vh>
 <v t="leo40323206.20151102102418.7"><vh>封面</vh></v>
 <v t="leo40323206.20151102102418.8"><vh>投影片2</vh></v>
 <v t="leo40323206.20151102102418.9"><vh>投影片3 ( 心得 )</vh></v>
@@ -429,7 +429,7 @@
 </v>
 </v>
 </v>
-<v t="leo40323206.20151102101501.4" a="E"><vh>@path pelican</vh>
+<v t="leo40323206.20151102101501.4"><vh>@path pelican</vh>
 <v t="leo40323206.20151102101501.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo40323206.20151102101501.6"><vh>@edit publishconf.py</vh></v>
 <v t="leo40323206.20151102101501.7"><vh>@path content</vh>
@@ -445,10 +445,10 @@
 <v t="2015cp.20151107230936.2"><vh>以下為投影片 ------------</vh></v>
 <v t="2015cp.20151107230936.3"><vh>@clean simplest3.html</vh>
 <v t="2015cp.20151107230936.4"><vh>檔案說明</vh></v>
-<v t="2015cp.20151107230936.5" a="E"><vh>html 標註</vh>
-<v t="2015cp.20151107230936.6" a="E"><vh>body 標註</vh>
-<v t="2015cp.20151107230936.7" a="E"><vh>div class="reveal"</vh>
-<v t="2015cp.20151107230936.8" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151107230936.5"><vh>html 標註</vh>
+<v t="2015cp.20151107230936.6"><vh>body 標註</vh>
+<v t="2015cp.20151107230936.7"><vh>div class="reveal"</vh>
+<v t="2015cp.20151107230936.8"><vh>div class="slides"</vh>
 <v t="2015cp.20151107230936.9"><vh>有關我的作業</vh></v>
 <v t="2015cp.20151107230936.10"><vh>作業任務一</vh></v>
 <v t="2015cp.20151107230936.11"><vh>第3張投影片</vh></v>
@@ -460,10 +460,10 @@
 </v>
 <v t="2015cp.20151107230936.13"><vh>@clean simplest2.html</vh>
 <v t="2015cp.20151107230936.14"><vh>檔案說明</vh></v>
-<v t="2015cp.20151107230936.15" a="E"><vh>html 標註</vh>
-<v t="2015cp.20151107230936.16" a="E"><vh>body 標註</vh>
-<v t="2015cp.20151107230936.17" a="E"><vh>div class="reveal"</vh>
-<v t="2015cp.20151107230936.18" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151107230936.15"><vh>html 標註</vh>
+<v t="2015cp.20151107230936.16"><vh>body 標註</vh>
+<v t="2015cp.20151107230936.17"><vh>div class="reveal"</vh>
+<v t="2015cp.20151107230936.18"><vh>div class="slides"</vh>
 <v t="2015cp.20151107230936.19"><vh>有關我的作業</vh></v>
 <v t="2015cp.20151107230936.20"><vh>作業任務一</vh></v>
 <v t="2015cp.20151107230936.21"><vh>第3張投影片</vh></v>
@@ -475,10 +475,10 @@
 </v>
 <v t="2015cp.20151107230936.23"><vh>@clean simplest.html</vh>
 <v t="2015cp.20151107230936.24"><vh>檔案說明</vh></v>
-<v t="2015cp.20151107230936.25" a="E"><vh>html 標註</vh>
-<v t="2015cp.20151107230936.26" a="E"><vh>body 標註</vh>
-<v t="2015cp.20151107230936.27" a="E"><vh>div class="reveal"</vh>
-<v t="2015cp.20151107230936.28" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151107230936.25"><vh>html 標註</vh>
+<v t="2015cp.20151107230936.26"><vh>body 標註</vh>
+<v t="2015cp.20151107230936.27"><vh>div class="reveal"</vh>
+<v t="2015cp.20151107230936.28"><vh>div class="slides"</vh>
 <v t="2015cp.20151107230936.29"><vh>有關我的作業</vh></v>
 <v t="2015cp.20151107230936.30"><vh>作業任務一</vh></v>
 <v t="2015cp.20151107230936.31"><vh>第3張投影片</vh></v>
@@ -491,7 +491,7 @@
 <v t="2015cp.20151107230936.33"><vh>@path pelican</vh>
 <v t="2015cp.20151107230936.34"><vh>以下為設定檔 ------------</vh></v>
 <v t="2015cp.20151107230936.35"><vh>@edit publishconf.py</vh></v>
-<v t="2015cp.20151107230936.36" a="E"><vh>@path content</vh>
+<v t="2015cp.20151107230936.36"><vh>@path content</vh>
 <v t="2015cp.20151107230936.37"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="2015cp.20151107230936.38"><vh>@edit 2015cphww5.md</vh></v>
 <v t="2015cp.20151107230936.39"><vh>@edit 2015cphww4.md</vh></v>
@@ -504,10 +504,10 @@
 <v t="2015cp.20151107135648.2"><vh>以下為投影片 ------------</vh></v>
 <v t="2015cp.20151107135648.3"><vh>@clean simplest.html</vh>
 <v t="2015cp.20151107135648.4"><vh>檔案說明</vh></v>
-<v t="2015cp.20151107135648.5" a="E"><vh>html 標註</vh>
-<v t="2015cp.20151107135648.6" a="E"><vh>body 標註</vh>
-<v t="2015cp.20151107135648.7" a="E"><vh>div class="reveal"</vh>
-<v t="2015cp.20151107135648.8" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151107135648.5"><vh>html 標註</vh>
+<v t="2015cp.20151107135648.6"><vh>body 標註</vh>
+<v t="2015cp.20151107135648.7"><vh>div class="reveal"</vh>
+<v t="2015cp.20151107135648.8"><vh>div class="slides"</vh>
 <v t="2015cp.20151107135648.9"><vh>有關我的作業</vh></v>
 <v t="2015cp.20151107135648.10"><vh>作業任務一</vh></v>
 <v t="2015cp.20151107135648.11"><vh>第3張投影片</vh></v>
@@ -519,10 +519,10 @@
 </v>
 <v t="2015cp.20151107135648.13"><vh>@clean simplest2.html</vh>
 <v t="2015cp.20151107135648.14"><vh>檔案說明</vh></v>
-<v t="2015cp.20151107135648.15" a="E"><vh>html 標註</vh>
-<v t="2015cp.20151107135648.16" a="E"><vh>body 標註</vh>
-<v t="2015cp.20151107135648.17" a="E"><vh>div class="reveal"</vh>
-<v t="2015cp.20151107135648.18" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151107135648.15"><vh>html 標註</vh>
+<v t="2015cp.20151107135648.16"><vh>body 標註</vh>
+<v t="2015cp.20151107135648.17"><vh>div class="reveal"</vh>
+<v t="2015cp.20151107135648.18"><vh>div class="slides"</vh>
 <v t="2015cp.20151107135648.19"><vh>有關我的作業</vh></v>
 <v t="2015cp.20151107135648.20"><vh>作業任務一</vh></v>
 <v t="2015cp.20151107135648.21"><vh>第3張投影片</vh></v>
@@ -534,10 +534,10 @@
 </v>
 <v t="2015cp.20151107135648.23"><vh>@clean simplest3.html</vh>
 <v t="2015cp.20151107135648.24"><vh>檔案說明</vh></v>
-<v t="2015cp.20151107135648.25" a="E"><vh>html 標註</vh>
-<v t="2015cp.20151107135648.26" a="E"><vh>body 標註</vh>
-<v t="2015cp.20151107135648.27" a="E"><vh>div class="reveal"</vh>
-<v t="2015cp.20151107135648.28" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151107135648.25"><vh>html 標註</vh>
+<v t="2015cp.20151107135648.26"><vh>body 標註</vh>
+<v t="2015cp.20151107135648.27"><vh>div class="reveal"</vh>
+<v t="2015cp.20151107135648.28"><vh>div class="slides"</vh>
 <v t="2015cp.20151107135648.29"><vh>有關我的作業</vh></v>
 <v t="2015cp.20151107135648.30"><vh>作業任務一</vh></v>
 <v t="2015cp.20151107135648.31"><vh>第3張投影片</vh></v>
@@ -547,10 +547,10 @@
 </v>
 </v>
 </v>
-<v t="2015cp.20151107135648.33" a="E"><vh>@path pelican</vh>
+<v t="2015cp.20151107135648.33"><vh>@path pelican</vh>
 <v t="2015cp.20151107135648.34"><vh>以下為設定檔 ------------</vh></v>
 <v t="2015cp.20151107135648.35"><vh>@edit publishconf.py</vh></v>
-<v t="2015cp.20151107135648.36" a="E"><vh>@path content</vh>
+<v t="2015cp.20151107135648.36"><vh>@path content</vh>
 <v t="2015cp.20151107135648.37"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="2015cp.20151107135648.38"><vh>@edit 2015cphww1.md</vh></v>
 <v t="2015cp.20151107135648.39"><vh>@edit 2015cphww4.md</vh></v>
@@ -563,10 +563,10 @@
 <v t="leo.20151107151535.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151107151700.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151107151700.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107151700.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107151700.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107151700.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107151700.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107151700.3"><vh>html 標註</vh>
+<v t="leo.20151107151700.4"><vh>body 標註</vh>
+<v t="leo.20151107151700.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107151700.6"><vh>div class="slides"</vh>
 <v t="leo.20151107151700.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107151700.8"><vh>作業任務一</vh></v>
 <v t="leo.20151107151700.9"><vh>第3張投影片</vh></v>
@@ -578,10 +578,10 @@
 </v>
 <v t="leo.20151107151707.1"><vh>@clean simplest2.html</vh>
 <v t="leo.20151107151707.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107151707.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107151707.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107151707.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107151707.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107151707.3"><vh>html 標註</vh>
+<v t="leo.20151107151707.4"><vh>body 標註</vh>
+<v t="leo.20151107151707.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107151707.6"><vh>div class="slides"</vh>
 <v t="leo.20151107151707.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107151707.8"><vh>作業任務一</vh></v>
 <v t="leo.20151107151707.9"><vh>第3張投影片</vh></v>
@@ -593,10 +593,10 @@
 </v>
 <v t="leo.20151107151714.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151107151714.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107151714.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107151714.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107151714.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107151714.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107151714.3"><vh>html 標註</vh>
+<v t="leo.20151107151714.4"><vh>body 標註</vh>
+<v t="leo.20151107151714.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107151714.6"><vh>div class="slides"</vh>
 <v t="leo.20151107151714.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107151714.8"><vh>作業任務一</vh></v>
 <v t="leo.20151107151714.9"><vh>第3張投影片</vh></v>
@@ -606,10 +606,10 @@
 </v>
 </v>
 </v>
-<v t="leo.20151107151535.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151107151535.4"><vh>@path pelican</vh>
 <v t="leo.20151107151535.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151107151535.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151107151535.7" a="E"><vh>@path content</vh>
+<v t="leo.20151107151535.7"><vh>@path content</vh>
 <v t="leo.20151107151535.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151107151623.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151107151629.1"><vh>@edit 2015cphww4.md</vh></v>
@@ -622,10 +622,10 @@
 <v t="leo.20151107210033.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151107210513.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151107210513.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107210513.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107210513.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107210513.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107210513.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107210513.3"><vh>html 標註</vh>
+<v t="leo.20151107210513.4"><vh>body 標註</vh>
+<v t="leo.20151107210513.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107210513.6"><vh>div class="slides"</vh>
 <v t="leo.20151107210513.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107210513.8"><vh>作業任務一</vh></v>
 <v t="leo.20151107210513.9"><vh>第3張投影片</vh></v>
@@ -637,10 +637,10 @@
 </v>
 <v t="leo.20151107210519.1"><vh>@clean simplest2.html</vh>
 <v t="leo.20151107210519.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107210519.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107210519.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107210519.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107210519.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107210519.3"><vh>html 標註</vh>
+<v t="leo.20151107210519.4"><vh>body 標註</vh>
+<v t="leo.20151107210519.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107210519.6"><vh>div class="slides"</vh>
 <v t="leo.20151107210519.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107210519.8"><vh>作業任務一</vh></v>
 <v t="leo.20151107210519.9"><vh>第3張投影片</vh></v>
@@ -652,10 +652,10 @@
 </v>
 <v t="leo.20151107210524.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151107210524.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107210524.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107210524.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107210524.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107210524.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107210524.3"><vh>html 標註</vh>
+<v t="leo.20151107210524.4"><vh>body 標註</vh>
+<v t="leo.20151107210524.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107210524.6"><vh>div class="slides"</vh>
 <v t="leo.20151107210524.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107210524.8"><vh>作業任務一</vh></v>
 <v t="leo.20151107210524.9"><vh>第3張投影片</vh></v>
@@ -668,7 +668,7 @@
 <v t="leo.20151107210033.4"><vh>@path pelican</vh>
 <v t="leo.20151107210033.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151107210033.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151107210033.7" a="E"><vh>@path content</vh>
+<v t="leo.20151107210033.7"><vh>@path content</vh>
 <v t="leo.20151107210033.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151107210427.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151107210422.1"><vh>@edit 2015cphww4.md</vh></v>
@@ -681,10 +681,10 @@
 <v t="leo.20151107021031.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151107021031.3"><vh>@clean 40323214_cp_w2.html</vh>
 <v t="leo.20151107021031.4"><vh>檔案說明</vh></v>
-<v t="leo.20151107021031.5" a="E"><vh>html 標註</vh>
-<v t="leo.20151107021031.6" a="E"><vh>body 標註</vh>
-<v t="leo.20151107021031.7" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107021031.8" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107021031.5"><vh>html 標註</vh>
+<v t="leo.20151107021031.6"><vh>body 標註</vh>
+<v t="leo.20151107021031.7"><vh>div class="reveal"</vh>
+<v t="leo.20151107021031.8"><vh>div class="slides"</vh>
 <v t="leo.20151107021031.9"><vh>有關我的作業</vh></v>
 <v t="leo.20151107021031.10"><vh>作業一</vh></v>
 <v t="leo.20151107021031.11"><vh>第3張投影片</vh></v>
@@ -696,10 +696,10 @@
 </v>
 <v t="leo.20151107021031.13"><vh>@clean 40323214_cp_w4.html</vh>
 <v t="leo.20151107021031.14"><vh>檔案說明</vh></v>
-<v t="leo.20151107021031.15" a="E"><vh>html 標註</vh>
-<v t="leo.20151107021031.16" a="E"><vh>body 標註</vh>
-<v t="leo.20151107021031.17" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107021031.18" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107021031.15"><vh>html 標註</vh>
+<v t="leo.20151107021031.16"><vh>body 標註</vh>
+<v t="leo.20151107021031.17"><vh>div class="reveal"</vh>
+<v t="leo.20151107021031.18"><vh>div class="slides"</vh>
 <v t="leo.20151107021031.19"><vh>有關我的作業</vh></v>
 <v t="leo.20151107021031.20"><vh>作業二</vh></v>
 <v t="leo.20151107021031.21"><vh>第3張投影片</vh></v>
@@ -711,10 +711,10 @@
 </v>
 <v t="leo.20151107021031.23"><vh>@clean 40323214_cp_w5.html</vh>
 <v t="leo.20151107021031.24"><vh>檔案說明</vh></v>
-<v t="leo.20151107021031.25" a="E"><vh>html 標註</vh>
-<v t="leo.20151107021031.26" a="E"><vh>body 標註</vh>
-<v t="leo.20151107021031.27" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107021031.28" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107021031.25"><vh>html 標註</vh>
+<v t="leo.20151107021031.26"><vh>body 標註</vh>
+<v t="leo.20151107021031.27"><vh>div class="reveal"</vh>
+<v t="leo.20151107021031.28"><vh>div class="slides"</vh>
 <v t="leo.20151107021031.29"><vh>有關我的作業</vh></v>
 <v t="leo.20151107021031.30"><vh>作業三</vh></v>
 <v t="leo.20151107021031.31"><vh>第3張投影片</vh></v>
@@ -726,10 +726,10 @@
 </v>
 <v t="leo.20151107021031.33"><vh>@clean 40323214_cp_w6.html</vh>
 <v t="leo.20151107021031.34"><vh>檔案說明</vh></v>
-<v t="leo.20151107021031.35" a="E"><vh>html 標註</vh>
-<v t="leo.20151107021031.36" a="E"><vh>body 標註</vh>
-<v t="leo.20151107021031.37" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107021031.38" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107021031.35"><vh>html 標註</vh>
+<v t="leo.20151107021031.36"><vh>body 標註</vh>
+<v t="leo.20151107021031.37"><vh>div class="reveal"</vh>
+<v t="leo.20151107021031.38"><vh>div class="slides"</vh>
 <v t="leo.20151107021031.39"><vh>有關我的作業</vh></v>
 <v t="leo.20151107021031.40"><vh>作業三</vh></v>
 <v t="leo.20151107021031.41"><vh>第3張投影片</vh></v>
@@ -741,10 +741,10 @@
 </v>
 <v t="leo.20151107021031.43"><vh>@clean 40323214_cp_w7.html</vh>
 <v t="leo.20151107021031.44"><vh>檔案說明</vh></v>
-<v t="leo.20151107021031.45" a="E"><vh>html 標註</vh>
-<v t="leo.20151107021031.46" a="E"><vh>body 標註</vh>
-<v t="leo.20151107021031.47" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107021031.48" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107021031.45"><vh>html 標註</vh>
+<v t="leo.20151107021031.46"><vh>body 標註</vh>
+<v t="leo.20151107021031.47"><vh>div class="reveal"</vh>
+<v t="leo.20151107021031.48"><vh>div class="slides"</vh>
 <v t="leo.20151107021031.49"><vh>有關我的作業</vh></v>
 <v t="leo.20151107021031.50"><vh>作業三</vh></v>
 <v t="leo.20151107021031.51"><vh>第3張投影片</vh></v>
@@ -756,10 +756,10 @@
 </v>
 <v t="leo.20151107021031.53"><vh>@clean 40323214_cp_w8.html</vh>
 <v t="leo.20151107021031.54"><vh>檔案說明</vh></v>
-<v t="leo.20151107021031.55" a="E"><vh>html 標註</vh>
-<v t="leo.20151107021031.56" a="E"><vh>body 標註</vh>
-<v t="leo.20151107021031.57" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107021031.58" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107021031.55"><vh>html 標註</vh>
+<v t="leo.20151107021031.56"><vh>body 標註</vh>
+<v t="leo.20151107021031.57"><vh>div class="reveal"</vh>
+<v t="leo.20151107021031.58"><vh>div class="slides"</vh>
 <v t="leo.20151107021031.59"><vh>有關我的作業</vh></v>
 <v t="leo.20151107021031.60"><vh>心得</vh></v>
 <v t="leo.20151107021031.61"><vh>筆記整理</vh></v>
@@ -774,7 +774,7 @@
 <v t="leo.20151107021031.65"><vh>@path pelican</vh>
 <v t="leo.20151107021031.66"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151107021031.67"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151107021031.68" a="E"><vh>@path content</vh>
+<v t="leo.20151107021031.68"><vh>@path content</vh>
 <v t="leo.20151107021031.69"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151107021031.70"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="leo.20151107021031.71"><vh>@edit 40323214_cp_w2.md</vh></v>
@@ -790,10 +790,10 @@
 <v t="leo.20151107154209.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151107154257.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151107154257.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107154257.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107154257.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107154257.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107154257.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107154257.3"><vh>html 標註</vh>
+<v t="leo.20151107154257.4"><vh>body 標註</vh>
+<v t="leo.20151107154257.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107154257.6"><vh>div class="slides"</vh>
 <v t="leo.20151107154257.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107154257.8"><vh>心得</vh></v>
 <v t="leo.20151107154257.9"><vh>第3張投影片</vh></v>
@@ -805,10 +805,10 @@
 </v>
 <v t="leo.20151107154303.1"><vh>@clean simplest4.html</vh>
 <v t="leo.20151107154303.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107154303.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107154303.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107154303.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107154303.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107154303.3"><vh>html 標註</vh>
+<v t="leo.20151107154303.4"><vh>body 標註</vh>
+<v t="leo.20151107154303.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107154303.6"><vh>div class="slides"</vh>
 <v t="leo.20151107154303.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107154303.8"><vh>心得與自評</vh></v>
 </v>
@@ -819,10 +819,10 @@
 </v>
 <v t="leo.20151107154309.1"><vh>@clean simplest5.html</vh>
 <v t="leo.20151107154309.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107154309.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107154309.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107154309.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107154309.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107154309.3"><vh>html 標註</vh>
+<v t="leo.20151107154309.4"><vh>body 標註</vh>
+<v t="leo.20151107154309.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107154309.6"><vh>div class="slides"</vh>
 <v t="leo.20151107154309.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107154309.8"><vh>心得與自評</vh></v>
 </v>
@@ -833,10 +833,10 @@
 </v>
 <v t="leo.20151108145332.1"><vh>@clean simplest7.html</vh>
 <v t="leo.20151108145332.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108145332.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108145332.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108145332.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108145332.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108145332.3"><vh>html 標註</vh>
+<v t="leo.20151108145332.4"><vh>body 標註</vh>
+<v t="leo.20151108145332.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108145332.6"><vh>div class="slides"</vh>
 <v t="leo.20151108145332.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151108145332.8"><vh>心得與自評</vh></v>
 </v>
@@ -847,10 +847,10 @@
 </v>
 <v t="leo.20151108101935.1"><vh>@clean simplest8.html</vh>
 <v t="leo.20151108101935.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108101935.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108101935.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108101935.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108101935.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108101935.3"><vh>html 標註</vh>
+<v t="leo.20151108101935.4"><vh>body 標註</vh>
+<v t="leo.20151108101935.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108101935.6"><vh>div class="slides"</vh>
 <v t="leo.20151108101935.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151108101935.8"><vh>1~2心得</vh></v>
 <v t="leo.20151108102234.1"><vh>3~4心得</vh></v>
@@ -862,10 +862,10 @@
 </v>
 </v>
 </v>
-<v t="leo.20151107154209.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151107154209.4"><vh>@path pelican</vh>
 <v t="leo.20151107154209.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151107154209.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151107154209.7" a="E"><vh>@path content</vh>
+<v t="leo.20151107154209.7"><vh>@path content</vh>
 <v t="leo.20151107154209.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151107154209.10"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="leo.20151107154324.1"><vh>@edit 2015cphww1.md</vh></v>
@@ -880,10 +880,10 @@
 <v t="40323217.20151105180933.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323217.20151105181645.1"><vh>@clean 40323217_cp_w2.html</vh>
 <v t="40323217.20151105181645.2"><vh>檔案說明</vh></v>
-<v t="40323217.20151105181645.3" a="E"><vh>html 標註</vh>
-<v t="40323217.20151105181645.4" a="E"><vh>body 標註</vh>
-<v t="40323217.20151105181645.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323217.20151105181645.6" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105181645.3"><vh>html 標註</vh>
+<v t="40323217.20151105181645.4"><vh>body 標註</vh>
+<v t="40323217.20151105181645.5"><vh>div class="reveal"</vh>
+<v t="40323217.20151105181645.6"><vh>div class="slides"</vh>
 <v t="40323217.20151105181645.7"><vh>有關我的作業</vh></v>
 <v t="40323217.20151105181645.8"><vh>作業任務一</vh></v>
 <v t="40323217.20151105181645.9"><vh>第3張投影片</vh></v>
@@ -895,10 +895,10 @@
 </v>
 <v t="40323217.20151105181443.1"><vh>@clean 40323217_cp_w4.html</vh>
 <v t="40323217.20151105181443.2"><vh>檔案說明</vh></v>
-<v t="40323217.20151105181443.3" a="E"><vh>html 標註</vh>
-<v t="40323217.20151105181443.4" a="E"><vh>body 標註</vh>
-<v t="40323217.20151105181443.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323217.20151105181443.6" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105181443.3"><vh>html 標註</vh>
+<v t="40323217.20151105181443.4"><vh>body 標註</vh>
+<v t="40323217.20151105181443.5"><vh>div class="reveal"</vh>
+<v t="40323217.20151105181443.6"><vh>div class="slides"</vh>
 <v t="40323217.20151105181443.7"><vh>有關我的作業</vh></v>
 <v t="40323217.20151105181443.8"><vh>作業任務一</vh></v>
 <v t="40323217.20151105181443.9"><vh>第3張投影片</vh></v>
@@ -910,10 +910,10 @@
 </v>
 <v t="40323217.20151105181537.1"><vh>@clean 40323217_cp_w5-6.html</vh>
 <v t="40323217.20151105181537.2"><vh>檔案說明</vh></v>
-<v t="40323217.20151105181537.3" a="E"><vh>html 標註</vh>
-<v t="40323217.20151105181537.4" a="E"><vh>body 標註</vh>
-<v t="40323217.20151105181537.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323217.20151105181537.6" a="E"><vh>div class="slides"</vh>
+<v t="40323217.20151105181537.3"><vh>html 標註</vh>
+<v t="40323217.20151105181537.4"><vh>body 標註</vh>
+<v t="40323217.20151105181537.5"><vh>div class="reveal"</vh>
+<v t="40323217.20151105181537.6"><vh>div class="slides"</vh>
 <v t="40323217.20151105181537.7"><vh>有關我的作業</vh></v>
 <v t="40323217.20151105181537.8"><vh>作業任務一</vh></v>
 <v t="40323217.20151105181537.9"><vh>第3張投影片</vh></v>
@@ -939,10 +939,10 @@
 <v t="40323214.20151027152715.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323214.20151027152715.3"><vh>@clean 40323218_cp_w2.html</vh>
 <v t="40323214.20151027152715.4"><vh>檔案說明</vh></v>
-<v t="40323214.20151027152715.5" a="E"><vh>html 標註</vh>
-<v t="40323214.20151027152715.6" a="E"><vh>body 標註</vh>
-<v t="40323214.20151027152715.7" a="E"><vh>div class="reveal"</vh>
-<v t="40323214.20151027152715.8" a="E"><vh>div class="slides"</vh>
+<v t="40323214.20151027152715.5"><vh>html 標註</vh>
+<v t="40323214.20151027152715.6"><vh>body 標註</vh>
+<v t="40323214.20151027152715.7"><vh>div class="reveal"</vh>
+<v t="40323214.20151027152715.8"><vh>div class="slides"</vh>
 <v t="40323214.20151027152715.9"><vh>有關我的作業</vh></v>
 <v t="40323214.20151027152715.10"><vh>作業任務一</vh></v>
 <v t="40323214.20151027152715.11"><vh>第3張投影片</vh></v>
@@ -968,10 +968,10 @@
 </v>
 <v t="40323214.20151027152715.22"><vh>@clean 40323218_cp_w5.html</vh>
 <v t="40323214.20151027152715.23"><vh>檔案說明</vh></v>
-<v t="40323214.20151027152715.24" a="E"><vh>html 標註</vh>
-<v t="40323214.20151027152715.25" a="E"><vh>body 標註</vh>
-<v t="40323214.20151027152715.26" a="E"><vh>div class="reveal"</vh>
-<v t="40323214.20151027152715.27" a="E"><vh>div class="slides"</vh>
+<v t="40323214.20151027152715.24"><vh>html 標註</vh>
+<v t="40323214.20151027152715.25"><vh>body 標註</vh>
+<v t="40323214.20151027152715.26"><vh>div class="reveal"</vh>
+<v t="40323214.20151027152715.27"><vh>div class="slides"</vh>
 <v t="40323214.20151027152715.28"><vh>有關我的作業</vh></v>
 <v t="40323214.20151027152715.29"><vh>作業三</vh></v>
 <v t="40323214.20151027152715.30"><vh>第3張投影片</vh></v>
@@ -983,10 +983,10 @@
 </v>
 <v t="leo.20151107232929.1"><vh>@clean 40323218_cp_w6.html</vh>
 <v t="leo.20151107232929.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107232929.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107232929.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107232929.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107232929.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107232929.3"><vh>html 標註</vh>
+<v t="leo.20151107232929.4"><vh>body 標註</vh>
+<v t="leo.20151107232929.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107232929.6"><vh>div class="slides"</vh>
 <v t="leo.20151107232929.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107232929.8"><vh>作業三</vh></v>
 </v>
@@ -997,10 +997,10 @@
 </v>
 <v t="40323214.20151027152715.32"><vh>@clean 40323218_cp_w7.html</vh>
 <v t="40323214.20151027152715.33"><vh>檔案說明</vh></v>
-<v t="40323214.20151027152715.34" a="E"><vh>html 標註</vh>
-<v t="40323214.20151027152715.35" a="E"><vh>body 標註</vh>
-<v t="40323214.20151027152715.36" a="E"><vh>div class="reveal"</vh>
-<v t="40323214.20151027152715.37" a="E"><vh>div class="slides"</vh>
+<v t="40323214.20151027152715.34"><vh>html 標註</vh>
+<v t="40323214.20151027152715.35"><vh>body 標註</vh>
+<v t="40323214.20151027152715.36"><vh>div class="reveal"</vh>
+<v t="40323214.20151027152715.37"><vh>div class="slides"</vh>
 <v t="40323214.20151027152715.38"><vh>有關我的作業</vh></v>
 <v t="40323214.20151027152715.39"><vh>作業三</vh></v>
 <v t="40323214.20151027152715.40"><vh>第3張投影片</vh></v>
@@ -1012,10 +1012,10 @@
 </v>
 <v t="leo.20151107234445.1"><vh>@clean 40323218_cp_w8.html</vh>
 <v t="leo.20151107234445.2"><vh>檔案說明</vh></v>
-<v t="leo.20151107234445.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151107234445.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151107234445.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107234445.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107234445.3"><vh>html 標註</vh>
+<v t="leo.20151107234445.4"><vh>body 標註</vh>
+<v t="leo.20151107234445.5"><vh>div class="reveal"</vh>
+<v t="leo.20151107234445.6"><vh>div class="slides"</vh>
 <v t="leo.20151107234445.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151107234445.9"><vh>第3張投影片</vh></v>
 </v>
@@ -1024,10 +1024,10 @@
 </v>
 </v>
 </v>
-<v t="40323214.20151027152715.42" a="E"><vh>@path pelican</vh>
+<v t="40323214.20151027152715.42"><vh>@path pelican</vh>
 <v t="40323214.20151027152715.43"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323214.20151027152715.44"><vh>@edit publishconf.py</vh></v>
-<v t="40323214.20151027152715.45" a="E"><vh>@path content</vh>
+<v t="40323214.20151027152715.45"><vh>@path content</vh>
 <v t="40323214.20151027152715.46"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="40323214.20151027152715.47"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="40323214.20151027152715.48"><vh>@edit 40323218_cp_w2.md</vh></v>
@@ -1103,10 +1103,10 @@
 <v t=".20151029193149.2"><vh>以下為投影片 ------------</vh></v>
 <v t=".20151029193149.3"><vh>@clean 40323230_cp_w2.html</vh>
 <v t=".20151029193149.4"><vh>檔案說明</vh></v>
-<v t=".20151029193149.5" a="E"><vh>html 標註</vh>
-<v t=".20151029193149.6" a="E"><vh>body 標註</vh>
-<v t=".20151029193149.7" a="E"><vh>div class="reveal"</vh>
-<v t=".20151029193149.8" a="E"><vh>div class="slides"</vh>
+<v t=".20151029193149.5"><vh>html 標註</vh>
+<v t=".20151029193149.6"><vh>body 標註</vh>
+<v t=".20151029193149.7"><vh>div class="reveal"</vh>
+<v t=".20151029193149.8"><vh>div class="slides"</vh>
 <v t=".20151029194644.1"><vh>標題</vh></v>
 <v t=".20151029194741.1"><vh>作業任務一</vh></v>
 <v t=".20151029194751.1"><vh>自評</vh></v>
@@ -1118,10 +1118,10 @@
 </v>
 <v t=".20151029193527.1"><vh>@clean 40323230_cp_w4.html</vh>
 <v t=".20151029193527.2"><vh>檔案說明</vh></v>
-<v t=".20151029193527.3" a="E"><vh>html 標註</vh>
-<v t=".20151029193527.4" a="E"><vh>body 標註</vh>
-<v t=".20151029193527.5" a="E"><vh>div class="reveal"</vh>
-<v t=".20151029193527.6" a="E"><vh>div class="slides"</vh>
+<v t=".20151029193527.3"><vh>html 標註</vh>
+<v t=".20151029193527.4"><vh>body 標註</vh>
+<v t=".20151029193527.5"><vh>div class="reveal"</vh>
+<v t=".20151029193527.6"><vh>div class="slides"</vh>
 <v t=".20151029193527.7"><vh>標題</vh></v>
 <v t=".20151029193527.8"><vh>作業任務一</vh></v>
 <v t=".20151029193527.9"><vh>作業任務二</vh></v>
@@ -1135,10 +1135,10 @@
 </v>
 <v t=".20151029193614.1"><vh>@clean 40323230_cp_w5.html</vh>
 <v t=".20151029193614.2"><vh>檔案說明</vh></v>
-<v t=".20151029193614.3" a="E"><vh>html 標註</vh>
-<v t=".20151029193614.4" a="E"><vh>body 標註</vh>
-<v t=".20151029193614.5" a="E"><vh>div class="reveal"</vh>
-<v t=".20151029193614.6" a="E"><vh>div class="slides"</vh>
+<v t=".20151029193614.3"><vh>html 標註</vh>
+<v t=".20151029193614.4"><vh>body 標註</vh>
+<v t=".20151029193614.5"><vh>div class="reveal"</vh>
+<v t=".20151029193614.6"><vh>div class="slides"</vh>
 <v t=".20151029193614.7"><vh>標題</vh></v>
 <v t=".20151029193614.8"><vh>作業任務一</vh></v>
 <v t=".20151029193614.9"><vh>作業任務二</vh></v>
@@ -1152,10 +1152,10 @@
 </v>
 <v t=".20151029195316.1"><vh>@clean 40323230_cp_w6.html</vh>
 <v t=".20151029195316.2"><vh>檔案說明</vh></v>
-<v t=".20151029195316.3" a="E"><vh>html 標註</vh>
-<v t=".20151029195316.4" a="E"><vh>body 標註</vh>
-<v t=".20151029195316.5" a="E"><vh>div class="reveal"</vh>
-<v t=".20151029195316.6" a="E"><vh>div class="slides"</vh>
+<v t=".20151029195316.3"><vh>html 標註</vh>
+<v t=".20151029195316.4"><vh>body 標註</vh>
+<v t=".20151029195316.5"><vh>div class="reveal"</vh>
+<v t=".20151029195316.6"><vh>div class="slides"</vh>
 <v t=".20151029195316.7"><vh>標題</vh></v>
 <v t=".20151029195316.8"><vh>作業任務一</vh></v>
 <v t=".20151029195316.11"><vh>自評</vh></v>
@@ -1168,7 +1168,7 @@
 <v t=".20151029193149.72"><vh>@path pelican</vh>
 <v t=".20151029193149.73"><vh>以下為設定檔 ------------</vh></v>
 <v t=".20151029193149.74"><vh>@edit publishconf.py</vh></v>
-<v t=".20151029193149.75" a="E"><vh>@path content</vh>
+<v t=".20151029193149.75"><vh>@path content</vh>
 <v t=".20151029193149.76"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t=".20151029193149.77"><vh>@edit 2015cpnote1.md</vh></v>
 <v t=".20151029193149.78"><vh>@edit 40323230_cp_w2.md</vh></v>
@@ -1182,10 +1182,10 @@
 <v t="31.20151107130737.2"><vh>以下為投影片 ------------</vh></v>
 <v t="31.20151107130737.3"><vh>@clean simplest.html</vh>
 <v t="31.20151107130737.4"><vh>檔案說明</vh></v>
-<v t="31.20151107130737.5" a="E"><vh>html 標註</vh>
-<v t="31.20151107130737.6" a="E"><vh>body 標註</vh>
-<v t="31.20151107130737.7" a="E"><vh>div class="reveal"</vh>
-<v t="31.20151107130737.8" a="E"><vh>div class="slides"</vh>
+<v t="31.20151107130737.5"><vh>html 標註</vh>
+<v t="31.20151107130737.6"><vh>body 標註</vh>
+<v t="31.20151107130737.7"><vh>div class="reveal"</vh>
+<v t="31.20151107130737.8"><vh>div class="slides"</vh>
 <v t="31.20151107130737.9"><vh>有關我的作業</vh></v>
 <v t="31.20151107130737.10"><vh>作業任務一</vh></v>
 </v>
@@ -1196,10 +1196,10 @@
 </v>
 <v t="31.20151107130737.12"><vh>@clean simplest2.html</vh>
 <v t="31.20151107130737.13"><vh>檔案說明</vh></v>
-<v t="31.20151107130737.14" a="E"><vh>html 標註</vh>
-<v t="31.20151107130737.15" a="E"><vh>body 標註</vh>
-<v t="31.20151107130737.16" a="E"><vh>div class="reveal"</vh>
-<v t="31.20151107130737.17" a="E"><vh>div class="slides"</vh>
+<v t="31.20151107130737.14"><vh>html 標註</vh>
+<v t="31.20151107130737.15"><vh>body 標註</vh>
+<v t="31.20151107130737.16"><vh>div class="reveal"</vh>
+<v t="31.20151107130737.17"><vh>div class="slides"</vh>
 <v t="31.20151107130737.18"><vh>有關我的作業</vh></v>
 <v t="31.20151107130737.19"><vh>作業任務一</vh></v>
 <v t="31.20151107130737.20"><vh>第3張投影片</vh></v>
@@ -1211,10 +1211,10 @@
 </v>
 <v t="31.20151107130737.22"><vh>@clean simplest3.html</vh>
 <v t="31.20151107130737.23"><vh>檔案說明</vh></v>
-<v t="31.20151107130737.24" a="E"><vh>html 標註</vh>
-<v t="31.20151107130737.25" a="E"><vh>body 標註</vh>
-<v t="31.20151107130737.26" a="E"><vh>div class="reveal"</vh>
-<v t="31.20151107130737.27" a="E"><vh>div class="slides"</vh>
+<v t="31.20151107130737.24"><vh>html 標註</vh>
+<v t="31.20151107130737.25"><vh>body 標註</vh>
+<v t="31.20151107130737.26"><vh>div class="reveal"</vh>
+<v t="31.20151107130737.27"><vh>div class="slides"</vh>
 <v t="31.20151107130737.28"><vh>有關我的作業</vh></v>
 <v t="31.20151107130737.29"><vh>作業任務一</vh></v>
 </v>
@@ -1225,10 +1225,10 @@
 </v>
 <v t="31.20151107130737.31"><vh>@clean simplest4.html</vh>
 <v t="31.20151107130737.32"><vh>檔案說明</vh></v>
-<v t="31.20151107130737.33" a="E"><vh>html 標註</vh>
-<v t="31.20151107130737.34" a="E"><vh>body 標註</vh>
-<v t="31.20151107130737.35" a="E"><vh>div class="reveal"</vh>
-<v t="31.20151107130737.36" a="E"><vh>div class="slides"</vh>
+<v t="31.20151107130737.33"><vh>html 標註</vh>
+<v t="31.20151107130737.34"><vh>body 標註</vh>
+<v t="31.20151107130737.35"><vh>div class="reveal"</vh>
+<v t="31.20151107130737.36"><vh>div class="slides"</vh>
 <v t="31.20151107130737.37"><vh>有關我的作業</vh></v>
 <v t="31.20151107130737.38"><vh>作業任務一</vh></v>
 <v t="31.20151107130737.39"><vh>第3張投影片</vh></v>
@@ -1238,12 +1238,12 @@
 </v>
 </v>
 </v>
-<v t="31.20151107130737.41" a="E"><vh>@clean simplest5.html</vh>
+<v t="31.20151107130737.41"><vh>@clean simplest5.html</vh>
 <v t="31.20151107130737.42"><vh>檔案說明</vh></v>
-<v t="31.20151107130737.43" a="E"><vh>html 標註</vh>
-<v t="31.20151107130737.44" a="E"><vh>body 標註</vh>
-<v t="31.20151107130737.45" a="E"><vh>div class="reveal"</vh>
-<v t="31.20151107130737.46" a="E"><vh>div class="slides"</vh>
+<v t="31.20151107130737.43"><vh>html 標註</vh>
+<v t="31.20151107130737.44"><vh>body 標註</vh>
+<v t="31.20151107130737.45"><vh>div class="reveal"</vh>
+<v t="31.20151107130737.46"><vh>div class="slides"</vh>
 <v t="31.20151107130737.47"><vh>有關我的作業</vh></v>
 <v t="31.20151107130737.48"><vh>作業任務一</vh></v>
 </v>
@@ -1252,10 +1252,10 @@
 </v>
 </v>
 </v>
-<v t="31.20151107130737.50" a="E"><vh>@path pelican</vh>
+<v t="31.20151107130737.50"><vh>@path pelican</vh>
 <v t="31.20151107130737.51"><vh>以下為設定檔 ------------</vh></v>
 <v t="31.20151107130737.52"><vh>@edit publishconf.py</vh></v>
-<v t="31.20151107130737.53" a="E"><vh>@path content</vh>
+<v t="31.20151107130737.53"><vh>@path content</vh>
 <v t="31.20151107130737.54"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="31.20151107130737.55"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="31.20151107130737.56"><vh>@edit 2015cphww2.md</vh></v>
@@ -1271,10 +1271,10 @@
 <v t="40323216.20151106201410.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323216.20151106201514.1"><vh>@clean simplest.html</vh>
 <v t="40323216.20151106201514.2"><vh>檔案說明</vh></v>
-<v t="40323216.20151106201514.3" a="E"><vh>html 標註</vh>
-<v t="40323216.20151106201514.4" a="E"><vh>body 標註</vh>
-<v t="40323216.20151106201514.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323216.20151106201514.6" a="E"><vh>div class="slides"</vh>
+<v t="40323216.20151106201514.3"><vh>html 標註</vh>
+<v t="40323216.20151106201514.4"><vh>body 標註</vh>
+<v t="40323216.20151106201514.5"><vh>div class="reveal"</vh>
+<v t="40323216.20151106201514.6"><vh>div class="slides"</vh>
 <v t="40323216.20151106201514.7"><vh>有關我的作業</vh></v>
 <v t="40323216.20151106201514.8"><vh>作業任務一</vh></v>
 </v>
@@ -1285,10 +1285,10 @@
 </v>
 <v t="40323216.20151106201520.1"><vh>@clean simplest2.html</vh>
 <v t="40323216.20151106201520.2"><vh>檔案說明</vh></v>
-<v t="40323216.20151106201520.3" a="E"><vh>html 標註</vh>
-<v t="40323216.20151106201520.4" a="E"><vh>body 標註</vh>
-<v t="40323216.20151106201520.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323216.20151106201520.6" a="E"><vh>div class="slides"</vh>
+<v t="40323216.20151106201520.3"><vh>html 標註</vh>
+<v t="40323216.20151106201520.4"><vh>body 標註</vh>
+<v t="40323216.20151106201520.5"><vh>div class="reveal"</vh>
+<v t="40323216.20151106201520.6"><vh>div class="slides"</vh>
 <v t="40323216.20151106201520.7"><vh>有關我的作業</vh></v>
 <v t="40323216.20151106201520.8"><vh>心得</vh></v>
 <v t="40323216.20151106201520.9"><vh>作業任務一</vh></v>
@@ -1300,10 +1300,10 @@
 </v>
 <v t="40323216.20151106201524.1"><vh>@clean simplest3.html</vh>
 <v t="40323216.20151106201524.2"><vh>檔案說明</vh></v>
-<v t="40323216.20151106201524.3" a="E"><vh>html 標註</vh>
-<v t="40323216.20151106201524.4" a="E"><vh>body 標註</vh>
-<v t="40323216.20151106201524.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323216.20151106201524.6" a="E"><vh>div class="slides"</vh>
+<v t="40323216.20151106201524.3"><vh>html 標註</vh>
+<v t="40323216.20151106201524.4"><vh>body 標註</vh>
+<v t="40323216.20151106201524.5"><vh>div class="reveal"</vh>
+<v t="40323216.20151106201524.6"><vh>div class="slides"</vh>
 <v t="40323216.20151106201524.7"><vh>有關我的作業</vh></v>
 <v t="40323216.20151106201524.8"><vh>心得</vh></v>
 <v t="40323216.20151106201524.9"><vh>作業任務一</vh></v>
@@ -1315,10 +1315,10 @@
 </v>
 <v t="40323216.20151106201529.1"><vh>@clean simplest4.html</vh>
 <v t="40323216.20151106201529.2"><vh>檔案說明</vh></v>
-<v t="40323216.20151106201529.3" a="E"><vh>html 標註</vh>
-<v t="40323216.20151106201529.4" a="E"><vh>body 標註</vh>
-<v t="40323216.20151106201529.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323216.20151106201529.6" a="E"><vh>div class="slides"</vh>
+<v t="40323216.20151106201529.3"><vh>html 標註</vh>
+<v t="40323216.20151106201529.4"><vh>body 標註</vh>
+<v t="40323216.20151106201529.5"><vh>div class="reveal"</vh>
+<v t="40323216.20151106201529.6"><vh>div class="slides"</vh>
 <v t="40323216.20151106201529.7"><vh>有關我的作業</vh></v>
 <v t="40323216.20151106201529.8"><vh>心得</vh></v>
 <v t="40323216.20151106201529.9"><vh>作業任務一</vh></v>
@@ -1330,10 +1330,10 @@
 </v>
 <v t="40323216.20151106201533.1"><vh>@clean simplest5.html</vh>
 <v t="40323216.20151106201533.2"><vh>檔案說明</vh></v>
-<v t="40323216.20151106201533.3" a="E"><vh>html 標註</vh>
-<v t="40323216.20151106201533.4" a="E"><vh>body 標註</vh>
-<v t="40323216.20151106201533.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323216.20151106201533.6" a="E"><vh>div class="slides"</vh>
+<v t="40323216.20151106201533.3"><vh>html 標註</vh>
+<v t="40323216.20151106201533.4"><vh>body 標註</vh>
+<v t="40323216.20151106201533.5"><vh>div class="reveal"</vh>
+<v t="40323216.20151106201533.6"><vh>div class="slides"</vh>
 <v t="40323216.20151106201533.7"><vh>有關我的作業</vh></v>
 <v t="40323216.20151106201533.8"><vh>心得</vh></v>
 <v t="40323216.20151106201533.9"><vh>作業任務一</vh></v>
@@ -1343,10 +1343,10 @@
 </v>
 </v>
 </v>
-<v t="40323216.20151106201410.4" a="E"><vh>@path pelican</vh>
+<v t="40323216.20151106201410.4"><vh>@path pelican</vh>
 <v t="40323216.20151106201410.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323216.20151106201410.6"><vh>@edit publishconf.py</vh></v>
-<v t="40323216.20151106201410.7" a="E"><vh>@path content</vh>
+<v t="40323216.20151106201410.7"><vh>@path content</vh>
 <v t="40323216.20151106201410.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="40323216.20151106201410.10"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="40323216.20151106201435.1"><vh>@edit 2015cphww2.md</vh></v>
@@ -1362,10 +1362,10 @@
 <v t="40323233.20151106162012.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323233.20151106162213.1"><vh>@clean simplest.html</vh>
 <v t="40323233.20151106162213.2"><vh>檔案說明</vh></v>
-<v t="40323233.20151106162213.3" a="E"><vh>html 標註</vh>
-<v t="40323233.20151106162213.4" a="E"><vh>body 標註</vh>
-<v t="40323233.20151106162213.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323233.20151106162213.6" a="E"><vh>div class="slides"</vh>
+<v t="40323233.20151106162213.3"><vh>html 標註</vh>
+<v t="40323233.20151106162213.4"><vh>body 標註</vh>
+<v t="40323233.20151106162213.5"><vh>div class="reveal"</vh>
+<v t="40323233.20151106162213.6"><vh>div class="slides"</vh>
 <v t="40323233.20151106162213.7"><vh>有關我的作業</vh></v>
 <v t="40323233.20151106162213.8"><vh>作業任務一</vh></v>
 <v t="40323233.20151106162213.9"><vh>第3張投影片</vh></v>
@@ -1377,10 +1377,10 @@
 </v>
 <v t="40323233.20151106162223.1"><vh>@clean simplest2.html</vh>
 <v t="40323233.20151106162223.2"><vh>檔案說明</vh></v>
-<v t="40323233.20151106162223.3" a="E"><vh>html 標註</vh>
-<v t="40323233.20151106162223.4" a="E"><vh>body 標註</vh>
-<v t="40323233.20151106162223.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323233.20151106162223.6" a="E"><vh>div class="slides"</vh>
+<v t="40323233.20151106162223.3"><vh>html 標註</vh>
+<v t="40323233.20151106162223.4"><vh>body 標註</vh>
+<v t="40323233.20151106162223.5"><vh>div class="reveal"</vh>
+<v t="40323233.20151106162223.6"><vh>div class="slides"</vh>
 <v t="40323233.20151106162223.7"><vh>有關我的作業</vh></v>
 <v t="40323233.20151106162223.8"><vh>作業任務一</vh></v>
 <v t="40323233.20151106162223.9"><vh>第3張投影片</vh></v>
@@ -1392,10 +1392,10 @@
 </v>
 <v t="40323233.20151106162227.1"><vh>@clean simplest3.html</vh>
 <v t="40323233.20151106162227.2"><vh>檔案說明</vh></v>
-<v t="40323233.20151106162227.3" a="E"><vh>html 標註</vh>
-<v t="40323233.20151106162227.4" a="E"><vh>body 標註</vh>
-<v t="40323233.20151106162227.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323233.20151106162227.6" a="E"><vh>div class="slides"</vh>
+<v t="40323233.20151106162227.3"><vh>html 標註</vh>
+<v t="40323233.20151106162227.4"><vh>body 標註</vh>
+<v t="40323233.20151106162227.5"><vh>div class="reveal"</vh>
+<v t="40323233.20151106162227.6"><vh>div class="slides"</vh>
 <v t="40323233.20151106162227.7"><vh>有關我的作業</vh></v>
 <v t="40323233.20151106162227.8"><vh>作業任務一</vh></v>
 <v t="40323233.20151106162227.9"><vh>第3張投影片</vh></v>
@@ -1407,10 +1407,10 @@
 </v>
 <v t="40323233.20151106162234.1"><vh>@clean simplest4.html</vh>
 <v t="40323233.20151106162234.2"><vh>檔案說明</vh></v>
-<v t="40323233.20151106162234.3" a="E"><vh>html 標註</vh>
-<v t="40323233.20151106162234.4" a="E"><vh>body 標註</vh>
-<v t="40323233.20151106162234.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323233.20151106162234.6" a="E"><vh>div class="slides"</vh>
+<v t="40323233.20151106162234.3"><vh>html 標註</vh>
+<v t="40323233.20151106162234.4"><vh>body 標註</vh>
+<v t="40323233.20151106162234.5"><vh>div class="reveal"</vh>
+<v t="40323233.20151106162234.6"><vh>div class="slides"</vh>
 <v t="40323233.20151106162234.7"><vh>有關我的作業</vh></v>
 <v t="40323233.20151106162234.8"><vh>作業任務一</vh></v>
 <v t="40323233.20151106162234.9"><vh>第3張投影片</vh></v>
@@ -1422,10 +1422,10 @@
 </v>
 <v t="40323233.20151106162240.1"><vh>@clean simplest5.html</vh>
 <v t="40323233.20151106162240.2"><vh>檔案說明</vh></v>
-<v t="40323233.20151106162240.3" a="E"><vh>html 標註</vh>
-<v t="40323233.20151106162240.4" a="E"><vh>body 標註</vh>
-<v t="40323233.20151106162240.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323233.20151106162240.6" a="E"><vh>div class="slides"</vh>
+<v t="40323233.20151106162240.3"><vh>html 標註</vh>
+<v t="40323233.20151106162240.4"><vh>body 標註</vh>
+<v t="40323233.20151106162240.5"><vh>div class="reveal"</vh>
+<v t="40323233.20151106162240.6"><vh>div class="slides"</vh>
 <v t="40323233.20151106162240.7"><vh>有關我的作業</vh></v>
 <v t="40323233.20151106162240.8"><vh>作業任務一</vh></v>
 <v t="40323233.20151106162240.9"><vh>第3張投影片</vh></v>
@@ -1435,10 +1435,10 @@
 </v>
 </v>
 </v>
-<v t="40323233.20151106162012.4" a="E"><vh>@path pelican</vh>
+<v t="40323233.20151106162012.4"><vh>@path pelican</vh>
 <v t="40323233.20151106162012.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323233.20151106162012.6"><vh>@edit publishconf.py</vh></v>
-<v t="40323233.20151106162012.7" a="E"><vh>@path content</vh>
+<v t="40323233.20151106162012.7"><vh>@path content</vh>
 <v t="40323233.20151106162012.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="40323233.20151106162012.10"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="40323233.20151106162132.1"><vh>@edit 2015cphww2.md</vh></v>
@@ -1485,10 +1485,10 @@
 <v t="40323216.20151106195536.1"><vh>@clean 40323236_cp_w7.html</vh>
 <v t="40323216.20151106195536.2"><vh>檔案說明</vh></v>
 <v t="40323216.20151106195536.3"><vh>@auto simplest.html</vh></v>
-<v t="40323216.20151106195536.4" a="E"><vh>html 標註</vh>
-<v t="40323216.20151106195536.5" a="E"><vh>body 標註</vh>
-<v t="40323216.20151106195536.6" a="E"><vh>div class="reveal"</vh>
-<v t="40323216.20151106195536.7" a="E"><vh>div class="slides"</vh>
+<v t="40323216.20151106195536.4"><vh>html 標註</vh>
+<v t="40323216.20151106195536.5"><vh>body 標註</vh>
+<v t="40323216.20151106195536.6"><vh>div class="reveal"</vh>
+<v t="40323216.20151106195536.7"><vh>div class="slides"</vh>
 <v t="40323216.20151106195536.8"><vh>40323236</vh></v>
 <v t="40323216.20151106195536.9"><vh>第一頁</vh></v>
 </v>
@@ -1499,10 +1499,10 @@
 </v>
 <v t="leo.20151026230425.22"><vh>@clean 40323236_cp_w5.html</vh>
 <v t="leo.20151026230425.23"><vh>檔案說明</vh></v>
-<v t="leo.20151026230425.24" a="E"><vh>html 標註</vh>
-<v t="leo.20151026230425.25" a="E"><vh>body 標註</vh>
-<v t="leo.20151026230425.26" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151026230425.27" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151026230425.24"><vh>html 標註</vh>
+<v t="leo.20151026230425.25"><vh>body 標註</vh>
+<v t="leo.20151026230425.26"><vh>div class="reveal"</vh>
+<v t="leo.20151026230425.27"><vh>div class="slides"</vh>
 <v t="leo.20151026230425.28"><vh>40323236</vh></v>
 <v t="leo.20151026230425.29"><vh>第一頁</vh></v>
 </v>
@@ -1514,10 +1514,10 @@
 <v t="40323216.20151106195541.1"><vh>@clean 40323236_cp_w6.html</vh>
 <v t="40323216.20151106195541.2"><vh>檔案說明</vh></v>
 <v t="40323216.20151106195541.3"><vh>@auto simplest.html</vh></v>
-<v t="40323216.20151106195541.4" a="E"><vh>html 標註</vh>
-<v t="40323216.20151106195541.5" a="E"><vh>body 標註</vh>
-<v t="40323216.20151106195541.6" a="E"><vh>div class="reveal"</vh>
-<v t="40323216.20151106195541.7" a="E"><vh>div class="slides"</vh>
+<v t="40323216.20151106195541.4"><vh>html 標註</vh>
+<v t="40323216.20151106195541.5"><vh>body 標註</vh>
+<v t="40323216.20151106195541.6"><vh>div class="reveal"</vh>
+<v t="40323216.20151106195541.7"><vh>div class="slides"</vh>
 <v t="40323216.20151106195541.8"><vh>40323236</vh></v>
 <v t="40323216.20151106195541.9"><vh>第一頁</vh></v>
 </v>
@@ -1526,10 +1526,10 @@
 </v>
 </v>
 </v>
-<v t="leo.20151026230425.42" a="E"><vh>@path pelican</vh>
+<v t="leo.20151026230425.42"><vh>@path pelican</vh>
 <v t="leo.20151026230425.43"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151027010855.1"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151026230425.45" a="E"><vh>@path content</vh>
+<v t="leo.20151026230425.45"><vh>@path content</vh>
 <v t="leo.20151026230425.46"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151027011121.1"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="leo.20151027011226.1"><vh>@edit 40323236_cp_w2.md</vh></v>
@@ -1545,10 +1545,10 @@
 <v t="leo.20151106232806.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151106232806.3"><vh>@clean simplest3.html</vh>
 <v t="leo.20151106232806.4"><vh>檔案說明</vh></v>
-<v t="leo.20151106232806.5" a="E"><vh>html 標註</vh>
-<v t="leo.20151106232806.6" a="E"><vh>body 標註</vh>
-<v t="leo.20151106232806.7" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151106232806.8" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151106232806.5"><vh>html 標註</vh>
+<v t="leo.20151106232806.6"><vh>body 標註</vh>
+<v t="leo.20151106232806.7"><vh>div class="reveal"</vh>
+<v t="leo.20151106232806.8"><vh>div class="slides"</vh>
 <v t="leo.20151106232806.9"><vh>有關我的作業</vh></v>
 <v t="leo.20151106232806.10"><vh>作業任務一</vh></v>
 <v t="leo.20151106232806.11"><vh>第3張投影片</vh></v>
@@ -1560,10 +1560,10 @@
 </v>
 <v t="leo.20151106232806.13"><vh>@clean simplest2.html</vh>
 <v t="leo.20151106232806.14"><vh>檔案說明</vh></v>
-<v t="leo.20151106232806.15" a="E"><vh>html 標註</vh>
-<v t="leo.20151106232806.16" a="E"><vh>body 標註</vh>
-<v t="leo.20151106232806.17" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151106232806.18" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151106232806.15"><vh>html 標註</vh>
+<v t="leo.20151106232806.16"><vh>body 標註</vh>
+<v t="leo.20151106232806.17"><vh>div class="reveal"</vh>
+<v t="leo.20151106232806.18"><vh>div class="slides"</vh>
 <v t="leo.20151106232806.19"><vh>有關我的作業</vh></v>
 <v t="leo.20151106232806.20"><vh>作業任務一</vh></v>
 <v t="leo.20151106232806.21"><vh>第3張投影片</vh></v>
@@ -1576,9 +1576,9 @@
 <v t="leo.20151106232806.23"><vh>@clean simplest.html</vh>
 <v t="leo.20151106232806.24"><vh>檔案說明</vh></v>
 <v t="leo.20151106232806.25"><vh>html 標註</vh>
-<v t="leo.20151106232806.26" a="E"><vh>body 標註</vh>
-<v t="leo.20151106232806.27" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151106232806.28" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151106232806.26"><vh>body 標註</vh>
+<v t="leo.20151106232806.27"><vh>div class="reveal"</vh>
+<v t="leo.20151106232806.28"><vh>div class="slides"</vh>
 <v t="leo.20151106232806.29"><vh>有關我的作業</vh></v>
 <v t="leo.20151106232806.30"><vh>作業任務一</vh></v>
 <v t="leo.20151106232806.31"><vh>第3張投影片</vh></v>
@@ -1588,10 +1588,10 @@
 </v>
 </v>
 </v>
-<v t="leo.20151106232806.33" a="E"><vh>@path pelican</vh>
+<v t="leo.20151106232806.33"><vh>@path pelican</vh>
 <v t="leo.20151106232806.34"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151106232806.35"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151106232806.36" a="E"><vh>@path content</vh>
+<v t="leo.20151106232806.36"><vh>@path content</vh>
 <v t="leo.20151106232806.37"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151106232806.38"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151106232806.39"><vh>@edit 2015cphww4.md</vh></v>
@@ -1604,10 +1604,10 @@
 <v t="leo.20151108141724.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151108142434.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151108142434.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108142434.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108142434.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108142434.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108142434.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108142434.3"><vh>html 標註</vh>
+<v t="leo.20151108142434.4"><vh>body 標註</vh>
+<v t="leo.20151108142434.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108142434.6"><vh>div class="slides"</vh>
 <v t="leo.20151108142434.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151108142434.8"><vh>作業任務一</vh></v>
 <v t="leo.20151108142434.9"><vh>第3張投影片</vh></v>
@@ -1619,10 +1619,10 @@
 </v>
 <v t="leo.20151108142723.1"><vh>@clean simplest2.html</vh>
 <v t="leo.20151108142723.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108142723.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108142723.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108142723.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108142723.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108142723.3"><vh>html 標註</vh>
+<v t="leo.20151108142723.4"><vh>body 標註</vh>
+<v t="leo.20151108142723.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108142723.6"><vh>div class="slides"</vh>
 <v t="leo.20151108142723.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151108142723.8"><vh>作業任務一</vh></v>
 <v t="leo.20151108142723.9"><vh>第3張投影片</vh></v>
@@ -1634,10 +1634,10 @@
 </v>
 <v t="leo.20151108142737.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151108142737.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108142737.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108142737.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108142737.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108142737.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108142737.3"><vh>html 標註</vh>
+<v t="leo.20151108142737.4"><vh>body 標註</vh>
+<v t="leo.20151108142737.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108142737.6"><vh>div class="slides"</vh>
 <v t="leo.20151108142737.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151108142737.8"><vh>作業任務一</vh></v>
 <v t="leo.20151108142737.9"><vh>第3張投影片</vh></v>
@@ -1647,10 +1647,10 @@
 </v>
 </v>
 </v>
-<v t="leo.20151108141724.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151108141724.4"><vh>@path pelican</vh>
 <v t="leo.20151108141724.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151108141724.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151108141724.7" a="E"><vh>@path content</vh>
+<v t="leo.20151108141724.7"><vh>@path content</vh>
 <v t="leo.20151108141724.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151108142215.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151108142223.1"><vh>@edit 2015cphww4.md</vh></v>
@@ -1663,10 +1663,10 @@
 <v t="40323253.20151108152950.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323253.20151108152950.3"><vh>@clean simplest.html</vh>
 <v t="40323253.20151108152950.4"><vh>檔案說明</vh></v>
-<v t="40323253.20151108152950.5" a="E"><vh>html 標註</vh>
-<v t="40323253.20151108152950.6" a="E"><vh>body 標註</vh>
-<v t="40323253.20151108152950.7" a="E"><vh>div class="reveal"</vh>
-<v t="40323253.20151108152950.8" a="E"><vh>div class="slides"</vh>
+<v t="40323253.20151108152950.5"><vh>html 標註</vh>
+<v t="40323253.20151108152950.6"><vh>body 標註</vh>
+<v t="40323253.20151108152950.7"><vh>div class="reveal"</vh>
+<v t="40323253.20151108152950.8"><vh>div class="slides"</vh>
 <v t="40323253.20151108152950.9"><vh>有關我的作業</vh></v>
 <v t="40323253.20151108152950.10"><vh>作業任務一</vh></v>
 <v t="40323253.20151108152950.11"><vh>第3張投影片</vh></v>
@@ -1678,10 +1678,10 @@
 </v>
 <v t="40323253.20151108152950.13"><vh>@clean simplest2.html</vh>
 <v t="40323253.20151108152950.14"><vh>檔案說明</vh></v>
-<v t="40323253.20151108152950.15" a="E"><vh>html 標註</vh>
-<v t="40323253.20151108152950.16" a="E"><vh>body 標註</vh>
-<v t="40323253.20151108152950.17" a="E"><vh>div class="reveal"</vh>
-<v t="40323253.20151108152950.18" a="E"><vh>div class="slides"</vh>
+<v t="40323253.20151108152950.15"><vh>html 標註</vh>
+<v t="40323253.20151108152950.16"><vh>body 標註</vh>
+<v t="40323253.20151108152950.17"><vh>div class="reveal"</vh>
+<v t="40323253.20151108152950.18"><vh>div class="slides"</vh>
 <v t="40323253.20151108152950.19"><vh>有關我的作業</vh></v>
 <v t="40323253.20151108152950.21"><vh>第3張投影片</vh></v>
 </v>
@@ -1692,10 +1692,10 @@
 </v>
 <v t="40323253.20151108152950.23"><vh>@clean simplest3.html</vh>
 <v t="40323253.20151108152950.24"><vh>檔案說明</vh></v>
-<v t="40323253.20151108152950.25" a="E"><vh>html 標註</vh>
-<v t="40323253.20151108152950.26" a="E"><vh>body 標註</vh>
-<v t="40323253.20151108152950.27" a="E"><vh>div class="reveal"</vh>
-<v t="40323253.20151108152950.28" a="E"><vh>div class="slides"</vh>
+<v t="40323253.20151108152950.25"><vh>html 標註</vh>
+<v t="40323253.20151108152950.26"><vh>body 標註</vh>
+<v t="40323253.20151108152950.27"><vh>div class="reveal"</vh>
+<v t="40323253.20151108152950.28"><vh>div class="slides"</vh>
 <v t="40323253.20151108152950.29"><vh>有關我的作業</vh></v>
 <v t="40323253.20151108152950.31"><vh>第3張投影片</vh></v>
 </v>
@@ -1704,7 +1704,7 @@
 </v>
 </v>
 </v>
-<v t="40323253.20151108152950.33" a="E"><vh>@path pelican</vh>
+<v t="40323253.20151108152950.33"><vh>@path pelican</vh>
 <v t="40323253.20151108152950.34"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323253.20151108152950.35"><vh>@edit publishconf.py</vh></v>
 <v t="40323253.20151108152950.36"><vh>@path content</vh>
@@ -1720,10 +1720,10 @@
 <v t="leo.20151107213953.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151107213953.3"><vh>@clean 40323248_cp_w2.html</vh>
 <v t="leo.20151107213953.4"><vh>檔案說明</vh></v>
-<v t="leo.20151107213953.5" a="E"><vh>html 標註</vh>
-<v t="leo.20151107213953.6" a="E"><vh>body 標註</vh>
-<v t="leo.20151107213953.7" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107213953.8" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107213953.5"><vh>html 標註</vh>
+<v t="leo.20151107213953.6"><vh>body 標註</vh>
+<v t="leo.20151107213953.7"><vh>div class="reveal"</vh>
+<v t="leo.20151107213953.8"><vh>div class="slides"</vh>
 <v t="leo.20151107213953.9"><vh>標題</vh></v>
 <v t="leo.20151107213953.10"><vh>作業任務一</vh></v>
 <v t="leo.20151107213953.11"><vh>自評</vh></v>
@@ -1735,10 +1735,10 @@
 </v>
 <v t="leo.20151107213953.13"><vh>@clean 40323248_cp_w4.html</vh>
 <v t="leo.20151107213953.14"><vh>檔案說明</vh></v>
-<v t="leo.20151107213953.15" a="E"><vh>html 標註</vh>
-<v t="leo.20151107213953.16" a="E"><vh>body 標註</vh>
-<v t="leo.20151107213953.17" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107213953.18" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107213953.15"><vh>html 標註</vh>
+<v t="leo.20151107213953.16"><vh>body 標註</vh>
+<v t="leo.20151107213953.17"><vh>div class="reveal"</vh>
+<v t="leo.20151107213953.18"><vh>div class="slides"</vh>
 <v t="leo.20151107213953.19"><vh>標題</vh></v>
 <v t="leo.20151107213953.20"><vh>作業任務一</vh></v>
 <v t="leo.20151107213953.21"><vh>自評</vh></v>
@@ -1750,10 +1750,10 @@
 </v>
 <v t="leo.20151107213953.23"><vh>@clean 40323248_cp_w5.html</vh>
 <v t="leo.20151107213953.24"><vh>檔案說明</vh></v>
-<v t="leo.20151107213953.25" a="E"><vh>html 標註</vh>
-<v t="leo.20151107213953.26" a="E"><vh>body 標註</vh>
-<v t="leo.20151107213953.27" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107213953.28" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107213953.25"><vh>html 標註</vh>
+<v t="leo.20151107213953.26"><vh>body 標註</vh>
+<v t="leo.20151107213953.27"><vh>div class="reveal"</vh>
+<v t="leo.20151107213953.28"><vh>div class="slides"</vh>
 <v t="leo.20151107213953.29"><vh>標題</vh></v>
 <v t="leo.20151107213953.30"><vh>作業任務一</vh></v>
 <v t="leo.20151107213953.31"><vh>自評</vh></v>
@@ -1765,10 +1765,10 @@
 </v>
 <v t="leo.20151107213953.33"><vh>@clean 40323248_cp_w6.html</vh>
 <v t="leo.20151107213953.34"><vh>檔案說明</vh></v>
-<v t="leo.20151107213953.35" a="E"><vh>html 標註</vh>
-<v t="leo.20151107213953.36" a="E"><vh>body 標註</vh>
-<v t="leo.20151107213953.37" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107213953.38" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107213953.35"><vh>html 標註</vh>
+<v t="leo.20151107213953.36"><vh>body 標註</vh>
+<v t="leo.20151107213953.37"><vh>div class="reveal"</vh>
+<v t="leo.20151107213953.38"><vh>div class="slides"</vh>
 <v t="leo.20151107213953.39"><vh>標題</vh></v>
 <v t="leo.20151107213953.40"><vh>作業任務一</vh></v>
 <v t="leo.20151107213953.41"><vh>自評</vh></v>
@@ -1780,10 +1780,10 @@
 </v>
 <v t="leo.20151107213953.43"><vh>@clean 40323248_cp_w8.html</vh>
 <v t="leo.20151107213953.44"><vh>檔案說明</vh></v>
-<v t="leo.20151107213953.45" a="E"><vh>html 標註</vh>
-<v t="leo.20151107213953.46" a="E"><vh>body 標註</vh>
-<v t="leo.20151107213953.47" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107213953.48" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107213953.45"><vh>html 標註</vh>
+<v t="leo.20151107213953.46"><vh>body 標註</vh>
+<v t="leo.20151107213953.47"><vh>div class="reveal"</vh>
+<v t="leo.20151107213953.48"><vh>div class="slides"</vh>
 <v t="leo.20151107213953.49"><vh>標題</vh></v>
 <v t="leo.20151107213953.50"><vh>作業任務一</vh></v>
 <v t="leo.20151107213953.51"><vh>自評</vh></v>
@@ -1805,7 +1805,7 @@
 <v t="leo.20151107213953.62"><vh>@path pelican</vh>
 <v t="leo.20151107213953.63"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151107213953.64"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151107213953.65" a="E"><vh>@path content</vh>
+<v t="leo.20151107213953.65"><vh>@path content</vh>
 <v t="leo.20151107213953.66"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151107213953.67"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="leo.20151107213953.68"><vh>@edit 40323248_cp_w2.md</vh></v>
@@ -1821,11 +1821,11 @@
 <v t="40323250.20151026181431.1"><vh>@clean 40323250_cp_w2.html</vh>
 <v t="40323250.20151026181431.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151026181431.3"><vh>html 標註</vh>
-<v t="40323250.20151026181431.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151026181431.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151026181431.6" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151026181431.4"><vh>body 標註</vh>
+<v t="40323250.20151026181431.5"><vh>div class="reveal"</vh>
+<v t="40323250.20151026181431.6"><vh>div class="slides"</vh>
 <v t="40323250.20151026181431.7"><vh>投影頁面1 封面</vh></v>
-<v t="40323250.20151026181431.8" a="E"><vh>投影頁面2 筆記</vh>
+<v t="40323250.20151026181431.8"><vh>投影頁面2 筆記</vh>
 <v t="40323250.20151026181431.9"><vh>1</vh></v>
 <v t="40323250.20151026181431.10"><vh>2</vh></v>
 <v t="40323250.20151026181431.11"><vh>3</vh></v>
@@ -1841,12 +1841,12 @@
 </v>
 <v t="40323250.20151026181451.1"><vh>@clean 40323250_cp_w4.html</vh>
 <v t="40323250.20151026181451.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151026181451.3" a="E"><vh>html 標註</vh>
-<v t="40323250.20151026181451.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151026181451.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151026181451.6" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151026181451.3"><vh>html 標註</vh>
+<v t="40323250.20151026181451.4"><vh>body 標註</vh>
+<v t="40323250.20151026181451.5"><vh>div class="reveal"</vh>
+<v t="40323250.20151026181451.6"><vh>div class="slides"</vh>
 <v t="40323250.20151026181451.7"><vh>投影頁面1 封面</vh></v>
-<v t="40323250.20151026181451.8" a="E"><vh>投影頁面2 筆記</vh>
+<v t="40323250.20151026181451.8"><vh>投影頁面2 筆記</vh>
 <v t="40323250.20151026181451.9"><vh>1</vh></v>
 <v t="40323250.20151026181451.10"><vh>2</vh></v>
 <v t="40323250.20151026181451.11"><vh>3</vh></v>
@@ -1900,12 +1900,12 @@
 </v>
 <v t="40323250.20151026181506.1"><vh>@clean 40323250_cp_w7.html</vh>
 <v t="40323250.20151026181506.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151026181506.3" a="E"><vh>html 標註</vh>
-<v t="40323250.20151026181506.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151026181506.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151026181506.6" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151026181506.3"><vh>html 標註</vh>
+<v t="40323250.20151026181506.4"><vh>body 標註</vh>
+<v t="40323250.20151026181506.5"><vh>div class="reveal"</vh>
+<v t="40323250.20151026181506.6"><vh>div class="slides"</vh>
 <v t="40323250.20151026181506.7"><vh>投影頁面1 封面</vh></v>
-<v t="40323250.20151026181506.8" a="E"><vh>投影頁面2 筆記</vh>
+<v t="40323250.20151026181506.8"><vh>投影頁面2 筆記</vh>
 <v t="40323250.20151026181506.9"><vh>1</vh></v>
 <v t="40323250.20151026181506.10"><vh>2</vh></v>
 </v>
@@ -1917,7 +1917,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151026181302.4" a="E"><vh>@path pelican</vh>
+<v t="40323250.20151026181302.4"><vh>@path pelican</vh>
 <v t="40323250.20151026181302.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323250.20151026181302.6"><vh>@edit publishconf.py</vh></v>
 <v t="40323250.20151026181302.7"><vh>@path content</vh>
@@ -1932,31 +1932,81 @@
 </v>
 </v>
 </v>
+<v t="49923230.20151108215613.1"><vh>@path 49923230</vh>
+<v t="49923230.20151108215613.2"><vh>以下為投影片 ------------</vh></v>
+<v t="49923230.20151108215754.1"><vh>@clean 2015cadpslidesw1.html</vh>
+<v t="49923230.20151108215754.2"><vh>檔案說明</vh></v>
+<v t="49923230.20151108215754.3" a="E"><vh>html 標註</vh>
+<v t="49923230.20151108215754.4" a="E"><vh>body 標註</vh>
+<v t="49923230.20151108215754.5" a="E"><vh>div class="reveal"</vh>
+<v t="49923230.20151108215754.6" a="E"><vh>div class="slides"</vh>
+<v t="49923230.20151108215754.7"><vh>有關我的作業</vh></v>
+<v t="49923230.20151108215754.8"><vh>作業任務一</vh></v>
+<v t="49923230.20151108215754.9"><vh>自我評分</vh></v>
+<v t="49923230.20151108215754.10"><vh>What engineers do?</vh></v>
+<v t="49923230.20151108215754.11"><vh>Computer in Engineering.</vh></v>
+<v t="49923230.20151108215754.12"><vh>About Leo Editor</vh></v>
+<v t="49923230.20151108215754.13"><vh>Vimeo videos</vh></v>
+</v>
+</v>
+<v t="49923230.20151108215754.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="49923230.20151108215743.1"><vh>@clean 2015cadpslidesw2.html</vh>
+<v t="49923230.20151108215743.2"><vh>檔案說明</vh></v>
+<v t="49923230.20151108215743.3"><vh>html 標註</vh>
+<v t="49923230.20151108215743.4"><vh>body 標註</vh>
+<v t="49923230.20151108215743.5"><vh>div class="reveal"</vh>
+<v t="49923230.20151108215743.6"><vh>div class="slides"</vh>
+<v t="49923230.20151108215743.7"><vh>有關我的作業</vh></v>
+<v t="49923230.20151108215743.8"><vh>作業任務一</vh></v>
+<v t="49923230.20151108215743.9"><vh>自我評分</vh></v>
+<v t="49923230.20151108215743.10"><vh>Learning Solvespace</vh></v>
+<v t="49923230.20151108215743.11"><vh>Learning Creo</vh></v>
+<v t="49923230.20151108215743.12"><vh>Review</vh></v>
+</v>
+</v>
+<v t="49923230.20151108215743.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="49923230.20151108215613.72" a="E"><vh>@path pelican</vh>
+<v t="49923230.20151108215613.73"><vh>以下為設定檔 ------------</vh></v>
+<v t="49923230.20151108215613.74"><vh>@edit publishconf.py</vh></v>
+<v t="49923230.20151108215613.75" a="E"><vh>@path content</vh>
+<v t="49923230.20151108215613.76"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="49923230.20151108215851.1"><vh>@edit 49923230_cp_w2.md</vh></v>
+<v t="49923230.20151108215901.1"><vh>@edit 49923230_cp_w4.md</vh></v>
+<v t="49923230.20151108215613.77"><vh>@edit 2015cpnote1.md</vh></v>
+</v>
+</v>
+</v>
 <v t="leo.20151108124417.1"><vh>@path 40328245</vh>
 <v t="leo.20151108124417.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151108125028.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151108125028.2"><vh>newHeadline</vh></v>
 <v t="leo.20151108125028.3"><vh>檔案說明</vh></v>
-<v t="leo.20151108125028.4" a="E"><vh>html 標註</vh>
-<v t="leo.20151108125028.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108125028.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108125028.4"><vh>html 標註</vh>
+<v t="leo.20151108125028.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108125028.6"><vh>div class="slides"</vh>
 <v t="leo.20151108125028.7"><vh>介紹</vh></v>
 <v t="leo.20151108125028.8"><vh>筆記</vh></v>
 <v t="leo.20151108125028.9"><vh>單字整理</vh></v>
 <v t="leo.20151108125028.10"><vh>心得與評分</vh></v>
 </v>
 </v>
-<v t="leo.20151108125028.11" a="E"><vh>body 標註</vh>
+<v t="leo.20151108125028.11"><vh>body 標註</vh>
 <v t="leo.20151108125028.12"><vh>script</vh></v>
 </v>
 </v>
 </v>
 <v t="leo.20151108125016.1"><vh>@clean simplest2.html</vh>
 <v t="leo.20151108125016.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108125016.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108125016.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108125016.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108125016.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108125016.3"><vh>html 標註</vh>
+<v t="leo.20151108125016.4"><vh>body 標註</vh>
+<v t="leo.20151108125016.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108125016.6"><vh>div class="slides"</vh>
 <v t="leo.20151108125016.7"><vh>介紹</vh></v>
 <v t="leo.20151108125016.8"><vh>筆記</vh></v>
 <v t="leo.20151108125016.9"><vh>單字整理</vh></v>
@@ -1969,10 +2019,10 @@
 </v>
 <v t="leo.20151108124957.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151108124957.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108124957.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108124957.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108124957.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108124957.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108124957.3"><vh>html 標註</vh>
+<v t="leo.20151108124957.4"><vh>body 標註</vh>
+<v t="leo.20151108124957.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108124957.6"><vh>div class="slides"</vh>
 <v t="leo.20151108124957.7"><vh>介紹</vh></v>
 <v t="leo.20151108124957.8"><vh>筆記</vh></v>
 <v t="leo.20151108124957.9"><vh>單字整理</vh></v>
@@ -1986,9 +2036,9 @@
 <v t="leo.20151108124945.1"><vh>@clean simplest4.html</vh>
 <v t="leo.20151108124945.2"><vh>newHeadline</vh></v>
 <v t="leo.20151108124945.3"><vh>檔案說明</vh></v>
-<v t="leo.20151108124945.4" a="E"><vh>html 標註</vh>
-<v t="leo.20151108124945.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108124945.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108124945.4"><vh>html 標註</vh>
+<v t="leo.20151108124945.5"><vh>div class="reveal"</vh>
+<v t="leo.20151108124945.6"><vh>div class="slides"</vh>
 <v t="leo.20151108124945.7"><vh>介紹</vh></v>
 <v t="leo.20151108124945.8"><vh>筆記(第一,二周)</vh></v>
 <v t="leo.20151108124945.9"><vh>筆記(第四周)</vh></v>
@@ -2003,10 +2053,10 @@
 </v>
 </v>
 </v>
-<v t="leo.20151108124417.72" a="E"><vh>@path pelican</vh>
+<v t="leo.20151108124417.72"><vh>@path pelican</vh>
 <v t="leo.20151108124417.73"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151108124417.74"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151108124417.75" a="E"><vh>@path content</vh>
+<v t="leo.20151108124417.75"><vh>@path content</vh>
 <v t="leo.20151108124417.76"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151108125035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151108124417.77"><vh>@edit 2015cpnote1.md</vh></v>
@@ -2021,10 +2071,10 @@
 <v t="40323252.20151103234036.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323252.20151103234036.3"><vh>@clean 40323252_cp_w2.html</vh>
 <v t="40323252.20151103234036.4"><vh>檔案說明</vh></v>
-<v t="40323252.20151103234036.5" a="E"><vh>html 標註</vh>
-<v t="40323252.20151103234036.6" a="E"><vh>body 標註</vh>
-<v t="40323252.20151103234036.7" a="E"><vh>div class="reveal"</vh>
-<v t="40323252.20151103234036.8" a="E"><vh>div class="slides"</vh>
+<v t="40323252.20151103234036.5"><vh>html 標註</vh>
+<v t="40323252.20151103234036.6"><vh>body 標註</vh>
+<v t="40323252.20151103234036.7"><vh>div class="reveal"</vh>
+<v t="40323252.20151103234036.8"><vh>div class="slides"</vh>
 <v t="40323252.20151103234036.9"><vh>有關我的作業</vh></v>
 <v t="40323252.20151103234036.10"><vh>作業一</vh></v>
 <v t="40323252.20151103234508.1"><vh>作業二</vh></v>
@@ -2037,10 +2087,10 @@
 </v>
 <v t="40323252.20151103234036.13"><vh>@clean 40323252_cp_w4.html</vh>
 <v t="40323252.20151103234036.14"><vh>檔案說明</vh></v>
-<v t="40323252.20151103234036.15" a="E"><vh>html 標註</vh>
-<v t="40323252.20151103234036.16" a="E"><vh>body 標註</vh>
-<v t="40323252.20151103234036.17" a="E"><vh>div class="reveal"</vh>
-<v t="40323252.20151103234036.18" a="E"><vh>div class="slides"</vh>
+<v t="40323252.20151103234036.15"><vh>html 標註</vh>
+<v t="40323252.20151103234036.16"><vh>body 標註</vh>
+<v t="40323252.20151103234036.17"><vh>div class="reveal"</vh>
+<v t="40323252.20151103234036.18"><vh>div class="slides"</vh>
 <v t="40323252.20151103234036.19"><vh>有關我的作業</vh></v>
 <v t="40323252.20151103234036.20"><vh>作業二</vh></v>
 </v>
@@ -2051,10 +2101,10 @@
 </v>
 <v t="40323252.20151103234036.23"><vh>@clean 40323252_cp_w5.html</vh>
 <v t="40323252.20151103234036.24"><vh>檔案說明</vh></v>
-<v t="40323252.20151103234036.25" a="E"><vh>html 標註</vh>
-<v t="40323252.20151103234036.26" a="E"><vh>body 標註</vh>
-<v t="40323252.20151103234036.27" a="E"><vh>div class="reveal"</vh>
-<v t="40323252.20151103234036.28" a="E"><vh>div class="slides"</vh>
+<v t="40323252.20151103234036.25"><vh>html 標註</vh>
+<v t="40323252.20151103234036.26"><vh>body 標註</vh>
+<v t="40323252.20151103234036.27"><vh>div class="reveal"</vh>
+<v t="40323252.20151103234036.28"><vh>div class="slides"</vh>
 <v t="40323252.20151103234036.29"><vh>有關我的作業</vh></v>
 <v t="40323252.20151103234036.30"><vh>作業三</vh></v>
 </v>
@@ -2079,9 +2129,9 @@
 <v t="40323253.20151104013106.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323253.20151104013106.3"><vh>@clean 40323253_cp_w1~2.html</vh>
 <v t="40323253.20151104013106.4"><vh>檔案說明</vh></v>
-<v t="40323253.20151104013106.5" a="E"><vh>html 標註</vh>
-<v t="40323253.20151104013106.6" a="E"><vh>body 標註</vh>
-<v t="40323253.20151104013106.7" a="E"><vh>div class="reveal"</vh>
+<v t="40323253.20151104013106.5"><vh>html 標註</vh>
+<v t="40323253.20151104013106.6"><vh>body 標註</vh>
+<v t="40323253.20151104013106.7"><vh>div class="reveal"</vh>
 <v t="40323253.20151104013106.8"><vh>div class="slides"</vh>
 <v t="40323253.20151104013106.9"><vh>封面</vh></v>
 <v t="40323253.20151104013106.10"><vh>筆記1</vh></v>
@@ -2098,10 +2148,10 @@
 </v>
 <v t="40323253.20151104013106.17"><vh>@clean 40323253_cp_w4.html</vh>
 <v t="40323253.20151104013106.18"><vh>檔案說明</vh></v>
-<v t="40323253.20151104013106.19" a="E"><vh>html 標註</vh>
-<v t="40323253.20151104013106.20" a="E"><vh>body 標註</vh>
-<v t="40323253.20151104013106.21" a="E"><vh>div class="reveal"</vh>
-<v t="40323253.20151104013106.22" a="E"><vh>div class="slides"</vh>
+<v t="40323253.20151104013106.19"><vh>html 標註</vh>
+<v t="40323253.20151104013106.20"><vh>body 標註</vh>
+<v t="40323253.20151104013106.21"><vh>div class="reveal"</vh>
+<v t="40323253.20151104013106.22"><vh>div class="slides"</vh>
 <v t="40323253.20151104013106.23"><vh>封面</vh></v>
 <v t="40323253.20151104013106.24"><vh>心得與評分</vh></v>
 </v>
@@ -2112,10 +2162,10 @@
 </v>
 <v t="40323253.20151104013106.26"><vh>@clean 40323253_cp_w5.html</vh>
 <v t="40323253.20151104013106.27"><vh>檔案說明</vh></v>
-<v t="40323253.20151104013106.28" a="E"><vh>html 標註</vh>
-<v t="40323253.20151104013106.29" a="E"><vh>body 標註</vh>
-<v t="40323253.20151104013106.30" a="E"><vh>div class="reveal"</vh>
-<v t="40323253.20151104013106.31" a="E"><vh>div class="slides"</vh>
+<v t="40323253.20151104013106.28"><vh>html 標註</vh>
+<v t="40323253.20151104013106.29"><vh>body 標註</vh>
+<v t="40323253.20151104013106.30"><vh>div class="reveal"</vh>
+<v t="40323253.20151104013106.31"><vh>div class="slides"</vh>
 <v t="40323253.20151104013106.32"><vh>封面</vh></v>
 <v t="40323253.20151104013106.33"><vh>筆記</vh></v>
 <v t="40323253.20151104013106.34"><vh>基本介紹5</vh></v>
@@ -2129,12 +2179,12 @@
 </v>
 </v>
 </v>
-<v t="40323253.20151104013106.40" a="E"><vh>@clean 40323253_cp_w8.html</vh>
+<v t="40323253.20151104013106.40"><vh>@clean 40323253_cp_w8.html</vh>
 <v t="40323253.20151104013106.41"><vh>檔案說明</vh></v>
-<v t="40323253.20151104013106.42" a="E"><vh>html 標註</vh>
-<v t="40323253.20151104013106.43" a="E"><vh>body 標註</vh>
-<v t="40323253.20151104013106.44" a="E"><vh>div class="reveal"</vh>
-<v t="40323253.20151104013106.45" a="E"><vh>div class="slides"</vh>
+<v t="40323253.20151104013106.42"><vh>html 標註</vh>
+<v t="40323253.20151104013106.43"><vh>body 標註</vh>
+<v t="40323253.20151104013106.44"><vh>div class="reveal"</vh>
+<v t="40323253.20151104013106.45"><vh>div class="slides"</vh>
 <v t="40323253.20151104013106.46"><vh>封面</vh></v>
 <v t="40323253.20151104013106.47"><vh>W1~2</vh></v>
 <v t="40323253.20151104013106.48"><vh>筆記1</vh></v>
@@ -2169,9 +2219,9 @@
 <v t="leo.20151107213414.3"><vh>@clean 40323255_cp_w2.html</vh>
 <v t="leo.20151107213414.4"><vh>檔案說明</vh></v>
 <v t="leo.20151107213414.5"><vh>html 標註</vh>
-<v t="leo.20151107213414.6" a="E"><vh>body 標註</vh>
-<v t="leo.20151107213414.7" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107213414.8" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107213414.6"><vh>body 標註</vh>
+<v t="leo.20151107213414.7"><vh>div class="reveal"</vh>
+<v t="leo.20151107213414.8"><vh>div class="slides"</vh>
 <v t="leo.20151107213414.9"><vh>有關我的作業</vh></v>
 <v t="leo.20151107213414.10"><vh>作業一</vh></v>
 <v t="leo.20151107213414.11"><vh>第3張投影片</vh></v>
@@ -2183,10 +2233,10 @@
 </v>
 <v t="leo.20151107213414.13"><vh>@clean 40323255_cp_w4.html</vh>
 <v t="leo.20151107213414.14"><vh>檔案說明</vh></v>
-<v t="leo.20151107213414.15" a="E"><vh>html 標註</vh>
-<v t="leo.20151107213414.16" a="E"><vh>body 標註</vh>
-<v t="leo.20151107213414.17" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107213414.18" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107213414.15"><vh>html 標註</vh>
+<v t="leo.20151107213414.16"><vh>body 標註</vh>
+<v t="leo.20151107213414.17"><vh>div class="reveal"</vh>
+<v t="leo.20151107213414.18"><vh>div class="slides"</vh>
 <v t="leo.20151107213414.19"><vh>有關我的作業</vh></v>
 <v t="leo.20151107213414.20"><vh>作業二</vh></v>
 <v t="leo.20151107213414.21"><vh>第3張投影片</vh></v>
@@ -2198,10 +2248,10 @@
 </v>
 <v t="leo.20151107213414.23"><vh>@clean 40323255_cp_w5.html</vh>
 <v t="leo.20151107213414.24"><vh>檔案說明</vh></v>
-<v t="leo.20151107213414.25" a="E"><vh>html 標註</vh>
-<v t="leo.20151107213414.26" a="E"><vh>body 標註</vh>
-<v t="leo.20151107213414.27" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107213414.28" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107213414.25"><vh>html 標註</vh>
+<v t="leo.20151107213414.26"><vh>body 標註</vh>
+<v t="leo.20151107213414.27"><vh>div class="reveal"</vh>
+<v t="leo.20151107213414.28"><vh>div class="slides"</vh>
 <v t="leo.20151107213414.29"><vh>有關我的作業</vh></v>
 <v t="leo.20151107213414.30"><vh>2</vh></v>
 <v t="leo.20151107213414.31"><vh>3</vh></v>
@@ -2215,10 +2265,10 @@
 </v>
 <v t="leo.20151107213414.35"><vh>@clean 40323255_cp_w6.html</vh>
 <v t="leo.20151107213414.36"><vh>檔案說明</vh></v>
-<v t="leo.20151107213414.37" a="E"><vh>html 標註</vh>
-<v t="leo.20151107213414.38" a="E"><vh>body 標註</vh>
-<v t="leo.20151107213414.39" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107213414.40" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107213414.37"><vh>html 標註</vh>
+<v t="leo.20151107213414.38"><vh>body 標註</vh>
+<v t="leo.20151107213414.39"><vh>div class="reveal"</vh>
+<v t="leo.20151107213414.40"><vh>div class="slides"</vh>
 <v t="leo.20151107213414.41"><vh>有關我的作業</vh></v>
 <v t="leo.20151107213414.42"><vh>2</vh></v>
 <v t="leo.20151107213414.43"><vh>3</vh></v>
@@ -2232,10 +2282,10 @@
 </v>
 <v t="leo.20151107213414.47"><vh>@clean 40323255_cp_w7.html</vh>
 <v t="leo.20151107213414.48"><vh>檔案說明</vh></v>
-<v t="leo.20151107213414.49" a="E"><vh>html 標註</vh>
-<v t="leo.20151107213414.50" a="E"><vh>body 標註</vh>
-<v t="leo.20151107213414.51" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151107213414.52" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107213414.49"><vh>html 標註</vh>
+<v t="leo.20151107213414.50"><vh>body 標註</vh>
+<v t="leo.20151107213414.51"><vh>div class="reveal"</vh>
+<v t="leo.20151107213414.52"><vh>div class="slides"</vh>
 <v t="leo.20151107213414.53"><vh>有關我的作業</vh></v>
 <v t="leo.20151107213414.54"><vh>2</vh></v>
 <v t="leo.20151107213414.55"><vh>3</vh></v>
@@ -2265,10 +2315,10 @@
 <v t="40323250.20151104195354.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323250.20151104195506.1"><vh>@clean 40023256_cp_w2.html</vh>
 <v t="40323250.20151104195506.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151104195506.3" a="E"><vh>html 標註</vh>
-<v t="40323250.20151104195506.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151104195506.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151104195506.6" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151104195506.3"><vh>html 標註</vh>
+<v t="40323250.20151104195506.4"><vh>body 標註</vh>
+<v t="40323250.20151104195506.5"><vh>div class="reveal"</vh>
+<v t="40323250.20151104195506.6"><vh>div class="slides"</vh>
 <v t="40323250.20151104195506.7"><vh>有關我的作業</vh></v>
 <v t="40323250.20151104195506.8"><vh>第3張投影片</vh></v>
 </v>
@@ -2279,10 +2329,10 @@
 </v>
 <v t="40323250.20151104195530.1"><vh>@clean 40023256_cp_w5.html</vh>
 <v t="40323250.20151104195530.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151104195530.3" a="E"><vh>html 標註</vh>
-<v t="40323250.20151104195530.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151104195530.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151104195530.6" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151104195530.3"><vh>html 標註</vh>
+<v t="40323250.20151104195530.4"><vh>body 標註</vh>
+<v t="40323250.20151104195530.5"><vh>div class="reveal"</vh>
+<v t="40323250.20151104195530.6"><vh>div class="slides"</vh>
 <v t="40323250.20151104195530.7"><vh>有關我的作業</vh></v>
 <v t="40323250.20151104195530.8"><vh>第3張投影片</vh></v>
 </v>
@@ -2293,10 +2343,10 @@
 </v>
 <v t="40323250.20151104195539.1"><vh>@clean 40023256_cp_w6.html</vh>
 <v t="40323250.20151104195539.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151104195539.3" a="E"><vh>html 標註</vh>
-<v t="40323250.20151104195539.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151104195539.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151104195539.6" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151104195539.3"><vh>html 標註</vh>
+<v t="40323250.20151104195539.4"><vh>body 標註</vh>
+<v t="40323250.20151104195539.5"><vh>div class="reveal"</vh>
+<v t="40323250.20151104195539.6"><vh>div class="slides"</vh>
 <v t="40323250.20151104195539.7"><vh>有關我的作業</vh></v>
 <v t="40323250.20151104195539.8"><vh>第3張投影片</vh></v>
 </v>
@@ -2307,10 +2357,10 @@
 </v>
 <v t="40323250.20151104195526.1"><vh>@clean 40023256_cp_w4.html</vh>
 <v t="40323250.20151104195526.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151104195526.3" a="E"><vh>html 標註</vh>
-<v t="40323250.20151104195526.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151104195526.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151104195526.6" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151104195526.3"><vh>html 標註</vh>
+<v t="40323250.20151104195526.4"><vh>body 標註</vh>
+<v t="40323250.20151104195526.5"><vh>div class="reveal"</vh>
+<v t="40323250.20151104195526.6"><vh>div class="slides"</vh>
 <v t="40323250.20151104195526.7"><vh>有關我的作業</vh></v>
 <v t="40323250.20151104195526.8"><vh>第3張投影片</vh></v>
 </v>
@@ -2322,7 +2372,7 @@
 <v t="40323250.20151104195354.4"><vh>@path pelican</vh>
 <v t="40323250.20151104195354.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323250.20151104195354.6"><vh>@edit publishconf.py</vh></v>
-<v t="40323250.20151104195354.7" a="E"><vh>@path content</vh>
+<v t="40323250.20151104195354.7"><vh>@path content</vh>
 <v t="40323250.20151104195354.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="40323250.20151104195354.10"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="40323250.20151104195615.1"><vh>@edit 2015cphww2.md</vh></v>
@@ -6921,6 +6971,318 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 &lt;/section&gt;
 	
 </t>
+<t tx="49923230.20151108215613.1"></t>
+<t tx="49923230.20151108215613.2"></t>
+<t tx="49923230.20151108215613.72"></t>
+<t tx="49923230.20151108215613.73"></t>
+<t tx="49923230.20151108215613.75"></t>
+<t tx="49923230.20151108215613.76"></t>
+<t tx="49923230.20151108215743.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="49923230.20151108215743.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Videos of learning solvespace&lt;/h2&gt;
+    &lt;p&gt;1.Please slide down the page verticaly to watch the videos&lt;/p&gt;
+    &lt;p&gt;2.Because the Camstudio doesn't work on win10 so I use another recorder to record the videos, and there is 10min limit for free version&lt;/P&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Learning Solvespace Video 1&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/144497586" width="500" height="277" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144497586"&gt;bracket1&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Learning Solvespace Videos 2&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/144746169" width="500" height="277" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144746169"&gt;bracket2&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="49923230.20151108215743.11">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+&lt;h3&gt;Videos of learning Creo&lt;/h3&gt;
+ &lt;p&gt;Please slide down the page verticaly to watch the videos&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h3&gt;Learning Creo Video 1 &lt;/h3&gt;
+&lt;p&gt;Connecting to the video 1 by &lt;a href="https://www.dropbox.com/s/5yuksh4t7jij0vo/creo_kit_cube.webm?dl=0"&lt;/a&gt;Dropbox link&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h3&gt;Learning Creo Video 2 &lt;/h3&gt;
+&lt;p&gt;Connecting to the video 2 by &lt;a href="https://www.dropbox.com/s/g1vf9qexdualqpg/creo_kit_strut.webm?dl=0"&lt;/a&gt;Dropbox link&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h3&gt;Learning Creo Video 3 &lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/144746168" width="500" height="279" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144746168"&gt;creo_kit_assembly&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;</t>
+<t tx="49923230.20151108215743.12">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h4&gt;Reviews of learning Solvespace and Creo&lt;/h4&gt;
+    &lt;p&gt;Please slide down the page verticaly to see the review&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h4&gt;Solvespace&lt;/h4&gt;
+    &lt;p&gt;Solvespace is a convenient 3D design software which you can save the exe file in the usb and bring it around. And if I came up with any ideas, I can simply use it to design my first 3D drawing. Then I can show my teammate or other people how does it looks like. &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h4&gt;Creo&lt;/h4&gt;
+    &lt;p&gt;Solidworks is the first 3D design software I learned when I first get into this university. Which I think the interface is very easy to get use to it. And now I try to learn Creo by the tutorials withour taking any class. It's a bit hard to get use to it but didn't take too much time. Even the interface are quite different between Solidworks and Creo, but they are quite similar. I'm still learning how to use more function with Creo then I can realize how powerful it is as professor said. &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="49923230.20151108215743.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="49923230.20151108215743.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="49923230.20151108215743.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;2nd uploading slides&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="49923230.20151108215743.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="49923230.20151108215743.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20151108215743.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20151108215743.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;Learning Solvespace and Creo with Tutorial&lt;/h1&gt;
+    &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Date: 2015/10/12&lt;/p&gt;	
+&lt;/section&gt;
+	
+</t>
+<t tx="49923230.20151108215743.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;Homework reference&lt;/h1&gt;
+    &lt;p&gt;Homework details&lt;/p&gt;
+    &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
+    &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="49923230.20151108215743.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;h1&gt;自我評分&lt;/h1&gt;
+    &lt;p&gt;自我評分成績:90&lt;/p&gt;
+    &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="49923230.20151108215754.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="49923230.20151108215754.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+&lt;section&gt;
+    &lt;h2&gt;What engineers do?&lt;/h2&gt;
+    &lt;p&gt;studying highlight and reflection&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h3&gt;Introduction&lt;/h3&gt;
+    &lt;p&gt;1.Engineers do creative work.&lt;/p&gt;
+    &lt;p&gt;2.Engineers must slove difficult problems within the time and cost limitations.&lt;/p&gt;
+    &lt;p&gt;3.Engineers are professionally responsible for the safety and performance of their designs.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h4&gt;Engineering Education&lt;/h4&gt;
+    &lt;p&gt;1.Engineering curriculum contains subjects may be divided into four categories.&lt;/p&gt;
+       &lt;p&gt;a. Science(physics, Chemistry, Mathematics)&lt;/p&gt;
+       &lt;p&gt;b. Engineering Science&lt;/p&gt;
+       &lt;p&gt;c. Applied Engineering&lt;/p&gt;
+       &lt;p&gt;d. Humanities and Social Sciences&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h5&gt;Engineering problem solving: A classical perspective&lt;/h5&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;1. Science&lt;/p&gt; 
+    &lt;p&gt;An engineering science subject presents the principles of science in a form well-suited for the solution of a particular class of engineering problem.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;2. Applied Engineering&lt;/p&gt;
+    &lt;p&gt;The applied engineering subjects are concerned with the art of engineering. A typical applied engineering subject is engineering design.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;3. Humanities and social sciences&lt;/p&gt;
+    &lt;p&gt;Humanities and social science are important cuz an engineer usually must deal with people and problems associated with people.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h2&gt;Go to right page&lt;/h2&gt;
+    &lt;p&gt;That's all, please go back up or to the next page&lt;/p&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="49923230.20151108215754.11">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+&lt;section&gt;
+    &lt;h6&gt;Computer in Engineering&lt;/h6&gt;
+    &lt;p&gt;A computer is any electronic device that sloves problems by processing data according to instructions from a program.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;Increased use of computers in manufacturing has led to many innovative changes. Most of these are covered by the term Computer Integrated Manufacture(CIM). &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;CIM covers all aspects of a manufacturing enterprise: &lt;/p&gt;
+    &lt;p&gt;Product design&lt;/p&gt;
+    &lt;p&gt;Process design&lt;/p&gt;
+    &lt;p&gt;Design for assembly&lt;/p&gt;
+    &lt;p&gt;Purchasing&lt;/p&gt;
+    &lt;p&gt;Concurrent engineering&lt;/p&gt;
+    &lt;p&gt;Product scheduling&lt;/p&gt;
+    &lt;p&gt;Quality control&lt;/p&gt;
+    &lt;p&gt;Marketing&lt;/p&gt;
+    &lt;p&gt;Customer support&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h2&gt;Go to right page&lt;/h2&gt;
+    &lt;p&gt;That's all, please go back up or to the next page&lt;/p&gt;
+&lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="49923230.20151108215754.12">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
+&lt;section&gt;
+    &lt;h6&gt;Leo Editor Tutorial&lt;/h6&gt;
+    &lt;p&gt;Python Leo Editor (Leo 編輯器) 是大綱管理器, 是文字編輯器, 是程式開發 IDE, 是網站內容管理器, 也是 LaTeX 資料編輯器, 任何能夠以 Python 程式管理的工具, 都可以從 Python Leo Editor (Leo 編輯器) 套件中轉換而得.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;Leo 編輯器 (Leo Editor) 畫面包含:&lt;/p&gt;
+    &lt;p&gt;大綱區 (Outline pane) - 專案的大綱內容&lt;/p&gt;
+    &lt;p&gt;內文區 (Body pane) - 與大綱對應的內文&lt;/p&gt;
+    &lt;p&gt;紀錄區 (Log pane) - 顯示執行結果之紀錄&lt;/p&gt;
+    &lt;p&gt;緩衝指令區 (Minibuffer) - 直接下特殊執行指令用&lt;/p&gt;
+    &lt;p&gt;執行狀態區 (Status area) - 顯示執行狀態&lt;/p&gt;
+    &lt;p&gt;圖標指令區 (Icon area) - 以按鍵或圖像顯示可執行指令&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;大綱區節點圖像標示:&lt;/p&gt;
+    &lt;p&gt;小藍色方形盒(blue box): 表示節點有內文(body text).&lt;/p&gt;
+    &lt;p&gt;紅色直條(red vertical bar): 表示節點已標示(marked).&lt;/p&gt;
+    &lt;p&gt;紅色圓形箭頭(circular arrow): 表示節點已複製(cloned).&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;打造leo editor可攜套件可連結至&lt;a href="https://leoeditor-coursemdetw.rhcloud.com/get_page?heading=Leo%20Editor%20Tutorial"&gt;推廣教學網站&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="49923230.20151108215754.13">&lt;section&gt;
+&lt;h1&gt;1st homework recording videos&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/144497585" width="500" height="276" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144497585"&gt;w1hm&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="49923230.20151108215754.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="49923230.20151108215754.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="49923230.20151108215754.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;1st uploading slides&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="49923230.20151108215754.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="49923230.20151108215754.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20151108215754.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="49923230.20151108215754.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;My 1st uploading homework slides&lt;/h1&gt;
+    &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
+    &lt;p class ="fragment"&gt;Date: 2015/10/01&lt;/p&gt;	
+&lt;/section&gt;
+	
+</t>
+<t tx="49923230.20151108215754.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;Homework reference&lt;/h1&gt;
+    &lt;p&gt;Homework details&lt;/p&gt;
+    &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
+    &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="49923230.20151108215754.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;h1&gt;自我評分&lt;/h1&gt;
+    &lt;p&gt;自我評分成績:90&lt;/p&gt;
+    &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
