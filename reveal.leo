@@ -69,7 +69,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151108174951.1" a="E"><vh>@path 40323208</vh>
+<v t="leo.20151108174951.1"><vh>@path 40323208</vh>
 <v t="leo.20151108174951.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151108175236.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151108175236.2"><vh>檔案說明</vh></v>
@@ -1929,6 +1929,90 @@
 <v t="40323250.20151026181546.1"><vh>@edit 40323250_cp_w6.md</vh></v>
 <v t="40323250.20151026181540.1"><vh>@edit 40323250_cp_w7.md</vh></v>
 <v t="40323250.20151102200640.1"><vh>@edit 40323250_cp_w8.md</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151108185118.1" a="E"><vh>@path 40328242</vh>
+<v t="leo.20151108185118.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151108185511.1"><vh>@clean simplest1.html</vh>
+<v t="leo.20151108185511.2"><vh>newHeadline</vh></v>
+<v t="leo.20151108185511.3"><vh>檔案說明</vh></v>
+<v t="leo.20151108185511.4" a="E"><vh>html 標註</vh>
+<v t="leo.20151108185511.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151108185511.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108185511.7"><vh>1</vh></v>
+<v t="leo.20151108185511.8"><vh>2</vh></v>
+<v t="leo.20151108185511.9"><vh>3</vh></v>
+<v t="leo.20151108185511.10"><vh>4</vh></v>
+</v>
+</v>
+<v t="leo.20151108185511.11" a="E"><vh>body 標註</vh>
+<v t="leo.20151108185511.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151108185520.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151108185520.2"><vh>檔案說明</vh></v>
+<v t="leo.20151108185520.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151108185520.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151108185520.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151108185520.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108185520.7"><vh>1</vh></v>
+<v t="leo.20151108185520.8"><vh>2</vh></v>
+<v t="leo.20151108185520.9"><vh>3</vh></v>
+<v t="leo.20151108185520.10"><vh>4</vh></v>
+</v>
+</v>
+<v t="leo.20151108185520.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151108185528.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151108185528.2"><vh>檔案說明</vh></v>
+<v t="leo.20151108185528.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151108185528.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151108185528.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151108185528.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108185528.7"><vh>1</vh></v>
+<v t="leo.20151108185528.8"><vh>2</vh></v>
+<v t="leo.20151108185528.9"><vh>3</vh></v>
+<v t="leo.20151108185528.10"><vh>4</vh></v>
+</v>
+</v>
+<v t="leo.20151108185528.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151108185535.1"><vh>@clean simplest4.html</vh>
+<v t="leo.20151108185535.2"><vh>檔案說明</vh></v>
+<v t="leo.20151108185535.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151108185535.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151108185535.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151108185535.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108185535.7"><vh>1</vh></v>
+<v t="leo.20151108185535.8"><vh>2</vh></v>
+<v t="leo.20151108185535.9"><vh>3</vh></v>
+<v t="leo.20151108185535.10"><vh>4</vh></v>
+<v t="leo.20151108185535.11"><vh>5</vh></v>
+<v t="leo.20151108185535.12"><vh>6</vh></v>
+<v t="leo.20151108185535.13"><vh>7</vh></v>
+<v t="leo.20151108185535.14"><vh>8</vh></v>
+</v>
+</v>
+<v t="leo.20151108185535.15"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151108185118.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151108185118.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151108185118.6"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151108185118.7" a="E"><vh>@path content</vh>
+<v t="leo.20151108185118.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151108185118.10"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20151108185407.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151108185420.1"><vh>@edit 2015cphww2.md</vh></v>
+<v t="leo.20151108185430.1"><vh>@edit 2015cphww3.md</vh></v>
+<v t="leo.20151108185439.1"><vh>@edit 2015cphww4.md</vh></v>
 </v>
 </v>
 </v>
@@ -11751,6 +11835,427 @@ git config user.name "信箱"&lt;/br&gt;
     &lt;p&gt;自評分數:70 感想:這次的作業在操作上比之前上手，軟體也比較知道該怎麼運用畫圖，雖然是看著同學的說明影片作出，但是自己也多加練習了幾次，希望自己能更熟練，感覺creo跟之前所學的solidwork有點相似，使用起來也比較熟悉，組裝的步驟覺得很有趣，感覺自己也可以實際動腦想要怎麼組裝。
     而建立新分頁這些動作也比較熟練了應該是作業弄了很多次才成功的收穫吧 。&lt;/p&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151108185118.1"></t>
+<t tx="leo.20151108185118.2"></t>
+<t tx="leo.20151108185118.4"></t>
+<t tx="leo.20151108185118.5"></t>
+<t tx="leo.20151108185118.7"></t>
+<t tx="leo.20151108185118.8"></t>
+<t tx="leo.20151108185511.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151108185511.10">&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;雖然是第一次碰版本控制,&lt;/p&gt;
+    &lt;p&gt;在過程中有些吃力,&lt;/p&gt;
+    &lt;p&gt;不過經由老師影片的複習,&lt;/p&gt;
+    &lt;p&gt;和同學的協助,&lt;/p&gt;
+    &lt;p&gt;對於版本控制有初步的了解.&lt;/p&gt;
+    &lt;p&gt;自評分數:60分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108185511.11">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151108185511.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151108185511.2"></t>
+<t tx="leo.20151108185511.3">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151108185511.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151108185511.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108185511.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108185511.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;作業一&lt;/h1&gt;
+    &lt;p&gt;學號:40328242&lt;/p&gt;
+    &lt;p&gt;班級:四設二乙&lt;/p&gt;
+    &lt;p&gt;姓名:楊承得&lt;/p&gt;
+    &lt;p&gt;日期:2015-11-3&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151108185511.8">&lt;section&gt;
+    &lt;h1&gt;筆記&lt;/h1&gt;
+    &lt;p&gt;使用leo editer編輯,&lt;/p&gt;
+    &lt;p&gt;然後利用github推送,&lt;/p&gt;
+    &lt;p&gt;步驟:&lt;/p&gt;
+    &lt;p&gt;cd 某資料夾&lt;/p&gt;
+    &lt;p&gt;git clone 倉儲網址&lt;/p&gt;
+    &lt;p&gt;git branch=查看分支&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108185511.9">&lt;section&gt;
+    &lt;h1&gt;&lt;/h1&gt;
+    &lt;p&gt;git branch gh-pages=建立分支&lt;/p&gt;
+    &lt;p&gt;git checkout gh-pages=轉換分支&lt;/p&gt;
+    &lt;p&gt;git add -A=加入檔案至索引&lt;/p&gt;
+    &lt;p&gt;git commit -m  "倉儲"=複製檔案至倉儲&lt;/p&gt;
+    &lt;p&gt;git push origin "分支"=推送檔案至分支&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108185520.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151108185520.10">&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;算是第一次接觸3D繪圖,&lt;/p&gt;
+    &lt;p&gt;雖然不怎麼上手,&lt;/p&gt;
+    &lt;p&gt;但經由同學的幫助,&lt;/p&gt;
+    &lt;p&gt;對於solvespace有初步的了解.&lt;/p&gt;
+    &lt;p&gt;自評分數:60分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108185520.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151108185520.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151108185520.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151108185520.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151108185520.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108185520.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108185520.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;作業二&lt;/h1&gt;
+    &lt;p&gt;學號:40328242&lt;/p&gt;
+    &lt;p&gt;班級:四設二乙&lt;/p&gt;
+    &lt;p&gt;姓名:楊承得&lt;/p&gt;
+    &lt;p&gt;日期:2015-11-3&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151108185520.8">&lt;section&gt;
+    &lt;h1&gt;筆記&lt;/h1&gt;
+    &lt;p&gt;tangent arcat point 使與線相接的點形成圓角&lt;/p&gt;
+    &lt;p&gt;新建草圖=shift+3&lt;/p&gt;
+    &lt;p&gt;旋轉填料=shift+l&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108185520.9">&lt;section&gt;
+    &lt;h1&gt;生字&lt;/h1&gt;
+    &lt;p&gt;tutorial=敎程&lt;/p&gt;
+    &lt;p&gt;constraint=約束&lt;/p&gt;
+    &lt;/p&gt;extrusion=擠壓&lt;/p&gt;
+    &lt;/p&gt;orientation=方向&lt;/p&gt;
+    &lt;/p&gt;coordinate=協調&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108185528.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151108185528.10">&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;經由基本的練習,&lt;/p&gt;
+    &lt;p&gt;雖然對creo還是不太上手,&lt;/p&gt;
+    &lt;p&gt;不過有會的同學的協助,&lt;/p&gt;
+    &lt;p&gt;讓我在短時間內能對creo,有初步的了解.&lt;/p&gt;
+    &lt;p&gt;自評分數:60分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108185528.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151108185528.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151108185528.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151108185528.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151108185528.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108185528.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108185528.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;作業三&lt;/h1&gt;
+    &lt;p&gt;學號:40328242&lt;/p&gt;
+    &lt;p&gt;班級:四設二乙&lt;/p&gt;
+    &lt;p&gt;姓名:楊承得&lt;/p&gt;
+    &lt;p&gt;日期:2015-11-3&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151108185528.8">&lt;section&gt;
+    &lt;h1&gt;筆記&lt;/h1&gt;
+    &lt;p&gt;catia=達梭&lt;/p&gt;
+    &lt;p&gt;nx=西門子&lt;/p&gt;
+    &lt;p&gt;creo parametric=參數的約束;繪圖的歷程&lt;/p&gt;
+    &lt;p&gt;creo direct=直接建模&lt;/p&gt;
+    &lt;p&gt;creo simulate=模擬&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108185528.9">&lt;section&gt;
+    &lt;h1&gt;生字&lt;/h1&gt;
+    &lt;p&gt;primer=入門書&lt;/p&gt;
+    &lt;p&gt;parametric=參數&lt;/p&gt;
+    &lt;/p&gt;visualization=可視化&lt;/p&gt;
+    &lt;/p&gt;component=組件&lt;/p&gt;
+    &lt;/p&gt;strut=支柱&lt;/p&gt;
+    &lt;/p&gt;assembly=裝配&lt;/p&gt;
+    &lt;/p&gt;realistic=現實的&lt;/p&gt;
+    &lt;/p&gt;rendered=渲染&lt;/p&gt;
+    &lt;/p&gt;dashboard=儀錶板&lt;/p&gt;
+    &lt;/p&gt;navigate=引導&lt;/p&gt;
+    &lt;/p&gt;ribbon=帶狀物&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108185535.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151108185535.10">&lt;section&gt;
+    &lt;h1&gt;筆記 W4&lt;/h1&gt;
+    &lt;p&gt;tangent arcat point 使與線相接的點形成圓角&lt;/p&gt;
+    &lt;p&gt;新建草圖=shift+3&lt;/p&gt;
+    &lt;p&gt;旋轉填料=shift+l&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20151108185535.11">&lt;section&gt;
+    &lt;h1&gt;筆記 W5&lt;/h1&gt;
+    &lt;p&gt;catia=達梭&lt;/p&gt;
+    &lt;p&gt;nx=西門子&lt;/p&gt;
+    &lt;p&gt;creo parametric=參數的約束;繪圖的歷程&lt;/p&gt;
+    &lt;p&gt;creo direct=直接建模&lt;/p&gt;
+    &lt;p&gt;creo simulate=模擬&lt;/p&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20151108185535.12">&lt;section&gt;
+    &lt;h1&gt;生字 W4&lt;/h1&gt;
+    &lt;p&gt;tutorial=敎程&lt;/p&gt;
+    &lt;p&gt;constraint=約束&lt;/p&gt;
+    &lt;/p&gt;extrusion=擠壓&lt;/p&gt;
+    &lt;/p&gt;orientation=方向&lt;/p&gt;
+    &lt;/p&gt;coordinate=協調&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108185535.13">&lt;section&gt;
+    &lt;h1&gt;生字 W5&lt;/h1&gt;
+    &lt;p&gt;primer=入門書&lt;/p&gt;
+    &lt;p&gt;parametric=參數&lt;/p&gt;
+    &lt;/p&gt;visualization=可視化&lt;/p&gt;
+    &lt;/p&gt;component=組件&lt;/p&gt;
+    &lt;/p&gt;strut=支柱&lt;/p&gt;
+    &lt;/p&gt;assembly=裝配&lt;/p&gt;
+    &lt;/p&gt;realistic=現實的&lt;/p&gt;
+    &lt;/p&gt;rendered=渲染&lt;/p&gt;
+    &lt;/p&gt;dashboard=儀錶板&lt;/p&gt;
+    &lt;/p&gt;navigate=引導&lt;/p&gt;
+    &lt;/p&gt;ribbon=帶狀物&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108185535.14">&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;從一開始的版本控制,到solvespace和creo parametric,&lt;/p&gt;
+    &lt;p&gt;從不懂到漸漸熟悉,雖然還不算非常上手,&lt;/p&gt;
+    &lt;p&gt;但記得老師告訴我們的話,&lt;/p&gt;
+    &lt;p&gt;"不怕困難,不要失去熱忱,不要認為不可能"&lt;/p&gt;
+    &lt;p&gt;來不斷的勉勵自己,&lt;/p&gt;
+    &lt;p&gt;我知道還有許多部分要改善,&lt;/p&gt;
+    &lt;p&gt;所以我會盡力去執行.&lt;/p&gt;
+    &lt;p&gt;自評分數:60分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108185535.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151108185535.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151108185535.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151108185535.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151108185535.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108185535.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108185535.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;期中作業&lt;/h1&gt;
+    &lt;p&gt;學號:40328242&lt;/p&gt;
+    &lt;p&gt;班級:四設二乙&lt;/p&gt;
+    &lt;p&gt;姓名:楊承得&lt;/p&gt;
+    &lt;p&gt;日期:2015-11-8&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151108185535.8">&lt;section&gt;
+    &lt;h1&gt;筆記 W2&lt;/h1&gt;
+    &lt;p&gt;使用leo editer編輯,&lt;/p&gt;
+    &lt;p&gt;然後利用github推送,&lt;/p&gt;
+    &lt;p&gt;步驟:&lt;/p&gt;
+    &lt;p&gt;cd 某資料夾&lt;/p&gt;
+    &lt;p&gt;git clone 倉儲網址&lt;/p&gt;
+    &lt;p&gt;git branch=查看分支&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108185535.9">&lt;section&gt;
+    &lt;h1&gt;筆記 W2&lt;/h1&gt;
+    &lt;p&gt;git branch gh-pages=建立分支&lt;/p&gt;
+    &lt;p&gt;git checkout gh-pages=轉換分支&lt;/p&gt;
+    &lt;p&gt;git add -A=加入檔案至索引&lt;/p&gt;
+    &lt;p&gt;git commit -m  "倉儲"=複製檔案至倉儲&lt;/p&gt;
+    &lt;p&gt;git push origin "分支"=推送檔案至分支&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo40323206.20151102101501.1"></t>
 <t tx="leo40323206.20151102101501.2"></t>
