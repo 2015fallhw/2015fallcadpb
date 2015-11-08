@@ -1,0 +1,53 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>四設二乙</h1>
+    <p>40323208 羅文均 10/1 (10/15修改)</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h1>簡單說明</h1>
+    <p>下載老師給的檔案解壓縮，然後用Leo近端修改並在近端執行看看有沒有錯誤，在近端做修改時要做一個gh-pages的分支在github(此時需要在cmd.做步驟)若在近端可以執行即可git push 至遠端完成作業</p>
+</section>
+				
+<section>
+    <h1>自評及感想</h1>
+    <p>自評分數:70 感想:其實還是很模糊，不管是步驟或作業，好像沒有一連串的步驟，練習操作上斷斷續續跳來跳去的，會不知道自己做到哪裡.做好了什麼，看完老師錄的影片雖然比較知道要幹嘛可是還是不太懂確切步驟流程，在同學的慢慢協助下，完成了作業，希望可以更進步更了解。</p>
+    <p><a href="#/hw-task-one">作業任務一</a>
+</section>
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
