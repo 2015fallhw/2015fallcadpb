@@ -69,30 +69,30 @@
 </v>
 </v>
 </v>
-<v t="leo.20151109022723.1" a="E"><vh>@path 40323229</vh>
-<v t="leo.20151109022723.2"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20151109022821.1"><vh>@clean simplest.html</vh>
-<v t="leo.20151109022821.2"><vh>檔案說明</vh></v>
-<v t="leo.20151109022821.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151109022821.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151109022821.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151109022821.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151109022821.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151109022821.8"><vh>作業任務一</vh></v>
-<v t="leo.20151109022821.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151109023858.1" a="E"><vh>@path 40323229</vh>
+<v t="leo.20151109023858.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151109023932.1"><vh>@clean simplest.html</vh>
+<v t="leo.20151109023932.2"><vh>檔案說明</vh></v>
+<v t="leo.20151109023932.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151109023932.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151109023932.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151109023932.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151109023932.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151109023932.8"><vh>作業任務一</vh></v>
+<v t="leo.20151109023932.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="leo.20151109022821.10"><vh>script</vh></v>
+<v t="leo.20151109023932.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151109022723.4" a="E"><vh>@path pelican</vh>
-<v t="leo.20151109022723.5"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20151109022723.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151109022723.7" a="E"><vh>@path content</vh>
-<v t="leo.20151109022723.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151109022833.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="leo.20151109022723.10"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20151109023858.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151109023858.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151109023858.6"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151109023858.7" a="E"><vh>@path content</vh>
+<v t="leo.20151109023858.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151109023942.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151109023858.10"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
 </v>
@@ -13491,18 +13491,36 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151109022723.1"></t>
-<t tx="leo.20151109022723.2"></t>
-<t tx="leo.20151109022723.4"></t>
-<t tx="leo.20151109022723.5"></t>
-<t tx="leo.20151109022723.7"></t>
-<t tx="leo.20151109022723.8"></t>
-<t tx="leo.20151109022821.1">@language xml
+<t tx="leo.20151109023858.1"></t>
+<t tx="leo.20151109023858.10">@language md
+Title: 2015 計算機程式 Jupyter
+Date: 2015-09-19 21:41
+Category: Python
+Tags: Jupyter, IPython
+Slug: 2015cp_note1
+Authors: coursemdetw
+Summary: 導入 notebook 內容
+
+以下為 Jupyter notebook 檔案內容:
+
+{% notebook brython_ex1.ipynb %}
+
+{% notebook demo.ipynb %}
+
+
+
+</t>
+<t tx="leo.20151109023858.2"></t>
+<t tx="leo.20151109023858.4"></t>
+<t tx="leo.20151109023858.5"></t>
+<t tx="leo.20151109023858.7"></t>
+<t tx="leo.20151109023858.8"></t>
+<t tx="leo.20151109023932.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151109022821.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151109023932.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -13511,14 +13529,14 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151109022821.2">&lt;!--
+<t tx="leo.20151109023932.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151109022821.3">&lt;!doctype html&gt;
+<t tx="leo.20151109023932.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -13532,21 +13550,21 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151109022821.4">&lt;body&gt;
+<t tx="leo.20151109023932.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151109022821.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151109023932.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151109022821.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151109023932.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151109022821.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151109023932.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -13555,7 +13573,7 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151109022821.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151109023932.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;步驟與說明&lt;/h1&gt;
     &lt;p&gt;1.下載reveal的內容&lt;/p&gt;
     &lt;p&gt;2.用LEO修改投影片&lt;/p&gt;
@@ -13566,12 +13584,126 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151109022821.9">&lt;section&gt;
+<t tx="leo.20151109023932.9">&lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;謝謝同學的幫忙 真的如果沒有同學幫忙 不知道這次的作業完不完成的了 所以60&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
+</t>
+<t tx="leo.20151109023942.1">@language md
+Title: 2015 計算機程式 作業一
+Date: 2015-09-19 11:41
+Modified: 2015-09-19 11:41
+Category: Python
+Tags: pelican, publishing
+Slug: 2015cp_hw_w1
+Authors: coursemdetw
+Summary: 作業一摘要
+以下為作業一內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業一投影片](simplest.html){:target="_blank"}
+
+使用 H1 標題
+============
+
+文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視連續的資料
+
+使用. *斜體文字*, **黑體文字**, 以及 `單線文字`. 表列資料可以寫為:
+
+  * 第1項說明
+  * 第2項說明
+  * 第3項說明
+
+特別注意 --- 不包括星號 --- 表列文字從第四欄位開始.
+
+&gt; 引用的內容寫在這裡
+&gt; 主要是以大於的符號開頭.
+&gt;
+&gt; 其中也可以利用空白行隔開,
+&gt; 整區都是引用內容的範圍.
+
+em-dash 符號是3個 dashes. 利用兩個 dashes 來連接開始與結束 (ex., "這個禮拜要閱讀章節 12--14"). 3個逗點 ... 則會被轉為 ellipsis.
+pelican 可以支援 unicode. ☺
+
+H2 標題
+------------
+
+有數字的表列資料:
+
+ 1. 第1項
+ 2. 第2項
+ 3. 第3項
+
+跟前面一樣, 文字從第四個欄位開始.
+
+程式碼的表達:
+
+    # for 重複迴圈 ...
+    for i in 1 .. 10 { 呼叫特定函式(i) }
+
+這裡也是要空4個 space 鍵. 
+
+除了每一行空4個空白, 也可以使用 delimited 來界定程式碼範圍, 就像這樣:
+
+~~~
+define foobar() {
+    print("歡迎進入程式的世界!")
+}
+~~~
+
+(這樣的表達比較容易用來複製程式碼內容).
+
+python 的程式碼, 可以寫成下列格式
+
+~~~python
+import time
+# 以下會從 0 數到 9
+for i in range(10):
+    # 稍微暫停一下
+    time.sleep(0.5)
+    print(i)
+~~~
+
+### H3 標題 ###
+
+以下則為內嵌式的表列法t:
+
+ 1. 首先, 將完成下列元件的設計:
+
+      * 轉向機構
+      * 煞車系統
+      * 踩踏機構
+
+ 2. 接著連繫工業設計部門.
+
+ 3. 確定上述元件的各項設計與用料都符合原始設計規格的要求
+    查驗表:
+
+        各元件材質
+        車蓋顏色
+        機構調校流程
+        需要熱處理的元件列表
+
+    完成上述查驗後, 請通知品保部門, 以便接續處理.
+
+特別注意各階資料都以內縮4個空白鍵來加以區隔, 包含最後一行.
+
+Markdown 的超文件連結寫法 [連到 Google](http://www.google.com){:target="_blank"}, 也可以連到同目錄下的檔案 [cadpbw1.html](cadpbw1.html){:target="_blank"}, 也能使用註腳 [^1].
+
+[^1]: 註腳會連結到這裡.
+
+放入圖檔, 可以直接利用 html 的 img 標註:
+
+&lt;img src="images/3d_parts_viewer.png" width="250" alt="3D 零件檢視"&gt;&lt;/img&gt;
+
+Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):
+
+&lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 <t tx="leo40323206.20151102101501.1"></t>
 <t tx="leo40323206.20151102101501.2"></t>
