@@ -8618,7 +8618,7 @@ git config --global user.email 40323214@gm.nfu.edu.tw 更改使用者名稱以�
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;作業二(第3~4週)&lt;/h1&gt;
+    &lt;h2&gt;作業二(第3~4週)&lt;/h2&gt;
     &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -8683,7 +8683,7 @@ git config --global user.email 40323214@gm.nfu.edu.tw 更改使用者名稱以�
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;作業三(第5~6週)&lt;/h1&gt;
+    &lt;h2&gt;作業三(第5~6週)&lt;/h2&gt;
     &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -9992,7 +9992,7 @@ git config --global user.email 40323214@gm.nfu.edu.tw 更改使用者名稱以�
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;期中報告&lt;/h1&gt;
+    &lt;h2&gt;期中報告&lt;/h2&gt;
     &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
 &lt;/section&gt;
 	
