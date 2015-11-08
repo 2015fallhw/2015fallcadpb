@@ -1,0 +1,66 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>四設計二乙</h1>
+    <p>40323213吳宇堂</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h1>上課筆記</h1>
+    <p>1. git clone 網址 ( Github個人帳號網址)
+
+2. cd 資料夾名稱 ( cd - 進入資料夾)
+
+3. git config user.name "名字"
+git config user.name 信箱
+有--global表示之後都默認
+
+4. git add 檔名 (檔案在近端展開)
+
+5. git commit -m "檔案註解"</p>
+    
+</section>
+				
+<section>
+    <h1>心得及自評分數</h1>
+    <p>這次的程式是中文就覺得好用許多，而且跟我之前學的軟體很像所以用起來蠻順手的，但是組合的時候會一直約束不了，花了很多時間，但後來也解決了。
+    自評分數:85</p>
+   
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
