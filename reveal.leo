@@ -1934,7 +1934,7 @@
 </v>
 <v t="49923230.20151108215613.1" a="E"><vh>@path 49923230</vh>
 <v t="49923230.20151108215613.2"><vh>以下為投影片 ------------</vh></v>
-<v t="49923230.20151108215754.1"><vh>@clean 2015cadpslidesw1.html</vh>
+<v t="49923230.20151108215754.1" a="E"><vh>@clean 2015cadpslidesw1.html</vh>
 <v t="49923230.20151108215754.2"><vh>檔案說明</vh></v>
 <v t="49923230.20151108215754.3" a="E"><vh>html 標註</vh>
 <v t="49923230.20151108215754.4" a="E"><vh>body 標註</vh>
@@ -1971,10 +1971,10 @@
 </v>
 </v>
 </v>
-<v t="49923230.20151108215613.72" a="E"><vh>@path pelican</vh>
+<v t="49923230.20151108215613.72"><vh>@path pelican</vh>
 <v t="49923230.20151108215613.73"><vh>以下為設定檔 ------------</vh></v>
 <v t="49923230.20151108215613.74"><vh>@edit publishconf.py</vh></v>
-<v t="49923230.20151108215613.75" a="E"><vh>@path content</vh>
+<v t="49923230.20151108215613.75"><vh>@path content</vh>
 <v t="49923230.20151108215613.76"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="49923230.20151108215851.1"><vh>@edit 49923230_cp_w2.md</vh></v>
 <v t="49923230.20151108215901.1"><vh>@edit 49923230_cp_w4.md</vh></v>
@@ -7118,16 +7118,19 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 
 </t>
 <t tx="49923230.20151108215754.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
 &lt;section&gt;
     &lt;h2&gt;What engineers do?&lt;/h2&gt;
-    &lt;p&gt;studying highlight and reflection&lt;/p&gt;
+    &lt;p&gt;studying highlight and reviews&lt;/p&gt;
 &lt;/section&gt;
+
 &lt;section&gt;
     &lt;h3&gt;Introduction&lt;/h3&gt;
     &lt;p&gt;1.Engineers do creative work.&lt;/p&gt;
     &lt;p&gt;2.Engineers must slove difficult problems within the time and cost limitations.&lt;/p&gt;
     &lt;p&gt;3.Engineers are professionally responsible for the safety and performance of their designs.&lt;/p&gt;
 &lt;/section&gt;
+
 &lt;section&gt;
     &lt;h4&gt;Engineering Education&lt;/h4&gt;
     &lt;p&gt;1.Engineering curriculum contains subjects may be divided into four categories.&lt;/p&gt;
@@ -7136,25 +7139,31 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
        &lt;p&gt;c. Applied Engineering&lt;/p&gt;
        &lt;p&gt;d. Humanities and Social Sciences&lt;/p&gt;
 &lt;/section&gt;
+
 &lt;section&gt;
     &lt;h5&gt;Engineering problem solving: A classical perspective&lt;/h5&gt;
 &lt;/section&gt;
+
 &lt;section&gt;
     &lt;p&gt;1. Science&lt;/p&gt; 
     &lt;p&gt;An engineering science subject presents the principles of science in a form well-suited for the solution of a particular class of engineering problem.&lt;/p&gt;
 &lt;/section&gt;
+
 &lt;section&gt;
     &lt;p&gt;2. Applied Engineering&lt;/p&gt;
     &lt;p&gt;The applied engineering subjects are concerned with the art of engineering. A typical applied engineering subject is engineering design.&lt;/p&gt;
 &lt;/section&gt;
+
 &lt;section&gt;
     &lt;p&gt;3. Humanities and social sciences&lt;/p&gt;
     &lt;p&gt;Humanities and social science are important cuz an engineer usually must deal with people and problems associated with people.&lt;/p&gt;
 &lt;/section&gt;
+
+
 &lt;section&gt;
-    &lt;h2&gt;Go to right page&lt;/h2&gt;
-    &lt;p&gt;That's all, please go back up or to the next page&lt;/p&gt;
+   &lt;p&gt;If someone ask me what engineers do, I'd say creating things. No matter you are creating a product, a component or even a process. It's still a kind of creation. What's we have learned in the university is learning communication skills and teamwork. That's what I think. According to study "what engineers do".It tells us that there are 3 important things, which are science, applied engineering and humanities and social sciences. As I said what we have learned in the university is the third one, which is Humanities and social sciences.&lt;/p&gt;
 &lt;/section&gt;
+
 &lt;/section&gt;
 </t>
 <t tx="49923230.20151108215754.11">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
@@ -7188,6 +7197,7 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
     &lt;h6&gt;Leo Editor Tutorial&lt;/h6&gt;
     &lt;p&gt;Python Leo Editor (Leo 編輯器) 是大綱管理器, 是文字編輯器, 是程式開發 IDE, 是網站內容管理器, 也是 LaTeX 資料編輯器, 任何能夠以 Python 程式管理的工具, 都可以從 Python Leo Editor (Leo 編輯器) 套件中轉換而得.&lt;/p&gt;
 &lt;/section&gt;
+
 &lt;section&gt;
     &lt;p&gt;Leo 編輯器 (Leo Editor) 畫面包含:&lt;/p&gt;
     &lt;p&gt;大綱區 (Outline pane) - 專案的大綱內容&lt;/p&gt;
@@ -7197,14 +7207,20 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
     &lt;p&gt;執行狀態區 (Status area) - 顯示執行狀態&lt;/p&gt;
     &lt;p&gt;圖標指令區 (Icon area) - 以按鍵或圖像顯示可執行指令&lt;/p&gt;
 &lt;/section&gt;
+
 &lt;section&gt;
     &lt;p&gt;大綱區節點圖像標示:&lt;/p&gt;
     &lt;p&gt;小藍色方形盒(blue box): 表示節點有內文(body text).&lt;/p&gt;
     &lt;p&gt;紅色直條(red vertical bar): 表示節點已標示(marked).&lt;/p&gt;
     &lt;p&gt;紅色圓形箭頭(circular arrow): 表示節點已複製(cloned).&lt;/p&gt;
 &lt;/section&gt;
+
 &lt;section&gt;
     &lt;p&gt;打造leo editor可攜套件可連結至&lt;a href="https://leoeditor-coursemdetw.rhcloud.com/get_page?heading=Leo%20Editor%20Tutorial"&gt;推廣教學網站&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;p&gt;About LeoEditor, before I start using leoeditor I was using SciTE to make the slides and pages. But it's quite difficult to type in when you see too much codes in front of your eyes. After using LeoEditor, it helps us can easily find the place that we want to add, change or even delete the contents. Which can save quite much time for us. Very convenient. &lt;/p&gt;
 &lt;/section&gt;
 
 &lt;/section&gt;
