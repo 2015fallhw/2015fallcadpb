@@ -952,17 +952,18 @@
 </v>
 </v>
 </v>
-<v t="40323214.20151027152715.13"><vh>@clean 40323218_cp_w4.html</vh>
-<v t="40323214.20151027152715.14"><vh>檔案說明</vh></v>
-<v t="40323214.20151027152715.15"><vh>html 標註</vh>
-<v t="40323214.20151027152715.16"><vh>body 標註</vh>
-<v t="40323214.20151027152715.17"><vh>div class="reveal"</vh>
-<v t="40323214.20151027152715.18"><vh>div class="slides"</vh>
-<v t="40323214.20151027152715.19"><vh>有關我的作業</vh></v>
-<v t="40323214.20151027152715.20"><vh>作業二</vh></v>
+<v t="leo.20151108230336.1"><vh>@clean 40323218_cp_w4.html</vh>
+<v t="leo.20151108230336.2"><vh>檔案說明</vh></v>
+<v t="leo.20151108230336.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151108230336.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151108230336.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151108230336.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108230336.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151108230336.8"><vh>作業三</vh></v>
+<v t="leo.20151108230336.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="40323214.20151027152715.21"><vh>script</vh></v>
+<v t="leo.20151108230336.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -1027,7 +1028,7 @@
 <v t="40323214.20151027152715.42"><vh>@path pelican</vh>
 <v t="40323214.20151027152715.43"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323214.20151027152715.44"><vh>@edit publishconf.py</vh></v>
-<v t="40323214.20151027152715.45"><vh>@path content</vh>
+<v t="40323214.20151027152715.45" a="E"><vh>@path content</vh>
 <v t="40323214.20151027152715.46"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="40323214.20151027152715.47"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="40323214.20151027152715.48"><vh>@edit 40323218_cp_w2.md</vh></v>
@@ -1791,7 +1792,7 @@
 </v>
 </v>
 </v>
-<v t="40323253.20151108224829.1" a="E"><vh>@path 40323246</vh>
+<v t="40323253.20151108224829.1"><vh>@path 40323246</vh>
 <v t="40323253.20151108224829.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323253.20151108224829.3"><vh>@clean simplest.html</vh>
 <v t="40323253.20151108224829.4"><vh>檔案說明</vh></v>
@@ -3966,72 +3967,7 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/script&gt;
 	
 </t>
-<t tx="40323214.20151027152715.13">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="40323214.20151027152715.14">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="40323214.20151027152715.15">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="40323214.20151027152715.16">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="40323214.20151027152715.17">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323214.20151027152715.18">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323214.20151027152715.19">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;四設二乙 &lt;/h2&gt;
-    &lt;p&gt;40323218 李冠興&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
 <t tx="40323214.20151027152715.2"></t>
-<t tx="40323214.20151027152715.20">&lt;section id="hw-task-one"&gt;
-    &lt;h5&gt;心得和自評分數&lt;/h5&gt;
-    &lt;p&gt;我給自己70分。    這次的作業跟上次的作業差不多，也是在Leo上面修改和新增，如果有完成上禮拜的作業這次的應該相對起來較簡單。
-    &lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323214.20151027152715.21">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
 <t tx="40323214.20151027152715.22">@language xml
 @tabwidth -4
 @others
@@ -12784,6 +12720,84 @@ git config user.name "信箱"&lt;/br&gt;
     &lt;p&gt;40323239陳信榮&lt;/p&gt;		
 &lt;/section&gt;
 	
+</t>
+<t tx="leo.20151108230336.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151108230336.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151108230336.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151108230336.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151108230336.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151108230336.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108230336.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108230336.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設二乙 &lt;/h2&gt;
+    &lt;p&gt;40323218 李冠興&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151108230336.8">&lt;section id="hw-task-one"&gt;
+    &lt;h5&gt;筆記和步驟&lt;/h5&gt;
+    &lt;p&gt;畫圖的步驟在下方影片，拍完影片後就像前幾次作業一樣push回遠端。
+    &lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151108230336.9">&lt;section&gt;
+    &lt;h2&gt;心得和自評分數&lt;/h2&gt;
+    &lt;p&gt;我給自己80分。  &lt;/br&gt;  
+    這次是用solvespace繪製講義上的圖形&lt;/br&gt;
+    由於沒有給尺寸，所以畫的像就可以了&lt;/br&gt;
+    重點是會不會使用這套軟體&lt;/br&gt;
+    這套軟體跟現在的3D軟體比較起來&lt;/br&gt;
+    更加簡潔，還算好用。&lt;/br&gt;
+    缺點是有些地方操作會需要摸索一下。&lt;/p&gt;
+
+&lt;/section&gt;
+				
 </t>
 <t tx="leo40323206.20151102101501.1"></t>
 <t tx="leo40323206.20151102101501.2"></t>
