@@ -1617,7 +1617,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151108231915.1"><vh>@path 40323239</vh>
+<v t="leo.20151108231915.1" a="E"><vh>@path 40323239</vh>
 <v t="leo.20151108231915.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151108231915.3"><vh>@clean simplest.html</vh>
 <v t="leo.20151108231915.4"><vh>檔案說明</vh></v>
@@ -1664,9 +1664,9 @@
 </v>
 </v>
 </v>
-<v t="leo.20151108231915.33"><vh>@path pelican</vh>
+<v t="leo.20151108231915.33" a="E"><vh>@path pelican</vh>
 <v t="leo.20151108231915.34"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20151108231915.35"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151108232507.1"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151108231915.36"><vh>@path content</vh>
 <v t="leo.20151108231915.37"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151108231915.38"><vh>@edit 2015cphww1.md</vh></v>
