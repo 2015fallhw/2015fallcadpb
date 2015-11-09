@@ -69,6 +69,19 @@
 </v>
 </v>
 </v>
+<v t="harry.20151109121418.1" a="E"><vh>@path 40323251</vh>
+<v t="harry.20151109121418.2"><vh>以下為投影片 ------------</vh></v>
+<v t="harry.20151109121418.3"><vh>@edit 40323251_cp_w1_p.html</vh></v>
+<v t="harry.20151109121418.4" a="E"><vh>@path pelican</vh>
+<v t="harry.20151109121418.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="harry.20151109121418.6"><vh>@edit publishconf.py</vh></v>
+<v t="harry.20151109121418.7" a="E"><vh>@path content</vh>
+<v t="harry.20151109121418.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="harry.20151109121418.9"><vh>@edit 40323251_cp_w1.md</vh></v>
+<v t="harry.20151109121418.10"><vh>@edit 2015cpnote1.md</vh></v>
+</v>
+</v>
+</v>
 <v t="leo.20151109024625.1"><vh>@path 40323229</vh>
 <v t="leo.20151109024625.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151109024653.1"><vh>@clean simplest.html</vh>
@@ -7356,6 +7369,12 @@ cadpb.txt 檔案內容
 40328245
 49923230
 '''</t>
+<t tx="harry.20151109121418.1"></t>
+<t tx="harry.20151109121418.2"></t>
+<t tx="harry.20151109121418.4"></t>
+<t tx="harry.20151109121418.5"></t>
+<t tx="harry.20151109121418.7"></t>
+<t tx="harry.20151109121418.8"></t>
 <t tx="leo.20151026230425.1"></t>
 <t tx="leo.20151026230425.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
