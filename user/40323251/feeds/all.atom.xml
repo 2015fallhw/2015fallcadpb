@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323251 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-27T11:41:00+08:00</updated><entry><title>2015 計算機程式 第一、二週作業</title><link href="http://coursemdetw.github.io/reveal/40323251_cp_w1&amp;2.html" rel="alternate"></link><updated>2015-09-27T11:41:00+08:00</updated><author><name>40323251</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/40323251_cp_w1&amp;2.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323251 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-05T10:03:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第七週作業</title><link href="http://coursemdetw.github.io/reveal/40323251_cp_w7.html" rel="alternate"></link><updated>2015-11-05T10:03:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-11-05:reveal/40323251_cp_w7.html</id><summary type="html">&lt;p&gt;以下為作業內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest8.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest8.html" target="_blank"&gt;投影片連結&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第六週作業</title><link href="http://coursemdetw.github.io/reveal/40323251_cp_w6.html" rel="alternate"></link><updated>2015-10-26T10:30:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-10-26:reveal/40323251_cp_w6.html</id><summary type="html">&lt;p&gt;以下為作業內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest7.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest7.html" target="_blank"&gt;投影片連結&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第五週作業</title><link href="http://coursemdetw.github.io/reveal/40323251_cp_w5.html" rel="alternate"></link><updated>2015-10-18T10:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-10-18:reveal/40323251_cp_w5.html</id><summary type="html">&lt;p&gt;以下為作業內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest6.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest6.html" target="_blank"&gt;投影片連結&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;第五週作業練習影片&lt;/p&gt;
+&lt;p&gt;繪圖軟體練習一&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe
+src="https://player.vimeo.com/video/142834279" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;繪圖軟體練習二&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe
+src="https://player.vimeo.com/video/142834270" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;繪圖軟體練習三&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe
+src="https://player.vimeo.com/video/142834258" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第四週作業</title><link href="http://coursemdetw.github.io/reveal/40323251_cp_w4.html" rel="alternate"></link><updated>2015-10-11T11:45:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-10-11:reveal/40323251_cp_w4.html</id><summary type="html">&lt;p&gt;以下為作業內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest5.html" target="_blank"&gt;投影片連結&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;第四週繪圖軟體SolveSpace練習
+(width="某數值"會調整圖片大小)&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/Solve-test.png" width="500" alt="solve 零件檢視"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/SolveSpace-test2.png" width="500" alt="solve 零件檢視"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/SolveSpace-test3.png" width="500" alt="solve 零件檢視"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/test4.png" width="500" alt="solve 零件檢視"&gt;&lt;/img&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第三週作業</title><link href="http://coursemdetw.github.io/reveal/40323251_cp_w3.html" rel="alternate"></link><updated>2015-10-04T11:50:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-10-04:reveal/40323251_cp_w3.html</id><summary type="html">&lt;p&gt;以下為作業內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;投影片連結&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第一、二週作業</title><link href="http://coursemdetw.github.io/reveal/40323251_cp_w1&amp;2.html" rel="alternate"></link><updated>2015-09-27T11:41:00+08:00</updated><author><name>40323251</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/40323251_cp_w1&amp;2.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;投影片連結&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
