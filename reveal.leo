@@ -72,12 +72,34 @@
 <v t="harry.20151109121418.1" a="E"><vh>@path 40323251</vh>
 <v t="harry.20151109121418.2"><vh>以下為投影片 ------------</vh></v>
 <v t="harry.20151109121418.3"><vh>@edit 40323251_cp_w1_p.html</vh></v>
+<v t="harry.20151109122405.1"><vh>@clean simplest3.html</vh>
+<v t="harry.20151109122405.2"><vh>檔案說明</vh></v>
+<v t="harry.20151109122405.3" a="E"><vh>html 標註</vh>
+<v t="harry.20151109122405.4" a="E"><vh>body 標註</vh>
+<v t="harry.20151109122405.5" a="E"><vh>div class="reveal"</vh>
+<v t="harry.20151109122405.6" a="E"><vh>div class="slides"</vh>
+<v t="harry.20151109122405.7"><vh>div class="slides"</vh></v>
+<v t="harry.20151109122405.8"><vh>投影片第一頁</vh></v>
+<v t="harry.20151109122405.9"><vh>投影片第二頁</vh>
+<v t="harry.20151109122405.10"><vh>1</vh></v>
+<v t="harry.20151109122405.11"><vh>2</vh></v>
+<v t="harry.20151109122405.12"><vh>3</vh></v>
+</v>
+<v t="harry.20151109122405.13"><vh>第一、二週作業心得</vh></v>
+<v t="harry.20151109122405.14"><vh>第一、二週自評</vh></v>
+</v>
+</v>
+<v t="harry.20151109122405.15"><vh>script</vh></v>
+</v>
+</v>
+</v>
 <v t="harry.20151109121418.4" a="E"><vh>@path pelican</vh>
 <v t="harry.20151109121418.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="harry.20151109121418.6"><vh>@edit publishconf.py</vh></v>
 <v t="harry.20151109121418.7" a="E"><vh>@path content</vh>
 <v t="harry.20151109121418.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="harry.20151109121418.9"><vh>@edit 40323251_cp_w1.md</vh></v>
+<v t="harry.20151109122355.1"><vh>@edit 40323251_cp_w1&amp;2.md</vh></v>
 <v t="harry.20151109121418.10"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -7375,6 +7397,124 @@ cadpb.txt 檔案內容
 <t tx="harry.20151109121418.5"></t>
 <t tx="harry.20151109121418.7"></t>
 <t tx="harry.20151109121418.8"></t>
+<t tx="harry.20151109122405.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="harry.20151109122405.10">&lt;section&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    
+    &lt;p&gt;(1)由於學校電腦內部的資料夾少了leo的檔案，所以要去老師網站上2GB的環境載點裡面把leo的檔案複製到缺少的資料夾，然後要透過環境修改start的內容，才可以在開始環境的同時開始leo。&lt;/p&gt;
+    
+    &lt;p&gt;(2)檢查目前擁有的分支：git branch
+    建立新的分支：git branch 新分支的名字
+    切換到另外的分支：git branch 另外分支的名字&lt;/p&gt;
+    
+    &lt;p&gt;(3)切換分支過後，資料夾的內容會同步改變。&lt;/p&gt;
+    
+&lt;/section&gt;
+	
+</t>
+<t tx="harry.20151109122405.11">&lt;section&gt;
+    &lt;p&gt;(4)回推分支內容時，要輸入"git push gh-pages"才會成功回推到分支。&lt;/p&gt;
+    
+    &lt;p&gt;(5)如果不輸入"git push gh-pages"會重複出現錯誤，而且會無法回推成功。&lt;/p&gt;
+    
+    &lt;p&gt;(6)Solvespace基本操作手冊在老師的網頁上有顯示，基本上按照手冊上的操作就可以了。&lt;/p&gt;
+    
+    &lt;p&gt;(7)另外，Solvespace的檔案在data資料夾的apps裡面，如果裡面沒有檔案，要到電腦教室裡面的資料夾複製。&lt;/p&gt;
+    
+&lt;/section&gt;
+</t>
+<t tx="harry.20151109122405.12">&lt;section&gt;
+
+    &lt;p&gt;(8)新的分支頁面，在創立的同時會複製主頁面的檔案。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="harry.20151109122405.13">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;第一、二週作業心得&lt;/h2&gt;
+    &lt;p&gt;對於程式這方面不太熟悉，對於老師教的也沒有很了解再加上上課都沒有很專心，作業都是拜託同學教導我才懂得，以後還是會盡力學習。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="harry.20151109122405.14">&lt;section&gt;
+    &lt;h2&gt;第一、二週成績自評&lt;/h2&gt;
+    &lt;p&gt;有試著在倉儲上建立分支，但是因為一直無法成功，所以後來到學校才請教同學，並不算在限定時間內完成進度，而是後來彌補的，所以我給自己60分 。
+
+&lt;/section&gt;
+				
+</t>
+<t tx="harry.20151109122405.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="harry.20151109122405.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="harry.20151109122405.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="harry.20151109122405.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="harry.20151109122405.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="harry.20151109122405.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="harry.20151109122405.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="harry.20151109122405.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;電腦輔助機械設計&lt;/h2&gt;
+    
+    &lt;h3&gt;40323251 雷堯軒&lt;h3&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="harry.20151109122405.9">&lt;section&gt;
+&lt;p&gt;
+@others
+&lt;/p&gt;
+				&lt;/section&gt;
+				
+</t>
 <t tx="leo.20151026230425.1"></t>
 <t tx="leo.20151026230425.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
