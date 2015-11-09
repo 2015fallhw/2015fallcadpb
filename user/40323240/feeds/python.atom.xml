@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323240 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-11T11:41:00+08:00</updated><entry><title>2015 計算機程式 第五週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-11T11:41:00+08:00</updated><author><name>40323240</name></author><id>tag:coursemdetw.github.io,2015-10-11:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業三內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest5.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;p&gt;長桿&lt;/p&gt;
+&lt;img src="https://copy.com/d1QjiOtLGNQ2tgHe"width="450"height="450"&gt;
+&lt;br&gt;
+&lt;p&gt;方體&lt;/p&gt;
+&lt;img src="https://copy.com/J0MLj38sjsUaHi3P"width="450"height="450"&gt;
+&lt;br&gt;
+&lt;p&gt;組合&lt;/p&gt;
+&lt;img src="https://copy.com/ZrY0gYwtzrPxldfB"width="450"height="450"&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第四週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-08T11:41:00+08:00</updated><author><name>40323240</name></author><id>tag:coursemdetw.github.io,2015-10-08:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;作業二投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;p&gt;solvespace練習&lt;/p&gt;
+&lt;img src="https://copy.com/EH2DIsAmdDUteTqJ"width="450"height="450"&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第一週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323240</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
