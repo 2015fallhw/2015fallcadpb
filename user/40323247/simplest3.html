@@ -1,0 +1,62 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>四設二乙</h1>
+    <p>40323247黃顏維辰</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h1>筆記</h1 >
+    <p>1.標註尺寸時要按住Ctrl鍵選取兩點->滑鼠右鍵,就可以去改變尺寸。</br>
+2.零件組合時要靠近所組裝的地方，再去制定建置(不然會離太遠只會顯示距離)</br> 
+3.繪製草圖前要先選擇要繪製的平面，然後選擇是要拉伸還是選轉，在除料的時後會用到。</br>
+ 4.組合限制時可以選擇平面對平面跟內圓8的面對圓柱8的圓柱面。</p>
+
+</section>
+    
+				
+<section>
+    <h1>心得和自評</h1>
+    <p>這軟體比較偏向3D繪圖，由於高中有學過類似的程式，所以在這次繪圖的操作比較得心應手，但還是有些小技巧是透過朋友才知道的，在拍攝影片也比較熟練。
+    </br>
+
+        這程是得像是我高中學的3D程式，所以在操作方面了解，但還是很多東西的小技巧與操作不行，所以還要再多多練習這程式。自評分:75分。</p>
+    
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

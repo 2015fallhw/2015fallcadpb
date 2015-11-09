@@ -1,0 +1,62 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h3>四設計二乙</h3>
+    <p>40323222 林宗濠 </p>		
+</section>
+	
+<section id="hw-task-one">
+    <h3>筆記</h3>
+    <p>草繪→繪出斷面→擠出或迴轉：零件</p>
+    <br>
+    <p>標註尺寸時，點選"法向"再點選欲標註之範圍，再按滑鼠滾輪即可。</p>
+    <br>
+    <p>在cmd裡輸入"git branch"可知現在在什麼地方。</p>
+    <br>
+    <p>一定要先pull最新資料才能push，以免舊資料覆蓋掉。</p>
+   
+</section>
+				
+<section>
+    <h3>心得與自評分數</h3>
+    <p>自評分數為：85分</p>
+    <hr>
+    <p>自己獨自完成了腳踏車的繪製，從看圖建模→組合→彩現，花了不少時間，但成果是自己還滿意的。過程很有趣，其中最難掌握的是組合的時候，因不清楚車體收摺時是否會干涉，經過多次進草圖後，終於完成了此3D圖。</p>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
