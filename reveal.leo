@@ -1441,7 +1441,7 @@
 </v>
 </v>
 </v>
-<v t=".20151029193149.1"><vh>@path 40323230</vh>
+<v t=".20151029193149.1" a="E"><vh>@path 40323230</vh>
 <v t=".20151029193149.2"><vh>以下為投影片 ------------</vh></v>
 <v t=".20151029193149.3"><vh>@clean 40323230_cp_w2.html</vh>
 <v t=".20151029193149.4"><vh>檔案說明</vh></v>
@@ -1507,16 +1507,32 @@
 </v>
 </v>
 </v>
-<v t=".20151029193149.72"><vh>@path pelican</vh>
+<v t=".20151115012757.1"><vh>@clean 40323230_cp_w7.html</vh>
+<v t=".20151115012757.2"><vh>檔案說明</vh></v>
+<v t=".20151115012757.3"><vh>html 標註</vh>
+<v t=".20151115012757.4" a="E"><vh>body 標註</vh>
+<v t=".20151115012757.5" a="E"><vh>div class="reveal"</vh>
+<v t=".20151115012757.6" a="E"><vh>div class="slides"</vh>
+<v t=".20151115012757.7"><vh>標題</vh></v>
+<v t=".20151115012757.8"><vh>作業任務一</vh></v>
+<v t=".20151115012757.9"><vh>自評</vh></v>
+</v>
+</v>
+<v t=".20151115012757.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t=".20151029193149.72" a="E"><vh>@path pelican</vh>
 <v t=".20151029193149.73"><vh>以下為設定檔 ------------</vh></v>
 <v t=".20151029193149.74"><vh>@edit publishconf.py</vh></v>
-<v t=".20151029193149.75"><vh>@path content</vh>
+<v t=".20151029193149.75" a="E"><vh>@path content</vh>
 <v t=".20151029193149.76"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t=".20151029193149.77"><vh>@edit 2015cpnote1.md</vh></v>
 <v t=".20151029193149.78"><vh>@edit 40323230_cp_w2.md</vh></v>
 <v t=".20151029194021.1"><vh>@edit 40323230_cp_w4.md</vh></v>
 <v t=".20151029194438.1"><vh>@edit 40323230_cp_w5.md</vh></v>
 <v t=".20151029195049.1"><vh>@edit 40323230_cp_w6.md</vh></v>
+<v t=".20151115012656.1"><vh>@edit 40323230_cp_w7.md</vh></v>
 </v>
 </v>
 </v>
@@ -3395,6 +3411,75 @@
     &lt;h1&gt;摘要與心得&lt;/h1&gt;
     &lt;p&gt;這次流程比較繁瑣，不過難度較低，只是將以前的做資料拷貝到班級的共同倉儲而已，但是更改這些節點時必須非常小心，不然會弄壞別人的資料。&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx=".20151115012757.1">@language xml
+@tabwidth -4
+@others
+</t>
+<t tx=".20151115012757.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx=".20151115012757.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx=".20151115012757.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx=".20151115012757.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx=".20151115012757.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151115012757.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151115012757.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;hr&gt;
+    &lt;p&gt;40323230-張元-11/15&lt;/p&gt;		
+&lt;/section&gt;
+</t>
+<t tx=".20151115012757.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;摘要與心得&lt;/h1&gt;
+    &lt;p&gt;透過Creo繪製專案任務是一件繁瑣的工作，因為以前比較習慣的軟體和作業環境不一樣了，使得作業時較以往更為緩慢。以前沒用過SoildWork或是Pro-E，完全不知道與Inventor或AutoCAD相對應的功能位置在哪，但是多摸索或是上網觀看講解影片可以上手更快。&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx=".20151115012757.9">&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;在作業上沒什麼進步，不過多花點時間學習不同的繪製環境，還是有所成果，給自己70分。&lt;/p&gt;
+    &lt;hr&gt;
+    &lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;課程資料&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
 <t tx="2015cp.20151107135611.1"></t>
 <t tx="2015cp.20151107135611.10">&lt;section&gt;
     &lt;h2&gt;覺得重要部分&lt;/h2&gt;
