@@ -3344,7 +3344,6 @@
 <t tx=".20151029195316.1">@language xml
 @tabwidth -4
 @others
-
 </t>
 <t tx=".20151029195316.11">&lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
