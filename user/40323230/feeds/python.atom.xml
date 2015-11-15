@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-15T11:00:00+08:00</updated><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-15T12:00:00+08:00</updated><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
 &lt;p&gt;{% notebook brython_ex1.ipynb %}&lt;/p&gt;
 &lt;p&gt;{% notebook demo.ipynb %}&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>2015 計算機程式 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
@@ -79,4 +79,28 @@
 &lt;p&gt;Youtube&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="https://www.youtube.com/playlist?list=PLkyKIAm8-pyiDspzDX4mfyipTR6gl7te1"&gt;https://www.youtube.com/playlist?list=PLkyKIAm8-pyiDspzDX4mfyipTR6gl7te1&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第八週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-11-15T12:00:00+08:00</updated><author><name>40323230</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;h2&gt;第八週作業-統整&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpb/user/40323230/2015cp_hw_w1.html"&gt;第一、二週&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;這兩週學習如何上傳至倉儲，以及基本的管理與編輯倉儲內容。&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpb/user/40323230/2015cp_hw_w4.html"&gt;第四週&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;用Solvespace繪製教學中的圖形，並把成品照片上傳至倉儲。&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpb/user/40323230/2015cp_hw_w5.html"&gt;第五週&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;利用creo繪製練習題目的各個零件，然後上傳至倉儲。&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpb/user/40323230/2015cp_hw_w6.html"&gt;第六週&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;拍攝第五週各個零件以及推送的影片，之後再推送至網路上。&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpb/user/40323230/2015cp_hw_w7.html"&gt;第七週&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;測量腳踏車的尺寸以及繪製其外型。&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;p&gt;第八週&lt;/p&gt;
+&lt;p&gt;期中作業統整。&lt;/p&gt;
 &lt;hr&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
