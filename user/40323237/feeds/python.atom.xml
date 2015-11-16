@@ -1393,11 +1393,11 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;/ol&gt;
 &lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323237</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;作業二投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/wrbWLbzVJBiTd8iM" width="400" height="300"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;完成圖&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323237</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業三投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;方塊繪製:&lt;/p&gt;
 &lt;p&gt;1.影片:&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2ZnVJ7qlL1g" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
@@ -1432,4 +1432,29 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;p&gt;開啟零件 並將方塊與圓軸組合&lt;/p&gt;
 &lt;p&gt;重覆步驟至完成&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/nj7tHWeMT6m9dHjI" width="400" height="300"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;完成圖&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;p&gt;完成圖&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323237</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;作業四投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323237</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest5.html" target="_blank"&gt;作業五投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業六 (期中總結)</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323237</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;作業一 : 修改投影片&lt;/p&gt;
+&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;作業二 : 繪製SLOVE SPACE&lt;/p&gt;
+&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;作業三 : 繪製CREO&lt;/p&gt;
+&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2ZnVJ7qlL1g" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/d-LsjIggPgw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pcuuSvTzI60" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;作業四 : 繪製腳踏車&lt;/p&gt;
+&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;作業五 : PUSH製協同倉儲&lt;/p&gt;
+&lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;作業六 : 期中總結&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
