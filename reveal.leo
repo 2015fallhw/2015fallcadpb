@@ -695,8 +695,8 @@
 </v>
 <v t="leo40323206.20151102102410.1"><vh>@clean simplest2.html</vh>
 <v t="leo40323206.20151102102410.2"><vh>檔案說明</vh></v>
-<v t="leo40323206.20151102102410.3"><vh>html 標註</vh>
-<v t="leo40323206.20151102102410.4"><vh>body 標註</vh>
+<v t="leo40323206.20151102102410.3" a="E"><vh>html 標註</vh>
+<v t="leo40323206.20151102102410.4" a="E"><vh>body 標註</vh>
 <v t="leo40323206.20151102102410.5"><vh>div class="reveal"</vh>
 <v t="leo40323206.20151102102410.6"><vh>div class="slides"</vh>
 <v t="leo40323206.20151102102410.7"><vh>封面</vh></v>
@@ -713,7 +713,7 @@
 <v t="leo40323206.20151102102418.2"><vh>檔案說明</vh></v>
 <v t="leo40323206.20151102102418.3"><vh>html 標註</vh>
 <v t="leo40323206.20151102102418.4"><vh>body 標註</vh>
-<v t="leo40323206.20151102102418.5"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151102102418.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo40323206.20151102102418.6"><vh>div class="slides"</vh>
 <v t="leo40323206.20151102102418.7"><vh>封面</vh></v>
 <v t="leo40323206.20151102102418.8"><vh>投影片2</vh></v>
@@ -725,6 +725,23 @@
 </v>
 </v>
 </v>
+<v t="leo40323206.20151116104205.1"><vh>@clean simplest4.html</vh>
+<v t="leo40323206.20151116104205.2"><vh>檔案說明</vh></v>
+<v t="leo40323206.20151116104205.3" a="E"><vh>html 標註</vh>
+<v t="leo40323206.20151116104205.4" a="E"><vh>body 標註</vh>
+<v t="leo40323206.20151116104205.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151116104205.6" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151116104205.7"><vh>封面</vh></v>
+<v t="leo40323206.20151116104205.8"><vh>投影片2</vh></v>
+<v t="leo40323206.20151116104205.9"><vh>投影片3 </vh></v>
+<v t="leo40323206.20151116104205.10"><vh>投影片4 ( 心得 )</vh></v>
+<v t="leo40323206.20151116104736.1"><vh>投影片5 ( 自評分數 )</vh></v>
+</v>
+</v>
+<v t="leo40323206.20151116104205.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
 <v t="leo40323206.20151102101501.4" a="E"><vh>@path pelican</vh>
 <v t="leo40323206.20151102101501.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo40323206.20151102101501.6"><vh>@edit publishconf.py</vh></v>
@@ -733,6 +750,7 @@
 <v t="leo40323206.20151102102115.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo40323206.20151102102123.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo40323206.20151102102100.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo40323206.20151116105138.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="leo40323206.20151102101501.10"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -16263,6 +16281,104 @@ git config --global user.email 自己的信箱&lt;br&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
     &lt;br&gt;
     &lt;p&gt;第五週的作業是要使用Creo畫出兩個零件進行組合，網站上老師提供的過程是英文，但軟體的介面是可以改成中文的，操作的時候覺得立體的製圖軟體似乎都大同小異，沒有遇到甚麼特別的困難，只有在畫零件2時的法向自動標註的地方剛好不是自己要的，所以要另外標註。&lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151116104205.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo40323206.20151116104205.10">&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;p&gt;腳踏車的繪製及設計作業已經要開始執行了,可是實際上還是停擺的狀態，非常可笑的是大家在第一步的分工就無法完成，不是要否認大家對這項作業的看重，而是即便我們的軟體架構都比之前完善，實際上的運用依舊趨近於0，所以我們的電腦輔助依舊跟之前一樣，只是使用電腦軟體，電腦並沒有輔助到我們要的分工合作。&lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151116104205.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo40323206.20151116104205.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo40323206.20151116104205.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo40323206.20151116104205.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo40323206.20151116104205.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151116104205.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151116104205.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo40323206.20151116104205.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;上課筆記-Week6&lt;/h2&gt;
+    &lt;br&gt;
+     
+     &lt;p align="left"&gt;如何透過電腦去分享自己所學的知識，善用文字、圖片、影片，再透過電腦輔助分享同步(不等於複製、抄襲)。&lt;/p&gt;
+    &lt;br&gt;
+     
+  
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151116104205.9">&lt;section&gt;
+    &lt;h2&gt;上課筆記-Week7&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;p&gt;大學生應有的態度&lt;/p&gt;
+    &lt;br&gt;
+     
+     &lt;p align="left"&gt;1.不要怕困難 &lt;/p&gt;
+     &lt;p align="left"&gt;2.不要失去熱忱&lt;/p&gt;
+     &lt;p align="left"&gt;3.不要以為不可能 &lt;/p&gt;
+     &lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151116104736.1">&lt;section&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;p&gt;這兩週的進度幾乎完全停擺，所以一直沒有更新作業網頁，所以這週的自評分數只有60分。&lt;/p&gt;
 
 &lt;/section&gt;
 				
