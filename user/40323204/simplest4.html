@@ -1,0 +1,67 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body bgcolor="green">
+</body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <body bgcolor="green">
+    <h2>四設計二乙</h2>
+    <p>40323204 </p>
+    <p> 張筱萱  </p>
+    <p> 11/16</p>		
+</section>
+	
+<section id="hw-task-one">
+   <h3>作業內容</h3>
+      <p>使用 Git 在 Github 管理個人、分組與班上倉儲、協同資料</p>
+      
+    <p>叮嚀:必須先加入為協同者後, 在 user 目錄下, 以學號新增目錄, 然後從 9999 目錄中複製內容, 並加入各週作業內容</p>
+    </section>
+<section id="hw-task-one">
+      <h3>筆記</h3>
+<p>1.複製9999的檔案</p>
+<p>2.要將網頁裡的9999改成自己的學號</p> 
+<p>3.要在資料夾中的user裡面新增一個資料夾，名稱為自己的學號</p> 
+<p>4.將原本自己Leo檔裡的投影片及網誌拉進相對應的位置</p> 
+<p>5.小心複製的東西跑到分頁</p> 
+<p>6.改好後存檔點自己的學號按下user-pelican</p>
+</section>
+				
+<section id="hw-task-one">
+      <h3>成績自評分數80分</h3>
+    <p>本來還搞不太清楚要怎麼用，以為是要在新增一個github倉儲，從裡面改完後再連到班上的協同網頁，問了同學之後發現很簡單，只要把自己原本的東西複製到班上協同的Leo裡面就好，之前做好回傳成功之後，班上有人將Leo用壞，雖然修好了但我在Leo裡面的節點不見了，導致我要改東西還要重新複製，我搞不懂的是Leo不見了但user裡面的檔案卻還在，不知道它是怎麼運作的呢!
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+
