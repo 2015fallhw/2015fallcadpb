@@ -460,9 +460,9 @@
 </v>
 </v>
 </v>
-<v t="leo.20151116180109.35"><vh>@clean simplest6.html</vh>
+<v t="leo.20151116180109.35" a="E"><vh>@clean simplest6.html</vh>
 <v t="leo.20151116180109.36"><vh>檔案說明</vh></v>
-<v t="leo.20151116180109.37"><vh>html 標註</vh>
+<v t="leo.20151116180109.37" a="E"><vh>html 標註</vh>
 <v t="leo.20151116180109.38" a="E"><vh>body 標註</vh>
 <v t="leo.20151116180109.39" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151116180109.40" a="E"><vh>div class="slides"</vh>
