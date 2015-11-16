@@ -1,0 +1,63 @@
+Title: 2015 CADP week-all
+Date: 2015-11-16 11:00
+Modified: 2015-11-16 11:00
+Category: Python
+Tags: pelican, publishing
+Slug: 2015cp_hw_w-all
+Authors: 40323204
+Summary: week1~8摘要
+以下為week1~8內容
+
+整理1~8週 的作業心得及內容
+
+1~8週心得投影片:
+
+<iframe src="simplest6.html" width="500" height="300"></iframe>
+
+[week1~8投影片](simplest6.html){:target="_blank"}
+
+作業一內容
+============
+
+使用 Git 在 Github 與 Bitbucket 管理個人 分組與班上倉儲資料:
+<p>參考 <a href="http://backlogtool.com/git-guide/tw/intro/intro1_1.html">連猴子都能懂得git入門指南</a>與 <a href="https://leoeditor-coursemdetw.rhcloud.com/get_page?heading=Leo%20Editor%20Tutorial">Leo Editor Tutorial </a> 與 <a href="http://www.sciencedirect.com/science/article/pii/B9780815514473500029">What Engineers do? </a>，作業內容: 看完說明，利用 Leo Editor 摘要重點，建立個人 Github 課程倉儲 (名稱為<a href="https://github.com/hsungchang/cadpaw2/tree/gh-pages">cadpaw2 </a> )
+
+<iframe src="simplest.html" width="500" height="300"></iframe>
+
+<hr size="10"align="center"noshade width="90%"color="0000ff">
+
+作業二內容
+============
+
+完成 <a href="http://solvespace.com/index.pl">Solvespace</a> ( <a href="http://solvespace.com/ref.pl">Reference Manual</a>) 所提供的 Tutorial, 學會使用基本操作
+
+<iframe src="simplest2.html" width="500" height="300"></iframe>
+
+<hr size="10"align="center"noshade width="90%"color="0000ff">
+
+作業三內容
+============
+
+<p>
+學習 Creo Parametric ，利用 <a href="https://www.copy.com/s/t%3A97ZkQ0UqfVUPTxn8%3Bp%3A%252FCollege_Student_Primer_Creo_2.pdf%3Boid%3A84">Creo Parametric 最基本的零件繪製</a> ， 學會使用基本操作
+
+<iframe src="simplest3.html" width="500" height="300"></iframe>
+
+<hr size="10"align="center"noshade width="90%"color="0000ff">
+
+作業四內容
+============
+
+使用 Git 在 Github 管理個人、分組與班上倉儲、協同資料:
+<p>相關連結 <a href="https://github.com/2015fallhw/2015fallcadpb">全班協同倉儲</a>與 <a href="http://2015fallhw.github.io/2015fallcadpb/">二乙 CADP 全班協同作業</a> 
+
+<iframe src="simplest3.html" width="500" height="300"></iframe>
+
+<hr size="10"align="center"noshade width="90%"color="0000ff">
+
+作業五內容
+============
+
+利用 Solvespace 與 Creo 繪製折疊電動自行車零件
+
+<iframe src="simplest5.html" width="500" height="300"></iframe>
