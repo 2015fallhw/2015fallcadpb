@@ -411,7 +411,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151116180109.1"><vh>@path 40323204</vh>
+<v t="leo.20151116180109.1" a="E"><vh>@path 40323204</vh>
 <v t="leo.20151116180109.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151116180109.3"><vh>@clean simplest.html</vh>
 <v t="leo.20151116180109.4"><vh>檔案說明</vh></v>
@@ -462,7 +462,7 @@
 </v>
 <v t="leo.20151116180109.35"><vh>@clean simplest6.html</vh>
 <v t="leo.20151116180109.36"><vh>檔案說明</vh></v>
-<v t="leo.20151116180109.37" a="E"><vh>html 標註</vh>
+<v t="leo.20151116180109.37"><vh>html 標註</vh>
 <v t="leo.20151116180109.38" a="E"><vh>body 標註</vh>
 <v t="leo.20151116180109.39" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151116180109.40" a="E"><vh>div class="slides"</vh>
@@ -476,7 +476,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151116180109.46"><vh>@clean simplest5.html</vh>
+<v t="leo.20151116180109.46" a="E"><vh>@clean simplest5.html</vh>
 <v t="leo.20151116180109.47"><vh>檔案說明</vh></v>
 <v t="leo.20151116180109.48" a="E"><vh>html 標註</vh>
 <v t="leo.20151116180109.49" a="E"><vh>body 標註</vh>
@@ -533,10 +533,10 @@
 </v>
 </v>
 </v>
-<v t="leo.20151116180109.85"><vh>@path pelican</vh>
+<v t="leo.20151116180109.85" a="E"><vh>@path pelican</vh>
 <v t="leo.20151116180109.86"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151116180109.87"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151116180109.88"><vh>@path content</vh>
+<v t="leo.20151116180109.88" a="E"><vh>@path content</vh>
 <v t="leo.20151116180109.89"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151116180109.90"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151116180109.91"><vh>@edit 2015cphww4.md</vh></v>
@@ -16501,18 +16501,19 @@ git config --global user.email 自己的信箱&lt;br&gt;
     &lt;/section&gt;</t>
 <t tx="leo.20151116180109.43">&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;筆記&lt;/h3&gt;
-&lt;p&gt;1.複製9999的檔案&lt;/p&gt;
-&lt;p&gt;2.要將網頁裡的9999改成自己的學號&lt;/p&gt; 
-&lt;p&gt;3.要在資料夾中的user裡面新增一個資料夾，名稱為自己的學號&lt;/p&gt; 
-&lt;p&gt;4.將原本自己Leo檔裡的投影片及網誌拉進相對應的位置&lt;/p&gt; 
-&lt;p&gt;5.小心複製的東西跑到分頁&lt;/p&gt; 
-&lt;p&gt;6.改好後存檔點自己的學號按下user-pelican&lt;/p&gt;
+&lt;p&gt;1.pelican 網誌與 reveal.js 投影片製作, 內容送到 Github pages 分支&lt;/p&gt;
+&lt;p&gt;2.What engineers do? 摘要&lt;/p&gt;
+&lt;p&gt;3.Solvespace 基本操作:
+&lt;a href="http://solvespace.com/tutorial.pl"&gt;&lt;/a&gt; (簡介)&lt;/p&gt;
+&lt;p&gt;4.Creo Parametric 基本操作:
+ &lt;a href="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;&lt;/a&gt; 
+&lt;p&gt;5.Pro/Engineer Mechanism:  &lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m"&gt;&lt;/a&gt; (Nutcracker Mechanism)&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20151116180109.44">&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;成績自評分數80分&lt;/h3&gt;
-    &lt;p&gt;本來還搞不太清楚要怎麼用，以為是要在新增一個github倉儲，從裡面改完後再連到班上的協同網頁，問了同學之後發現很簡單，只要把自己原本的東西複製到班上協同的Leo裡面就好，之前做好回傳成功之後，班上有人將Leo用壞，雖然修好了但我在Leo裡面的節點不見了，導致我要改東西還要重新複製，我搞不懂的是Leo不見了但user裡面的檔案卻還在，不知道它是怎麼運作的呢!
+    &lt;p&gt;經過這幾週的課程，學會了Creo及Solvespace，雖然要用他們畫出腳踏車對我還是有一些難度，但是我會跟組員們一起努力的，對於Leo的使用上學會了很多，從一開始的建立自己的網頁，到製作投影片，在來要建立班上的協同，靠了許多人的幫忙才能完成到這一步呢!希望之後的課程可以學到更多。
 &lt;/section&gt;
 				
 </t>
