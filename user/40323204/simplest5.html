@@ -1,0 +1,62 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body bgcolor="green">
+</body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <body bgcolor="green">
+    <h2>四設計二乙</h2>
+    <p>40323204 </p>
+    <p> 張筱萱  </p>
+    <p> 11/16</p>		
+</section>
+	
+<section id="hw-task-one">
+   <h3>作業內容</h3>
+      <p>利用 Solvespace 與 Creo 繪製折疊電動自行車零件</p>
+      
+    </section>
+<section id="hw-task-one">
+      <h3>筆記</h3>
+<p>我們選擇把腳踏車拍照，並測量尺寸直接將尺寸寫在照片上，之後再慢慢把零件畫出來。</p>
+
+</section>
+				
+<section id="hw-task-one">
+      <h3>成績自評分數75分</h3>
+    <p>因為時間的關係只能量出尺寸，還沒畫出零件，測量的尺寸只有大概，待開始繪圖後再慢慢補上不夠的尺寸，許多零件繪製上都有困難，我會好好努力將腳踏車組出來的。
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+

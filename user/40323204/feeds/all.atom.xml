@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 9999 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-26T18:41:00+08:00</updated><entry><title>2015 CADP 作業三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-26T18:41:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-10-26:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業三內容
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323204 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-16T11:00:00+08:00</updated><entry><title>2015 CADP week-all</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w_all.html" rel="alternate"></link><updated>2015-11-16T11:00:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-11-16:reveal/2015cp_hw_w_all.html</id><summary type="html">&lt;p&gt;以下為week1~8內容&lt;/p&gt;
+&lt;p&gt;整理1~8週 的作業心得及內容&lt;/p&gt;
+&lt;p&gt;1~8週心得投影片:&lt;/p&gt;
+&lt;iframe src="simplest6.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest6.html" target="_blank"&gt;week1~8投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;作業一內容&lt;/h1&gt;
+&lt;p&gt;使用 Git 在 Github 與 Bitbucket 管理個人 分組與班上倉儲資料:
+&lt;p&gt;參考 &lt;a href="http://backlogtool.com/git-guide/tw/intro/intro1_1.html"&gt;連猴子都能懂得git入門指南&lt;/a&gt;與 &lt;a href="https://leoeditor-coursemdetw.rhcloud.com/get_page?heading=Leo%20Editor%20Tutorial"&gt;Leo Editor Tutorial &lt;/a&gt; 與 &lt;a href="http://www.sciencedirect.com/science/article/pii/B9780815514473500029"&gt;What Engineers do? &lt;/a&gt;，作業內容: 看完說明，利用 Leo Editor 摘要重點，建立個人 Github 課程倉儲 (名稱為&lt;a href="https://github.com/hsungchang/cadpaw2/tree/gh-pages"&gt;cadpaw2 &lt;/a&gt; )&lt;/p&gt;
+&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;
+
+&lt;h1&gt;作業二內容&lt;/h1&gt;
+&lt;p&gt;完成 &lt;a href="http://solvespace.com/index.pl"&gt;Solvespace&lt;/a&gt; ( &lt;a href="http://solvespace.com/ref.pl"&gt;Reference Manual&lt;/a&gt;) 所提供的 Tutorial, 學會使用基本操作&lt;/p&gt;
+&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;
+
+&lt;h1&gt;作業三內容&lt;/h1&gt;
+&lt;p&gt;
+學習 Creo Parametric ，利用 &lt;a href="https://www.copy.com/s/t%3A97ZkQ0UqfVUPTxn8%3Bp%3A%252FCollege_Student_Primer_Creo_2.pdf%3Boid%3A84"&gt;Creo Parametric 最基本的零件繪製&lt;/a&gt; ， 學會使用基本操作
+
+&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;
+
+作業四內容
+============
+
+使用 Git 在 Github 管理個人、分組與班上倉儲、協同資料:
+&lt;p&gt;相關連結 &lt;a href="https://github.com/2015fallhw/2015fallcadpb"&gt;全班協同倉儲&lt;/a&gt;與 &lt;a href="http://2015fallhw.github.io/2015fallcadpb/"&gt;二乙 CADP 全班協同作業&lt;/a&gt; 
+
+&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;
+
+作業五內容
+============
+
+利用 Solvespace 與 Creo 繪製折疊電動自行車零件
+
+&lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADP 作業四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-11-16T10:10:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-11-16:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;以下為作業四內容&lt;/p&gt;
+&lt;p&gt;使用 Git 在 Github 管理個人、分組與班上倉儲、協同資料:
+&lt;p&gt;相關連結 &lt;a href="https://github.com/2015fallhw/2015fallcadpb"&gt;全班協同倉儲&lt;/a&gt;與 &lt;a href="http://2015fallhw.github.io/2015fallcadpb/"&gt;二乙 CADP 全班協同作業&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業四投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADP 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-11-16T10:00:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-11-16:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為作業五內容&lt;/p&gt;
+&lt;p&gt;利用 Solvespace 與 Creo 繪製折疊電動自行車零件&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest5.html" target="_blank"&gt;作業五投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;關於腳踏車尺寸解說&lt;/h1&gt;
+&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;
+
+&lt;p&gt;&lt;img src="https://copy.com/t9JR8FD0vqzdVmmF" width="500" height="900" alt="住圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/kzm9SXx6u91PZUHX" width="500" height="900" alt="住圖"&gt;&lt;/img&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADP 作業三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-26T18:41:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-10-26:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業三內容
 &lt;p&gt;
 學習 Creo Parametric ，利用 &lt;a href="https://www.copy.com/s/t%3A97ZkQ0UqfVUPTxn8%3Bp%3A%252FCollege_Student_Primer_Creo_2.pdf%3Boid%3A84"&gt;Creo Parametric 最基本的零件繪製&lt;/a&gt; ， 學會使用基本操作&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
@@ -8,13 +66,13 @@
 &lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業三投影片&lt;/a&gt;
 &lt;/p&gt;&lt;/p&gt;
 &lt;h1&gt;關於繪圖流程影片&lt;/h1&gt;
-&lt;p&gt;&lt;hr size="20"align="center"noshade width="90%"color="0000ff"&gt;
+&lt;p&gt;&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;
 &lt;p&gt;
 &lt;iframe src="https://player.vimeo.com/video/143757794" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 &lt;/p&gt;
 關於方塊尺寸解說
 ===================&lt;/p&gt;
-&lt;hr size="20"align="center"noshade width="90%"color="0000ff"&gt;
+&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;
 
 &lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;1.為邊長 30的正方體&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/yVqdmrT7mgW93A6V" width="400" height="200" alt="方圖"&gt;&lt;/img&gt;&lt;/p&gt;
@@ -27,7 +85,7 @@
 &lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;4.倒角為0.5&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/gkab4iaxLSkRnvvC" width="400" height="200" alt="倒角圖"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;h1&gt;關於桿子尺寸解說&lt;/h1&gt;
-&lt;hr size="20"align="center"noshade width="90%"color="0000ff"&gt;
+&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;
 
 &lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;1.最小圓柱為直徑8&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/IxG73lSoNgxvF8Mt" width="400" height="200" alt="住圖"&gt;&lt;/img&gt;&lt;/p&gt;
@@ -49,7 +107,7 @@
 &lt;p&gt;[作業二投影片](simplest2.html){:target="_blank"}&lt;/p&gt;
 
 &lt;h1&gt;關於繪圖解說&lt;/h1&gt;
-&lt;p&gt;&lt;hr size="20"align="center"noshade width="90%"color="0000ff"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;步驟一:繪出一個非垂直的L型&lt;/font&gt;&lt;/p&gt;
 
@@ -67,7 +125,7 @@
 
 &lt;p&gt;&lt;img src="https://copy.com/AHqohmzfYTsvOlUn" width="400" height="200" alt="孔圖"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;h1&gt;關於繪圖工具列解說&lt;/h1&gt;
-&lt;hr size="20"align="center"noshade width="90%"color="0000ff"&gt;
+&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;
 
 &lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;此工具為畫草圖平面&lt;/font&gt;&lt;/p&gt;
 
