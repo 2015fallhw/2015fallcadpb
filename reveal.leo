@@ -417,7 +417,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151106231331.4"><vh>@path pelican</vh>
+<v t="leo.20151106231331.4" a="E"><vh>@path pelican</vh>
 <v t="leo.20151106231331.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151106231331.6"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151106231331.7" a="E"><vh>@path content</vh>
@@ -1407,7 +1407,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151108230911.61"><vh>@path pelican</vh>
+<v t="leo.20151108230911.61" a="E"><vh>@path pelican</vh>
 <v t="leo.20151108230911.62"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151108230911.63"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151108230911.64"><vh>@path content</vh>
@@ -2131,32 +2131,32 @@
 </v>
 <v t="leo.20151106232806.1" a="E"><vh>@path 40323237</vh>
 <v t="leo.20151106232806.2"><vh>以下為投影片 ------------</vh></v>
-<v t="2015cp.20151118165317.1"><vh>@clean simplest5.html</vh>
-<v t="2015cp.20151118165317.2"><vh>檔案說明</vh></v>
-<v t="2015cp.20151118165317.3" a="E"><vh>html 標註</vh>
-<v t="2015cp.20151118165317.4" a="E"><vh>body 標註</vh>
-<v t="2015cp.20151118165317.5" a="E"><vh>div class="reveal"</vh>
-<v t="2015cp.20151118165317.6" a="E"><vh>div class="slides"</vh>
-<v t="2015cp.20151118165317.7"><vh>有關我的作業</vh></v>
-<v t="2015cp.20151118165317.8"><vh>作業任務一</vh></v>
-<v t="2015cp.20151118165317.9"><vh>第3張投影片</vh></v>
+<v t="2015cp.20151118172105.1"><vh>@clean simplest5.html</vh>
+<v t="2015cp.20151118172105.2"><vh>檔案說明</vh></v>
+<v t="2015cp.20151118172105.3" a="E"><vh>html 標註</vh>
+<v t="2015cp.20151118172105.4" a="E"><vh>body 標註</vh>
+<v t="2015cp.20151118172105.5" a="E"><vh>div class="reveal"</vh>
+<v t="2015cp.20151118172105.6" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151118172105.7"><vh>有關我的作業</vh></v>
+<v t="2015cp.20151118172105.8"><vh>作業任務一</vh></v>
+<v t="2015cp.20151118172105.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="2015cp.20151118165317.10"><vh>script</vh></v>
+<v t="2015cp.20151118172105.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="2015cp.20151118165310.1"><vh>@clean simplest4.html</vh>
-<v t="2015cp.20151118165310.2"><vh>檔案說明</vh></v>
-<v t="2015cp.20151118165310.3" a="E"><vh>html 標註</vh>
-<v t="2015cp.20151118165310.4" a="E"><vh>body 標註</vh>
-<v t="2015cp.20151118165310.5" a="E"><vh>div class="reveal"</vh>
-<v t="2015cp.20151118165310.6" a="E"><vh>div class="slides"</vh>
-<v t="2015cp.20151118165310.7"><vh>有關我的作業</vh></v>
-<v t="2015cp.20151118165310.8"><vh>作業任務一</vh></v>
+<v t="2015cp.20151118172057.1"><vh>@clean simplest4.html</vh>
+<v t="2015cp.20151118172057.2"><vh>檔案說明</vh></v>
+<v t="2015cp.20151118172057.3" a="E"><vh>html 標註</vh>
+<v t="2015cp.20151118172057.4" a="E"><vh>body 標註</vh>
+<v t="2015cp.20151118172057.5" a="E"><vh>div class="reveal"</vh>
+<v t="2015cp.20151118172057.6" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151118172057.7"><vh>有關我的作業</vh></v>
+<v t="2015cp.20151118172057.8"><vh>作業任務一</vh></v>
 </v>
 </v>
-<v t="2015cp.20151118165310.9"><vh>script</vh></v>
+<v t="2015cp.20151118172057.9"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2208,11 +2208,11 @@
 <v t="leo.20151106232806.33" a="E"><vh>@path pelican</vh>
 <v t="leo.20151106232806.34"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151106232806.35"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151106232806.36" a="E"><vh>@path content</vh>
+<v t="leo.20151106232806.36"><vh>@path content</vh>
 <v t="leo.20151106232806.37"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="2015cp.20151118165448.1"><vh>@edit 2015cphww8.md</vh></v>
-<v t="2015cp.20151118165441.1"><vh>@edit 2015cphww7.md</vh></v>
-<v t="2015cp.20151118165433.1"><vh>@edit 2015cphww6.md</vh></v>
+<v t="2015cp.20151118172044.1"><vh>@edit 2015cphww8.md</vh></v>
+<v t="2015cp.20151118172038.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="2015cp.20151118172032.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="leo.20151106232806.38"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151106232806.39"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151106232806.40"><vh>@edit 2015cphww2.md</vh></v>
@@ -5268,19 +5268,19 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
 
 				
 </t>
-<t tx="2015cp.20151118165310.1">@language xml
+<t tx="2015cp.20151118172057.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="2015cp.20151118165310.2">&lt;!--
+<t tx="2015cp.20151118172057.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="2015cp.20151118165310.3">&lt;!doctype html&gt;
+<t tx="2015cp.20151118172057.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -5294,21 +5294,21 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
 &lt;/head&gt;
 @others
 </t>
-<t tx="2015cp.20151118165310.4">&lt;body&gt;
+<t tx="2015cp.20151118172057.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="2015cp.20151118165310.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="2015cp.20151118172057.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="2015cp.20151118165310.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="2015cp.20151118172057.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="2015cp.20151118165310.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="2015cp.20151118172057.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -5317,14 +5317,14 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
 &lt;/section&gt;
 	
 </t>
-<t tx="2015cp.20151118165310.8">&lt;section id="hw-task-one"&gt;
+<t tx="2015cp.20151118172057.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;簡略步驟與說明&lt;/h1&gt;
     &lt;p&gt;至KMOL實驗室繪製腳踏車&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="2015cp.20151118165310.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="2015cp.20151118172057.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -5333,12 +5333,12 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
 &lt;/script&gt;
 	
 </t>
-<t tx="2015cp.20151118165317.1">@language xml
+<t tx="2015cp.20151118172105.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="2015cp.20151118165317.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="2015cp.20151118172105.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -5347,14 +5347,14 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
 &lt;/script&gt;
 	
 </t>
-<t tx="2015cp.20151118165317.2">&lt;!--
+<t tx="2015cp.20151118172105.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="2015cp.20151118165317.3">&lt;!doctype html&gt;
+<t tx="2015cp.20151118172105.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -5368,21 +5368,21 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
 &lt;/head&gt;
 @others
 </t>
-<t tx="2015cp.20151118165317.4">&lt;body&gt;
+<t tx="2015cp.20151118172105.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="2015cp.20151118165317.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="2015cp.20151118172105.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="2015cp.20151118165317.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="2015cp.20151118172105.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="2015cp.20151118165317.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="2015cp.20151118172105.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -5391,7 +5391,7 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
 &lt;/section&gt;
 	
 </t>
-<t tx="2015cp.20151118165317.8">&lt;section id="hw-task-one"&gt;
+<t tx="2015cp.20151118172105.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;步驟與說明&lt;/h1&gt;
     &lt;p&gt;1.打開Ana3_lite2&lt;/p&gt;
     &lt;p&gt;2.cd tmp&lt;/p&gt;
@@ -5419,7 +5419,7 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="2015cp.20151118165317.9">&lt;section&gt;
+<t tx="2015cp.20151118172105.9">&lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;這次推回班上其實跟第一次作投影片的步驟差不多，不過多了一些東西&lt;/p&gt;
      &lt;p&gt;而且若是班上同學比較不注意可能會導致REVEAL檔損毀以至後續無法修改&lt;/p&gt;
