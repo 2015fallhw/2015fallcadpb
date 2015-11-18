@@ -417,7 +417,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151106231331.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151106231331.4"><vh>@path pelican</vh>
 <v t="leo.20151106231331.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151106231331.6"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151106231331.7" a="E"><vh>@path content</vh>
@@ -2129,8 +2129,37 @@
 </v>
 </v>
 </v>
-<v t="leo.20151106232806.1"><vh>@path 40323237</vh>
+<v t="leo.20151106232806.1" a="E"><vh>@path 40323237</vh>
 <v t="leo.20151106232806.2"><vh>以下為投影片 ------------</vh></v>
+<v t="2015cp.20151118165317.1"><vh>@clean simplest5.html</vh>
+<v t="2015cp.20151118165317.2"><vh>檔案說明</vh></v>
+<v t="2015cp.20151118165317.3" a="E"><vh>html 標註</vh>
+<v t="2015cp.20151118165317.4" a="E"><vh>body 標註</vh>
+<v t="2015cp.20151118165317.5" a="E"><vh>div class="reveal"</vh>
+<v t="2015cp.20151118165317.6" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151118165317.7"><vh>有關我的作業</vh></v>
+<v t="2015cp.20151118165317.8"><vh>作業任務一</vh></v>
+<v t="2015cp.20151118165317.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="2015cp.20151118165317.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="2015cp.20151118165310.1"><vh>@clean simplest4.html</vh>
+<v t="2015cp.20151118165310.2"><vh>檔案說明</vh></v>
+<v t="2015cp.20151118165310.3" a="E"><vh>html 標註</vh>
+<v t="2015cp.20151118165310.4" a="E"><vh>body 標註</vh>
+<v t="2015cp.20151118165310.5" a="E"><vh>div class="reveal"</vh>
+<v t="2015cp.20151118165310.6" a="E"><vh>div class="slides"</vh>
+<v t="2015cp.20151118165310.7"><vh>有關我的作業</vh></v>
+<v t="2015cp.20151118165310.8"><vh>作業任務一</vh></v>
+</v>
+</v>
+<v t="2015cp.20151118165310.9"><vh>script</vh></v>
+</v>
+</v>
+</v>
 <v t="leo.20151106232806.3"><vh>@clean simplest3.html</vh>
 <v t="leo.20151106232806.4"><vh>檔案說明</vh></v>
 <v t="leo.20151106232806.5" a="E"><vh>html 標註</vh>
@@ -2176,11 +2205,14 @@
 </v>
 </v>
 </v>
-<v t="leo.20151106232806.33"><vh>@path pelican</vh>
+<v t="leo.20151106232806.33" a="E"><vh>@path pelican</vh>
 <v t="leo.20151106232806.34"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151106232806.35"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151106232806.36"><vh>@path content</vh>
+<v t="leo.20151106232806.36" a="E"><vh>@path content</vh>
 <v t="leo.20151106232806.37"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="2015cp.20151118165448.1"><vh>@edit 2015cphww8.md</vh></v>
+<v t="2015cp.20151118165441.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="2015cp.20151118165433.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="leo.20151106232806.38"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151106232806.39"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151106232806.40"><vh>@edit 2015cphww2.md</vh></v>
@@ -5234,6 +5266,167 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
 
 				
 
+				
+</t>
+<t tx="2015cp.20151118165310.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="2015cp.20151118165310.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="2015cp.20151118165310.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="2015cp.20151118165310.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="2015cp.20151118165310.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="2015cp.20151118165310.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="2015cp.20151118165310.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設二乙&lt;/h1&gt;
+    &lt;p&gt;40323237郭育維&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="2015cp.20151118165310.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;簡略步驟與說明&lt;/h1&gt;
+    &lt;p&gt;至KMOL實驗室繪製腳踏車&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="2015cp.20151118165310.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="2015cp.20151118165317.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="2015cp.20151118165317.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="2015cp.20151118165317.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="2015cp.20151118165317.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="2015cp.20151118165317.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="2015cp.20151118165317.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="2015cp.20151118165317.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="2015cp.20151118165317.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設二乙&lt;/h1&gt;
+    &lt;p&gt;40323237郭育維&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="2015cp.20151118165317.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;步驟與說明&lt;/h1&gt;
+    &lt;p&gt;1.打開Ana3_lite2&lt;/p&gt;
+    &lt;p&gt;2.cd tmp&lt;/p&gt;
+    &lt;p&gt;3.git clone  https://github.com/2015fallhw/2015fallcadpb.git &lt;/p&gt;
+    &lt;p&gt;4.cd 2015fallcadpb&lt;/p&gt;
+    &lt;p&gt;5.git checkout gh-pages
+&lt;/p&gt;
+    &lt;p&gt;6.進入2015fallcadpb資料夾&lt;/p&gt;
+    &lt;p&gt;7.進去後按user資料夾裡面複製9999資料夾貼上後重新命名改為自己的學號&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;8.再點進Pelican將content資料夾裡的所有檔案刪除&lt;/p&gt;
+    &lt;p&gt;9.使用LEO開reveal檔&lt;/p&gt;
+    &lt;p&gt;10.copy @path 9999後 paste node 重新命名&lt;/p&gt;
+    &lt;p&gt;11.進入剛剛修改的node 刪除檔名有9999的檔案&lt;/p&gt;
+    &lt;p&gt;12.修改.PY內資料為自己的學號&lt;/p&gt;
+    &lt;p&gt;3.開啟個人倉儲的reveal檔，分別複製投影片及各周MD檔&lt;/p&gt;
+    &lt;p&gt;14.再分別貼至班上倉儲的檔案對應位置&lt;/p&gt;
+    &lt;p&gt;15.確認無誤後save 再按 user pelican&lt;/p&gt;
+    &lt;p&gt;16.cmd git add .&lt;/p&gt;
+    &lt;p&gt;17.git commit -m "40323237"&lt;/p&gt;
+    &lt;p&gt;18.git pull origin gh-pages&lt;/p&gt;
+    &lt;p&gt;19.git push origin gh-pages&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="2015cp.20151118165317.9">&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;這次推回班上其實跟第一次作投影片的步驟差不多，不過多了一些東西&lt;/p&gt;
+     &lt;p&gt;而且若是班上同學比較不注意可能會導致REVEAL檔損毀以至後續無法修改&lt;/p&gt;
+      &lt;p&gt;由於這次並無失誤&lt;/p&gt;
+      &lt;p&gt;故自評65分&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
 				
 </t>
 <t tx="31.20151107130737.1"></t>

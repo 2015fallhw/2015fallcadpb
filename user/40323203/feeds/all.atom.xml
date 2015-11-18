@@ -157,7 +157,7 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;作業四投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-10-28T22:00:00+08:00</updated><author><name>40323203</name></author><id>tag:coursemdetw.github.io,2015-10-28:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為作業五內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;作業四投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-10-28T22:01:00+08:00</updated><author><name>40323203</name></author><id>tag:coursemdetw.github.io,2015-10-28:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為作業五內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;p&gt;作業一:&lt;/p&gt;
 &lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
