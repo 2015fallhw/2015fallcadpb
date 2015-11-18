@@ -431,9 +431,9 @@
 </v>
 </v>
 </v>
-<v t="leo.20151116180109.1"><vh>@path 40323204</vh>
+<v t="leo.20151116180109.1" a="E"><vh>@path 40323204</vh>
 <v t="leo.20151116180109.2"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20151116180109.3"><vh>@clean simplest.html</vh>
+<v t="leo.20151116180109.3" a="E"><vh>@clean simplest.html</vh>
 <v t="leo.20151116180109.4"><vh>檔案說明</vh></v>
 <v t="leo.20151116180109.5" a="E"><vh>html 標註</vh>
 <v t="leo.20151116180109.6" a="E"><vh>body 標註</vh>
@@ -724,9 +724,9 @@
 </v>
 </v>
 </v>
-<v t="leo.20151118230158.1"><vh>@path 40323227</vh>
+<v t="leo.20151118230158.1" a="E"><vh>@path 40323227</vh>
 <v t="leo.20151118230158.2"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20151118231525.1"><vh>@clean simplest.html</vh>
+<v t="leo.20151118231525.1" a="E"><vh>@clean simplest.html</vh>
 <v t="leo.20151118231525.2"><vh>檔案說明</vh></v>
 <v t="leo.20151118231525.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151118231525.4" a="E"><vh>body 標註</vh>
@@ -741,25 +741,8 @@
 </v>
 </v>
 </v>
-<v t="leo.20151118231617.1"><vh>@clean simplest3.html</vh>
-<v t="leo.20151118231617.2"><vh>檔案說明</vh></v>
-<v t="leo.20151118231617.3"><vh>html 標註</vh>
-<v t="leo.20151118231617.4"><vh>body 標註</vh>
-<v t="leo.20151118231617.5"><vh>div class="reveal"</vh>
-<v t="leo.20151118231617.6"><vh>div class="slides"</vh>
-<v t="leo.20151118231617.7"><vh>封面</vh></v>
-<v t="leo.20151118231617.8"><vh>投影片2</vh></v>
-<v t="leo.20151118231617.9"><vh>投影片3</vh></v>
-<v t="leo.20151118231617.10"><vh>投影片4 ( 心得 )</vh></v>
-<v t="leo.20151118231617.11"><vh>投影片5 ( 自評分數 )</vh></v>
-</v>
-</v>
-<v t="leo.20151118231617.12"><vh>script</vh></v>
-</v>
-</v>
-</v>
 <v t="leo.20151118230158.3"><vh>@edit 40323227_cp_w1_p.html</vh></v>
-<v t="leo.20151118231554.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151118231554.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="leo.20151118231554.2"><vh>檔案說明</vh></v>
 <v t="leo.20151118231554.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151118231554.4" a="E"><vh>body 標註</vh>
@@ -18896,114 +18879,6 @@ creo、solvespace 大致上都知道如何使用了，對於pdf轉檔之後上�
 相關連結
 &lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151118231617.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="leo.20151118231617.10">&lt;section&gt;
-    &lt;h2&gt;心得&lt;/h2&gt;
-    &lt;br&gt;
-    &lt;p&gt;這次的作業跟大一所學的Github有所連結，所以省去了不少麻煩，但是軟體上的更新容量太大，所以在從學校電腦取得時不太方便，我有試著先壓縮再拉進隨身碟，可是電腦卻跑出錯誤，上傳到雲端再下載，時間又不夠，結果反而軟體才是最大的阻礙...有點本末倒置，後來還是靠同學協助才完成，再來就是將近端推送到遠端還不是很熟練，還需再加強。&lt;/p&gt;
-
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151118231617.11">&lt;section&gt;
-    &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;br&gt;
-    &lt;p&gt;這次學習的內容雖有了解，但在實做方面並不完美，自評分數80&lt;/p&gt;
-
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151118231617.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="leo.20151118231617.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="leo.20151118231617.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="leo.20151118231617.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="leo.20151118231617.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151118231617.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151118231617.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151118231617.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;上課筆記&lt;/h2&gt;
-    &lt;br&gt;
-     &lt;p align="left"&gt;1. git  clone 網址  ( Github個人帳號網址)&lt;/p&gt;
-    &lt;br&gt;
-     &lt;p align="left"&gt;2. cd  資料夾名稱 ( cd - 進入資料夾)&lt;/p&gt;
-    &lt;br&gt;
-     &lt;p align="left"&gt;3. git  config  user.name  "名字" &lt;/p&gt;
-     &lt;p align="left"&gt;git  config  user.name    信箱  &lt;/p&gt;
-     &lt;p align="left"&gt;有--global表示之後都默認&lt;/p&gt;
-    &lt;br&gt;
-     &lt;p align="left"&gt;4. git  add 檔名 (檔案在近端展開)&lt;/p&gt;
-    &lt;br&gt;
-     &lt;p align="left"&gt;5. git  commit  -m  "檔案註解" &lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151118231617.9">&lt;section id="hw-task-two"&gt;
-     &lt;p align="left"&gt;6. git  remote  -v ( V - View )&lt;/p&gt;
-    &lt;br&gt;
-     &lt;p align="left"&gt;7. git push origin 分支名稱 (有分支的話 --&gt; 需指定分支) , 之後輸入帳號密碼&lt;/p&gt;
-    &lt;br&gt;
-     &lt;p align="left"&gt;8.  git branch 查看分支&lt;/p&gt;
-    &lt;br&gt;
-     &lt;p align="left"&gt;9. git branch gh-pages ( 建立分支 , 名稱為 gh-pages
-     ) &lt;/p&gt;
-    &lt;br&gt;
-     &lt;p align="left"&gt;10. git checkout gh-pages ( 切換分支 )
-    &lt;/p&gt;
-    &lt;br&gt;
-     &lt;p align="left"&gt;11. git add -A ( 將所有檔案展開 : A = All )&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
