@@ -420,7 +420,7 @@
 <v t="leo.20151106231331.4" a="E"><vh>@path pelican</vh>
 <v t="leo.20151106231331.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151106231331.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151106231331.7"><vh>@path content</vh>
+<v t="leo.20151106231331.7" a="E"><vh>@path content</vh>
 <v t="leo.20151106231331.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151106232017.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151106232010.1"><vh>@edit 2015cphww4.md</vh></v>
