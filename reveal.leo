@@ -352,7 +352,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151106231331.1" a="E"><vh>@path 40323203</vh>
+<v t="leo.20151106231331.1"><vh>@path 40323203</vh>
 <v t="leo.20151106231331.2"><vh>以下為投影片 ------------</vh></v>
 <v t="2015cp.20151118163335.1"><vh>@clean simplest.html</vh>
 <v t="2015cp.20151118163335.2"><vh>檔案說明</vh></v>
@@ -695,7 +695,22 @@
 </v>
 </v>
 </v>
-<v t="leo40323206.20151102101501.4" a="E"><vh>@path pelican</vh>
+<v t="leo40323206.20151118183316.1"><vh>@clean simplest5.html</vh>
+<v t="leo40323206.20151118183316.2"><vh>檔案說明</vh></v>
+<v t="leo40323206.20151118183316.3" a="E"><vh>html 標註</vh>
+<v t="leo40323206.20151118183316.4" a="E"><vh>body 標註</vh>
+<v t="leo40323206.20151118183316.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151118183316.6" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151118183316.7"><vh>封面</vh></v>
+<v t="leo40323206.20151118183316.8"><vh>投影片2</vh></v>
+<v t="leo40323206.20151118183316.9"><vh>投影片3 </vh></v>
+</v>
+</v>
+<v t="leo40323206.20151118183316.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo40323206.20151102101501.4"><vh>@path pelican</vh>
 <v t="leo40323206.20151102101501.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo40323206.20151102101501.6"><vh>@edit publishconf.py</vh></v>
 <v t="leo40323206.20151102101501.7" a="E"><vh>@path content</vh>
@@ -704,6 +719,7 @@
 <v t="leo40323206.20151102102123.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo40323206.20151102102100.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo40323206.20151116105138.1"><vh>@edit 2015cphww6.md</vh></v>
+<v t="leo40323206.20151118183246.1"><vh>@edit 2015cphww7.md</vh></v>
 <v t="leo40323206.20151102101501.10"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -2129,7 +2145,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151106232806.1" a="E"><vh>@path 40323237</vh>
+<v t="leo.20151106232806.1"><vh>@path 40323237</vh>
 <v t="leo.20151106232806.2"><vh>以下為投影片 ------------</vh></v>
 <v t="2015cp.20151118172105.1"><vh>@clean simplest5.html</vh>
 <v t="2015cp.20151118172105.2"><vh>檔案說明</vh></v>
@@ -2896,7 +2912,7 @@
 <v t="40323250.20151026181302.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323250.20151026181431.1" a="E"><vh>@clean 40323250_cp_w2.html</vh>
 <v t="40323250.20151026181431.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151026181431.3"><vh>html 標註</vh>
+<v t="40323250.20151026181431.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151026181431.4" a="E"><vh>body 標註</vh>
 <v t="40323250.20151026181431.5" a="E"><vh>div class="reveal"</vh>
 <v t="40323250.20151026181431.6" a="E"><vh>div class="slides"</vh>
@@ -18702,6 +18718,87 @@ git config --global user.email 自己的信箱&lt;br&gt;
     &lt;br&gt;
     &lt;p&gt;這兩週的進度幾乎完全停擺，所以一直沒有更新作業網頁，所以這週的自評分數只有60分。&lt;/p&gt;
 
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151118183316.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo40323206.20151118183316.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo40323206.20151118183316.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo40323206.20151118183316.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo40323206.20151118183316.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo40323206.20151118183316.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151118183316.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151118183316.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;p&gt;&lt;font size="7" face="cursive"&gt;&lt;marquee border="0"&gt;Try not to become a man of success, but rather try to become a man of value.&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo40323206.20151118183316.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;br&gt;
+     
+     &lt;p align="left"&gt;半個學期下來除了基本的軟體要會，也要了解版次管理的重要，在這段時間我除了接觸到Solvespace和Creo外，還發現HTML語法的有趣之處，大一的時候因為有老師提供編輯頁面，所以並沒有深入了解，這次為了讓作業更精緻，透過語法直接編輯又有不同的收穫。&lt;/p&gt;
+    &lt;br&gt;
+     
+  
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151118183316.9">&lt;section&gt;
+    &lt;h2&gt;自評&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;期中已經結束了，對於老師所提供給我們的以及我所吸收的，老實說我無法完全跟上老師的步伐，跟其他的課程比起來，這門課確實給了我很多的震撼，學習到的東西多寡最後還是決定於自己的興趣高不高，自評80。&lt;/p&gt;
+    &lt;br&gt;
 &lt;/section&gt;
 				
 </t>

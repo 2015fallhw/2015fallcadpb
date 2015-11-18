@@ -1,0 +1,64 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <p><font size="7" face="cursive"><marquee border="0">Try not to become a man of success, but rather try to become a man of value.</marquee></font></p>
+    <br>
+    <br>
+    <h2>四設計二乙</h2>
+    <p>40323206 黃婉菁</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h2>心得</h2>
+    <br>
+     
+     <p align="left">半個學期下來除了基本的軟體要會，也要了解版次管理的重要，在這段時間我除了接觸到Solvespace和Creo外，還發現HTML語法的有趣之處，大一的時候因為有老師提供編輯頁面，所以並沒有深入了解，這次為了讓作業更精緻，透過語法直接編輯又有不同的收穫。</p>
+    <br>
+     
+  
+</section>
+				
+<section>
+    <h2>自評</h2>
+    <br>
+   
+      <p align="left">期中已經結束了，對於老師所提供給我們的以及我所吸收的，老實說我無法完全跟上老師的步伐，跟其他的課程比起來，這門課確實給了我很多的震撼，學習到的東西多寡最後還是決定於自己的興趣高不高，自評80。</p>
+    <br>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
