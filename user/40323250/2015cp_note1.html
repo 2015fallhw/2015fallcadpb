@@ -365,36 +365,24 @@ doc["btn-stop"].bind("click", stop)
 <p>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="prompt input_prompt">In&nbsp;[12]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span class="n">html5</span> <span class="n">music</span> <span class="n">player</span>
-<span class="o">&lt;</span><span class="n">html</span><span class="o">&gt;</span>
-<span class="o">&lt;</span><span class="n">head</span><span class="o">&gt;</span>
-<span class="o">&lt;</span><span class="n">title</span><span class="o">&gt;</span><span class="n">Title</span><span class="o">&lt;/</span><span class="n">title</span><span class="o">&gt;</span>
-<span class="o">&lt;/</span><span class="n">head</span><span class="o">&gt;</span>
-<span class="o">&lt;</span><span class="n">body</span><span class="o">&gt;</span>
-    <span class="o">&lt;</span><span class="n">audio</span> <span class="n">controls</span> <span class="n">pause</span> <span class="n">loop</span><span class="o">&gt;</span>
-        <span class="o">&lt;</span><span class="n">source</span> <span class="n">src</span><span class="o">=</span><span class="s">&quot;music file link&quot;</span><span class="o">&gt;</span>
-    <span class="o">&lt;/</span><span class="n">audio</span><span class="o">&gt;</span>
-<span class="o">&lt;/</span><span class="n">body</span><span class="o">&gt;</span>
-<span class="o">&lt;/</span><span class="n">html</span><span class="o">&gt;</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[2]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span class="c"># print 函式可以列印字串</span>
-<span class="c"># 用雙引號或單引號或三引號圈起的內容就是字串</span>
-<span class="c"># 利用 print 列印單一 *</span>
-<span class="nb">print</span><span class="p">(</span><span class="s">&quot;*&quot;</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span class="o">&lt;</span><span class="n">div</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;col-sm-12 col-lg-5&quot;</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="n">div</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer&quot;</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="n">timer</span> <span class="n">ng</span><span class="o">-</span><span class="n">cloak</span> <span class="n">interval</span><span class="o">=</span><span class="s">&quot;1000&quot;</span> <span class="n">countdown</span><span class="o">=</span><span class="s">&quot;countdown&quot;</span><span class="o">/&gt;</span>
+<span class="o">&lt;</span><span class="n">span</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer-desc&quot;</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;pull-right&quot;</span><span class="o">&gt;</span><span class="n">距離午夜倒數</span><span class="o">&lt;/</span><span class="n">span</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="n">span</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer-unit mobile-hide&quot;</span><span class="o">&gt;&lt;</span><span class="n">span</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer-number&quot;</span><span class="o">&gt;</span><span class="p">{{</span><span class="n">hours</span><span class="p">}}</span><span class="o">&lt;/</span><span class="n">span</span><span class="o">&gt;</span><span class="n">Hours</span><span class="o">&lt;/</span><span class="n">span</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="n">span</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer-unit mobile-hide&quot;</span><span class="o">&gt;&lt;</span><span class="n">span</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer-number&quot;</span><span class="o">&gt;</span><span class="p">{{</span><span class="n">minutes</span><span class="p">}}</span><span class="o">&lt;/</span><span class="n">span</span><span class="o">&gt;</span><span class="n">Minutes</span><span class="o">&lt;/</span><span class="n">span</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="n">span</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer-unit mobile-hide&quot;</span><span class="o">&gt;&lt;</span><span class="n">span</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer-number&quot;</span><span class="o">&gt;</span><span class="p">{{</span><span class="n">seconds</span><span class="p">}}</span><span class="o">&lt;/</span><span class="n">span</span><span class="o">&gt;</span><span class="n">Seconds</span><span class="o">&lt;/</span><span class="n">span</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="n">span</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer-unit mobile-only-inline&quot;</span><span class="o">&gt;&lt;</span><span class="n">span</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer-number&quot;</span><span class="o">&gt;</span><span class="p">{{</span><span class="n">hours</span><span class="p">}}</span><span class="o">&lt;/</span><span class="n">span</span><span class="o">&gt;</span><span class="n">h</span><span class="o">&lt;/</span><span class="n">span</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="n">span</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer-unit mobile-only-inline&quot;</span><span class="o">&gt;&lt;</span><span class="n">span</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer-number&quot;</span><span class="o">&gt;</span><span class="p">{{</span><span class="n">minutes</span><span class="p">}}</span><span class="o">&lt;/</span><span class="n">span</span><span class="o">&gt;</span><span class="n">m</span><span class="o">&lt;/</span><span class="n">span</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="n">span</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer-unit mobile-only-inline&quot;</span><span class="o">&gt;&lt;</span><span class="n">span</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;timer-number&quot;</span><span class="o">&gt;</span><span class="p">{{</span><span class="n">seconds</span><span class="p">}}</span><span class="o">&lt;/</span><span class="n">span</span><span class="o">&gt;</span><span class="n">s</span><span class="o">&lt;/</span><span class="n">span</span><span class="o">&gt;</span>
+<span class="o">&lt;/</span><span class="n">timer</span><span class="o">&gt;</span>
+<span class="o">&lt;/</span><span class="n">div</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="n">div</span> <span class="n">class</span><span class="o">=</span><span class="s">&quot;clearfix&quot;</span><span class="o">&gt;&lt;/</span><span class="n">div</span><span class="o">&gt;</span>
+<span class="o">&lt;/</span><span class="n">div</span><span class="o">&gt;</span>
+<span class="o">&lt;/</span><span class="n">div</span><span class="o">&gt;</span>
 </pre></div>
 
 </div>
@@ -406,8 +394,12 @@ doc["btn-stop"].bind("click", stop)
 
 
 <div class="output_area"><div class="prompt"></div>
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>*
+<div class="output_subarea output_text output_error">
+<pre>
+<span class="ansicyan">  File </span><span class="ansigreen">&quot;&lt;ipython-input-12-948f5aa0ee85&gt;&quot;</span><span class="ansicyan">, line </span><span class="ansigreen">3</span>
+<span class="ansiyellow">    &lt;div class=&quot;col-sm-12 col-lg-5&quot;&gt;</span>
+<span class="ansigrey">    ^</span>
+<span class="ansired">SyntaxError</span><span class="ansired">:</span> invalid syntax
 </pre>
 </div>
 </div>
@@ -415,6 +407,34 @@ doc["btn-stop"].bind("click", stop)
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="html5-music-player">html5 music player<a class="anchor-link" href="#html5-music-player">&#182;</a></h1><html>
+<head>
+<title>Title</title>
+</head>
+<body>
+    <audio controls pause loop>
+        <source src="music file link">
+    </audio>
+</body>
+</html>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="print-&#20989;&#24335;&#21487;&#20197;&#21015;&#21360;&#23383;&#20018;">print &#20989;&#24335;&#21487;&#20197;&#21015;&#21360;&#23383;&#20018;<a class="anchor-link" href="#print-&#20989;&#24335;&#21487;&#20197;&#21015;&#21360;&#23383;&#20018;">&#182;</a></h1><h1 id="&#29992;&#38617;&#24341;&#34399;&#25110;&#21934;&#24341;&#34399;&#25110;&#19977;&#24341;&#34399;&#22280;&#36215;&#30340;&#20839;&#23481;&#23601;&#26159;&#23383;&#20018;">&#29992;&#38617;&#24341;&#34399;&#25110;&#21934;&#24341;&#34399;&#25110;&#19977;&#24341;&#34399;&#22280;&#36215;&#30340;&#20839;&#23481;&#23601;&#26159;&#23383;&#20018;<a class="anchor-link" href="#&#29992;&#38617;&#24341;&#34399;&#25110;&#21934;&#24341;&#34399;&#25110;&#19977;&#24341;&#34399;&#22280;&#36215;&#30340;&#20839;&#23481;&#23601;&#26159;&#23383;&#20018;">&#182;</a></h1><h1 id="&#21033;&#29992;-print-&#21015;&#21360;&#21934;&#19968;-*">&#21033;&#29992; print &#21015;&#21360;&#21934;&#19968; *<a class="anchor-link" href="#&#21033;&#29992;-print-&#21015;&#21360;&#21934;&#19968;-*">&#182;</a></h1><p>print("*")</p>
+
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
@@ -1384,6 +1404,9 @@ sssssssss
     <h1>Recent Posts</h1>
     <ul id="recent_posts">
       <li class="post">
+          <a href="./2015cp_hw_w10.html">2015 電腦輔助設計實習 第十週</a>
+      </li>
+      <li class="post">
           <a href="./2015cp_hw_w8.html">2015 電腦輔助設計實習 第八週</a>
       </li>
       <li class="post">
@@ -1394,9 +1417,6 @@ sssssssss
       </li>
       <li class="post">
           <a href="./2015cp_hw_w5.html">2015 電腦輔助設計實習 第五週</a>
-      </li>
-      <li class="post">
-          <a href="./2015cp_hw_w4.html">2015 電腦輔助設計實習 第四週</a>
       </li>
     </ul>
   </section>
@@ -1411,7 +1431,7 @@ sssssssss
 
   <section>
   <h1>Tags</h1>
-    <a href="./tag/pelican.html">pelican</a>,    <a href="./tag/ipython.html">IPython</a>,    <a href="./tag/jupyter.html">Jupyter</a>,    <a href="./tag/publishing.html">publishing</a>  </section>
+    <a href="./tag/pelican.html">pelican</a>,    <a href="./tag/publishing.html">publishing</a>,    <a href="./tag/ipython.html">IPython</a>,    <a href="./tag/jupyter.html">Jupyter</a>  </section>
 
 
     <section>
