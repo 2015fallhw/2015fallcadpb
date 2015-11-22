@@ -3053,12 +3053,12 @@
 </v>
 <v t="40323250.20151026181506.1"><vh>@clean 40323250_cp_w7.html</vh>
 <v t="40323250.20151026181506.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151026181506.3"><vh>html 標註</vh>
-<v t="40323250.20151026181506.4"><vh>body 標註</vh>
-<v t="40323250.20151026181506.5"><vh>div class="reveal"</vh>
-<v t="40323250.20151026181506.6"><vh>div class="slides"</vh>
+<v t="40323250.20151026181506.3" a="E"><vh>html 標註</vh>
+<v t="40323250.20151026181506.4" a="E"><vh>body 標註</vh>
+<v t="40323250.20151026181506.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323250.20151026181506.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20151026181506.7"><vh>投影頁面1 封面</vh></v>
-<v t="40323250.20151026181506.8"><vh>投影頁面2 筆記</vh>
+<v t="40323250.20151026181506.8" a="E"><vh>投影頁面2 筆記</vh>
 <v t="40323250.20151026181506.9"><vh>1</vh></v>
 <v t="40323250.20151026181506.10"><vh>2</vh></v>
 </v>
@@ -3079,7 +3079,7 @@
 <v t="40323250.20151121141605.7"><vh>投影頁面1 封面</vh></v>
 <v t="40323250.20151121141605.8" a="E"><vh>投影頁面2 筆記</vh>
 <v t="40323250.20151121141605.9"><vh>1</vh></v>
-<v t="40323250.20151121141605.10"><vh>2</vh></v>
+<v t="40323250.20151122144502.1"><vh>2</vh></v>
 </v>
 <v t="40323250.20151121141605.11"><vh>投影頁面 自評與心得</vh></v>
 <v t="40323250.20151121141605.12"><vh>相關連結</vh></v>
@@ -7713,17 +7713,12 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
 @others
 
 </t>
-<t tx="40323250.20151121141605.10">&lt;section&gt;
-&lt;p align="left"&gt;2.&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="40323250.20151121141605.11">&lt;section&gt;
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;之前用的工具，都是老師整理好的，現在該學會如何打造自己專屬的工具了，對於pip 和 conda 這兩者的功能還沒有完全掌握，會另找時間補完&lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;評分 : 85 &lt;/p&gt; 
+    &lt;p&gt;評分 : 90 &lt;/p&gt; 
 &lt;/section&gt;		
 		
 </t>
@@ -7805,10 +7800,29 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
 				
 </t>
 <t tx="40323250.20151121141605.9">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;h3&gt;Miniconda安裝&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1. &lt;/p&gt;
+    &lt;p align="left"&gt;1. conda install pip &lt;/p&gt;
     &lt;br&gt;
+    &lt;p align="left"&gt;2. pip install pelican Markdown 
+&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;3. conda install pyqt &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;4. pip install ( github的leo檔網址 )&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;5. conda install anaconda-client &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;6. conda install jupyter &lt;/p&gt;
+    &lt;br&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="40323250.20151122144502.1">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;客製化&lt;/h3&gt;
+    &lt;p align="left"&gt;當安裝一套軟體，卻還要同時安裝一堆不需要的功能，這樣的效率就大幅降低了，現在許多軟體在安裝時都會有一樣選單，可以選擇自己所需的功能，對於使用者來說才算是人性化，相對的，我們也要學會這種機能，而不是傻傻的一次把很多不需要的功能同時塞到自己的工具箱內&lt;/p&gt;
+    &lt;br&gt;
+
 
 &lt;/section&gt;
 </t>
