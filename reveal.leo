@@ -22,11 +22,11 @@
 <v t="amd.20151030003019.1"><vh>Leo 範例程式</vh></v>
 <v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="amd.20151021120245.1"><vh>@button admin pelican</vh></v>
-<v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
-<v t="leo.20151123102512.1"><vh>@edit 2015cadp_g1_w11.md</vh></v>
+<v t="leo.20151123102512.1"><vh>@edit 2015cadp_w12.md</vh></v>
+<v t="amd.20151129160450.1"><vh>@edit 2015cadp_g1_w11.md</vh></v>
 <v t="amd.20151030003041.1"><vh>@edit 2015cphww7-1.md</vh></v>
 <v t="40323250.20151102200201.1"><vh>@edit 2015cphww7.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
@@ -34,12 +34,13 @@
 </v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20151129210600.1" a="E"><vh>@button open html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1"><vh>html 標註</vh>
-<v t="amd.20150915211351.4"><vh>body 標註</vh>
-<v t="amd.20150915211351.5"><vh>div class="reveal"</vh>
-<v t="amd.20150915211351.6"><vh>div class="slides"</vh>
+<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
+<v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
+<v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
+<v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
 <v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
@@ -49,18 +50,47 @@
 </v>
 </v>
 </v>
-<v t="leo.20151123102429.1"><vh>@clean g1_w11.html</vh>
+</v>
+<v t="amd.20151129210641.1"><vh>@button open html</vh>
+<v t="leo.20151123102429.1" a="E"><vh>@clean g1_w11.html</vh>
 <v t="leo.20151123102429.2"><vh>檔案說明</vh></v>
-<v t="leo.20151123102429.3"><vh>html 標註</vh>
-<v t="leo.20151123102429.4"><vh>body 標註</vh>
-<v t="leo.20151123102429.5"><vh>div class="reveal"</vh>
-<v t="leo.20151123102429.6"><vh>div class="slides"</vh>
+<v t="leo.20151123102429.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151123102429.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151123102429.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151123102429.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151123102429.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151123102429.8"><vh>作業任務一</vh></v>
 <v t="leo.20151123102429.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
 <v t="leo.20151123102429.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="amd.20151129152059.1" a="E"><vh>@button open html</vh>
+<v t="amd.20151129151409.1" a="E"><vh>@clean cadp_w12_lecture.html</vh>
+<v t="amd.20151129151409.2"><vh>檔案說明</vh></v>
+<v t="amd.20151129151409.3" a="E"><vh>html 標註</vh>
+<v t="amd.20151129151409.4" a="E"><vh>body 標註</vh>
+<v t="amd.20151129151409.5" a="E"><vh>div class="reveal"</vh>
+<v t="amd.20151129151409.6" a="E"><vh>div class="slides"</vh>
+<v t="amd.20151129151409.7" a="E"><vh>第 12 週開始的規劃</vh>
+<v t="amd.20151129153700.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="amd.20151129153145.1" a="E"><vh>header 測試</vh>
+<v t="amd.20151129153700.1"></v>
+</v>
+<v t="amd.20151129151409.8" a="E"><vh>啟動 C 槽的可攜系統</vh>
+<v t="amd.20151129153700.1"></v>
+</v>
+<v t="amd.20151129151409.9" a="E"><vh>上傳到 Vimeo 的操作過程錄影</vh>
+<v t="amd.20151129153700.1"></v>
+</v>
+</v>
+</v>
+<v t="amd.20151129151409.10"><vh>script</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -243,10 +273,6 @@ pelican pelican -o ./../ -s publishconf.py
 <t tx="amd.20150919113957.1"></t>
 <t tx="amd.20150919114010.1"></t>
 <t tx="amd.20150919120205.1"></t>
-<t tx="amd.20150919124128.1">@language python
-import os
-os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
-g.es("user pelican 執行完畢")</t>
 <t tx="amd.20151006113136.1"></t>
 <t tx="amd.20151007224830.1">安裝
 
@@ -332,6 +358,136 @@ cadpb.txt 檔案內容
 40328245
 49923230
 '''</t>
+<t tx="amd.20151129151409.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="amd.20151129151409.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="amd.20151129151409.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="amd.20151129151409.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="amd.20151129151409.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="amd.20151129151409.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="amd.20151129151409.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="amd.20151129151409.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 12 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;h1&gt;學員實習規劃&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;先 clone 全班倉儲&lt;/le&gt;
+    &lt;li&gt;利用投影片說明課堂所要執行的內容&lt;/li&gt;
+    &lt;li&gt;宣告影片示範大綱&lt;/li&gt;
+    &lt;li&gt;開始錄影&lt;/li&gt;    
+    &lt;li&gt;轉換影片檔案&lt;/li&gt;
+    &lt;li&gt;上傳影片&lt;/li&gt;
+    &lt;li&gt;取得影片連結&lt;/li&gt;
+    &lt;li&gt;將影片連結放入網誌文章中&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+	
+</t>
+<t tx="amd.20151129151409.8">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;啟動 C 槽的可攜系統&lt;/h1&gt;
+    &lt;p&gt;安裝 pelican Markdown 模組&lt;/p&gt;
+    &lt;p&gt;安裝 Leo Editor 5.1 版&lt;/p&gt;
+    &lt;p&gt;將 Jupyter 在協同目錄中啟動&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="amd.20151129151409.9">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;實際錄影&lt;/h1&gt;
+    &lt;p&gt;轉換檔案&lt;/p&gt;
+    &lt;p&gt;上傳 flv 檔案&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="amd.20151129152059.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="amd.20151129153145.1">&lt;&lt; header &gt;&gt;
+&lt;p&gt;每一頁都要標學號&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="amd.20151129153700.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 9999"; }&lt;/style&gt;</t>
+<t tx="amd.20151129210600.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="amd.20151129210641.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
 <t tx="leo.20151123102429.1">@language xml
 @tabwidth -4
 @others
@@ -385,7 +541,7 @@ cadpb.txt 檔案內容
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
+    &lt;h1&gt;g1 w11&lt;/h1&gt;
     &lt;p&gt;學號姓名與日期&lt;/p&gt;		
 &lt;/section&gt;
 	
