@@ -27,15 +27,16 @@
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="leo.20151123102512.1"><vh>@edit 2015cadp_w12.md</vh></v>
 <v t="amd.20151129160450.1"><vh>@edit 2015cadp_g1_w11.md</vh></v>
+<v t="leo.20151130104719.1"><vh>@edit 2015cadp_Group2_w11.md</vh></v>
 <v t="amd.20151030003041.1"><vh>@edit 2015cphww7-1.md</vh></v>
 <v t="40323250.20151102200201.1"><vh>@edit 2015cphww7.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="amd.20151129210600.1" a="E"><vh>@button open html</vh>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20151129210600.1"><vh>@button open html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -95,7 +96,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20151021113722.1" a="E"><vh>@path plugin</vh>
+<v t="amd.20151021113722.1"><vh>@path plugin</vh>
 <v t="amd.20151021113731.1" a="E"><vh>@path liquid_tags</vh>
 <v t="amd.20151021113745.1"><vh>@edit notebook.py</vh></v>
 </v>
