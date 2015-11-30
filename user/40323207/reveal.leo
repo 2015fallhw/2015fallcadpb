@@ -26,7 +26,7 @@
 </v>
 </v>
 <v t="leo.20151130105803.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="leo.20151130105754.5" a="E"><vh>@path content</vh>
+<v t="leo.20151130105754.5"><vh>@path content</vh>
 <v t="leo.20151130105754.6"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="leo.20151130105754.7"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151130105754.8"><vh>@edit 2015cphww4.md</vh></v>
