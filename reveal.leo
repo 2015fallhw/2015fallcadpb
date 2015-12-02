@@ -25,9 +25,9 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
-<v t="leo.20151203002905.1"><vh>@edit 2015cadp_Group3_w11.md</vh></v>
 <v t="leo.20151123102512.1"><vh>@edit 2015cadp_w12.md</vh></v>
 <v t="amd.20151129160450.1"><vh>@edit 2015cadp_g1_w11.md</vh></v>
+<v t="leo.20151203002905.1"><vh>@edit 2015cadp_Group3_w11.md</vh></v>
 <v t="leo.20151130104719.1"><vh>@edit 2015cadp_Group2_w11.md</vh></v>
 <v t="40323250.20151202133624.1"><vh>@edit 2015cadp_Group1_w11.md</vh></v>
 <v t="amd.20151030003041.1"><vh>@edit 2015cphww7-1.md</vh></v>
@@ -98,7 +98,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20151021113722.1"><vh>@path plugin</vh>
+<v t="amd.20151021113722.1" a="E"><vh>@path plugin</vh>
 <v t="amd.20151021113731.1" a="E"><vh>@path liquid_tags</vh>
 <v t="amd.20151021113745.1"><vh>@edit notebook.py</vh></v>
 </v>
