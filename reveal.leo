@@ -25,6 +25,7 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
+<v t="leo.20151203002905.1"><vh>@edit 2015cadp_Group3_w11.md</vh></v>
 <v t="leo.20151123102512.1"><vh>@edit 2015cadp_w12.md</vh></v>
 <v t="amd.20151129160450.1"><vh>@edit 2015cadp_g1_w11.md</vh></v>
 <v t="leo.20151130104719.1"><vh>@edit 2015cadp_Group2_w11.md</vh></v>
@@ -70,7 +71,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20151129152059.1" a="E"><vh>@button open html</vh>
+<v t="amd.20151129152059.1"><vh>@button open html</vh>
 <v t="amd.20151129151409.1" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="amd.20151129151409.2"><vh>檔案說明</vh></v>
 <v t="amd.20151129151409.3" a="E"><vh>html 標註</vh>
