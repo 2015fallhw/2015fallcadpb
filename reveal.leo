@@ -28,6 +28,7 @@
 <v t="leo.20151123102512.1"><vh>@edit 2015cadp_w12.md</vh></v>
 <v t="amd.20151129160450.1"><vh>@edit 2015cadp_g1_w11.md</vh></v>
 <v t="leo.20151130104719.1"><vh>@edit 2015cadp_Group2_w11.md</vh></v>
+<v t="40323250.20151202133624.1"><vh>@edit 2015cadp_Group1_w11.md</vh></v>
 <v t="amd.20151030003041.1"><vh>@edit 2015cphww7-1.md</vh></v>
 <v t="40323250.20151102200201.1"><vh>@edit 2015cphww7.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
