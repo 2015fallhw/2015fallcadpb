@@ -1,0 +1,62 @@
+Title: 2015 電腦輔助設計實習 CADPB Group1 w11 報告
+Date: 2015-12-02 13:30
+Category: cadpb-Group1
+Tags: mechanism
+Slug: 2015cadpb_blog_group1_w11
+Authors: cadpb G1
+Summary: 第一組第十一週工作報告<br />Nutcracker 機構
+
+以下為相關工作報告資料
+<br>
+Part_1 : Adjuster_Base
+<br>
+<img
+src="https://copy.com/1fCnqiMn97iR1e7H"width="300"height="300">
+<br>
+<br>
+Part_2 : Adjuster
+<br>
+<img
+src="https://copy.com/hTSbBoCP1069Yjta"width="300"height="300">
+<br>
+<br>
+Part_3 : Base
+<br>
+<img
+src="https://copy.com/xKH8RqINQXPOvzM8"width="300"height="300">
+<br>
+<br>
+Part_4 : Connection
+<br>
+<img
+src="https://copy.com/gncttvEdRpVyJWUT"width="300"height="300">
+<br>
+<br>
+Part_5 : Cylinder
+<br>
+<img
+src="https://copy.com/JG777R8KOqMhPd4E"width="300"height="300">
+<br>
+<br>
+Part_6 : Handle
+<br>
+<img
+src="https://copy.com/CqI806YMEkNwAmBY"width="300"height="300">
+<br>
+<br>
+Part_7 : Hinge
+<br>
+<img
+src="https://copy.com/oec3ed89ifqimxca"width="300"height="300">
+<br>
+<br>
+Part_8 : Piston
+<br>
+<img
+src="https://copy.com/y1AX0GIrjHvLxGZa"width="300"height="300">
+<br>
+<br>
+組合影片(未完)
+<br>
+<iframe src="https://player.vimeo.com/video/147570713" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/147570713">w11機構</a> from <a href="http://2015fallhw.github.io/2015fallcadpb/user/40323250/2015cp_hw_w11.html">詹偉志</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
