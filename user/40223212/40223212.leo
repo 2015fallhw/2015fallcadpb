@@ -35,6 +35,7 @@
 <v t="leo.20151125170023.1"><vh>@edit 2015cp_hw_w1.md</vh></v>
 <v t="leo.20151125170028.1"><vh>@edit 2015cp_hw_w4.md</vh></v>
 <v t="leo.20151125170028.2"><vh>@edit 2015cp_hw_w5.md</vh></v>
+<v t="harry.20151204202939.1"><vh>@edit 2015cp_hw_w12.md</vh></v>
 </v>
 </v>
 </vnodes>
