@@ -20,7 +20,7 @@
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
 <v t="amd.20151030003019.1"><vh>Leo 範例程式</vh></v>
-<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
 <v t="amd.20151021120245.1"><vh>@button admin pelican</vh></v>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
@@ -56,7 +56,7 @@
 </v>
 <v t="amd.20151021114454.1"><vh>@path user</vh>
 <v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
-<v t="amd.20151021114504.1" a="E"><vh>@path 9999</vh>
+<v t="amd.20151021114504.1"><vh>@path 9999</vh>
 <v t="amd.20151021213523.1"><vh>以下為投影片 ------------</vh></v>
 <v t="amd.20151021114639.1"><vh>@edit 9999_cp_w1_p.html</vh></v>
 <v t="amd.20151021114516.1" a="E"><vh>@path pelican</vh>
@@ -3735,7 +3735,7 @@
 </v>
 </v>
 </v>
-<v t="40323253.20151205190138.1" a="E"><vh>Recovered Nodes</vh>
+<v t="40323253.20151205190138.1"><vh>Recovered Nodes</vh>
 <v t="40323253.20151205190138.2" a="E"><vh>Recovered node "header 測試" from @clean cadp_w12_lecture.html</vh>
 <v t="40323253.20151205190138.3"><vh>old:header 測試</vh></v>
 <v t="40323253.20151205190138.4"><vh>new:header 測試</vh></v>
