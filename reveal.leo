@@ -20,7 +20,7 @@
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
 <v t="amd.20151030003019.1"><vh>Leo 範例程式</vh></v>
-<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
 <v t="amd.20151021120245.1"><vh>@button admin pelican</vh></v>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
@@ -54,7 +54,7 @@
 <v t="amd.20151021113745.1"><vh>@edit notebook.py</vh></v>
 </v>
 </v>
-<v t="amd.20151021114454.1"><vh>@path user</vh>
+<v t="amd.20151021114454.1" a="E"><vh>@path user</vh>
 <v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
 <v t="amd.20151021114504.1"><vh>@path 9999</vh>
 <v t="amd.20151021213523.1"><vh>以下為投影片 ------------</vh></v>
@@ -3408,16 +3408,31 @@
 </v>
 </v>
 </v>
+<v t="40323253.20151206004145.1"><vh>@clean 40323253_cp_w11.html</vh>
+<v t="40323253.20151206004145.2"><vh>檔案說明</vh></v>
+<v t="40323253.20151206004145.3" a="E"><vh>html 標註</vh>
+<v t="40323253.20151206004145.4" a="E"><vh>body 標註</vh>
+<v t="40323253.20151206004145.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323253.20151206004145.6" a="E"><vh>div class="slides"</vh>
+<v t="40323253.20151206004145.7"><vh>封面</vh></v>
+<v t="40323253.20151206004145.13"><vh>心得與評分</vh></v>
+</v>
+</v>
+<v t="40323253.20151206004145.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
 <v t="40323253.20151104013106.57" a="E"><vh>@path pelican</vh>
 <v t="40323253.20151104013106.58"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323253.20151104013106.59"><vh>@edit publishconf.py</vh></v>
-<v t="40323253.20151104013106.60"><vh>@path content</vh>
+<v t="40323253.20151104013106.60" a="E"><vh>@path content</vh>
 <v t="40323253.20151104013106.61"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="40323253.20151104013106.62"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="40323253.20151104013106.63"><vh>@edit 40323253_cp_w1~2.md</vh></v>
 <v t="40323253.20151104013106.64"><vh>@edit 40323253_cp_w4.md</vh></v>
 <v t="40323253.20151104013106.65"><vh>@edit 40323253_cp_w5.md</vh></v>
 <v t="40323253.20151104013106.66"><vh>@edit 40323253_cp_w8.md</vh></v>
+<v t="40323253.20151206004228.1"><vh>@edit 40323253_cp_w11.md</vh></v>
 </v>
 </v>
 </v>
@@ -9275,6 +9290,73 @@ content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;
     
 &lt;/section&gt;
 				
+</t>
+<t tx="40323253.20151206004145.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323253.20151206004145.13">&lt;section&gt;
+    &lt;h2&gt;心得與評分&lt;/h2&gt;
+    &lt;p&gt;&lt;/p&gt;  
+    
+    &lt;h2&gt;評分 : 分&lt;/h2&gt;
+    
+    &lt;/a&gt;&lt;/section&gt;
+				
+</t>
+<t tx="40323253.20151206004145.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323253.20151206004145.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323253.20151206004145.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323253.20151206004145.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323253.20151206004145.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323253.20151206004145.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323253.20151206004145.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;h3&gt;40323253-劉瑜俊-11/24&lt;/h3&gt;	
+&lt;/section&gt;
+	
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
