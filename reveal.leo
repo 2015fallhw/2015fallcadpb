@@ -352,7 +352,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151106231331.1" a="E"><vh>@path 40323203</vh>
+<v t="leo.20151106231331.1"><vh>@path 40323203</vh>
 <v t="leo.20151106231331.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151204222509.1" a="E"><vh>@button open html</vh>
 <v t="leo.20151204222509.2"><vh>@clean cadp_w12_lecture.html</vh>
@@ -1104,7 +1104,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151107021031.1"><vh>@path 40323214</vh>
+<v t="leo.20151107021031.1" a="E"><vh>@path 40323214</vh>
 <v t="leo.20151107021031.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151107021031.3"><vh>@clean 40323214_cp_w2.html</vh>
 <v t="leo.20151107021031.4"><vh>檔案說明</vh></v>
@@ -1198,7 +1198,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151107021031.65"><vh>@path pelican</vh>
+<v t="leo.20151107021031.65" a="E"><vh>@path pelican</vh>
 <v t="leo.20151107021031.66"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151107021031.67"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151107021031.68"><vh>@path content</vh>
@@ -2993,7 +2993,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151026181302.1" a="E"><vh>@path 40323250</vh>
+<v t="40323250.20151026181302.1"><vh>@path 40323250</vh>
 <v t="40323250.20151026181302.2"><vh>以下為投影片 ------------</vh></v>
 <v t="40323250.20151026181431.1" a="E"><vh>@clean 40323250_cp_w2.html</vh>
 <v t="40323250.20151026181431.2"><vh>檔案說明</vh></v>
@@ -3408,7 +3408,7 @@
 </v>
 </v>
 </v>
-<v t="40323253.20151104013106.57"><vh>@path pelican</vh>
+<v t="40323253.20151104013106.57" a="E"><vh>@path pelican</vh>
 <v t="40323253.20151104013106.58"><vh>以下為設定檔 ------------</vh></v>
 <v t="40323253.20151104013106.59"><vh>@edit publishconf.py</vh></v>
 <v t="40323253.20151104013106.60"><vh>@path content</vh>
@@ -3733,6 +3733,16 @@
 <v t="leo.20151108124939.1"><vh>@edit 2015cphww4.md</vh></v>
 </v>
 </v>
+</v>
+</v>
+<v t="40323253.20151205190138.1"><vh>Recovered Nodes</vh>
+<v t="40323253.20151205190138.2"><vh>Recovered node "header 測試" from @clean cadp_w12_lecture.html</vh>
+<v t="40323253.20151205190138.3"><vh>old:header 測試</vh></v>
+<v t="40323253.20151205190138.4"><vh>new:header 測試</vh></v>
+</v>
+<v t="40323253.20151205190138.5"><vh>Recovered node "第12週自評與心得" from @clean cadp_w12_lecture.html</vh>
+<v t="40323253.20151205190138.6"><vh>old:第12週自評與心得</vh></v>
+<v t="40323253.20151205190138.7"><vh>new:第12週自評與心得</vh></v>
 </v>
 </v>
 </vnodes>
@@ -5111,23 +5121,21 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設計二乙&lt;/h1&gt;
-    &lt;p&gt;40323203施郁琪&lt;/p&gt;		
+    &lt;h1&gt;有關我的作業&lt;/h1&gt;
+    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="2015cp.20151118163335.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;步驟簡單說明&lt;/h1&gt;
-&lt;p align="left"&gt;1.下載gitthub和Ana3資料夾&lt;/p&gt;
-&lt;p align="left"&gt;2.到leo打開資料夾之後修改&lt;/p&gt;
-&lt;p align="left"&gt;3.建立分支之後再推回去&lt;/p&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="2015cp.20151118163335.9">&lt;section&gt;
-    &lt;h1&gt;自評與心得&lt;/h1&gt;
-    &lt;p&gt;自評分數:60&lt;/p&gt;
-    &lt;p&gt;這次的課程有點關於上學期的課程,雖然步驟上需要很仔細,不過只要上課有抄筆記就容易上手了。&lt;/p&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
@@ -7806,7 +7814,7 @@ href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 11 / 21 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 11 / 22 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;br&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
@@ -9155,6 +9163,118 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
     &lt;p&gt;40323225-姜智翔-9/14&lt;/p&gt;		
 &lt;/section&gt;
 	
+</t>
+<t tx="40323253.20151205190138.1"></t>
+<t tx="40323253.20151205190138.2">(uncached) leo.20151204222509.10
+Diff...
++ &lt;!-- 以下為投影片 --&gt;
++ &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
++ &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+  &lt;&lt; header &gt;&gt;
++ 
+  &lt;section&gt;
+      &lt;h1&gt;操作步驟說明2&lt;/h1&gt;
+      &lt;ol&gt;
+      &lt;li&gt;下載後將此資料夾複製到fix資料夾貼上&lt;/li&gt;
+      &lt;li&gt;回到SciTE.exe&lt;/li&gt;
+      &lt;li&gt;將fix.bat裡面多一行copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\→儲存&lt;/li&gt;
+      &lt;li&gt;將start.bat裡面第35行改為pip install leo-editor-broke-abbrev.zip→儲存&lt;/li&gt;
+      &lt;li&gt;全部修改完回去點start後leo就會是5.1版本了&lt;/li&gt;
+      &lt;/ol&gt;		
+      &lt;/section&gt;
+      
+- &lt;/section&gt;
+?           -
++ &lt;/section&gt;</t>
+<t tx="40323253.20151205190138.3">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;操作步驟說明2&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;下載後將此資料夾複製到fix資料夾貼上&lt;/li&gt;
+    &lt;li&gt;回到SciTE.exe&lt;/li&gt;
+    &lt;li&gt;將fix.bat裡面多一行copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\→儲存&lt;/li&gt;
+    &lt;li&gt;將start.bat裡面第35行改為pip install leo-editor-broke-abbrev.zip→儲存&lt;/li&gt;
+    &lt;li&gt;全部修改完回去點start後leo就會是5.1版本了&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="40323253.20151205190138.4">&lt;&lt; header &gt;&gt;
+&lt;section&gt;
+    &lt;h1&gt;操作步驟說明2&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;下載後將此資料夾複製到fix資料夾貼上&lt;/li&gt;
+    &lt;li&gt;回到SciTE.exe&lt;/li&gt;
+    &lt;li&gt;將fix.bat裡面多一行copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\→儲存&lt;/li&gt;
+    &lt;li&gt;將start.bat裡面第35行改為pip install leo-editor-broke-abbrev.zip→儲存&lt;/li&gt;
+    &lt;li&gt;全部修改完回去點start後leo就會是5.1版本了&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+</t>
+<t tx="40323253.20151205190138.5">(uncached) leo.20151204222509.12
+Diff...
+  &lt;&lt; header &gt;&gt;
+  
++     &lt;h1&gt;自評與心得&lt;/h1&gt;
++     &lt;p&gt;自評分數:65&lt;/p&gt;
++     &lt;p&gt;第12週的課程是教學如何將leo-editor變成5.1版本的，剛開始的步驟比較繁雜，不過在上課的同時我有寫筆記，一方面讓我更快將軟體升級，也可以讓我學習上課時要認真聽才能一字不漏得把老師的操作步驟一一寫下來，經過期中考前的作業，讓我更加順利上手12週的作業。&lt;/p&gt;
++         
+-     &lt;h1&gt;啟動 C 槽的可攜系統&lt;/h1&gt;
+-     &lt;p&gt;安裝 pelican Markdown 模組&lt;/p&gt;
+-     &lt;p&gt;安裝 Leo Editor 5.1 版&lt;/p&gt;
+-     &lt;p&gt;將 Jupyter 在協同目錄中啟動&lt;/p&gt;
+-     
+  &lt;/section&gt;
+  				
+- &lt;section data-state="header1"&gt;
+- &lt;style&gt;.header1 header:after { 
+- display: block;
+- white-space: pre;
+- content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;
+- 
+-     &lt;h1&gt;實際錄影&lt;/h1&gt;
+-     &lt;p&gt;轉換檔案&lt;/p&gt;
+-     &lt;p&gt;上傳 flv 檔案&lt;/p&gt;
+-     
+- &lt;/section&gt;
+- 				
+</t>
+<t tx="40323253.20151205190138.6">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;自評分數:65&lt;/p&gt;
+    &lt;p&gt;第12週的課程是教學如何將leo-editor變成5.1版本的，剛開始的步驟比較繁雜，不過在上課的同時我有寫筆記，一方面讓我更快將軟體升級，也可以讓我學習上課時要認真聽才能一字不漏得把老師的操作步驟一一寫下來，經過期中考前的作業，讓我更加順利上手12週的作業。&lt;/p&gt;
+        
+&lt;/section&gt;
+				
+</t>
+<t tx="40323253.20151205190138.7">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;啟動 C 槽的可攜系統&lt;/h1&gt;
+    &lt;p&gt;安裝 pelican Markdown 模組&lt;/p&gt;
+    &lt;p&gt;安裝 Leo Editor 5.1 版&lt;/p&gt;
+    &lt;p&gt;將 Jupyter 在協同目錄中啟動&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;
+
+    &lt;h1&gt;實際錄影&lt;/h1&gt;
+    &lt;p&gt;轉換檔案&lt;/p&gt;
+    &lt;p&gt;上傳 flv 檔案&lt;/p&gt;
+    
+&lt;/section&gt;
+				
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
@@ -18797,11 +18917,7 @@ import os
 for ch in p.children():
     filename = ch.h.split(" ")[1]
     os.system("firefox "+filename)</t>
-<t tx="leo.20151204222509.10">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;&lt; header &gt;&gt;
-
+<t tx="leo.20151204222509.10">&lt;&lt; header &gt;&gt;
 &lt;section&gt;
     &lt;h1&gt;操作步驟說明2&lt;/h1&gt;
     &lt;ol&gt;
@@ -18813,13 +18929,27 @@ for ch in p.children():
     &lt;/ol&gt;		
     &lt;/section&gt;
     
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20151204222509.12">&lt;&lt; header &gt;&gt;
 
-    &lt;h1&gt;自評與心得&lt;/h1&gt;
-    &lt;p&gt;自評分數:65&lt;/p&gt;
-    &lt;p&gt;第12週的課程是教學如何將leo-editor變成5.1版本的，剛開始的步驟比較繁雜，不過在上課的同時我有寫筆記，一方面讓我更快將軟體升級，也可以讓我學習上課時要認真聽才能一字不漏得把老師的操作步驟一一寫下來，經過期中考前的作業，讓我更加順利上手12週的作業。&lt;/p&gt;
-        
+    &lt;h1&gt;啟動 C 槽的可攜系統&lt;/h1&gt;
+    &lt;p&gt;安裝 pelican Markdown 模組&lt;/p&gt;
+    &lt;p&gt;安裝 Leo Editor 5.1 版&lt;/p&gt;
+    &lt;p&gt;將 Jupyter 在協同目錄中啟動&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;
+
+    &lt;h1&gt;實際錄影&lt;/h1&gt;
+    &lt;p&gt;轉換檔案&lt;/p&gt;
+    &lt;p&gt;上傳 flv 檔案&lt;/p&gt;
+    
 &lt;/section&gt;
 				
 </t>
@@ -18827,7 +18957,8 @@ for ch in p.children():
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;
+</t>
 <t tx="leo.20151204222509.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -18910,7 +19041,8 @@ cadp w12 講課內容投影片
 
     
     
-  </t>
+  
+</t>
 <t tx="leo40323206.20151102101501.1"></t>
 <t tx="leo40323206.20151102101501.2"></t>
 <t tx="leo40323206.20151102101501.4"></t>
