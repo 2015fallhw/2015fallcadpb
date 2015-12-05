@@ -20,7 +20,7 @@
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
 <v t="amd.20151030003019.1"><vh>Leo 範例程式</vh></v>
-<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="amd.20151021120245.1"><vh>@button admin pelican</vh></v>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
