@@ -137,7 +137,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151124123636.1" a="E"><vh>@clean 40323250_cp_w10.html</vh>
+<v t="40323250.20151124123636.1"><vh>@clean 40323250_cp_w10.html</vh>
 <v t="40323250.20151124123636.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151124123636.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151124123636.4" a="E"><vh>body 標註</vh>
@@ -153,6 +153,32 @@
 </v>
 </v>
 <v t="40323250.20151124123636.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323250.20151206110530.1" a="E"><vh>@clean 40323250_cp_w12.html</vh>
+<v t="40323250.20151206110530.2"><vh>檔案說明</vh></v>
+<v t="40323250.20151206110530.3" a="E"><vh>html 標註</vh>
+<v t="40323250.20151206110530.4" a="E"><vh>body 標註</vh>
+<v t="40323250.20151206110530.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323250.20151206110530.6" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151206110530.7" a="E"><vh>投影頁面1 封面</vh>
+<v t="40323250.20151206110627.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323250.20151206110530.8" a="E"><vh>投影頁面2 筆記</vh>
+<v t="40323250.20151206110627.1"></v>
+<v t="40323250.20151206110530.9"><vh>1</vh></v>
+<v t="40323250.20151206110530.10"><vh>2</vh></v>
+</v>
+<v t="40323250.20151206110530.11" a="E"><vh>投影頁面 自評與心得</vh>
+<v t="40323250.20151206110627.1"></v>
+</v>
+<v t="40323250.20151206110530.12" a="E"><vh>相關連結</vh>
+<v t="40323250.20151206110627.1"></v>
+</v>
+</v>
+</v>
+<v t="40323250.20151206110530.13"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -876,6 +902,138 @@
 
 &lt;/section&gt;
 </t>
+<t tx="40323250.20151206110530.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323250.20151206110530.10">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;客製化&lt;/h3&gt;
+    &lt;p align="left"&gt;當安裝一套軟體，卻還要同時安裝一堆不需要的功能，這樣的效率就大幅降低了，現在許多軟體在安裝時都會有一樣選單，可以選擇自己所需的功能，對於使用者來說才算是人性化，相對的，我們也要學會這種機能，而不是傻傻的一次把很多不需要的功能同時塞到自己的工具箱內&lt;/p&gt;
+    &lt;br&gt;
+
+
+&lt;/section&gt;
+</t>
+<t tx="40323250.20151206110530.11">&lt;&lt; header &gt;&gt;
+&lt;section&gt;
+    &lt;h3&gt;心得與自評&lt;/h3&gt;
+    &lt;br&gt;
+    &lt;p&gt;之前用的工具，都是老師整理好的，現在該學會如何打造自己專屬的工具了，對於pip 和 conda 這兩者的功能還沒有完全掌握，會另找時間補完&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p&gt;評分 : 90 &lt;/p&gt; 
+&lt;/section&gt;		
+		
+</t>
+<t tx="40323250.20151206110530.12">&lt;&lt; header &gt;&gt;
+&lt;section&gt;
+    &lt;h3&gt;相關連結&lt;/h3&gt;
+    &lt;hr&gt;
+    
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://clie.ws/bbs/?app=blog&amp;blogid=15&amp;showentry=496&amp;"&gt;HTML 語法 Table 表格標籤語法&lt;/a&gt;
+   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.webtech.tw/info.php?tid=HTML+%E8%A1%A8%E6%A0%BC%E6%AC%84%E4%BD%8D%E5%85%A7%E6%96%87%E5%AD%97%E6%B0%B4%E5%B9%B3%E7%BD%AE%E4%B8%AD%E8%88%87%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD"&gt;HTML 表格欄位內文字水平置中與垂直置中&lt;/a&gt;
+
+
+
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151206110530.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323250.20151206110530.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323250.20151206110530.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323250.20151206110530.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323250.20151206110530.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323250.20151206110530.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323250.20151206110530.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+&lt;section&gt;
+    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 11 / 22 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
+    &lt;h3&gt;第十週作業&lt;/h3&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323250.20151206110530.8">&lt;&lt; header &gt;&gt;
+&lt;section&gt;
+&lt;p&gt;
+@others
+&lt;/p&gt;
+				&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151206110530.9">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;Miniconda安裝&lt;/h3&gt;
+    &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
+    &lt;p align="left"&gt;1. conda install pip &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;2. pip install pelican Markdown 
+&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;3. conda install pyqt &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;4. pip install ( github的leo檔網址 )&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;5. conda install anaconda-client &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;6. conda install jupyter &lt;/p&gt;
+    &lt;br&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="40323250.20151206110627.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt;</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
