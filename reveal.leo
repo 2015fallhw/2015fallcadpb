@@ -20,79 +20,80 @@
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
 <v t="amd.20151030003019.1"><vh>Leo 範例程式</vh></v>
-<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
-<v t="amd.20151021120245.1"><vh>@button admin pelican</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
-<v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
-<v t="40323250.20151206104602.1" a="E"><vh>@path content</vh>
-<v t="40323250.20151206104602.2"><vh>@edit 2015cadp_Group3_w11.md</vh></v>
-<v t="40323250.20151206104602.3"><vh>@edit 2015cadp_w12.md</vh></v>
-<v t="40323250.20151206104602.4"><vh>@edit 2015cadp_g1_w11.md</vh></v>
-<v t="40323250.20151206104602.5"><vh>@edit 2015cadp_Group2_w11.md</vh></v>
-<v t="40323250.20151206104602.6"><vh>@edit 2015cadp_Group1_w11.md</vh></v>
-<v t="40323250.20151206104602.7"><vh>@edit 2015cphww7-1.md</vh></v>
-<v t="40323250.20151206104602.8"><vh>@edit 2015cphww7.md</vh></v>
-<v t="40323250.20151206104602.9"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="40323250.20151206164449.1" a="E"><vh>以下為 pelican 文章</vh>
+<v t="40323250.20151206164449.2"><vh>@button admin pelican</vh></v>
+<v t="40323250.20151206164449.3"><vh>@button user pelican</vh></v>
+<v t="40323250.20151206164449.4" a="E"><vh>@path pelican</vh>
+<v t="40323250.20151206164449.5"><vh>@edit publishconf.py</vh></v>
+<v t="40323250.20151206164449.6" a="E"><vh>@path content</vh>
+<v t="40323250.20151206164449.7"><vh>@edit 2015cadp_Group3_w11.md</vh></v>
+<v t="40323250.20151206164449.8"><vh>@edit 2015cadp_w12.md</vh></v>
+<v t="40323250.20151206164449.9"><vh>@edit 2015cadp_g1_w11.md</vh></v>
+<v t="40323250.20151206164449.10"><vh>@edit 2015cadp_Group2_w11.md</vh></v>
+<v t="40323250.20151206164449.11"><vh>@edit 2015cadp_Group1_w11.md</vh></v>
+<v t="40323250.20151206164449.12"><vh>@edit 2015cphww7-1.md</vh></v>
+<v t="40323250.20151206164449.13"><vh>@edit 2015cphww7.md</vh></v>
+<v t="40323250.20151206164449.14"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
 </v>
-<v t="40323250.20151206104636.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="40323250.20151206104636.2"><vh>@button open html</vh>
-<v t="40323250.20151206104636.3"><vh>@clean simplest.html</vh>
-<v t="40323250.20151206104636.4"><vh>檔案說明</vh></v>
-<v t="40323250.20151206104636.5" a="E"><vh>html 標註</vh>
-<v t="40323250.20151206104636.6" a="E"><vh>body 標註</vh>
-<v t="40323250.20151206104636.7" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151206104636.8" a="E"><vh>div class="slides"</vh>
-<v t="40323250.20151206104636.9"><vh>有關我的作業</vh></v>
-<v t="40323250.20151206104636.10"><vh>作業任務一</vh></v>
-<v t="40323250.20151206104636.11"><vh>第3張投影片</vh></v>
+<v t="40323250.20151206164503.1" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="40323250.20151206164503.2"><vh>@button open html</vh>
+<v t="40323250.20151206164503.3"><vh>@clean simplest.html</vh>
+<v t="40323250.20151206164503.4"><vh>檔案說明</vh></v>
+<v t="40323250.20151206164503.5" a="E"><vh>html 標註</vh>
+<v t="40323250.20151206164503.6" a="E"><vh>body 標註</vh>
+<v t="40323250.20151206164503.7" a="E"><vh>div class="reveal"</vh>
+<v t="40323250.20151206164503.8" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151206164503.9"><vh>有關我的作業</vh></v>
+<v t="40323250.20151206164503.10"><vh>作業任務一</vh></v>
+<v t="40323250.20151206164503.11"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="40323250.20151206104636.12"><vh>script</vh></v>
-</v>
-</v>
-</v>
-</v>
-<v t="40323250.20151206104636.13"><vh>@button open html</vh>
-<v t="40323250.20151206104636.14" a="E"><vh>@clean g1_w11.html</vh>
-<v t="40323250.20151206104636.15"><vh>檔案說明</vh></v>
-<v t="40323250.20151206104636.16" a="E"><vh>html 標註</vh>
-<v t="40323250.20151206104636.17" a="E"><vh>body 標註</vh>
-<v t="40323250.20151206104636.18" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151206104636.19" a="E"><vh>div class="slides"</vh>
-<v t="40323250.20151206104636.20"><vh>有關我的作業</vh></v>
-<v t="40323250.20151206104636.21"><vh>作業任務一</vh></v>
-<v t="40323250.20151206104636.22"><vh>第3張投影片</vh></v>
-</v>
-</v>
-<v t="40323250.20151206104636.23"><vh>script</vh></v>
+<v t="40323250.20151206164503.12"><vh>script</vh></v>
 </v>
 </v>
 </v>
 </v>
-<v t="40323250.20151206104636.24"><vh>@button open html</vh>
-<v t="40323250.20151206104636.25" a="E"><vh>@clean cadp_w12_lecture.html</vh>
-<v t="40323250.20151206104636.26"><vh>檔案說明</vh></v>
-<v t="40323250.20151206104636.27" a="E"><vh>html 標註</vh>
-<v t="40323250.20151206104636.28" a="E"><vh>body 標註</vh>
-<v t="40323250.20151206104636.29" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151206104636.30" a="E"><vh>div class="slides"</vh>
-<v t="40323250.20151206104636.31" a="E"><vh>第 12 週開始的規劃</vh>
-<v t="40323250.20151206104636.38"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="40323250.20151206164503.13"><vh>@button open html</vh>
+<v t="40323250.20151206164503.14" a="E"><vh>@clean g1_w11.html</vh>
+<v t="40323250.20151206164503.15"><vh>檔案說明</vh></v>
+<v t="40323250.20151206164503.16" a="E"><vh>html 標註</vh>
+<v t="40323250.20151206164503.17" a="E"><vh>body 標註</vh>
+<v t="40323250.20151206164503.18" a="E"><vh>div class="reveal"</vh>
+<v t="40323250.20151206164503.19" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151206164503.20"><vh>有關我的作業</vh></v>
+<v t="40323250.20151206164503.21"><vh>作業任務一</vh></v>
+<v t="40323250.20151206164503.22"><vh>第3張投影片</vh></v>
 </v>
-<v t="40323250.20151206104636.33" a="E"><vh>header 測試</vh>
-<v t="40323250.20151206104636.38"></v>
 </v>
-<v t="40323250.20151206104636.35" a="E"><vh>啟動 C 槽的可攜系統</vh>
-<v t="40323250.20151206104636.38"></v>
-</v>
-<v t="40323250.20151206104636.37" a="E"><vh>上傳到 Vimeo 的操作過程錄影</vh>
-<v t="40323250.20151206104636.38"></v>
+<v t="40323250.20151206164503.23"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="40323250.20151206104636.39"><vh>script</vh></v>
+</v>
+<v t="40323250.20151206164503.24"><vh>@button open html</vh>
+<v t="40323250.20151206164503.25" a="E"><vh>@clean cadp_w12_lecture.html</vh>
+<v t="40323250.20151206164503.26"><vh>檔案說明</vh></v>
+<v t="40323250.20151206164503.27" a="E"><vh>html 標註</vh>
+<v t="40323250.20151206164503.28" a="E"><vh>body 標註</vh>
+<v t="40323250.20151206164503.29" a="E"><vh>div class="reveal"</vh>
+<v t="40323250.20151206164503.30" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151206164503.31" a="E"><vh>第 12 週開始的規劃</vh>
+<v t="40323250.20151206164503.38"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323250.20151206164503.33" a="E"><vh>header 測試</vh>
+<v t="40323250.20151206164503.38"></v>
+</v>
+<v t="40323250.20151206164503.35" a="E"><vh>啟動 C 槽的可攜系統</vh>
+<v t="40323250.20151206164503.38"></v>
+</v>
+<v t="40323250.20151206164503.37" a="E"><vh>上傳到 Vimeo 的操作過程錄影</vh>
+<v t="40323250.20151206164503.38"></v>
+</v>
+</v>
+</v>
+<v t="40323250.20151206164503.39"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -105,23 +106,33 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="40323250.20151206104602.1"></t>
-<t tx="40323250.20151206104636.1"></t>
-<t tx="40323250.20151206104636.10">&lt;section id="hw-task-one"&gt;
+<t tx="40323250.20151206164449.1"></t>
+<t tx="40323250.20151206164449.2">@language python
+import os
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
+g.es("admin pelican 執行完畢")</t>
+<t tx="40323250.20151206164449.3">@language python
+import os
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
+g.es("user pelican 執行完畢")</t>
+<t tx="40323250.20151206164449.4"></t>
+<t tx="40323250.20151206164449.6"></t>
+<t tx="40323250.20151206164503.1"></t>
+<t tx="40323250.20151206164503.10">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務一&lt;/h1&gt;
     &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151206104636.11">&lt;section&gt;
+<t tx="40323250.20151206164503.11">&lt;section&gt;
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151206104636.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="40323250.20151206164503.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -130,7 +141,7 @@
 &lt;/script&gt;
 	
 </t>
-<t tx="40323250.20151206104636.13">@language python
+<t tx="40323250.20151206164503.13">@language python
 # 導入 os 模組
 import os
 
@@ -138,19 +149,19 @@ import os
 for ch in p.children():
     filename = ch.h.split(" ")[1]
     os.system("firefox "+filename)</t>
-<t tx="40323250.20151206104636.14">@language xml
+<t tx="40323250.20151206164503.14">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="40323250.20151206104636.15">&lt;!--
+<t tx="40323250.20151206164503.15">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="40323250.20151206104636.16">&lt;!doctype html&gt;
+<t tx="40323250.20151206164503.16">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -164,21 +175,21 @@ for ch in p.children():
 &lt;/head&gt;
 @others
 </t>
-<t tx="40323250.20151206104636.17">&lt;body&gt;
+<t tx="40323250.20151206164503.17">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="40323250.20151206104636.18">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="40323250.20151206164503.18">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="40323250.20151206104636.19">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="40323250.20151206164503.19">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="40323250.20151206104636.2">@language python
+<t tx="40323250.20151206164503.2">@language python
 # 導入 os 模組
 import os
 
@@ -186,7 +197,7 @@ import os
 for ch in p.children():
     filename = ch.h.split(" ")[1]
     os.system("firefox "+filename)</t>
-<t tx="40323250.20151206104636.20">&lt;!-- 以下為投影片 --&gt;
+<t tx="40323250.20151206164503.20">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -195,21 +206,21 @@ for ch in p.children():
 &lt;/section&gt;
 	
 </t>
-<t tx="40323250.20151206104636.21">&lt;section id="hw-task-one"&gt;
+<t tx="40323250.20151206164503.21">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務一&lt;/h1&gt;
     &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151206104636.22">&lt;section&gt;
+<t tx="40323250.20151206164503.22">&lt;section&gt;
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151206104636.23">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="40323250.20151206164503.23">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -218,7 +229,7 @@ for ch in p.children():
 &lt;/script&gt;
 	
 </t>
-<t tx="40323250.20151206104636.24">@language python
+<t tx="40323250.20151206164503.24">@language python
 # 導入 os 模組
 import os
 
@@ -226,16 +237,16 @@ import os
 for ch in p.children():
     filename = ch.h.split(" ")[1]
     os.system("firefox "+filename)</t>
-<t tx="40323250.20151206104636.25">@language xml
+<t tx="40323250.20151206164503.25">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="40323250.20151206104636.26">&lt;!--
+<t tx="40323250.20151206164503.26">&lt;!--
 cadp w12 講課內容投影片
 --&gt;
 </t>
-<t tx="40323250.20151206104636.27">&lt;!doctype html&gt;
+<t tx="40323250.20151206164503.27">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -249,11 +260,11 @@ cadp w12 講課內容投影片
 &lt;/head&gt;
 @others
 </t>
-<t tx="40323250.20151206104636.28">&lt;body&gt;
+<t tx="40323250.20151206164503.28">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="40323250.20151206104636.29">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="40323250.20151206164503.29">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 
 &lt;!-- 出現在每一頁的 header 格式 --&gt;
 
@@ -263,17 +274,17 @@ cadp w12 講課內容投影片
 @others
 &lt;/div&gt;
 </t>
-<t tx="40323250.20151206104636.3">@language xml
+<t tx="40323250.20151206164503.3">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="40323250.20151206104636.30">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="40323250.20151206164503.30">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="40323250.20151206104636.31">&lt;!-- 以下為投影片 --&gt;
+<t tx="40323250.20151206164503.31">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
@@ -301,10 +312,10 @@ cadp w12 講課內容投影片
 &lt;/section&gt;
 	
 </t>
-<t tx="40323250.20151206104636.33">&lt;&lt; header &gt;&gt;
+<t tx="40323250.20151206164503.33">&lt;&lt; header &gt;&gt;
 &lt;p&gt;每一頁都要標學號&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="40323250.20151206104636.35">&lt;&lt; header &gt;&gt;
+<t tx="40323250.20151206164503.35">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;啟動 C 槽的可攜系統&lt;/h1&gt;
     &lt;p&gt;安裝 pelican Markdown 模組&lt;/p&gt;
@@ -314,7 +325,7 @@ cadp w12 講課內容投影片
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151206104636.37">&lt;&lt; header &gt;&gt;
+<t tx="40323250.20151206164503.37">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;實際錄影&lt;/h1&gt;
     &lt;p&gt;轉換檔案&lt;/p&gt;
@@ -323,12 +334,12 @@ cadp w12 講課內容投影片
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151206104636.38">&lt;section data-state="header1"&gt;
+<t tx="40323250.20151206164503.38">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 9999"; }&lt;/style&gt;</t>
-<t tx="40323250.20151206104636.39">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="40323250.20151206164503.39">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -337,14 +348,14 @@ content: "課程: 電腦輔助設計實習B \A 學號: 9999"; }&lt;/style&gt;</t
 &lt;/script&gt;
 	
 </t>
-<t tx="40323250.20151206104636.4">&lt;!--
+<t tx="40323250.20151206164503.4">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="40323250.20151206104636.5">&lt;!doctype html&gt;
+<t tx="40323250.20151206164503.5">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -358,21 +369,21 @@ content: "課程: 電腦輔助設計實習B \A 學號: 9999"; }&lt;/style&gt;</t
 &lt;/head&gt;
 @others
 </t>
-<t tx="40323250.20151206104636.6">&lt;body&gt;
+<t tx="40323250.20151206164503.6">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="40323250.20151206104636.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="40323250.20151206164503.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="40323250.20151206104636.8">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="40323250.20151206164503.8">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="40323250.20151206104636.9">&lt;!-- 以下為投影片 --&gt;
+<t tx="40323250.20151206164503.9">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -477,8 +488,6 @@ pelican pelican -o ./../ -s publishconf.py
 將位於專案中 pelican 目錄內的 .md 檔案, 轉為 html 網誌格式, 然後存在 reveal.js 的架構目錄中
 
 也就是 index.html 是由 pelican 控制</t>
-<t tx="amd.20150919113957.1"></t>
-<t tx="amd.20150919114010.1"></t>
 <t tx="amd.20151007224830.1">安裝
 
 sudo pip3 install jupyter
@@ -489,10 +498,6 @@ jupyter notebook
 </t>
 <t tx="amd.20151021113722.1"></t>
 <t tx="amd.20151021113731.1"></t>
-<t tx="amd.20151021120245.1">@language python
-import os
-os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
-g.es("admin pelican 執行完畢")</t>
 <t tx="amd.20151030003019.1">@language python
 '''
 寫在節點內文, 然後按下 Ctrl+b 可以執行
