@@ -903,7 +903,7 @@
 
 </t>
 <t tx="40323250.20151206110530.11">&lt;&lt; header &gt;&gt;
-&lt;section&gt;
+
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
     &lt;p&gt;之&lt;/p&gt;
@@ -964,8 +964,10 @@
 <t tx="40323250.20151206110530.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
 &lt;&lt; header &gt;&gt;
-&lt;section&gt;
+
+    &lt;section&gt;
     &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 12 / 06 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;br&gt;
@@ -973,26 +975,26 @@
     &lt;br&gt;
     &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
     &lt;h3&gt;第十二週作業&lt;/h3&gt;		
+    &lt;/section&gt;
+    
 &lt;/section&gt;
 	
 </t>
 <t tx="40323250.20151206110530.8">&lt;&lt; header &gt;&gt;
-&lt;section id="hw-task-one"&gt;
+    &lt;section&gt;
     &lt;h3&gt;Miniconda安裝&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
     &lt;p align="left"&gt;1.&lt;/p&gt;
     &lt;br&gt;
+    &lt;/section&gt;
 
 
-&lt;/section&gt;
-
-
-&lt;section id="hw-task-one"&gt;
+    &lt;section&gt;
     &lt;h3&gt;客製化&lt;/h3&gt;
     &lt;p align="left"&gt;當&lt;/p&gt;
     &lt;br&gt;
-
-
+    &lt;/section&gt;
+    
 &lt;/section&gt;
 
 
