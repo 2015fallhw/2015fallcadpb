@@ -22,7 +22,6 @@
 <v t="amd.20151030003019.1"><vh>Leo 範例程式</vh></v>
 <v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="amd.20151021120245.1"><vh>@button admin pelican</vh></v>
-<v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="40323250.20151206104602.1" a="E"><vh>@path content</vh>
@@ -480,10 +479,6 @@ pelican pelican -o ./../ -s publishconf.py
 也就是 index.html 是由 pelican 控制</t>
 <t tx="amd.20150919113957.1"></t>
 <t tx="amd.20150919114010.1"></t>
-<t tx="amd.20150919124128.1">@language python
-import os
-os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
-g.es("user pelican 執行完畢")</t>
 <t tx="amd.20151007224830.1">安裝
 
 sudo pip3 install jupyter
