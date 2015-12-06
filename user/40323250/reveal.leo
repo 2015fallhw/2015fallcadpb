@@ -167,8 +167,6 @@
 </v>
 <v t="40323250.20151206110530.8" a="E"><vh>投影頁面2 筆記</vh>
 <v t="40323250.20151206110627.1"></v>
-<v t="40323250.20151206110530.9"><vh>1</vh></v>
-<v t="40323250.20151206110530.10"><vh>2</vh></v>
 </v>
 <v t="40323250.20151206110530.11" a="E"><vh>投影頁面 自評與心得</vh>
 <v t="40323250.20151206110627.1"></v>
@@ -907,14 +905,6 @@
 @others
 
 </t>
-<t tx="40323250.20151206110530.10">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;客製化&lt;/h3&gt;
-    &lt;p align="left"&gt;當安裝一套軟體，卻還要同時安裝一堆不需要的功能，這樣的效率就大幅降低了，現在許多軟體在安裝時都會有一樣選單，可以選擇自己所需的功能，對於使用者來說才算是人性化，相對的，我們也要學會這種機能，而不是傻傻的一次把很多不需要的功能同時塞到自己的工具箱內&lt;/p&gt;
-    &lt;br&gt;
-
-
-&lt;/section&gt;
-</t>
 <t tx="40323250.20151206110530.11">&lt;&lt; header &gt;&gt;
 &lt;section&gt;
     &lt;h3&gt;心得與自評&lt;/h3&gt;
@@ -1003,14 +993,7 @@
 	
 </t>
 <t tx="40323250.20151206110530.8">&lt;&lt; header &gt;&gt;
-&lt;section&gt;
-&lt;p&gt;
-@others
-&lt;/p&gt;
-				&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151206110530.9">&lt;section id="hw-task-one"&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;Miniconda安裝&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
     &lt;p align="left"&gt;1. conda install pip &lt;/p&gt;
@@ -1028,6 +1011,17 @@
     &lt;br&gt;
 
 &lt;/section&gt;
+
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;客製化&lt;/h3&gt;
+    &lt;p align="left"&gt;當安裝一套軟體，卻還要同時安裝一堆不需要的功能，這樣的效率就大幅降低了，現在許多軟體在安裝時都會有一樣選單，可以選擇自己所需的功能，對於使用者來說才算是人性化，相對的，我們也要學會這種機能，而不是傻傻的一次把很多不需要的功能同時塞到自己的工具箱內&lt;/p&gt;
+    &lt;br&gt;
+
+
+&lt;/section&gt;
+
+
 </t>
 <t tx="40323250.20151206110627.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
