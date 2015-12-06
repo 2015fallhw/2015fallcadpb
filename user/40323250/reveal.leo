@@ -1017,6 +1017,7 @@
     &lt;br&gt;
     &lt;p align="left"&gt;如果已安裝過pelican和Markdown等模組，可以用rem跳過該段程序&lt;/p&gt;
     &lt;/section&gt;
+&lt;/section&gt;
 
 
 
