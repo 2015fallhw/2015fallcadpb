@@ -47,3 +47,7 @@ Creo檔案位置
 <a href"https://copy.com/VHJhcuB9n6Gey8g6>https://copy.com/VHJhcuB9n6Gey8g6</a>
 <br />
 
+<iframe src="https://player.vimeo.com/video/148025820"500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<br />
+11月30號學習fix的影片
+<br />
