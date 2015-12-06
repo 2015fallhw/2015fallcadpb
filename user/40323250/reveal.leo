@@ -156,6 +156,27 @@
 </v>
 </v>
 </v>
+<v t="40323250.20151206114758.1" a="E"><vh>@clean 40323250_cp_w11.html</vh>
+<v t="40323250.20151206114758.2"><vh>檔案說明</vh></v>
+<v t="40323250.20151206114758.3" a="E"><vh>html 標註</vh>
+<v t="40323250.20151206114758.4" a="E"><vh>body 標註</vh>
+<v t="40323250.20151206114758.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323250.20151206114758.6" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151206114758.7" a="E"><vh>投影頁面1 封面</vh>
+<v t="40323250.20151206114758.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323250.20151206114758.9" a="E"><vh>投影頁面2 筆記</vh>
+<v t="40323250.20151206114758.12"></v>
+</v>
+<v t="40323250.20151206114758.11" a="E"><vh>投影頁面 自評與心得</vh>
+<v t="40323250.20151206114758.12"></v>
+</v>
+</v>
+</v>
+<v t="40323250.20151206114758.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
 <v t="40323250.20151206110530.1" a="E"><vh>@clean 40323250_cp_w12.html</vh>
 <v t="40323250.20151206110530.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151206110530.3" a="E"><vh>html 標註</vh>
@@ -906,9 +927,9 @@
 
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;之&lt;/p&gt;
+    &lt;p&gt;這禮拜修改了fix檔內路徑，對於這個概念越來越清楚了，再來就是在投影片上加上自己的証明(?)，只要在節點下加上 header 屬性，並將header 加在各個節點內(可取代最外層的section)即可，至於jupiter和小組協同還是有些問題不太能理解。   &lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;評分 : 90 &lt;/p&gt; 
+    &lt;p&gt;評分 : 85 &lt;/p&gt; 
 &lt;/section&gt;		
 		
 </t>
@@ -982,20 +1003,22 @@
 </t>
 <t tx="40323250.20151206110530.8">&lt;&lt; header &gt;&gt;
     &lt;section&gt;
-    &lt;h3&gt;Miniconda安裝&lt;/h3&gt;
+    &lt;h3&gt;fix.bat&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1.&lt;/p&gt;
+    &lt;p align="left"&gt;1.下載 fix壓縮檔&lt;/p&gt;
     &lt;br&gt;
+    &lt;p align="left"&gt;2.下載leo壓縮檔，並放置於fix資料夾內&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;3. 新增fix路徑 copy leo-editor-broke-abbrev.zip "C:\Ana3_2015\data\" 路徑依自己的檔案修改&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;4. 修改start.bat內pip install leo-editor-broke-abbrev.zip&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;5. 啟動fix ，將相對應得檔案複製到指定位置即可&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;如果已安裝過pelican和Markdown等模組，可以用rem跳過該段程序&lt;/p&gt;
     &lt;/section&gt;
 
 
-    &lt;section&gt;
-    &lt;h3&gt;客製化&lt;/h3&gt;
-    &lt;p align="left"&gt;當&lt;/p&gt;
-    &lt;br&gt;
-    &lt;/section&gt;
-    
-&lt;/section&gt;
 
 
 </t>
@@ -1004,6 +1027,111 @@
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt;</t>
+<t tx="40323250.20151206114758.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323250.20151206114758.11">&lt;&lt; header &gt;&gt;
+
+    &lt;h3&gt;心得與自評&lt;/h3&gt;
+    &lt;br&gt;
+    &lt;p&gt;這週主要是建立個人的檔案，因為user節點全部被砍掉了，所以要回覆上一個版次去找自己的檔案，但理論上只要把個人的倉儲內的leo路徑改一下就可以貼過來了，然後就是以各小組的協同管理為重了&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p&gt;評分 : 90 &lt;/p&gt; 
+&lt;/section&gt;		
+		
+</t>
+<t tx="40323250.20151206114758.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt;</t>
+<t tx="40323250.20151206114758.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323250.20151206114758.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323250.20151206114758.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323250.20151206114758.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323250.20151206114758.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323250.20151206114758.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323250.20151206114758.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 12 / 06 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
+    &lt;h3&gt;第十一週作業&lt;/h3&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+	
+</t>
+<t tx="40323250.20151206114758.9">&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
+    &lt;h3&gt;產生個人reveal.leo檔案&lt;/h3&gt;
+    &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
+    &lt;p align="left"&gt;1. 另外下載一份班上倉儲並回復到原始的版本(git reset --hard ssl網址)&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;2. 將舊版內自己的內容，獨立修改成自己的檔案(參考老師範例)，並存在新版的班上倉儲中(user內自己的資料夾)&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;3. 新版倉儲存檔後推回遠端即可(組別和個人檔案分開管理)&lt;/p&gt;
+    &lt;br&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+
+
+
+
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
