@@ -42,7 +42,7 @@ Nutcracker 機構
 
 零件NO.6   Handle  by.40323255
 
-<a href="https://copy.com/MObqoaiUYGOBvFkJ">零件NO.6檔案位置</a>
+<a href="https://copy.com/y217HNo9NV8OkNSk">零件NO.6檔案位置</a>
 
 零件NO.7   Hinge  by.40323255
 
