@@ -53,7 +53,7 @@ Part_6 : Handle
 <p align="left"><a href="https://copy.com/7iGTmhww6bAaIxMn">Handle</a>
 <br>
 <img
-src="https://copy.com/DgO1gFtDBn7JNU8h"width="300"height="300">
+src="https://copy.com/CqI806YMEkNwAmBY"width="300"height="300">
 <br>
 <br>
 Part_7 : Hinge
