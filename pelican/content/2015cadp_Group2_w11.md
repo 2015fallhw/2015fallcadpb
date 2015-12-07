@@ -1,6 +1,6 @@
 Title: 2015 電腦輔助設計實習 CADPB Group2 w11 報告
 Date: 2015-11-23 10:25
-Category: cadpb-Group2
+Category: G2
 Tags: mechanism
 Slug: 2015cadpb_blog_g2_w11
 Authors: cadpb g2
