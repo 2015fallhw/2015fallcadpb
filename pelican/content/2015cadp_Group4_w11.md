@@ -2,7 +2,7 @@ Title: 2015 電腦輔助設計實習 CADPB Group4 w11 報告
 Date: 2015-12-02 13:30
 Category: G4
 Tags: mechanism
-Slug: 2015cadpb_blog_group4_w11
+Slug: 2015cadpb_blog_g4_w11
 Authors: G4
 Summary: 第四組第十一週工作報告<br />Nutcracker 機構
 
