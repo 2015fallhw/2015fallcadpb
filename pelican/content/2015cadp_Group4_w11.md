@@ -3,7 +3,7 @@ Date: 2015-12-02 13:30
 Category: G4
 Tags: mechanism
 Slug: 2015cadpb_blog_group4_w11
-Authors: cadpb G4
+Authors: G4
 Summary: 第四組第十一週工作報告<br />Nutcracker 機構
 
 以下為相關工作報告資料
