@@ -3,7 +3,7 @@ Date: 2015-12-02 13:30
 Category: G1
 Tags: mechanism
 Slug: 2015cadpb_blog_group1_w11
-Authors: cadpb G1
+Authors: G1
 Summary: 第一組第十一週工作報告<br />Nutcracker 機構
 
 以下為相關工作報告資料
