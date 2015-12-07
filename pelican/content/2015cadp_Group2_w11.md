@@ -31,6 +31,10 @@ Nutcracker 機構
 零件NO.4   Connection  by.40323217
 
 <a href="https://copy.com/YpVnokEJI2Lt81uB">零件NO.4檔案位置</a>
+<br />
+<p>
+<iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+</p>
 
 零件NO.5    Cylinder  by.40323206
 
