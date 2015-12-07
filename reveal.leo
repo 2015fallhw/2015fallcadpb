@@ -22,14 +22,16 @@
 <v t="amd.20151030003019.1"><vh>Leo 範例程式</vh></v>
 <v t="40323250.20151206164449.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="40323250.20151206164449.2"><vh>@button admin pelican</vh></v>
+<v t="40323250.20151206164449.3"><vh>@button user pelican</vh></v>
 <v t="40323250.20151206164449.4" a="E"><vh>@path pelican</vh>
 <v t="40323250.20151206164449.5"><vh>@edit publishconf.py</vh></v>
 <v t="40323250.20151206164449.6" a="E"><vh>@path content</vh>
-<v t="40323250.20151206164449.7"><vh>@edit 2015cadp_Group3_w11.md</vh></v>
 <v t="40323250.20151206164449.8"><vh>@edit 2015cadp_w12.md</vh></v>
 <v t="40323250.20151206164449.9"><vh>@edit 2015cadp_g1_w11.md</vh></v>
+<v t="leo.20151207111626.1"><vh>@edit 2015cadp_Group3_w11.md</vh></v>
 <v t="40323250.20151206164449.10"><vh>@edit 2015cadp_Group2_w11.md</vh></v>
 <v t="40323250.20151206164449.11"><vh>@edit 2015cadp_Group1_w11.md</vh></v>
+<v t="leo.20151207102955.1"><vh>@edit 2015cadp_Group4_w11.md</vh></v>
 <v t="40323250.20151206164449.12"><vh>@edit 2015cphww7-1.md</vh></v>
 <v t="40323250.20151206164449.13"><vh>@edit 2015cphww7.md</vh></v>
 <v t="40323250.20151206164449.14"><vh>@edit 2015cpnote1.md</vh></v>
@@ -98,7 +100,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20151021113722.1"><vh>@path plugin</vh>
+<v t="amd.20151021113722.1" a="E"><vh>@path plugin</vh>
 <v t="amd.20151021113731.1" a="E"><vh>@path liquid_tags</vh>
 <v t="amd.20151021113745.1"><vh>@edit notebook.py</vh></v>
 </v>
@@ -110,6 +112,10 @@
 import os
 os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
 g.es("admin pelican 執行完畢")</t>
+<t tx="40323250.20151206164449.3">@language python
+import os
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
+g.es("user pelican 執行完畢")</t>
 <t tx="40323250.20151206164449.4"></t>
 <t tx="40323250.20151206164449.6"></t>
 <t tx="40323250.20151206164503.1"></t>
