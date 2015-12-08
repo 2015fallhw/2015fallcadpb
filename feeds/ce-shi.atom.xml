@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/ce-shi.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-08T13:30:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB W13 9999.leo 測試</title><link href="http://coursemdetw.github.io/reveal/9999_w13_1.html" rel="alternate"></link><updated>2015-12-08T13:30:00+08:00</updated><author><name>9999</name></author><id>tag:coursemdetw.github.io,2015-12-08:reveal/9999_w13_1.html</id><summary type="html">&lt;p&gt;是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行&lt;/p&gt;
+&lt;p&gt;以下可以引入 reveal.js 投影片&lt;/p&gt;
+&lt;p&gt;可以引入 vimeo 影片&lt;/p&gt;
+&lt;p&gt;可以導入組員的 Jupyter notebook&lt;/p&gt;
+&lt;p&gt;也可以加入其他 html 格式或 md 格式的心得報告&lt;/p&gt;
+&lt;p&gt;有關此一測試的詳細內容, 請參考 user/9999/9999.leo 檔案中的節點配置&lt;/p&gt;
+&lt;p&gt;基本的工作模式:&lt;/p&gt;
+&lt;ol&gt;
+
+&lt;li&gt;可以直接在 user 目錄下各組員的 leo 檔案中, 建立外部目錄 pelican/content 中的 md 檔案&lt;/li&gt;
+&lt;li&gt;唯一要注意的就是, 各組各週的分組報告 .md 名稱與 slug 設定, 不能互相覆寫&lt;/li&gt;
+&lt;li&gt;透過將 Jupyter 在 content/notebook/g9999 中啟動, 分組報告可以直接引用各組員所建立的 Notebook 報告檔案內容
+&lt;li&gt; 各組分別完成各週的分組報告 .md 檔案後, 必須記得點按 admin pelican button, 以便產生對應的網誌內容, 否則 .md 內容不會出現在全班的 gh-pages 網誌中&lt;/li&gt;
+
+&lt;/ol&gt;</summary><category term="leo editor 應用"></category></entry></feed>
