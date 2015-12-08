@@ -70,7 +70,17 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;li&gt;假如所有衝突都在 .html 檔案, 只要 git pull origin gh-pages 之後 ,取得近端沒有的 .md 檔案, 再執行一次 pelican 轉檔的指令 (也就是再按一次 admin-pelican 後, 再檢查是否所有 衝突標示內容都已經消失&lt;/li&gt;
 &lt;li&gt; 確定所有 .leo 與 html 檔案內容都無衝突, 且 .leo 檔案節點可以正確開啟後, 就可以將端的版本推向遠端&lt;/li&gt;
 
-&lt;/ol&gt;</t>
+&lt;/ol&gt;
+
+以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
+
+零件檔案位於: &lt;https://github.com/2015fallhw/user9999/tree/master/parts&gt;
+
+使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
+
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/master/parts/spikeball.stl"&gt;&lt;/script&gt;
+
+</t>
 <t tx="amd.20151208113324.1">@language python
 import os
 os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
