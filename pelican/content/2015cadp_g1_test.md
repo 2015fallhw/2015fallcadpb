@@ -10,7 +10,6 @@ Summary: 導入 notebook 內容
 
 {% notebook g1/Untitled.ipynb %}
 
-{% notebook demo.ipynb %}
 
 
 
