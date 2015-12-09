@@ -18,6 +18,9 @@
 <v t="amd.20151208114351.1"><vh>必須確認執行 admin pelican button 指令的相對位置</vh></v>
 <v t="amd.20151208113652.1" a="E"><vh>@path ./../../</vh>
 <v t="amd.20151208113324.1"><vh>@button admin pelican</vh></v>
+<v t="amd.20151209145935.1" a="E"><vh>@path pelican</vh>
+<v t="amd.20151209145943.1"><vh>@edit publishconf.py</vh></v>
+</v>
 </v>
 <v t="amd.20151208114418.1"><vh>必須確定每週的分組報告, 要放到那裏, 命名與格式為何?</vh></v>
 <v t="amd.20151208112521.1" a="E"><vh>@path ./../../pelican/content/</vh>
@@ -80,6 +83,74 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/master/parts/spikeball.stl"&gt;&lt;/script&gt;
 
+&lt;br /&gt;
+以下利用 Brython 語法, 在網頁繪圖:
+
+使用方法: &lt;http://www.brython.info/&gt;
+
+&lt;!-- 導入 brython_dist.js --&gt;
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+&lt;!-- 啟動 brython() --&gt;
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
+&lt;script type="text/python3"&gt;
+# 導入 doc
+from browser import document as doc
+import math
+
+# 準備繪圖畫布
+canvas = doc["plotarea"]
+ctx = canvas.getContext("2d")
+# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
+# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
+# 以下採用 canvas 原始座標繪圖
+flag_w = canvas.width
+flag_h = canvas.height
+circle_x = flag_w/4
+circle_y = flag_h/4
+# 先畫滿地紅
+ctx.fillStyle='rgb(255, 0, 0)'
+ctx.fillRect(0,0,flag_w,flag_h)
+# 再畫青天
+ctx.fillStyle='rgb(0, 0, 150)'
+ctx.fillRect(0,0,flag_w/2,flag_h/2)
+# 畫十二道光芒白日
+ctx.beginPath()
+star_radius = flag_w/8
+angle = 0
+for i in range(24):
+    angle += 5*math.pi*2/12
+    toX = circle_x + math.cos(angle)*star_radius
+    toY = circle_y + math.sin(angle)*star_radius
+    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
+    if (i):
+        ctx.lineTo(toX, toY)
+    else:
+        ctx.moveTo(toX, toY)
+ctx.closePath()
+# 將填色設為白色
+ctx.fillStyle = '#fff'
+ctx.fill()
+# 白日:藍圈
+ctx.beginPath()
+ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
+ctx.closePath()
+# 填色設為藍色
+ctx.fillStyle = 'rgb(0, 0, 149)'
+ctx.fill()
+# 白日:白心
+ctx.beginPath()
+ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
+ctx.closePath()
+# 填色設為白色
+ctx.fillStyle = '#fff'
+ctx.fill()
+&lt;/script&gt;
 </t>
 <t tx="amd.20151208113324.1">@language python
 import os
@@ -165,5 +236,6 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="amd.20151208114351.1"></t>
 <t tx="amd.20151208114418.1"></t>
+<t tx="amd.20151209145935.1"></t>
 </tnodes>
 </leo_file>
