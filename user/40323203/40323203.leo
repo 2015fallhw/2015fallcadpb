@@ -19,7 +19,7 @@
 <v t="leo.20151209231328.3"><vh>Jupyter 安裝與執行</vh></v>
 <v t="leo.20151209231328.4"><vh>pelican 設定</vh></v>
 </v>
-<v t="leo.20151209231337.1"><vh>以下為 pelican 文章</vh>
+<v t="leo.20151209231337.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="leo.20151209231337.2"><vh>@button pelican content</vh></v>
 <v t="leo.20151209231337.3" a="E"><vh>@path pelican</vh>
 <v t="leo.20151209231337.4"><vh>@edit publishconf.py</vh></v>
