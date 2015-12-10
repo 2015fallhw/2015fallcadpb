@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g3.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-08T10:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group3 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g3_w11.html" rel="alternate"></link><updated>2015-12-08T10:25:00+08:00</updated><author><name>G3</name></author><id>tag:coursemdetw.github.io,2015-12-08:reveal/2015cadpb_blog_g3_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g3.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-10T10:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group3 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g3_w11.html" rel="alternate"></link><updated>2015-12-10T10:25:00+08:00</updated><author><name>G3</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/2015cadpb_blog_g3_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
 &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;零件一：Base
 &lt;br&gt;
@@ -9,6 +9,8 @@
 src="https://copy.com/SgA8xqFkCyk3fJvs"width="300"height="300"&gt;
 &lt;br&gt;
 &lt;br&gt;
+零件一繪製步驟:
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RYU1iiguxbQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 零件二：Cylinder
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/4cG7wfsnz2UpPKY6"&gt;cylinder.prt&lt;/a&gt;
@@ -36,8 +38,8 @@ src="https://copy.com/4OfJnhH01XqBLAox"width="300"height="300"&gt;
 &lt;br&gt;
 &lt;br&gt;
 零件三繪製步驟:
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tACTmBKX7UY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-零件四：Piston
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tACTmBKX7UY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;零件四：Piston
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/247uee3jKf8VTPIs"&gt;piston.prt&lt;/a&gt;
 &lt;br&gt;
@@ -61,7 +63,9 @@ src="https://copy.com/aWJTHgqg1WUMz4Kn"width="300"height="300"&gt;
 src="https://copy.com/w13nkglkEyDqBnii"width="300"height="300"&gt;
 &lt;br&gt;
 &lt;br&gt;
-零件八：Handle
+零件七繪製步驟:
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/noB5Pu3tZzk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;零件八：Handle
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/3n9qUUnSggHGGCLB"&gt;handle.prt&lt;/a&gt;
 &lt;br&gt;
@@ -72,4 +76,8 @@ src="https://copy.com/ogeRnsKlhrg7GkzG"width="300"height="300"&gt;
 零件八繪製步驟:
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1tU6t51Gtrg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;組合圖-40323201
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kZWhu-zZcP0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry></feed>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kZWhu-zZcP0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;組合圖-40323207
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wckBy3wykDc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;組合圖-40323208
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/c8z7NGwjJ98" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry></feed>

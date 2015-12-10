@@ -1,5 +1,5 @@
 Title: 2015 電腦輔助設計實習 CADPB Group3 w11 報告
-Date: 2015-12-08 10:25
+Date: 2015-12-10 10:25
 Category: G3
 Tags: mechanism
 Slug: 2015cadpb_blog_g3_w11
@@ -17,6 +17,8 @@ Summary: 第三組第十一週工作報告<br />Nutcracker 機構
 src="https://copy.com/SgA8xqFkCyk3fJvs"width="300"height="300">
 <br>
 <br>
+零件一繪製步驟:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RYU1iiguxbQ" frameborder="0" allowfullscreen></iframe>
 零件二：Cylinder
 <br>
 <p align="left"><a href="https://copy.com/4cG7wfsnz2UpPKY6">cylinder.prt</a>
@@ -46,6 +48,7 @@ src="https://copy.com/4OfJnhH01XqBLAox"width="300"height="300">
 <br>
 零件三繪製步驟:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tACTmBKX7UY" frameborder="0" allowfullscreen></iframe>
+
 零件四：Piston
 <br>
 <p align="left"><a href="https://copy.com/247uee3jKf8VTPIs">piston.prt</a>
@@ -70,6 +73,9 @@ src="https://copy.com/aWJTHgqg1WUMz4Kn"width="300"height="300">
 src="https://copy.com/w13nkglkEyDqBnii"width="300"height="300">
 <br>
 <br>
+零件七繪製步驟:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/noB5Pu3tZzk" frameborder="0" allowfullscreen></iframe>
+
 零件八：Handle
 <br>
 <p align="left"><a href="https://copy.com/3n9qUUnSggHGGCLB">handle.prt</a>
@@ -84,3 +90,9 @@ src="https://copy.com/ogeRnsKlhrg7GkzG"width="300"height="300">
 
 組合圖-40323201
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kZWhu-zZcP0" frameborder="0" allowfullscreen></iframe>
+
+組合圖-40323207
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wckBy3wykDc" frameborder="0" allowfullscreen></iframe>
+
+組合圖-40323208
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c8z7NGwjJ98" frameborder="0" allowfullscreen></iframe>
