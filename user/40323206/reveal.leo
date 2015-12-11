@@ -19,7 +19,7 @@
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="123.20151208171418.1"><vh>以下為 pelican 文章</vh>
+<v t="123.20151208171418.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="123.20151208171418.2"><vh>@button user pelican</vh></v>
 <v t="123.20151208171418.3" a="E"><vh>@path pelican</vh>
 <v t="123.20151209135836.1"><vh>@edit publishconf.py</vh></v>
@@ -51,19 +51,19 @@
 </v>
 </v>
 </v>
-<v t="123.20151209135755.15"><vh>@clean simplest2.html</vh>
+<v t="123.20151209135755.15" a="E"><vh>@clean simplest2.html</vh>
 <v t="123.20151209135755.16"><vh>檔案說明</vh></v>
-<v t="123.20151209135755.17" a="E"><vh>html 標註</vh>
-<v t="123.20151209135755.18" a="E"><vh>body 標註</vh>
-<v t="123.20151209135755.19"><vh>div class="reveal"</vh>
-<v t="123.20151209135755.20"><vh>div class="slides"</vh>
-<v t="123.20151209135755.21"><vh>封面</vh></v>
-<v t="123.20151209135755.22"><vh>投影片2</vh></v>
-<v t="123.20151209135755.23"><vh>投影片3 ( 心得 )</vh></v>
-<v t="123.20151209135755.24"><vh>投影片4 ( 自評分數 )</vh></v>
+<v t="leo40323206.20151211180645.1" a="E"><vh>html 標註</vh>
+<v t="leo40323206.20151211180645.2" a="E"><vh>body 標註</vh>
+<v t="leo40323206.20151211180645.3" a="E"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151211180645.4" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151211180645.5"><vh>封面</vh></v>
+<v t="leo40323206.20151211180645.6"><vh>投影片2</vh></v>
+<v t="leo40323206.20151211180645.7"><vh>投影片3 ( 心得 )</vh></v>
+<v t="leo40323206.20151211180645.8"><vh>投影片4 ( 自評分數 )</vh></v>
 </v>
 </v>
-<v t="123.20151209135755.25"><vh>script</vh></v>
+<v t="leo40323206.20151211180645.9"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -100,7 +100,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151209135755.49"><vh>@clean simplest5.html</vh>
+<v t="123.20151209135755.49" a="E"><vh>@clean simplest5.html</vh>
 <v t="123.20151209135755.50"><vh>檔案說明</vh></v>
 <v t="123.20151209135755.51" a="E"><vh>html 標註</vh>
 <v t="123.20151209135755.52" a="E"><vh>body 標註</vh>
@@ -195,84 +195,6 @@ g.es("user pelican 執行完畢")</t>
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
-</t>
-<t tx="123.20151209135755.17">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="123.20151209135755.18">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="123.20151209135755.19">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="123.20151209135755.20">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="123.20151209135755.21">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="123.20151209135755.22">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;作業執行過程&lt;/h2&gt;
-    &lt;br&gt;
-     &lt;p align="left"&gt;1. 到上課網頁2015Fall CADPB 第4週&lt;/p&gt;
-    &lt;br&gt;
-     &lt;p align="left"&gt;2. 第三個選項Solvespace 基本操作&lt;/p&gt;
-    &lt;br&gt;
-     &lt;p align="left"&gt;3. 資料夾 Ana3_2015→data→apps 有solespace的軟體可直接使用 &lt;/p&gt;
-     &lt;p align="left"&gt;4.solespace基本介紹  &lt;/p&gt;
-     &lt;p align="left"&gt;a.右手邊的工具欄分成四部分，主要會用到的是上面兩個&lt;/p&gt;
-     &lt;p align="left"&gt;b.第一部分是形狀的繪製 (2D)&lt;/p&gt;
-     &lt;p align="left"&gt;c.第二部分是線條的定義 &lt;/p&gt;
-       &lt;p align="left"&gt;d.第三部分左上角的符號是長料、除料；右上角則是產生一個新的基準面&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="123.20151209135755.23">&lt;section&gt;
-    &lt;h2&gt;心得&lt;/h2&gt;
-    &lt;br&gt;
-    &lt;p&gt;第四週的作業主要是要使用solespace畫出操作說明示範的立體圖，接著比照第二週的作業用Leo編輯上課筆記、心得、自評，產生遠端網頁並上傳Github，所以我把這次學習的重點放在solespace的使用上，由於不是製圖科出生，接觸過的立體繪圖軟體只有Solidwork，所以照著網路上的操作說明進行繪圖時除了要克服英文上的閱讀問題，還有繪圖上的反應能力偏弱，前後花了約3小時在完成繪製的部分，了解後發現solespace的使用並不困難，只是面對英文面板多少卻步，實際操作並不複雜，檔案儲存的種類也不少，算是自學也容易上手的軟體，我也google了網路上的其他教學，內容都非常完善，是會讓人願意繼續使用的軟體。&lt;/p&gt;
-
-&lt;/section&gt;
-				
-</t>
-<t tx="123.20151209135755.24">&lt;section&gt;
-    &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;br&gt;
-    &lt;p&gt;對於這次從作業中學習到的東西，覺得還可以再更完整，但過程還算滿意，對於軟體的使用及指令也都有用心去記，不過因之前的怠惰遲交作業這點，覺得學習態度還須改善，自評分數80分。&lt;/p&gt;
-
-&lt;/section&gt;
-				
-</t>
-<t tx="123.20151209135755.25">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
 </t>
 <t tx="123.20151209135755.26">@language xml
 @tabwidth -4
@@ -694,6 +616,84 @@ sudo pip3 install jupyter
 執行
 
 jupyter notebook
+</t>
+<t tx="leo40323206.20151211180645.1">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo40323206.20151211180645.2">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo40323206.20151211180645.3">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151211180645.4">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151211180645.5">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo40323206.20151211180645.6">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;作業執行過程&lt;/h2&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;1. 到上課網頁2015Fall CADPB 第4週&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;2. 第三個選項Solvespace 基本操作&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;3. 資料夾 Ana3_2015→data→apps 有solvespace的軟體可直接使用 &lt;/p&gt;
+     &lt;p align="left"&gt;4.solvespace基本介紹  &lt;/p&gt;
+     &lt;p align="left"&gt;a.右手邊的工具欄分成四部分，主要會用到的是上面兩個&lt;/p&gt;
+     &lt;p align="left"&gt;b.第一部分是形狀的繪製 (2D)&lt;/p&gt;
+     &lt;p align="left"&gt;c.第二部分是線條的定義 &lt;/p&gt;
+       &lt;p align="left"&gt;d.第三部分左上角的符號是長料、除料；右上角則是產生一個新的基準面&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151211180645.7">&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;p&gt;第四週的作業主要是要使用solvespace畫出操作說明示範的立體圖，接著比照第二週的作業用Leo編輯上課筆記、心得、自評，產生遠端網頁並上傳Github，所以我把這次學習的重點放在solvespace的使用上，由於不是製圖科出生，接觸過的立體繪圖軟體只有Solidwork，所以照著網路上的操作說明進行繪圖時除了要克服英文上的閱讀問題，還有繪圖上的反應能力偏弱，前後花了約3小時在完成繪製的部分，了解後發現solvespace的使用並不困難，只是面對英文面板多少卻步，實際操作並不複雜，檔案儲存的種類也不少，算是自學也容易上手的軟體，我也google了網路上的其他教學，內容都非常完善，是會讓人願意繼續使用的軟體。&lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151211180645.8">&lt;section&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;p&gt;對於這次從作業中學習到的東西，覺得還可以再更完整，但過程還算滿意，對於軟體的使用及指令也都有用心去記，不過因之前的怠惰遲交作業這點，覺得學習態度還須改善，自評分數80分。&lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151211180645.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
 </t>
 </tnodes>
 </leo_file>
