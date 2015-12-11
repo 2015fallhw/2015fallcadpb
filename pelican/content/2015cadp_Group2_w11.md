@@ -41,7 +41,7 @@ Nutcracker 機構
 <a href="https://copy.com/wWcYaBB4Xyo7dnav">零件NO.5檔案位置</a>
 
 <p>
-<iframe src="https://vimeo.com/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+<iframe src="https://player.vimeo.com/video/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
 <img src="https://copy.com/0hUzrrDtpNRSzzc3"width="550"height="450">
 <br>
