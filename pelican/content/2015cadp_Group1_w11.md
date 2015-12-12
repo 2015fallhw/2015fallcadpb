@@ -9,7 +9,7 @@ Summary: 第一組第十一週工作報告<br />Nutcracker 機構
 以下為相關工作報告資料
 <br>
 <br>
-Part_1 : Adjuster_Base
+Part_1 : Adjuster_Base - <a href='user/40323250/'>40323250</a>
 <br>
 <p align="left"><a href="https://copy.com/M6sctQJCiyi1U2vM">Adjuster_Base.prt</a>
 <br>
@@ -17,7 +17,7 @@ Part_1 : Adjuster_Base
 src="https://copy.com/1fCnqiMn97iR1e7H"width="300"height="300">
 <br>
 <br>
-Part_2 : Adjuster
+Part_2 : Adjuster - <a href='user/40323250/'>40323250</a>
 <br>
 <p align="left"><a href="https://copy.com/x7BB14OBkG9roaaO">Adjuster.prt</a>
 <br>
@@ -25,7 +25,7 @@ Part_2 : Adjuster
 src="https://copy.com/hTSbBoCP1069Yjta"width="300"height="300">
 <br>
 <br>
-Part_3 : Base
+Part_3 : Base - <a href='user/40323250/'>40323250</a>
 <br>
 <p align="left"><a href="https://copy.com/7iGTmhww6bAaIxMn">Base.prt</a>
 <br>
@@ -73,7 +73,7 @@ Part_8 : Piston
 src="https://copy.com/y1AX0GIrjHvLxGZa"width="300"height="300">
 <br>
 <br>
-組合影片
+組合影片 - <a href='user/40323250/'>40323250</a>
 <br>
 <iframe src="https://player.vimeo.com/video/148074979" width="500" height="291" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/148074979">w11機構new</a> from <a href="http://2015fallhw.github.io/2015fallcadpb/user/40323250/2015cp_hw_w11.html">詹偉志</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
