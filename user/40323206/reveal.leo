@@ -30,6 +30,7 @@
 <v t="123.20151209135849.5"><vh>@edit 2015cphww6.md</vh></v>
 <v t="123.20151209135849.6"><vh>@edit 2015cphww7.md</vh></v>
 <v t="leo40323206.20151213155514.1"><vh>@edit 2015cphww10.md</vh></v>
+<v t="leo40323206.20151213162830.1"><vh>@edit 2015cphww11.md</vh></v>
 <v t="123.20151209135849.7"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -116,7 +117,7 @@
 </v>
 </v>
 </v>
-<v t="leo40323206.20151213155745.1" a="E"><vh>@clean simplest6.html</vh>
+<v t="leo40323206.20151213155745.1"><vh>@clean simplest6.html</vh>
 <v t="leo40323206.20151213155745.2"><vh>檔案說明</vh></v>
 <v t="leo40323206.20151213155745.3" a="E"><vh>html 標註</vh>
 <v t="leo40323206.20151213155745.4" a="E"><vh>body 標註</vh>
@@ -129,6 +130,22 @@
 </v>
 </v>
 <v t="leo40323206.20151213155745.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo40323206.20151213163302.1"><vh>@clean simplest7.html</vh>
+<v t="leo40323206.20151213163302.2"><vh>檔案說明</vh></v>
+<v t="leo40323206.20151213163302.3" a="E"><vh>html 標註</vh>
+<v t="leo40323206.20151213163302.4" a="E"><vh>body 標註</vh>
+<v t="leo40323206.20151213163302.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151213163302.6" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151213163302.7"><vh>封面</vh></v>
+<v t="leo40323206.20151213163302.8"><vh>投影片2</vh></v>
+<v t="leo40323206.20151213163302.9"><vh>投影片3 </vh></v>
+<v t="leo40323206.20151213163302.10"><vh>投影片4</vh></v>
+</v>
+</v>
+<v t="leo40323206.20151213163302.11"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -807,6 +824,102 @@ jupyter notebook
     &lt;br&gt;
    
       &lt;p align="left"&gt;這週老師示範了如何更新自己的環境，但是實際上我並沒有實際操作，進度還是在其它週的作業上。對於更新這件事，我覺得比其它作業還要來得麻煩，因為當你習慣一件事，你根本不想去改變，甚至懶得去處理，但至少我有了解到它的必要性，所以自評分數75分。&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151213163302.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo40323206.20151213163302.10">&lt;section&gt;
+    &lt;h2&gt;自評&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;雖然上課的時候有試著還原過檔案，當然也很順利地還原了，不過最後我的leo檔並不是自己建立的，這點我很感謝幫我建立的同學，花時間順便幫我完成了......所以我這週有學東西卻沒有做到老師要我們做的事，自評70分 。&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151213163302.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo40323206.20151213163302.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo40323206.20151213163302.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo40323206.20151213163302.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo40323206.20151213163302.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151213163302.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151213163302.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;p&gt;&lt;font size="7" face="cursive"&gt;&lt;marquee border="0"&gt;Go the extra mile.&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo40323206.20151213163302.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;上課筆記&lt;/h2&gt;
+    &lt;br&gt;
+     
+      &lt;p align="left"&gt;1.至班級倉儲 &lt;/p&gt;
+      &lt;p align="left"&gt;2.進入分支(gh-pages)&lt;/p&gt;
+       &lt;p align="left"&gt;3.點選commits找到個人倉儲還在的版次&lt;/p&gt;
+       &lt;p align="left"&gt;4.複製版次碼&lt;/p&gt;
+       &lt;p align="left"&gt;5.回到cmd&lt;/p&gt;
+       &lt;p align="left"&gt;6.輸入git reset --hard 版次碼&lt;/p&gt;
+      
+    &lt;br&gt;
+     
+  
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151213163302.9">&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;因為大家現在是共用一個倉儲，所以我很怕自己的東西會不見，但經過這次的教學，我除了會建立自己的leo檔外，也終於知道如何找回自己的檔案，好好善用Github的歷史紀錄功能了！&lt;/p&gt;
     &lt;br&gt;
 &lt;/section&gt;
 				
