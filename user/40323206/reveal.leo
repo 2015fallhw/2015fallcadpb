@@ -29,6 +29,7 @@
 <v t="123.20151209135849.4"><vh>@edit 2015cphww5.md</vh></v>
 <v t="123.20151209135849.5"><vh>@edit 2015cphww6.md</vh></v>
 <v t="123.20151209135849.6"><vh>@edit 2015cphww7.md</vh></v>
+<v t="leo40323206.20151213155514.1"><vh>@edit 2015cphww10.md</vh></v>
 <v t="123.20151209135849.7"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -51,7 +52,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151209135755.15" a="E"><vh>@clean simplest2.html</vh>
+<v t="123.20151209135755.15"><vh>@clean simplest2.html</vh>
 <v t="123.20151209135755.16"><vh>檔案說明</vh></v>
 <v t="leo40323206.20151211180645.1" a="E"><vh>html 標註</vh>
 <v t="leo40323206.20151211180645.2" a="E"><vh>body 標註</vh>
@@ -100,7 +101,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151209135755.49" a="E"><vh>@clean simplest5.html</vh>
+<v t="123.20151209135755.49"><vh>@clean simplest5.html</vh>
 <v t="123.20151209135755.50"><vh>檔案說明</vh></v>
 <v t="123.20151209135755.51" a="E"><vh>html 標註</vh>
 <v t="123.20151209135755.52" a="E"><vh>body 標註</vh>
@@ -112,6 +113,22 @@
 </v>
 </v>
 <v t="123.20151209135755.58"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo40323206.20151213155745.1" a="E"><vh>@clean simplest6.html</vh>
+<v t="leo40323206.20151213155745.2"><vh>檔案說明</vh></v>
+<v t="leo40323206.20151213155745.3" a="E"><vh>html 標註</vh>
+<v t="leo40323206.20151213155745.4" a="E"><vh>body 標註</vh>
+<v t="leo40323206.20151213155745.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151213155745.6" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151213155745.7"><vh>封面</vh></v>
+<v t="leo40323206.20151213155745.8"><vh>投影片2</vh></v>
+<v t="leo40323206.20151213155745.9"><vh>投影片3 </vh></v>
+<v t="leo40323206.20151213160904.1"><vh>投影片4</vh></v>
+</v>
+</v>
+<v t="leo40323206.20151213155745.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -694,6 +711,105 @@ jupyter notebook
     });
 &lt;/script&gt;
 	
+</t>
+<t tx="leo40323206.20151213155745.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo40323206.20151213155745.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo40323206.20151213155745.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo40323206.20151213155745.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo40323206.20151213155745.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo40323206.20151213155745.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151213155745.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151213155745.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;p&gt;&lt;font size="7" face="cursive"&gt;&lt;marquee border="0"&gt;Well begun is half done.&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo40323206.20151213155745.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;上課筆記&lt;/h2&gt;
+    &lt;br&gt;
+     
+      &lt;p align="left"&gt;1.至http://conda.pydata.org/miniconda.html &lt;/p&gt;
+      &lt;p align="left"&gt;2.安裝 python3.5  (64bit)&lt;/p&gt;
+       &lt;p align="left"&gt;3.開啟cmd輸入指令&lt;/p&gt;
+       &lt;p align="left"&gt;  conda install pip&lt;/p&gt;
+       &lt;p align="left"&gt;  pip install pelican Markdown&lt;/p&gt;
+       &lt;p align="left"&gt;  conda install pyqt&lt;/p&gt;
+       &lt;p align="left"&gt;  pip uninstall leo (解除原本的leo 5.0)&lt;/p&gt;
+       &lt;p align="left"&gt;  pip install http:// leo最新版網址 (leo 5.1)&lt;/p&gt;
+       &lt;p align="left"&gt;  conda install Jupyter&lt;/p&gt;
+     
+    &lt;br&gt;
+     
+  
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151213155745.9">&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;我們一直都是在老師給我們的環境下執行作業，但版本會不停的更新，所以我們要試著學會同步更新。&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151213160904.1">&lt;section&gt;
+    &lt;h2&gt;自評&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;這週老師示範了如何更新自己的環境，但是實際上我並沒有實際操作，進度還是在其它週的作業上。對於更新這件事，我覺得比其它作業還要來得麻煩，因為當你習慣一件事，你根本不想去改變，甚至懶得去處理，但至少我有了解到它的必要性，所以自評分數75分。&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
 </t>
 </tnodes>
 </leo_file>
