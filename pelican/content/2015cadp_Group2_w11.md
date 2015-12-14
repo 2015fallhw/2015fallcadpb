@@ -14,12 +14,8 @@ Nutcracker 機構
 
 零件NO.1   Adjuster_Base  by.40323251 
 
-
 <a href="https://copy.com/hgHwCB3DFB6CDjWB">零件NO.1檔案位置</a>
 <br />
-
-<script src="https://github.com/2015fallhw/2015fallcadpb/blob/gh-pages/user/40323251/adhuster_base.stl"></script>
-
 <p>
 <iframe src="Vimeo影片網址" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
@@ -37,6 +33,8 @@ Nutcracker 機構
 <p>
 <iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
+
+<script src="https://embed.github.com/view/3d/hsungchang/test/master/prt3.stl"></script>
 
 零件NO.4   Connection  by.40323217
 
@@ -76,7 +74,5 @@ Nutcracker 機構
 <iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
 
-{% notebook 40323204-p3.prt.1 %}
-
-{% notebook 40323204.ipynb%}
+<script src="https://embed.github.com/view/3d/hsungchang/test/master/prt8.stl"></script>
 
