@@ -27,8 +27,10 @@ Nutcracker 機構
 <img src="https://copy.com/FuUlr3wAhieNl3C4"width="550"height="450">
 
 <p>
-<iframe src="https://www.youtube.com/watch?v=LSeltpAuI7A" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-</p>
+<iframe src="https://player.vimeo.com/video/148832383" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<p>
+
+<script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/adjuster.stl"></script>
 
 零件NO.3   Base  by.40323204
 
@@ -70,7 +72,9 @@ Nutcracker 機構
 <img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450">
 
 <p>
-<iframe src="https://www.youtube.com/watch?v=SkE4UZlHBlk" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+<iframe src="https://player.vimeo.com/video/148832384" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<p>
+<script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/handle.stl"></script>
 
 零件NO.7   Hinge  by.40323255
 
@@ -79,8 +83,9 @@ Nutcracker 機構
 <img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450">
 
 <p>
-<iframe src="https://www.youtube.com/watch?v=j18Ca-OczQM" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-</p>
+<iframe src="https://player.vimeo.com/video/148832386" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<p>
+<script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/hinge.stl"></script>
 
 零件NO.8   Piston  by.40323204 
 
