@@ -14,8 +14,12 @@ Nutcracker 機構
 
 零件NO.1   Adjuster_Base  by.40323251 
 
+
 <a href="https://copy.com/hgHwCB3DFB6CDjWB">零件NO.1檔案位置</a>
 <br />
+
+<script src="https://github.com/2015fallhw/2015fallcadpb/blob/gh-pages/user/40323251/adhuster_base.stl"></script>
+
 <p>
 <iframe src="Vimeo影片網址" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
