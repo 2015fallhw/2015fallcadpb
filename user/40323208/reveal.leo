@@ -80,9 +80,9 @@
 </v>
 </v>
 </v>
-<v t="leo.20151214102435.1" a="E"><vh>@clean simplest4.html</vh>
+<v t="leo.20151214102435.1"><vh>@clean simplest4.html</vh>
 <v t="leo.20151214102435.2"><vh>檔案說明</vh></v>
-<v t="leo.20151214102435.3"><vh>html 標註</vh>
+<v t="leo.20151214102435.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151214102435.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151214102435.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151214102435.6" a="E"><vh>div class="slides"</vh>
