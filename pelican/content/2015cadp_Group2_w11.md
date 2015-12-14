@@ -28,6 +28,12 @@ Nutcracker 機構
 
 <a href="https://copy.com/HYuFKm9j82iMJBwC">零件NO.3檔案位置</a>
 
+<img src="https://copy.com/8ZBPUMlMFsG7lxZG"width="550"height="450">
+
+<p>
+<iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+</p>
+
 零件NO.4   Connection  by.40323217
 
 <a href="https://copy.com/YpVnokEJI2Lt81uB">零件NO.4檔案位置</a>
@@ -60,4 +66,12 @@ Nutcracker 機構
 
 <a href="https://copy.com/VHJhcuB9n6Gey8g6">零件NO.8檔案位置</a>
 <br />
+
+<img src="https://copy.com/pzQN4TAdZ3u9byZ3"width="550"height="450">
+
+<p>
+<iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+</p>
+
+
 
