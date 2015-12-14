@@ -53,3 +53,7 @@ Nutcracker 機構
 <a href="https://copy.com/VHJhcuB9n6Gey8g6">零件NO.8檔案位置</a>
 <br />
 
+{% notebook 40323204-p3.prt.1 %}
+
+{% notebook 40323204.ipynb%}
+
