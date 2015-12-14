@@ -1,0 +1,83 @@
+Title: 2015 電腦輔助設計實習 CADPB Group1 w11 報告
+Date: 2015-12-02 13:30
+Category: G1
+Tags: mechanism
+Slug: 2015cadpb_blog_g1_w11
+Authors: G1
+Summary: 第一組第十一週工作報告<br />Nutcracker 機構
+
+以下為相關工作報告資料
+<br>
+<br>
+Part_1 : Adjuster_Base - <a href='user/40323250/'>40323250</a>
+<br>
+<p align="left"><a href="https://copy.com/M6sctQJCiyi1U2vM">Adjuster_Base.prt</a>
+<br>
+<img
+src="https://copy.com/1fCnqiMn97iR1e7H"width="300"height="300">
+<br>
+<br>
+Part_2 : Adjuster - <a href='user/40323218/'>40323218</a>
+<br>
+<p align="left"><a href="https://copy.com/PmMbpOr1pnBTPEcd">Adjuster.prt</a>
+<br>
+<img
+src="https://copy.com/fFe3IQaAiwkMWQrh"width="300"height="300">
+<iframe src="https://player.vimeo.com/video/148774367" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148774367">adjuster</a> from <a href="https://vimeo.com/user44943624">Li Steven</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
+Part_3 : Base - <a href='user/40323250/'>40323250</a>
+<br>
+<p align="left"><a href="https://copy.com/7iGTmhww6bAaIxMn">Base.prt</a>
+<br>
+<img
+src="https://copy.com/xKH8RqINQXPOvzM8"width="300"height="300">
+<br>
+<br>
+Part_4 : Connection - <a href='user/40323250/'>40323250</a>
+<br>
+<p align="left"><a href="https://copy.com/RZ6LPZoZ3Ho3NkrW">Connection.prt</a>
+<br>
+<img
+src="https://copy.com/gncttvEdRpVyJWUT"width="300"height="300">
+<br>
+<br>
+Part_5 : Cylinder
+<br>
+<p align="left"><a href="https://copy.com/VAjcZCzsxXGFY1a4">Cylinder.prt</a>
+<br>
+<img
+src="https://copy.com/JG777R8KOqMhPd4E"width="300"height="300">
+<br>
+<br>
+Part_6 : Handle
+<br>
+<p align="left"><a href="https://copy.com/7iGTmhww6bAaIxMn">Handle.prt</a>
+<br>
+<img
+src="https://copy.com/CqI806YMEkNwAmBY"width="300"height="300">
+<br>
+<br>
+Part_7 : Hinge
+<br>
+<p align="left"><a href="https://copy.com/yJMQk4ddcl766mrs">Hinge.prt</a>
+<br>
+<img
+src="https://copy.com/oec3ed89ifqimxca"width="300"height="300">
+<br>
+<br>
+Part_8 : Piston - <a href='user/40323218/'>40323218</a>
+<br>
+<p align="left"><a href="https://copy.com/D2N89MfCEuvNz9Aj">Piston.prt</a>
+<br>
+<img
+src="https://copy.com/AY9rFUigwdVx12Td"width="300"height="300">
+<br>
+<iframe src="https://player.vimeo.com/video/148773361" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148773361">piston</a> from <a href="https://vimeo.com/user44943624">Li Steven</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
+組合影片 - <a href='user/40323250/'>40323250</a>
+<br>
+<iframe src="https://player.vimeo.com/video/148074979" width="500" height="291" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/148074979">w11機構new</a> from <a href="http://2015fallhw.github.io/2015fallcadpb/user/40323250/2015cp_hw_w11.html">詹偉志</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+

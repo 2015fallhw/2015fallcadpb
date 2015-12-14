@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323253 電腦輔助設計實習 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-21T01:16:00+08:00</updated><entry><title>2015 計算機程式 w8作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-10-21T01:16:00+08:00</updated><author><name>40323253</name></author><id>tag:coursemdetw.github.io,2015-10-21:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為作業w8內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323253 電腦輔助設計實習 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-23T07:00:00+08:00</updated><entry><title>2015 計算機程式 W11作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-11-23T07:00:00+08:00</updated><author><name>40323253</name></author><id>tag:coursemdetw.github.io,2015-11-23:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為W11作業內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="40323253_cp_w11.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40323253_cp_w11.html" target="_blank"&gt;第十一週作業&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;W11-零件1&lt;/h2&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/147870034" width="500" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/147870034"&gt;W11-零件1&lt;/a&gt; from &lt;a href="https://vimeo.com/user44939680"&gt;40323253&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h2&gt;W11-零件2&lt;/h2&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/147928678" width="500" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/147928678"&gt;W11-零件2&lt;/a&gt; from &lt;a href="https://vimeo.com/user44939680"&gt;40323253&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 w8作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-10-21T01:16:00+08:00</updated><author><name>40323253</name></author><id>tag:coursemdetw.github.io,2015-10-21:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為作業w8內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="40323253_cp_w8.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
