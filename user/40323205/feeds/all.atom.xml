@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323205 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-01T11:41:00+08:00</updated><entry><title>2015 計算機程式 W5作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2015-11-01:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323205 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-13T22:00:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB w12 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w12.html" rel="alternate"></link><updated>2015-12-13T22:00:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2015-12-13:reveal/2015cadpb_blog_w12.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
+&lt;p&gt;包括簡報檔, vimeo 影片, copy.com 零件檔案與其他相關資料連結&lt;/p&gt;
+&lt;iframe src="cadp_w12_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w12_lecture.html" target="_blank"&gt;w12作業投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w11.html" rel="alternate"></link><updated>2015-11-30T22:00:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2015-11-30:reveal/2015cadpb_blog_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
+&lt;p&gt;包括簡報檔, vimeo 影片, copy.com 零件檔案與其他相關資料連結&lt;/p&gt;
+&lt;iframe src="cadp_w11_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w11_lecture.html" target="_blank"&gt;w11作業投影片&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Creo 零件繪製及零件組裝&lt;/p&gt;
+&lt;p&gt;零件PISTON&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/LpyJ2YwLMRWUjohh" width="500" &gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;==================================================&lt;/p&gt;
+&lt;p&gt;零件PISTON繪製 影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/e_lFVaNMtvw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;==================================================&lt;/p&gt;
+&lt;p&gt;零件組合圖&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/JaV0VWD9wXPjxKXu" width="500" &gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;==================================================&lt;/p&gt;
+&lt;p&gt;零件組合圖 影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/573jYMOXcSA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 計算機程式 W5作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2015-11-01:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業二投影片&lt;/a&gt;&lt;/p&gt;
@@ -17,15 +39,12 @@
 &lt;p&gt;零件組合圖&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/Reo4mc6o8VEb0NEh" width="500" &gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;零件組合_影片教學&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/a37PU9eKM_k" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;(http://www.google.com){:target="_blank"}, 也可以連到同目錄下的檔案 &lt;a href="cadpbw1.html" target="_blank"&gt;cadpbw1.html&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W4作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-31T11:41:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2015-10-31:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/a37PU9eKM_k" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W4作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-31T11:41:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2015-10-31:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;作業二投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Solvespace 繪圖練習&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/BjqjnqZv0tKL3Iog" width="500" &gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;(http://www.google.com){:target="_blank"}, 也可以連到同目錄下的檔案 &lt;a href="cadpbw1.html" target="_blank"&gt;cadpbw1.html&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-10-01T11:41:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2015-10-01:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/BjqjnqZv0tKL3Iog" width="500" &gt;&lt;/img&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-10-01T11:41:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2015-10-01:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;

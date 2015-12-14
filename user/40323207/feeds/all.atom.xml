@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323207 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-21T16:44:00+08:00</updated><entry><title>2015 電腦輔助設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-21T16:44:00+08:00</updated><author><name>40323207</name></author><id>tag:coursemdetw.github.io,2015-10-21:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323207 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-14T11:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 作業七</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w12.html" rel="alternate"></link><updated>2015-12-14T11:25:00+08:00</updated><author><name>40323207</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/2015cadpb_blog_w12.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
+&lt;p&gt;包括簡報檔, vimeo 影片, copy.com 零件檔案與其他相關資料連結&lt;/p&gt;
+&lt;iframe src="cadp_w12_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w12_lecture.html" target="_blank"&gt;作業七投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 作業六</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w11.html" rel="alternate"></link><updated>2015-12-07T18:25:00+08:00</updated><author><name>40323207</name></author><id>tag:coursemdetw.github.io,2015-12-07:reveal/2015cadpb_blog_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
+&lt;p&gt;包括簡報檔, vimeo 影片, copy.com 零件檔案與其他相關資料連結&lt;/p&gt;
+&lt;iframe src="cadp_w11_lecture2.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w11_lecture2.html" target="_blank"&gt;作業六投影片&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1&gt;作業六&lt;/h1&gt;
+&lt;p&gt;利用&lt;strong&gt;creo&lt;/strong&gt;繪製圖片&lt;/p&gt;
+&lt;p&gt;第一個零件圖&lt;/p&gt;
+&lt;p&gt;&lt;img src="" width="500" alt="零件一繪圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;Creo零件一繪圖過程&lt;/p&gt;
+&lt;iframe src="https://www.youtube.com/watch?v=RYU1iiguxbQ" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;
+
+&lt;p&gt;第二個零件圖&lt;/p&gt;
+&lt;p&gt;&lt;img src="" width="500" alt="零件二繪圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;Creo零件二繪圖過程&lt;/p&gt;
+&lt;iframe src="https://www.youtube.com/watch?v=noB5Pu3tZzk" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;
+
+&lt;p&gt;組合圖&lt;/p&gt;
+&lt;p&gt;&lt;img src="" width="500" alt="組合圖繪圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;Creo組合圖繪圖過程&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=wckBy3wykDc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-21T16:44:00+08:00</updated><author><name>40323207</name></author><id>tag:coursemdetw.github.io,2015-10-21:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
