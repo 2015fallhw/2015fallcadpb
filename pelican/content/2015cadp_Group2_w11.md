@@ -34,6 +34,8 @@ Nutcracker 機構
 <iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
 
+<script src="https://embed.github.com/view/3d/hsungchang/test/master/prt3.stl"></script>
+
 零件NO.4   Connection  by.40323217
 
 <a href="https://copy.com/YpVnokEJI2Lt81uB">零件NO.4檔案位置</a>
@@ -74,5 +76,5 @@ Nutcracker 機構
 <iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
 
-
+<script src="https://embed.github.com/view/3d/hsungchang/test/master/prt8.stl"></script>
 

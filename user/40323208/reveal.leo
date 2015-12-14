@@ -23,11 +23,12 @@
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151207101645.1"><vh>@edit publishconf.py</vh></v>
-<v t="amd.20151006113136.1"><vh>@path content</vh>
+<v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="leo.20151203165806.1"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151207101437.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151207101533.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151207101539.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151214102411.1"><vh>@edit 2015cphww10.md</vh></v>
 <v t="leo.20151207101544.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -35,8 +36,8 @@
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20151207101558.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151207101558.2"><vh>檔案說明</vh></v>
-<v t="leo.20151207101558.3"><vh>html 標註</vh>
-<v t="leo.20151207101558.4"><vh>body 標註</vh>
+<v t="leo.20151207101558.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151207101558.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151207101558.5"><vh>div class="reveal"</vh>
 <v t="leo.20151207101558.6"><vh>div class="slides"</vh>
 <v t="leo.20151207101558.7"><vh>有關我的作業</vh></v>
@@ -63,18 +64,33 @@
 </v>
 </v>
 </v>
-<v t="leo.20151207101624.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151207101624.1" a="E"><vh>@clean simplest3.html</vh>
 <v t="leo.20151207101624.2"><vh>檔案說明</vh></v>
 <v t="leo.20151207101624.3"><vh>html 標註</vh>
-<v t="leo.20151207101624.4"><vh>body 標註</vh>
-<v t="leo.20151207101624.5"><vh>div class="reveal"</vh>
-<v t="leo.20151207101624.6"><vh>div class="slides"</vh>
+<v t="leo.20151207101624.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151207101624.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151207101624.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151207101624.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151207101624.8"><vh>作業任務一</vh></v>
 <v t="leo.20151207101624.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
 <v t="leo.20151207101624.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151214102435.1" a="E"><vh>@clean simplest4.html</vh>
+<v t="leo.20151214102435.2"><vh>檔案說明</vh></v>
+<v t="leo.20151214102435.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151214102435.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151214102435.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151214102435.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151214102435.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151214102435.8"><vh>作業任務一</vh></v>
+<v t="leo.20151214102435.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151214102435.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -403,6 +419,77 @@ jupyter notebook
     &lt;h1&gt;自評及感想&lt;/h1&gt;
     &lt;p&gt;自評分數:70 感想:這次的作業在操作上比之前上手，軟體也比較知道該怎麼運用畫圖，雖然是看著同學的說明影片作出，但是自己也多加練習了幾次，希望自己能更熟練，感覺creo跟之前所學的solidwork有點相似，使用起來也比較熟悉，組裝的步驟覺得很有趣，感覺自己也可以實際動腦想要怎麼組裝。
     而建立新分頁這些動作也比較熟練了應該是作業弄了很多次才成功的收穫吧 。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151214102435.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151214102435.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151214102435.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151214102435.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151214102435.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151214102435.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151214102435.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151214102435.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設二乙&lt;/h1&gt;
+    &lt;p&gt;40323208 羅文均 12/14&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151214102435.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業說明&lt;/h1&gt;
+    &lt;p&gt;目的:期中作業在節點部分沒有做好，因此詢問同學將其補上&lt;br&gt;1.下載新的班上github -&gt;2015fallcadpb網址，git clone 。
+&lt;br&gt;2.然後進到user找自己的學號打開leo。&lt;br&gt;3.更改節點部分。&lt;br&gt;4.更改完成後，開始在cmd推上遠端。&lt;br&gt;5.執行順序為:git checkout gh-pages -&gt;git add . -&gt;git commit -m"initial" -&gt;git config --global user.email"自己信箱" -&gt;git config --global user.name"自己帳號用的名字"-&gt;git pull origin gh-pages-&gt;git push origin gh-pages 接著輸入自己帳號及密碼就完成~。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151214102435.9">&lt;section&gt;
+    &lt;h1&gt;自評及感想&lt;/h1&gt;
+    &lt;p&gt;自評分數:65 
+    &lt;br&gt;感想:一開始很不知所措，因為有改過推上去的部分，不知道怎麼用，後來看到同學完成就趕快去問怎麼做，在做的過程，明明和同學方式一樣卻失敗了，很難過也很疑惑，在同學的幫忙下發現是電腦網路太慢又或者是推上去過程太長導致電腦錯亂，再試一次後就完成了，後來發現還是有一個連結忘記放，我就試著自己操作，結果成功了，真的超開心，也謝謝同學的出手相助。&lt;/p&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;</t>
 </tnodes>
