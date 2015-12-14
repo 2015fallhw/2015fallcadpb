@@ -24,6 +24,12 @@ Nutcracker 機構
 
 <a href="https://copy.com/Ns3tepiUZ3bqPYWV">零件NO.2檔案位置</a>
 
+<img src="https://copy.com/FuUlr3wAhieNl3C4"width="550"height="450">
+
+<p>
+<iframe src="https://www.youtube.com/watch?v=LSeltpAuI7A" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+</p>
+
 零件NO.3   Base  by.40323204
 
 <a href="https://copy.com/HYuFKm9j82iMJBwC">零件NO.3檔案位置</a>
@@ -59,11 +65,22 @@ Nutcracker 機構
 
 零件NO.6   Handle  by.40323255
 
-<a href="https://copy.com/y217HNo9NV8OkNSk">零件NO.6檔案位置</a>
+<a href="https://copy.com/V8A0t9ySlWG8Dfpa">零件NO.6檔案位置</a>
+
+<img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450">
+
+<p>
+<iframe src="https://www.youtube.com/watch?v=SkE4UZlHBlk" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 
 零件NO.7   Hinge  by.40323255
 
 <a href="https://copy.com/cjXMvw0xDPncvOeg">零件NO.7檔案位置</a>
+
+<img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450">
+
+<p>
+<iframe src="https://www.youtube.com/watch?v=j18Ca-OczQM" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+</p>
 
 零件NO.8   Piston  by.40323204 
 
