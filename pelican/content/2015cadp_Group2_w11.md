@@ -72,7 +72,5 @@ Nutcracker 機構
 <iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
 
-{% notebook 40323204-p3.prt.1 %}
 
-{% notebook 40323204.ipynb%}
 
