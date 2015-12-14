@@ -363,6 +363,7 @@ src="https://copy.com/6svYtsWJip8AA9G6"width="300"height="300"&gt;
 &lt;p&gt;包括簡報檔, vimeo 影片, copy.com 零件檔案與其他相關資料連結&lt;/p&gt;
 &lt;iframe src="cadp_w12_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;&lt;a href="cadp_w12_lecture.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group2 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g2_w11.html" rel="alternate"></link><updated>2015-11-23T10:25:00+08:00</updated><author><name>G2</name></author><id>tag:coursemdetw.github.io,2015-11-23:reveal/2015cadpb_blog_g2_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
 &lt;br /&gt;
 Nutcracker 機構
@@ -413,6 +414,9 @@ Nutcracker 機構
 &lt;/p&gt;
 
 &lt;script src="https://embed.github.com/view/3d/hsungchang/test/master/prt8.stl"&gt;&lt;/script&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習乙班 W7 示範</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7-1.html" rel="alternate"></link><updated>2015-10-30T00:00:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-10-30:reveal/2015cp_hw_w7-1.html</id><summary type="html">&lt;p&gt;CADP 二乙連結:&lt;/p&gt;
+=======
+&lt;p&gt;&lt;a href="cadp_w12_lecture.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習乙班 W7 示範</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7-1.html" rel="alternate"></link><updated>2015-10-30T00:00:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-10-30:reveal/2015cp_hw_w7-1.html</id><summary type="html">&lt;p&gt;CADP 二乙連結:&lt;/p&gt;
+>>>>>>> 7853adfd8f3e4d96d89544eb9219f5a4ef9e668f
 &lt;p&gt;&lt;a href='user/40023256/'&gt;40023256&lt;/a&gt;
 &lt;a href='user/40223212/'&gt;40223212&lt;/a&gt;
 &lt;a href='user/40323201/'&gt;40323201&lt;/a&gt;
