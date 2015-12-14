@@ -3,7 +3,20 @@
 &lt;p&gt;包括簡報檔, vimeo 影片, copy.com 零件檔案與其他相關資料連結&lt;/p&gt;
 &lt;iframe src="cadp_w12_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="cadp_w12_lecture.html" target="_blank"&gt;w12作業投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 計算機程式 W5作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2015-11-01:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;p&gt;&lt;a href="cadp_w12_lecture.html" target="_blank"&gt;w12作業投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 W11作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-11-30T11:41:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2015-11-30:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;W11作業投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Creo 零件繪製及零件組裝&lt;/p&gt;
+&lt;p&gt;零件PISTON&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/LpyJ2YwLMRWUjohh" width="500" &gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;零件PISTON繪製 影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/e_lFVaNMtvw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;零件組合圖&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/JaV0VWD9wXPjxKXu" width="500" &gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;零件組合圖 影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/573jYMOXcSA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W5作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2015-11-01:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業二投影片&lt;/a&gt;&lt;/p&gt;
