@@ -29,8 +29,8 @@ LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
          ('Python', 'http://python.org/'),('個人倉儲網站', 'http://40323205.github.io/mdehw/'),('個人github網址', 'https://github.com/40323205/mdehw/tree/gh-pages'))
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
-          ('github', 'http://github.com/ametaireau'),)
+SOCIAL = (('My Github', 'https://github.com/40323205/mdehw/tree/gh-pages'),
+          ('2015fallhw/2015fallcadpb', 'https://github.com/2015fallhw/2015fallcadpb/tree/gh-pages'),)
           
 DEFAULT_PAGINATION = 10
 
