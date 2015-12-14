@@ -86,7 +86,7 @@ src="https://copy.com/NDjf6PMSQobqL41h"width="300"height="300">
 <br>
 
 <br>
-<p align="left"><a href="https://copy.com/fbAPw3HikUotsBq7">零件7</a>
+<p align="left"><a href="https://copy.com/fbAPw3HikUotsBq7">零件8</a>
 <br>
 <img
 src="https://copy.com/De1xHMZokFG6RpUD"width="300"height="300">
