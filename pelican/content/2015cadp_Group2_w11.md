@@ -46,12 +46,14 @@ Nutcracker 機構
 
 <a href="https://copy.com/wWcYaBB4Xyo7dnav">零件NO.5檔案位置</a>
 
+<img src="https://copy.com/lBGqa4W4FR1GV9io"width="550"height="450">
+
 <p>
 <iframe src="https://player.vimeo.com/video/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
-<img src="https://copy.com/0hUzrrDtpNRSzzc3"width="550"height="450">
-<br>
-<img src="https://copy.com/lBGqa4W4FR1GV9io"width="550"height="450">
+
+<script src="https://embed.github.com/view/3d/michell1995huang/test_stl_3D/master/prt5.stl"></script>
+
 
 零件NO.6   Handle  by.40323255
 
