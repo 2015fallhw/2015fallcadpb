@@ -38,7 +38,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151206164503.1"><vh>以下為 reveal 投影片</vh>
+<v t="40323250.20151206164503.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="40323250.20151206164503.2"><vh>@button open html</vh>
 <v t="40323250.20151206164503.3"><vh>@clean simplest.html</vh>
 <v t="40323250.20151206164503.4"><vh>檔案說明</vh></v>
@@ -84,7 +84,7 @@
 </v>
 </v>
 <v t="amd.20151021113722.1"><vh>@path plugin</vh>
-<v t="amd.20151021113731.1"><vh>@path liquid_tags</vh>
+<v t="amd.20151021113731.1" a="E"><vh>@path liquid_tags</vh>
 <v t="amd.20151021113745.1"><vh>@edit notebook.py</vh></v>
 </v>
 </v>
