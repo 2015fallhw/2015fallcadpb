@@ -27,7 +27,7 @@
 <v t="leo.20151203165806.1"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151203165814.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151214102134.1"><vh>@edit 2015cadp_w12.md</vh></v>
-<v t="leo.20151214113223.1"><vh>@edit 2015cphww11.md</vh></v>
+<v t="leo.20151214120811.1"><vh>@edit 2015cadp_w11.md</vh></v>
 <v t="leo.20151203165819.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151203165824.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151203165829.1"><vh>@edit 2015cpnote1.md</vh></v>
@@ -80,18 +80,26 @@
 </v>
 </v>
 </v>
-<v t="leo.20151214113250.1"><vh>@clean simplest4.html</vh>
-<v t="leo.20151214113250.2"><vh>檔案說明</vh></v>
-<v t="leo.20151214113250.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151214113250.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151214113250.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151214113250.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151214113250.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151214113250.8"><vh>作業任務一</vh></v>
-<v t="leo.20151214113250.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151214120801.1"><vh>@button open html</vh>
+<v t="leo.20151214120801.2" a="E"><vh>@clean cadp_w11_lecture.html</vh>
+<v t="leo.20151214120801.3"><vh>檔案說明</vh></v>
+<v t="leo.20151214120801.4" a="E"><vh>html 標註</vh>
+<v t="leo.20151214120801.5" a="E"><vh>body 標註</vh>
+<v t="leo.20151214120801.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151214120801.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151214120801.8" a="E"><vh>第 11 週開始的規劃</vh>
+<v t="leo.20151214120801.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151214120801.10" a="E"><vh>header 測試1</vh>
+<v t="leo.20151214120801.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151214120801.12" a="E"><vh>自評 心得-</vh>
+<v t="leo.20151214120801.13"></v>
 </v>
 </v>
-<v t="leo.20151214113250.10"><vh>script</vh></v>
+</v>
+<v t="leo.20151214120801.14"><vh>script</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -484,85 +492,6 @@ jupyter notebook
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151214113250.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="leo.20151214113250.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="leo.20151214113250.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="leo.20151214113250.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="leo.20151214113250.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="leo.20151214113250.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151214113250.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151214113250.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;四設計二乙&lt;/h1&gt;
-    &lt;p&gt;40323205 陳子潔 11/30&lt;/p&gt;		
-&lt;/section&gt;
-
-	
-</t>
-<t tx="leo.20151214113250.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;作業過程-&lt;/h2&gt;
-    &lt;p&gt;1. 在2015fall課程裡下載 ProEMechanism.pdf&lt;/br&gt;
-    2. 依照小組分配畫零件，使用creo畫出個人負責的零件，並且拍攝影片&lt;/br&lt;&gt;
-    3. 下載小組其他組員畫的零件，使用creo組件組成組合圖，並且拍攝影片&lt;/br&gt;
-    (這個部分是因為我們組員有分配好零件的繪製，&lt;/br&gt;
-    所以才會要下載其他的零件來組裝成組合圖)&lt;p&gt; 
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151214113250.9">&lt;section&gt;
-    &lt;h2&gt;心得 自評-&lt;/h2&gt;
-    &lt;p&gt;自評分數：70分&lt;br/&gt;
-    在使用creo畫零件時，常常會因為軟體覺得不相容&lt;br/&gt;
-    整個軟體就這樣掛掉，或是要儲存時，&lt;br/&gt;軟體也這樣直接強迫關閉&lt;br/&gt;
-    在經過多次失敗後，調整自己到底哪裡出了錯後&lt;br/&gt;
-    拍攝影片也就很順利。
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151214113259.1">@language python
 # 導入 os 模組
 import os
@@ -688,6 +617,115 @@ cadp w12 講課內容投影片
     &lt;section&gt;
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
     &lt;h1&gt;第 12 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+    
+ &lt;/section&gt;</t>
+<t tx="leo.20151214120801.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20151214120801.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;作業過程-&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;在2015fall課程裡下載 ProEMechanism.pdf&lt;/le&gt;
+    &lt;li&gt;依照小組分配畫零件，使用creo畫出個人負責的零件，並且拍攝影片&lt;/li&gt;
+    &lt;li&gt;下載小組其他組員畫的零件，使用creo組件組成組合圖，並且拍攝影片&lt;/li&gt;
+    &lt;li&gt;(這個部分是因為我們組員有分配好零件的繪製，所以才會要下載其他的零件來組裝成組合圖)&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+ &lt;/section&gt;</t>
+<t tx="leo.20151214120801.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323205"; }&lt;/style&gt;</t>
+<t tx="leo.20151214120801.12">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;自評 心得-&lt;/h1&gt;
+    &lt;p&gt;自評分數：70分&lt;/p&gt;
+    &lt;p&gt;在使用creo畫零件時，常常會因為軟體覺得不相容&lt;br/&gt;
+    整個軟體就這樣掛掉，或是要儲存時，&lt;br/&gt;軟體也這樣直接強迫關閉&lt;br/&gt;
+    在經過多次失敗後，調整自己到底哪裡出了錯後&lt;br/&gt;
+    拍攝影片也就很順利。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151214120801.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323205"; }&lt;/style&gt;</t>
+<t tx="leo.20151214120801.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151214120801.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151214120801.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20151214120801.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151214120801.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151214120801.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151214120801.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151214120801.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 11 週開始的規劃&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
     &lt;/section&gt;
     
