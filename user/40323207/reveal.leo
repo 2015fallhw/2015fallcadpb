@@ -34,7 +34,7 @@
 </v>
 </v>
 <v t="leo.20151130105803.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="leo.20151214100723.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151214100723.1"><vh>@button open html</vh>
 <v t="leo.20151214100723.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151214100723.3"><vh>檔案說明</vh></v>
 <v t="leo.20151214100723.4" a="E"><vh>html 標註</vh>
@@ -58,7 +58,7 @@
 </v>
 </v>
 <v t="leo.20151214112312.1" a="E"><vh>@button open html</vh>
-<v t="leo.20151214112312.2" a="E"><vh>@clean cadp_w11_lecture.html</vh>
+<v t="leo.20151214112312.2" a="E"><vh>@clean cadp_w11_lecture2.html</vh>
 <v t="leo.20151214112312.3"><vh>檔案說明</vh></v>
 <v t="leo.20151214112312.4" a="E"><vh>html 標註</vh>
 <v t="leo.20151214112312.5" a="E"><vh>body 標註</vh>
