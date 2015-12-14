@@ -54,6 +54,8 @@ src="https://copy.com/4OfJnhH01XqBLAox"width="300"height="300">
 <img
 src="https://copy.com/2tG93NbRSmFM9JMX"width="300"height="300">
 <br>
+零件四繪製步驟:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e_lFVaNMtvw" frameborder="0" allowfullscreen></iframe>
 <br>
 零件六：Adjuster
 <br>
@@ -83,10 +85,19 @@ src="https://copy.com/ogeRnsKlhrg7GkzG"width="300"height="300">
 零件八繪製步驟:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1tU6t51Gtrg" frameborder="0" allowfullscreen></iframe>
 <br>
+組合圖
 <br>
+<img
+src="https://copy.com/vsezuHt6z4i9VLzo"width="300"height="300">
+<br>
+<br>
+以下為組合圖操作步驟:
 <br>
 組合圖-40323201
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kZWhu-zZcP0" frameborder="0" allowfullscreen></iframe>
+<br>
+組合圖-40323205
+<iframe width="560" height="315" src="https://www.youtube.com/embed/573jYMOXcSA" frameborder="0" allowfullscreen></iframe>
 <br>
 組合圖-40323207
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wckBy3wykDc" frameborder="0" allowfullscreen></iframe>
