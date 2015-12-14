@@ -12,5 +12,8 @@ Summary: 導入 notebook 內容
 
 {% notebook demo.ipynb %}
 
+{% notebook 40323204-p3.prt.1 %}
+
+{% notebook 40323204.ipynb%}
 
 
