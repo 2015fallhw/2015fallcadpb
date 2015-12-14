@@ -1,0 +1,62 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>四設計二乙</h1>
+    <p>40323205 陳子潔 11/30</p>		
+</section>
+
+	
+<section id="hw-task-one">
+    <h2>作業過程-</h2>
+    <p>1. 在2015fall課程裡下載 ProEMechanism.pdf</br>
+    2. 依照小組分配畫零件，使用creo畫出個人負責的零件，並且拍攝影片</br<>
+    3. 下載小組其他組員畫的零件，使用creo組件組成組合圖，並且拍攝影片</br>
+    (這個部分是因為我們組員有分配好零件的繪製，</br>
+    所以才會要下載其他的零件來組裝成組合圖)<p> 
+</section>
+				
+<section>
+    <h2>心得 自評-</h2>
+    <p>自評分數：70分<br/>
+    在使用creo畫零件時，常常會因為軟體覺得不相容<br/>
+    整個軟體就這樣掛掉，或是要儲存時，<br/>軟體也這樣直接強迫關閉<br/>
+    在經過多次失敗後，調整自己到底哪裡出了錯後<br/>
+    拍攝影片也就很順利。
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
