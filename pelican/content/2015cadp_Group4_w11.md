@@ -82,15 +82,18 @@ src="https://copy.com/TVzPC0lRRN3ytz0Y"width="300"height="300">
 <br>
 <img
 src="https://copy.com/emIBxzoene0AfUHE"width="300"height="300">
-
-
+<br />零件5影片
+<iframe src="https://player.vimeo.com/video/148822501" width="500" height="293" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148822501">clip0002</a> from <a href="https://vimeo.com/user45488662">程偉銓</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br />
 <br>
 <p align="left"><a href="https://copy.com/tCSDIKo1ipr2qMJ3">零件6</a>
 <br>
 <img
 src="https://copy.com/hY64jmMNz2Kn6Ec4"width="300"height="300">
-<br />
-(5)負責人:40323240
+<br />零件6影片
+<iframe src="https://player.vimeo.com/video/148822553" width="500" height="293" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148822553">clip0003</a> from <a href="https://vimeo.com/user45488662">程偉銓</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br />組合影片
+<iframe src="https://player.vimeo.com/video/148828995" width="500" height="406" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148828995">組合</a> from <a href="https://vimeo.com/user46793537">偉銓程</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br />(5)負責人:40323240
 <br />
 (6)負責人:40323225
