@@ -150,18 +150,17 @@
 </v>
 </v>
 </v>
-<v t="leo40323206.20151214114143.1"><vh>@clean simplest8.html</vh>
+<v t="leo40323206.20151214114143.1" a="E"><vh>@clean simplest8.html</vh>
 <v t="leo40323206.20151214114143.2"><vh>檔案說明</vh></v>
 <v t="leo40323206.20151214114143.3" a="E"><vh>html 標註</vh>
 <v t="leo40323206.20151214114143.4" a="E"><vh>body 標註</vh>
 <v t="leo40323206.20151214114143.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo40323206.20151214114143.6" a="E"><vh>div class="slides"</vh>
 <v t="leo40323206.20151214114143.7"><vh>封面</vh></v>
-<v t="leo40323206.20151214114143.8" a="E"><vh>投影片2</vh>
-<v t="leo40323206.20151214120446.1"><vh>newHeadline</vh></v>
-</v>
-<v t="leo40323206.20151214114143.9"><vh>投影片3 </vh></v>
-<v t="leo40323206.20151214114143.10"><vh>投影片4</vh></v>
+<v t="leo40323206.20151214114143.8"><vh>投影片2</vh></v>
+<v t="leo40323206.20151216165657.1"><vh>投影片3</vh></v>
+<v t="leo40323206.20151214114143.9"><vh>投影片4 </vh></v>
+<v t="leo40323206.20151214114143.10"><vh>投影片5</vh></v>
 </v>
 </v>
 <v t="leo40323206.20151214114143.11"><vh>script</vh></v>
@@ -952,7 +951,7 @@ jupyter notebook
     &lt;h2&gt;自評&lt;/h2&gt;
     &lt;br&gt;
    
-      &lt;p align="left"&gt;未完成&lt;/p&gt;
+      &lt;p align="left"&gt;這次的作業我在課堂上就完成了，是在老師操作完後配合教學影片完成的，第一次在操作的時候還不是很清楚，只是依樣畫葫蘆，但在同學的詢問之下，我試著去理解，並且協助完成才清楚這次的學習內容，自評90分。&lt;/p&gt;
     &lt;br&gt;
 &lt;/section&gt;
 				
@@ -1017,13 +1016,14 @@ jupyter notebook
     &lt;h2&gt;上課筆記&lt;/h2&gt;
     &lt;br&gt;
      
-      &lt;p align="left"&gt;未更新完成 &lt;/p&gt;
       &lt;p align="left"&gt;1.至 Leo-editor GitHub &lt;/p&gt;
       &lt;p align="left"&gt;2.點選 releases 下載最新的zip檔 (broke-abbrev)&lt;/p&gt;
        &lt;p align="left"&gt;3.直接將載下來的檔案拉到 Ana3_2015 的 data&lt;/p&gt;
        &lt;p align="left"&gt;4.至上課業面&lt;/p&gt;
        &lt;p align="left"&gt;5.點選左側欄位的 2015fall課程&lt;/p&gt;
-       &lt;p align="left"&gt;6.下載 fix.拉到Ana3_2015&lt;/p&gt;
+       &lt;p align="left"&gt;6.下載 fix資料夾拉到Ana3_2015&lt;/p&gt;
+       &lt;p align="left"&gt;7.開啟SciTE&lt;/p&gt;
+       &lt;p align="left"&gt;8.將fix資料夾內的fix.bat及start.bat拉入SciTE&lt;/p&gt;
       
     &lt;br&gt;
      
@@ -1035,11 +1035,30 @@ jupyter notebook
     &lt;h2&gt;心得&lt;/h2&gt;
     &lt;br&gt;
    
-      &lt;p align="left"&gt;未完成&lt;/p&gt;
+      &lt;p align="left"&gt;更新leo5.1其實並不難，加上老師有拍影片教學下載步驟，主要是要了解檔案內部執行指令的途徑，可以參考第十週的作業，觀念是差不多的。&lt;/p&gt;
     &lt;br&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo40323206.20151214120446.1">分頁</t>
+<t tx="leo40323206.20151216165657.1">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;上課筆記&lt;/h2&gt;
+    &lt;br&gt;
+     
+      &lt;p align="left"&gt;9.fix.bat需新增 &lt;br&gt; copy  leo-editor-broke-abbrev.zip E:\Ana3_2015\data\
+ &lt;br&gt; (老師的影片是放在C槽，我的是放在E槽的隨身碟) &lt;/p&gt;
+      &lt;p align="left"&gt;10.start.bat把第25行改為  pip install leo-editor-broke-abbrev.zip &lt;br&gt; 點選View → Line Numbers 可以方便找到25行&lt;/p&gt;
+       &lt;p align="left"&gt;11.儲存完之後點選fix.bat&lt;/p&gt;
+       &lt;p align="left"&gt;12.再啟動 start 就安裝了！ &lt;/p&gt;
+       &lt;br&gt;
+       &lt;br&gt;
+       &lt;p align="left"&gt;※ 第一次下載需要比較多的時間喔！&lt;/p&gt;
+       
+
+    &lt;br&gt;
+     
+  
+&lt;/section&gt;
+				
+</t>
 </tnodes>
 </leo_file>
