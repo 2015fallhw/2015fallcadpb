@@ -31,7 +31,7 @@
 <v t="123.20151209135849.6"><vh>@edit 2015cphww7.md</vh></v>
 <v t="leo40323206.20151213155514.1"><vh>@edit 2015cphww10.md</vh></v>
 <v t="leo40323206.20151213162830.1"><vh>@edit 2015cphww11.md</vh></v>
-<v t="leo40323206.20151216173002.1"><vh>@edit 2015cphww11_g.md</vh></v>
+<v t="leo40323206.20151216173002.1"><vh>@edit 2015cphww11_g2.md</vh></v>
 <v t="leo40323206.20151214113734.1"><vh>@edit 2015cphww12.md</vh></v>
 <v t="123.20151209135849.7"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
@@ -151,7 +151,7 @@
 </v>
 </v>
 </v>
-<v t="leo40323206.20151216173239.1" a="E"><vh>@clean simplest8.html</vh>
+<v t="leo40323206.20151216173239.1"><vh>@clean simplest8.html</vh>
 <v t="leo40323206.20151216173239.2"><vh>檔案說明</vh></v>
 <v t="leo40323206.20151216173239.3" a="E"><vh>html 標註</vh>
 <v t="leo40323206.20151216173239.4" a="E"><vh>body 標註</vh>
