@@ -31,6 +31,7 @@
 <v t="123.20151209135849.6"><vh>@edit 2015cphww7.md</vh></v>
 <v t="leo40323206.20151213155514.1"><vh>@edit 2015cphww10.md</vh></v>
 <v t="leo40323206.20151213162830.1"><vh>@edit 2015cphww11.md</vh></v>
+<v t="leo40323206.20151216173002.1"><vh>@edit 2015cphww11_g.md</vh></v>
 <v t="leo40323206.20151214113734.1"><vh>@edit 2015cphww12.md</vh></v>
 <v t="123.20151209135849.7"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
@@ -150,7 +151,23 @@
 </v>
 </v>
 </v>
-<v t="leo40323206.20151214114143.1" a="E"><vh>@clean simplest8.html</vh>
+<v t="leo40323206.20151216173239.1" a="E"><vh>@clean simplest8.html</vh>
+<v t="leo40323206.20151216173239.2"><vh>檔案說明</vh></v>
+<v t="leo40323206.20151216173239.3" a="E"><vh>html 標註</vh>
+<v t="leo40323206.20151216173239.4" a="E"><vh>body 標註</vh>
+<v t="leo40323206.20151216173239.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151216173239.6" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151216173239.7"><vh>封面</vh></v>
+<v t="leo40323206.20151216173239.8"><vh>投影片2</vh></v>
+<v t="leo40323206.20151216173239.9"><vh>投影片3 </vh></v>
+<v t="leo40323206.20151216173239.10"><vh>投影片4</vh></v>
+</v>
+</v>
+<v t="leo40323206.20151216173239.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo40323206.20151214114143.1"><vh>@clean simplest9.html</vh>
 <v t="leo40323206.20151214114143.2"><vh>檔案說明</vh></v>
 <v t="leo40323206.20151214114143.3" a="E"><vh>html 標註</vh>
 <v t="leo40323206.20151214114143.4" a="E"><vh>body 標註</vh>
@@ -1057,6 +1074,106 @@ jupyter notebook
     &lt;br&gt;
      
   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151216173239.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo40323206.20151216173239.10">&lt;section&gt;
+    &lt;h2&gt;自評&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;雖然是在莫名其妙的情況下被選為組長，但我盡可能的去回答組員們的疑問，並提供網址連結、圖片、影片，甚至是 stl. 的語法，去進行協助，並且整理小組的版面，讓瀏覽者更清楚的找到自己要的東西，自評90分。&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151216173239.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo40323206.20151216173239.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo40323206.20151216173239.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo40323206.20151216173239.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo40323206.20151216173239.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151216173239.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151216173239.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;p&gt;&lt;font size="7" face="cursive"&gt;&lt;marquee border="0"&gt;United we stand, divided we fall.&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo40323206.20151216173239.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;上課筆記&lt;/h2&gt;
+    &lt;br&gt;
+     
+      &lt;p align="left"&gt;1.有效且準確地進行電腦輔助資訊傳輸
+ &lt;/p&gt;
+      &lt;p align="left"&gt;2.能看懂英文零組件繪圖導引, 完成零件繪製與組立
+&lt;/p&gt;
+       &lt;p align="left"&gt;3.能利用雲端系統展示電腦輔助設計結果
+&lt;/p&gt;
+       &lt;p align="left"&gt;4.能利用影音檔案錄製並展示電腦輔助操作流程
+&lt;/p&gt;
+       &lt;p align="left"&gt;5.能利用程式運算進行基本平面機構模擬與分析&lt;/p&gt;
+      
+      
+    &lt;br&gt;
+     
+  
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151216173239.9">&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;組員都很配合，也如期的完成了被分配到的零件，圖片、影片、stl. 也陸續補上，讓我覺得很踏實也覺得很感動，組員們都很積極，也願意互相幫忙，對我而言這一週的作業又增添了一層意義。&lt;/p&gt;
+    &lt;br&gt;
 &lt;/section&gt;
 				
 </t>
