@@ -93,6 +93,7 @@ src="https://copy.com/De1xHMZokFG6RpUD"width="300"height="300">
 
 <br />零件8影片
 <iframe src="https://player.vimeo.com/video/147944558" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/147944558">bandicam 2015-12-05 23-59-25-769</a> from <a href="https://vimeo.com/user45499931">黃顏維辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+<br />組合影片
+<iframe src="https://player.vimeo.com/video/148491335" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148491335">bandicam 2015-12-10 21-41-46-467</a> from <a href="https://vimeo.com/user45499931">黃顏維辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br />(5)負責人:40323240
 <br />(6)負責人:40323225
