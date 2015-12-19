@@ -32,7 +32,7 @@ Product(s) File Download link：
 
 <h2>Part3-Base</br>[Quantity:1]</h2>
 
-Authors：</br><a href='user/40323230/'>40323230</a></td> 
+Authors：</br><a href='user/40323230/'>40323230張元</a></td> 
 
 Product(s) Preview：
 
@@ -42,7 +42,7 @@ Product(s) File Download link：
 
 <h2>Part4-Connection</br>[Quantity:2]</h2>
 
-Authors：</br><a href='user/40323233/'>40323233</a></td> 
+Authors：</br><a href='user/40323233/'>40323233張維元</a></td> 
 
 Product(s) Preview：
 
@@ -52,7 +52,7 @@ Product(s) File Download link：
 
 <h2>Part5-Cylinder</br>[Quantity:1]</h2>
 
-Authors：</br><a href='user/40323230/'>40323230</a></td> 
+Authors：</br><a href='user/40323230/'>40323230張元</a></td> 
 
 Product(s) Preview：
 
