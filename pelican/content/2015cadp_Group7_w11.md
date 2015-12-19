@@ -17,11 +17,17 @@ Authors：</br>40323232
 Product(s) Preview：
 
 
+Product(s) File Download link：
+
+
 <h2>Part2-Adjuster</br>[Quantity:1]</h2>
 
 Authors：</br>40323236
 
 Product(s) Preview：
+
+
+Product(s) File Download link：
 
 
 <h2>Part3-Base</br>[Quantity:1]</h2>
@@ -31,11 +37,17 @@ Authors：</br>40323230
 Product(s) Preview：
 
 
+Product(s) File Download link：
+
+
 <h2>Part4-Connection</br>[Quantity:2]</h2>
 
 Authors：</br>40323233
 
 Product(s) Preview：
+
+
+Product(s) File Download link：
 
 
 <h2>Part5-Cylinder</br>[Quantity:1]</h2>
@@ -45,11 +57,17 @@ Authors：</br>40323230
 Product(s) Preview：
 
 
+Product(s) File Download link：
+
+
 <h2>Part6-Handle</br>[Quantity:1]</h2>
 
 Authors：
 
 Product(s) Preview：
+
+
+Product(s) File Download link：
 
 
 <h2>Part7-Hinge</br>[Quantity:1]</h2>
@@ -59,6 +77,9 @@ Authors：</br>40323230
 Product(s) Preview：
 
 
+Product(s) File Download link：
+
+
 <h2>Part8-Piston</br>[Quantity:1]</h2>
 
 Authors：</br>40323231
@@ -66,5 +87,12 @@ Authors：</br>40323231
 Product(s) Preview：
 
 
+Product(s) File Download link：
+
+
 <h2>Mechanism Assembly：</br>Nutcracker</h2>
+
+Assembly drawing video：
+
+Assembly File Download link：
 
