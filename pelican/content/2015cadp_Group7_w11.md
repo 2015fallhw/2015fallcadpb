@@ -12,7 +12,7 @@ The products shown in the picture will be data of reports.
 <br>
 <h2>Part1-Adjuster_Base</br>[Quantity:1]</h2>
 
-Authors：</br>40323232
+Authors：</br><a href='user/40323232/'>40323232張家瑀</a></td> 
 
 Product(s) Preview：
 
@@ -22,7 +22,7 @@ Product(s) File Download link：
 
 <h2>Part2-Adjuster</br>[Quantity:1]</h2>
 
-Authors：</br>40323236
+Authors：</br><a href='user/40323236/'>40323236許紘瑜</a></td> 
 
 Product(s) Preview：
 
@@ -32,7 +32,7 @@ Product(s) File Download link：
 
 <h2>Part3-Base</br>[Quantity:1]</h2>
 
-Authors：</br>40323230
+Authors：</br><a href='user/40323230/'>40323230</a></td> 
 
 Product(s) Preview：
 
@@ -42,7 +42,7 @@ Product(s) File Download link：
 
 <h2>Part4-Connection</br>[Quantity:2]</h2>
 
-Authors：</br>40323233
+Authors：</br><a href='user/40323233/'>40323233</a></td> 
 
 Product(s) Preview：
 
@@ -52,7 +52,7 @@ Product(s) File Download link：
 
 <h2>Part5-Cylinder</br>[Quantity:1]</h2>
 
-Authors：</br>40323230
+Authors：</br><a href='user/40323230/'>40323230</a></td> 
 
 Product(s) Preview：
 
@@ -62,7 +62,7 @@ Product(s) File Download link：
 
 <h2>Part6-Handle</br>[Quantity:1]</h2>
 
-Authors：
+Authors：</br><a href='user/40323231/'>40323231張立昇</a></td>
 
 Product(s) Preview：
 
@@ -72,7 +72,7 @@ Product(s) File Download link：
 
 <h2>Part7-Hinge</br>[Quantity:1]</h2>
 
-Authors：</br>40323230
+Authors：</br><a href='user/40323230/'>40323230張元</a></td> 
 
 Product(s) Preview：
 
@@ -82,7 +82,7 @@ Product(s) File Download link：
 
 <h2>Part8-Piston</br>[Quantity:1]</h2>
 
-Authors：</br>40323231
+Authors：</br><a href='user/40323230/'>40323230張元</a></td>
 
 Product(s) Preview：
 
@@ -92,7 +92,10 @@ Product(s) File Download link：
 
 <h2>Mechanism Assembly：</br>Nutcracker</h2>
 
+Authors：</br><a href='user/40323230/'>40323230張元</a></td>
+
 Assembly drawing video：
+
 
 Assembly File Download link：
 
