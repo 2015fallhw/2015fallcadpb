@@ -7,11 +7,10 @@ Use STL file to preview following parts.
 &lt;br&gt;
 If you want 3D models presented in your webpages, you need to get some URL code.
 &lt;br&gt;
-For example, if the URL of your part is "github.com/User/Projects/stl/clip.stl", your embed code URL would be like：
+For example, if the URL of your part is "github.com/User/Projects/stl/clip.stl", your embed URL code would be like：
 &lt;br&gt;
-"https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"
-&lt;br&gt;
-Reference Source：&lt;a href='https://gist.github.com/sugarmo/5915287'&gt;https://gist.github.com/sugarmo/5915287&lt;/a&gt;
+"https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"&lt;/p&gt;
+&lt;p&gt;Reference Source：&lt;a href='https://gist.github.com/sugarmo/5915287'&gt;https://gist.github.com/sugarmo/5915287&lt;/a&gt;
 &lt;br&gt;
 &lt;h2&gt;Part1-Adjuster_Base&lt;/br&gt;[Quantity:1]&lt;/h2&gt;&lt;/p&gt;
 &lt;p&gt;Authors：&lt;/br&gt;&lt;a href='http://2015fallhw.github.io/2015fallcadpb/user/40323232/'&gt;40323232張家瑀&lt;/a&gt;&lt;/p&gt;
