@@ -47,6 +47,8 @@ src="https://copy.com/UmBSL79MGZIeQdqx"width="300"height="300">
 src="https://copy.com/mRjBQ2uGHZka1bCO"width="300"height="300">
 <br />
 
+<script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/3.stl"></script>
+
 <br />零件3影片
 <iframe src="https://player.vimeo.com/video/148055922" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148055922">W11 零件3</a> from <a href="https://vimeo.com/user45419779">40323252</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br />
@@ -56,6 +58,8 @@ src="https://copy.com/mRjBQ2uGHZka1bCO"width="300"height="300">
 <img
 src="https://copy.com/TVzPC0lRRN3ytz0Y"width="300"height="300">
 <br />
+
+<script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/4.stl"></script>
 
 <br />零件4影片
 <iframe src="https://player.vimeo.com/video/148055921" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148055921">W11 零件4</a> from <a href="https://vimeo.com/user45419779">40323252</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -71,6 +75,8 @@ src="https://copy.com/TVzPC0lRRN3ytz0Y"width="300"height="300">
 src="https://copy.com/emIBxzoene0AfUHE"width="300"height="300">
 <br />
 
+<script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/5.stl"></script>
+
 <br />零件5影片
 <iframe src="https://player.vimeo.com/video/148822501" width="500" height="293" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148822501">clip0002</a> from <a href="https://vimeo.com/user45488662">程偉銓</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br />
@@ -80,6 +86,8 @@ src="https://copy.com/emIBxzoene0AfUHE"width="300"height="300">
 <img
 src="https://copy.com/hY64jmMNz2Kn6Ec4"width="300"height="300">
 <br />
+
+<script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/6.stl"></script>
 
 <br />零件6影片
 <iframe src="https://player.vimeo.com/video/148822553" width="500" height="293" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148822553">clip0003</a> from <a href="https://vimeo.com/user45488662">程偉銓</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -95,6 +103,8 @@ src="https://copy.com/hY64jmMNz2Kn6Ec4"width="300"height="300">
 src="https://copy.com/NDjf6PMSQobqL41h"width="300"height="300">
 <br />
 
+<script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/7.stl"></script>
+
 <br />零件7影片
 <iframe src="https://player.vimeo.com/video/147944506" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/147944506">bandicam 2015-12-05 23-43-51-056</a> from <a href="https://vimeo.com/user45499931">黃顏維辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br />
@@ -104,6 +114,8 @@ src="https://copy.com/NDjf6PMSQobqL41h"width="300"height="300">
 <img
 src="https://copy.com/De1xHMZokFG6RpUD"width="300"height="300">
 <br />
+
+<script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/8.stl"></script>
 
 <br />零件8影片
 <iframe src="https://player.vimeo.com/video/147944558" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/147944558">bandicam 2015-12-05 23-59-25-769</a> from <a href="https://vimeo.com/user45499931">黃顏維辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
