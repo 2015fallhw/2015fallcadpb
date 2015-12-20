@@ -1,0 +1,60 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>電腦輔助設計與實習</h2>
+    <h3>40323253-劉瑜俊-12/06</h3>	
+</section>
+	
+<section id="hw-task-one">
+    <h3>筆記</h3>
+    <p>1.下載fix</p>
+    <p>2.下載leo壓縮檔放置DATA目錄下</p>
+    <p>3.更改fix資料夾裡的start內為pip install leo-editor-broke-abbrev.zip</p>
+    <p>4.啟動fix, 將檔案複製到對應位置</p>
+    <p>5.按下C槽中start執行安裝</p></a>
+</section>
+
+<section>
+    <h2>心得與評分</h2>
+    <p>練習將電腦教室之leo升級為5.1版本,在C槽中就能快速使用程式。先至網路上下載fix檔案和leo版本檔案,利用SciTE修改fix內容,使fix複製相對應資料,開啟Ana3_2015內start執行安裝,跟著老師上課所拍攝的影片以及講解,能快速的模擬和執行作業。</p>
+    
+    <h2>評分 :80分</h2>
+    
+    </a></section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

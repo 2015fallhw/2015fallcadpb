@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323204 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-14T11:38:00+08:00</updated><entry><title>2015 CADP 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-14T11:38:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為w11內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323204 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-14T11:38:00+08:00</updated><entry><title>2015 CADP w11</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-14T11:38:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為w11內容&lt;/p&gt;
 &lt;p&gt;1.移除全班倉儲 .leo 檔案中的 @path user 節點, 各學員必須自行建立學號目錄下的個人 .leo 檔案, 以維護各自的檔案. (請參考 user/9999 中的 9999.leo)&lt;/p&gt;
 &lt;p&gt;2.本週起以組為單位, 在各班倉儲主目錄中建立工作網誌與投影片&lt;/p&gt;
 &lt;p&gt;3.各組員必須完成所負責 &lt;a href="https://www.copy.com/s/t%3ADXQiGkDoe9K8Cz7m%3Bp%3A%252FProEMechanism.pdf%3Boid%3A86"&gt;Nutcracker 機構&lt;/a&gt;零件繪圖的操作過程影片&lt;/p&gt;
@@ -7,41 +7,25 @@
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;[作業二投影片](simplest7.html){:target="_blank"}&lt;/p&gt;
+&lt;p&gt;[w11投影片](simplest7.html){:target="_blank"}&lt;/p&gt;
 
-&lt;h1&gt;關於繪圖解說&lt;/h1&gt;
+&lt;h1&gt;零件繪製影片&lt;/h1&gt;
 &lt;p&gt;&lt;hr size="5"align="center"noshade width="90%"color="0000ff"&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;步驟一:繪出一個非垂直的L型&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;零件NO.8&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copy.com/VHJhcuB9n6Gey8g6"&gt;零件NO.8檔案位置&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/pzQN4TAdZ3u9byZ3"width="550"height="450"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://copy.com/yYVEvtJi3yHn1Ofy" width="400" height="200" alt="L圖"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;步驟二:利用左邊視窗中的T繪出圓角&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://copy.com/XJ0d1wqxcYPGniQS" width="400" height="200" alt="圓角圖"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;步驟三:擠出圖型&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://copy.com/4IzclRMfkApqQti2" width="400" height="200" alt="擠出圖"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;步驟四:繪出一個三角形並定義位置，擠出成為肋&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://copy.com/s1WUHqF4YIqFrPkX" width="400" height="200" alt="肋圖"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;步驟五:繪製兩個圓並擠出，按下右邊視窗的different變為除料，挖出兩個孔&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://copy.com/AHqohmzfYTsvOlUn" width="400" height="200" alt="孔圖"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;h1&gt;關於繪圖工具列解說&lt;/h1&gt;
-&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;
-
-&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;此工具為畫草圖平面&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://copy.com/1HFJxgpBsujzWBHM" width="200" height="200" alt="孔圖"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;此為擠出&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://copy.com/8Jn3otqHA2if10nv" width="200" height="200" alt="孔圖"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;這些為限條定義&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://copy.com/iuOrWTXvo6PRZWH4" width="200" height="400" alt="孔圖"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;此為畫相切圓&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://copy.com/Yc219gSakwLPSqRY" width="200" height="200" alt="孔圖"&gt;&lt;/img&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADP week-all</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w-all.html" rel="alternate"></link><updated>2015-11-16T11:00:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-11-16:reveal/2015cp_hw_w-all.html</id><summary type="html">&lt;p&gt;以下為week1~8內容&lt;/p&gt;
+&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;零件NO.3&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copy.com/HYuFKm9j82iMJBwC"&gt;零件NO.3檔案位置&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/8ZBPUMlMFsG7lxZG"width="550"height="450"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADP week-all</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w-all.html" rel="alternate"></link><updated>2015-11-16T11:00:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-11-16:reveal/2015cp_hw_w-all.html</id><summary type="html">&lt;p&gt;以下為week1~8內容&lt;/p&gt;
 &lt;p&gt;整理1~8週 的作業心得及內容&lt;/p&gt;
 &lt;p&gt;1~8週心得投影片:&lt;/p&gt;
 &lt;iframe src="simplest6.html" width="500" height="300"&gt;&lt;/iframe&gt;
