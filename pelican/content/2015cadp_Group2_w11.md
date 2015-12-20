@@ -50,6 +50,11 @@ Nutcracker 機構
 <iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
 <img src="https://copy.com/UcmNgceE8mxdrsCq"width="550"height="450">
+<br / >
+<img src="https://copy.com/TPklzsECNAOjjYBk"width="550"height="450">
+<br / >
+<script src="https://raw.githubusercontent.com/Openandgit/40323217cphw/gh-pages/connection.stl"></script>
+
 
 零件NO.5    Cylinder  by.40323206
 
