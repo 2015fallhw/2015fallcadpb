@@ -18,7 +18,6 @@ Authors：</br><a href='user/40323232/'>40323232張家瑀</a>
 
 Product(s) Preview：
 
-Part Drawing Video：
 
 Product(s) File Download link：</br><a href='https://copy.com/x6YlnDUqnkaQ79gL'>https://copy.com/x6YlnDUqnkaQ79gL</a>
 
@@ -28,7 +27,6 @@ Authors：</br><a href='user/40323236/'>40323236許紘瑜</a>
 
 Product(s) Preview：
 
-Part Drawing Video：
 
 Product(s) File Download link：</br><a href='https://copy.com/WbcDlfhLsaLf0LPj'>https://copy.com/WbcDlfhLsaLf0LPj</a>
 
@@ -38,7 +36,6 @@ Authors：</br><a href='user/40323230/'>40323230張元</a>
 
 Product(s) Preview：
 
-Part Drawing Video：
 
 Product(s) File Download link：</br><a href='https://copy.com/qbGDGP1QFCrOgy2M'>https://copy.com/qbGDGP1QFCrOgy2M</a>
 
@@ -48,7 +45,6 @@ Authors：</br><a href='user/40323233/'>40323233張維元</a>
 
 Product(s) Preview：
 
-Part Drawing Video：
 
 Product(s) File Download link：</br><a href='https://copy.com/FwUbzxnsyjXyniHs'>https://copy.com/FwUbzxnsyjXyniHs</a>
 
@@ -58,7 +54,6 @@ Authors：</br><a href='user/40323230/'>40323230張元</a>
 
 Product(s) Preview：
 
-Part Drawing Video：
 
 Product(s) File Download link：</br><a href='https://copy.com/vlO0sRy9aYns2Ked'>https://copy.com/vlO0sRy9aYns2Ked</a>
 
@@ -68,7 +63,6 @@ Authors：</br><a href='user/40323231/'>40323231張立昇</a>
 
 Product(s) Preview：
 
-Part Drawing Video：
 
 Product(s) File Download link：</br><a href='https://copy.com/eiSHo8xCW1b9FZHj'>https://copy.com/eiSHo8xCW1b9FZHj</a>
 
@@ -78,7 +72,6 @@ Authors：</br><a href='user/40323230/'>40323230張元</a>
 
 Product(s) Preview：
 
-Part Drawing Video：
 
 Product(s) File Download link：</br><a href='https://copy.com/j1wGL1XYrUEobzQK'>https://copy.com/j1wGL1XYrUEobzQK</a>
 
@@ -88,7 +81,6 @@ Authors：</br><a href='user/40323230/'>40323230張元</a>
 
 Product(s) Preview：
 
-Part Drawing Video：
 
 Product(s) File Download link：</br><a href='https://copy.com/40OUWCqgFUzwYdgq'>https://copy.com/40OUWCqgFUzwYdgq</a>
 
@@ -96,6 +88,8 @@ Product(s) File Download link：</br><a href='https://copy.com/40OUWCqgFUzwYdgq'
 
 Authors：</br><a href='user/40323230/'>40323230張元</a>
 
-Assembly Drawing Video：
+Assembly drawing video：
+
 
 Assembly File Download link：
+
