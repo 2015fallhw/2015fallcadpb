@@ -17,7 +17,7 @@ Summary: 第四組第十一週工作報告<br />Nutcracker 機構
 src="https://copy.com/A6FECgKC7Bs7Eglv"width="300"height="300">
 <br />
 
-<script src="https://embed.github.com/view/3d/40323253/cadp/blob/gh-pages/1.stl"></script>
+<script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/1.stl"></script>
 
 <br />零件1影片
 <iframe src="https://player.vimeo.com/video/147870034" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/147870034">W11-零件1</a> from <a href="https://vimeo.com/user44939680">40323253</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -30,7 +30,7 @@ src="https://copy.com/A6FECgKC7Bs7Eglv"width="300"height="300">
 src="https://copy.com/UmBSL79MGZIeQdqx"width="300"height="300">
 <br />
 
-<script src="https://embed.github.com/view/3d/40323253/cadp/blob/gh-pages/2.stl"></script>
+<script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/2.stl"></script>
 
 <br />零件2影片
 <iframe src="https://player.vimeo.com/video/147928678" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/147928678">W11-零件2</a> from <a href="https://vimeo.com/user44939680">40323253</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
