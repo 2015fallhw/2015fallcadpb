@@ -7,6 +7,10 @@ Authors: G4
 Summary: 第四組第十一週工作報告<br />Nutcracker 機構
 
 以下為相關工作報告資料
+<br />
+Nutcracker 機構
+<br />
+<img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450">
 
 (1)負責人:<a href='user/40323250/'>40323253</a>
 <br />
