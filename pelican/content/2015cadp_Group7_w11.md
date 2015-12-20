@@ -38,7 +38,8 @@ Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/
 
 Product(s) Preview：
 
-Part Drawing Video：
+Part Drawing Video：</br><iframe src="https://player.vimeo.com/video/149552820" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/149552820">BASE</a> from <a href="https://vimeo.com/user32555757">張元</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Product(s) File Download link：</br><a href='https://copy.com/qbGDGP1QFCrOgy2M'>https://copy.com/qbGDGP1QFCrOgy2M</a>
 
@@ -58,7 +59,8 @@ Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/
 
 Product(s) Preview：
 
-Part Drawing Video：
+Part Drawing Video：</br><iframe src="https://player.vimeo.com/video/149552821" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/149552821">CYLINDER</a> from <a href="https://vimeo.com/user32555757">張元</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Product(s) File Download link：</br><a href='https://copy.com/vlO0sRy9aYns2Ked'>https://copy.com/vlO0sRy9aYns2Ked</a>
 
@@ -78,7 +80,8 @@ Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/
 
 Product(s) Preview：
 
-Part Drawing Video：
+Part Drawing Video：</br><iframe src="https://player.vimeo.com/video/149552819" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/149552819">HINGE</a> from <a href="https://vimeo.com/user32555757">張元</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Product(s) File Download link：</br><a href='https://copy.com/j1wGL1XYrUEobzQK'>https://copy.com/j1wGL1XYrUEobzQK</a>
 
@@ -88,7 +91,8 @@ Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/
 
 Product(s) Preview：
 
-Part Drawing Video：
+Part Drawing Video：</br><iframe src="https://player.vimeo.com/video/149552822" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/149552822">PISTON</a> from <a href="https://vimeo.com/user32555757">張元</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Product(s) File Download link：</br><a href='https://copy.com/40OUWCqgFUzwYdgq'>https://copy.com/40OUWCqgFUzwYdgq</a>
 
