@@ -16,9 +16,15 @@ Nutcracker 機構
 
 <a href="https://copy.com/hgHwCB3DFB6CDjWB">零件NO.1檔案位置</a>
 <br />
+
+<img src="https://copy.com/Cq7j0E9GN00X6T9g"width="300"height="300">
+
 <p>
-<iframe src="Vimeo影片網址" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+<iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
+
+<script src="https://embed.github.com/view/3d/40323251/test/master/adhuster_base.stl"></script>
+
 
 零件NO.2   Adjuster  by.40323255
 
