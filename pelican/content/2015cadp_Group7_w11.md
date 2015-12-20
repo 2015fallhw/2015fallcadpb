@@ -16,7 +16,7 @@ Use STL file to preview following parts.
 
 Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323232/'>40323232張家瑀</a>
 
-Product(s) Preview：
+Product(s) Preview：</br><script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323232/part/adjuster_base.stl"width="300"height="300"></script>
 
 Part Drawing Video：
 
