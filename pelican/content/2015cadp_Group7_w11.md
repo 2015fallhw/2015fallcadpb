@@ -14,9 +14,9 @@ Use STL file to preview following parts.
 <br>
 If you want 3D models presented in your webpages, you need to get some URL code.
 <br>
-For example, if the URL of your part is "github.com/User/Projects/stl/clip.stl", your embed URL code would be like：
+For example, if the URL of your part is "github.com/User/Projects/stl/base.stl", your embed URL code would be like：
 <br>
-"https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"
+"https://embed.github.com/view/3d/User/Projects/stl/base.stl"
 
 Reference Source：<a href='https://gist.github.com/sugarmo/5915287'>https://gist.github.com/sugarmo/5915287</a>
 <br>
