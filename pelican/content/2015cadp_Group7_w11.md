@@ -10,11 +10,15 @@ The products shown in the picture will be data of reports.
 <br>
 Use STL file to preview following parts.
 <br>
+<img src="https://raw.githubusercontent.com/2015fallhw/2015fallcadpb/gh-pages/user/40323230/images/nut.JPG"width="550"height="450">
+<br>
+If you want 3D models presented in your webpages, you need to get some URL code.
+<br>
 For example, if the URL of your part is "github.com/User/Projects/stl/clip.stl", your embed code URL would be like：
 <br>
 "https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"
 <br>
-<img src="https://raw.githubusercontent.com/2015fallhw/2015fallcadpb/gh-pages/user/40323230/images/nut.JPG"width="550"height="450">
+Reference Source：<a href='https://gist.github.com/sugarmo/5915287'>https://gist.github.com/sugarmo/5915287</a>
 <br>
 <h2>Part1-Adjuster_Base</br>[Quantity:1]</h2>
 
