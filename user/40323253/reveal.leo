@@ -838,7 +838,7 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
 <t tx="leo.20151221105544.1">&lt;&lt; header &gt;&gt;
 
 &lt;section id="hw-task-one"&gt;
@@ -854,7 +854,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
 <t tx="leo.20151221105609.1">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -871,6 +871,6 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
 </tnodes>
 </leo_file>
