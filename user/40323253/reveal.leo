@@ -833,7 +833,7 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
     
     &lt;h2&gt;評分 :80分&lt;/h2&gt;
     
-    &lt;/a&gt;&lt;/section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="leo.20151221105515.2">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
@@ -841,7 +841,7 @@ white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
 <t tx="leo.20151221105544.1">&lt;&lt; header &gt;&gt;
 
-&lt;section&gt;
+    &lt;section&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;1.下載fix&lt;/p&gt;
     &lt;p&gt;2.下載leo壓縮檔放置DATA目錄下&lt;/p&gt;
