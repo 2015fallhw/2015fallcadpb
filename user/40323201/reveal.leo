@@ -23,11 +23,13 @@
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151207115711.1"><vh>@edit publishconf.py</vh></v>
-<v t="amd.20151006113136.1"><vh>@path content</vh>
+<v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="leo.20151203165806.1"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151207113357.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151207113420.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151207113426.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151219174610.1"><vh>@edit 2015cphww11.md</vh></v>
+<v t="leo.20151219183407.1"><vh>@edit 2015cphww12.md</vh></v>
 <v t="leo.20151207113432.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -75,6 +77,45 @@
 </v>
 </v>
 <v t="leo.20151207113502.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151219174558.1"><vh>@clean cadp_w11_lecture.html</vh>
+<v t="leo.20151219174558.2"><vh>檔案說明</vh></v>
+<v t="leo.20151219174558.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151219174558.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151219174558.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151219174558.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151219174558.7" a="E"><vh>第 11 週開始的規劃</vh>
+<v t="leo.20151219174558.14"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151219174558.13" a="E"><vh>心得與評分</vh>
+<v t="leo.20151219174558.14"></v>
+</v>
+</v>
+</v>
+<v t="leo.20151219174558.15"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151219184748.1" a="E"><vh>@clean cadp_w12_lecture.html</vh>
+<v t="leo.20151219184748.2"><vh>檔案說明</vh></v>
+<v t="leo.20151219184748.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151219184748.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151219184748.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151219184748.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151219184748.7" a="E"><vh>第 12 週開始的規劃</vh>
+<v t="leo.20151219184748.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151219184748.9" a="E"><vh>步驟</vh>
+<v t="leo.20151219184748.12"></v>
+</v>
+<v t="leo.20151219184748.11" a="E"><vh>心得與評分</vh>
+<v t="leo.20151219184748.12"></v>
+</v>
+</v>
+</v>
+<v t="leo.20151219184748.13"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -419,6 +460,202 @@ href="https://github.com/baconLEE/20151015NEW/tree/gh-pages"&gt;20151015&lt;/a&g
     &lt;p&gt;&lt;h2&gt;75分&lt;/h2&gt;&lt;p&gt;
     &lt;p&gt;連結至本次GitHub倉儲&lt;a
 href="https://github.com/baconLEE/20151020/tree/gh-pages"&gt;20151020&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151219174558.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151219174558.13">&lt;&lt; header &gt;&gt;
+
+    &lt;h2&gt;心得 / 評分&lt;/h2&gt;
+    &lt;p&gt;這幾次作業做下來,認為老師已經將最簡單的部分交給我們操作了,但是說實在的這作業也是需要好費相當的時間與心力完成(已有心完成者),在摸索的過程中,一定會一直失敗,其他的科目讀書時間相對縮減,但是又不得不做這項,時間掌握在自己手中,共勉之&lt;/p&gt;
+    &lt;p&gt;&lt;h2&gt;70分&lt;/h2&gt;&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151219174558.14">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323201"; }&lt;/style&gt;</t>
+<t tx="leo.20151219174558.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151219174558.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20151219174558.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151219174558.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151219174558.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:25px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151219174558.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151219174558.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h2&gt;第11週_零件 / 組合&lt;/h2&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;h2&gt;步驟&lt;/h2&gt;
+    &lt;ol&gt;
+    &lt;li&gt;先 clone 全班倉儲 2015fallcadpb&lt;/le&gt;
+    &lt;li&gt;將其資料夾內 reveal.leo打開&lt;/li&gt;
+    &lt;li&gt;裡面第二個 @button open html 的 @clean cadp_w12_lecture.html 複製到自己 user 裡&lt;/li&gt;
+    &lt;li&gt;照以前方相對應的方式下去修改&lt;/li&gt;    
+    &lt;li&gt;記得先備分&lt;/li&gt;
+    &lt;li&gt;推上&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151219184748.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151219184748.11">&lt;&lt; header &gt;&gt;
+
+    &lt;h2&gt;心得 / 評分&lt;/h2&gt;
+    &lt;p&gt;在安裝可攜系統時失敗了相當多次,問題點在於安裝
+ Miniconda 勾選的項目,中有一的地方只需勾選上面第一個,如果都沒勾,則無法順利安裝 leo 5.1,光是發現這點就好費我相當多時間了呢! 畢竟還要加上錄製&lt;/p&gt;
+    &lt;p&gt;&lt;h2&gt;75分&lt;/h2&gt;&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151219184748.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323201"; }&lt;/style&gt;</t>
+<t tx="leo.20151219184748.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151219184748.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20151219184748.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151219184748.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151219184748.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:25px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151219184748.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151219184748.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h2&gt;第12週_課程學號顯示 / 建立可攜系統&lt;/h2&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;h2&gt;啟動 C 槽的可攜系統&lt;/h2&gt;
+    &lt;ol&gt;
+    &lt;li&gt;安裝 pelican Markdown 模組&lt;/le&gt;
+    &lt;li&gt;安裝 Leo Editor 5.1 版&lt;/li&gt;
+    &lt;li&gt;將 Jupyter 在協同目錄中啟動&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151219184748.9">&lt;&lt; header &gt;&gt;
+
+   &lt;h2&gt;建立可攜系統之步驟&lt;/h2&gt;
+    &lt;ol&gt;
+    &lt;li&gt;搜尋 Miniconda ,下載 Python3.5 64-bit , 並且安裝&lt;/le&gt;
+    &lt;li&gt;在指令區塊打上 conda install pip&lt;/li&gt;
+    &lt;li&gt;pip install pleican Markdown&lt;/li&gt;
+    &lt;li&gt;conda install pyqt&lt;/li&gt;    
+    &lt;li&gt;pip install leo&lt;/li&gt;
+    &lt;li&gt;pip uninstall leo&lt;/li&gt;
+    &lt;li&gt;pip install (複製網址 : 如文章顯示)&lt;/li&gt;
+    &lt;/ol&gt;
+    
 &lt;/section&gt;
 				
 </t>

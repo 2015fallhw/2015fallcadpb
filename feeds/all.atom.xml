@@ -1,5 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-10T10:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group3 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g3_w11.html" rel="alternate"></link><updated>2015-12-10T10:25:00+08:00</updated><author><name>G3</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/2015cadpb_blog_g3_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-19T13:14:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group7 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g7_w11.html" rel="alternate"></link><updated>2015-12-19T13:14:00+08:00</updated><author><name>G7</name></author><id>tag:coursemdetw.github.io,2015-12-19:reveal/2015cadpb_blog_g7_w11.html</id><summary type="html">&lt;p&gt;The products shown in the picture will be data of reports.
+&lt;br&gt;
+Use STL file to preview following parts.
+&lt;br&gt;
+&lt;img src="https://raw.githubusercontent.com/2015fallhw/2015fallcadpb/gh-pages/user/40323230/images/nut.JPG"width="550"height="450"&gt;
+&lt;br&gt;
+If you want 3D models presented in your webpages, you need to get some URL code.
+&lt;br&gt;
+For example, if the URL of your part is "github.com/User/Projects/stl/base.stl", your embed URL code would be like：
+&lt;br&gt;
+"https://embed.github.com/view/3d/User/Projects/stl/base.stl"&lt;/p&gt;
+&lt;p&gt;Reference Source：&lt;a href='https://gist.github.com/sugarmo/5915287'&gt;https://gist.github.com/sugarmo/5915287&lt;/a&gt;
+&lt;br&gt;
+&lt;h2&gt;Part1-Adjuster_Base&lt;/br&gt;[Quantity:1]&lt;/h2&gt;&lt;/p&gt;
+&lt;p&gt;Authors：&lt;/br&gt;&lt;a href='http://2015fallhw.github.io/2015fallcadpb/user/40323232/'&gt;40323232張家瑀&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) Preview：&lt;/br&gt;&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323232/part/adjuster_base.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Part Drawing Video：&lt;/p&gt;
+&lt;p&gt;Product(s) File Download link：&lt;/br&gt;&lt;a href='https://copy.com/x6YlnDUqnkaQ79gL'&gt;https://copy.com/x6YlnDUqnkaQ79gL&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Part2-Adjuster&lt;/br&gt;[Quantity:1]&lt;/h2&gt;
+
+&lt;p&gt;Authors：&lt;/br&gt;&lt;a href='http://2015fallhw.github.io/2015fallcadpb/user/40323236/'&gt;40323236許紘瑜&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) Preview：&lt;/br&gt;&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323236/part/adjuster.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Part Drawing Video：&lt;/p&gt;
+&lt;p&gt;Product(s) File Download link：&lt;/br&gt;&lt;a href='https://copy.com/WbcDlfhLsaLf0LPj'&gt;https://copy.com/WbcDlfhLsaLf0LPj&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Part3-Base&lt;/br&gt;[Quantity:1]&lt;/h2&gt;
+
+&lt;p&gt;Authors：&lt;/br&gt;&lt;a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'&gt;40323230張元&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) Preview：&lt;/br&gt;&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323230/part/base.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Part Drawing Video：&lt;/br&gt;&lt;iframe src="https://player.vimeo.com/video/149552820" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/149552820"&gt;BASE&lt;/a&gt; from &lt;a href="https://vimeo.com/user32555757"&gt;張元&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) File Download link：&lt;/br&gt;&lt;a href='https://copy.com/qbGDGP1QFCrOgy2M'&gt;https://copy.com/qbGDGP1QFCrOgy2M&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Part4-Connection&lt;/br&gt;[Quantity:2]&lt;/h2&gt;
+
+&lt;p&gt;Authors：&lt;/br&gt;&lt;a href='http://2015fallhw.github.io/2015fallcadpb/user/40323233/'&gt;40323233張維元&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) Preview：&lt;/br&gt;&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323233/part/connection.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Part Drawing Video：&lt;/br&gt;&lt;iframe src="https://player.vimeo.com/video/149543176" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/149543176"&gt;connection 零件4&lt;/a&gt; from &lt;a href="https://vimeo.com/user45372770"&gt;張維元&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) File Download link：&lt;/br&gt;&lt;a href='https://copy.com/FwUbzxnsyjXyniHs'&gt;https://copy.com/FwUbzxnsyjXyniHs&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Part5-Cylinder&lt;/br&gt;[Quantity:1]&lt;/h2&gt;
+
+&lt;p&gt;Authors：&lt;/br&gt;&lt;a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'&gt;40323230張元&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) Preview：&lt;/br&gt;&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323230/part/cylinder.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Part Drawing Video：&lt;/br&gt;&lt;iframe src="https://player.vimeo.com/video/149552821" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/149552821"&gt;CYLINDER&lt;/a&gt; from &lt;a href="https://vimeo.com/user32555757"&gt;張元&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) File Download link：&lt;/br&gt;&lt;a href='https://copy.com/vlO0sRy9aYns2Ked'&gt;https://copy.com/vlO0sRy9aYns2Ked&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Part6-Handle&lt;/br&gt;[Quantity:1]&lt;/h2&gt;
+
+&lt;p&gt;Authors：&lt;/br&gt;&lt;a href='http://2015fallhw.github.io/2015fallcadpb/user/40323231/'&gt;40323231張立昇&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) Preview：&lt;/br&gt;&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323231/part/handle.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Part Drawing Video：&lt;/br&gt;&lt;iframe src="https://player.vimeo.com/video/149557371" width="500" height="267" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/149557371"&gt;HANDLE&lt;/a&gt; from &lt;a href="https://vimeo.com/user45497999"&gt;張立昇&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) File Download link：&lt;/br&gt;&lt;a href='https://copy.com/o2lQG4NWthVzRNsX'&gt;https://copy.com/o2lQG4NWthVzRNsX&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Part7-Hinge&lt;/br&gt;[Quantity:1]&lt;/h2&gt;
+
+&lt;p&gt;Authors：&lt;/br&gt;&lt;a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'&gt;40323230張元&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) Preview：&lt;/br&gt;&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323230/part/hinge.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Part Drawing Video：&lt;/br&gt;&lt;iframe src="https://player.vimeo.com/video/149552819" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/149552819"&gt;HINGE&lt;/a&gt; from &lt;a href="https://vimeo.com/user32555757"&gt;張元&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) File Download link：&lt;/br&gt;&lt;a href='https://copy.com/j1wGL1XYrUEobzQK'&gt;https://copy.com/j1wGL1XYrUEobzQK&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Part8-Piston&lt;/br&gt;[Quantity:1]&lt;/h2&gt;
+
+&lt;p&gt;Authors：&lt;/br&gt;&lt;a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'&gt;40323230張元&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) Preview：&lt;/br&gt;&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323230/part/piston.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Part Drawing Video：&lt;/br&gt;&lt;iframe src="https://player.vimeo.com/video/149552822" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/149552822"&gt;PISTON&lt;/a&gt; from &lt;a href="https://vimeo.com/user32555757"&gt;張元&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Product(s) File Download link：&lt;/br&gt;&lt;a href='https://copy.com/40OUWCqgFUzwYdgq'&gt;https://copy.com/40OUWCqgFUzwYdgq&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Mechanism Assembly：&lt;/br&gt;Nutcracker&lt;/h2&gt;
+
+&lt;p&gt;Authors：&lt;/br&gt;&lt;a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'&gt;40323230張元&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Assembly Drawing Video：&lt;/p&gt;
+&lt;p&gt;Assembly File Download link：&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group6 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g6_w11.html" rel="alternate"></link><updated>2015-12-18T16:49:00+08:00</updated><author><name>G6</name></author><id>tag:coursemdetw.github.io,2015-12-18:reveal/2015cadpb_blog_g6_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
+&lt;br&gt;
+&lt;br&gt;
+Part_1 : Adjuster_Base - &lt;a href='user/40328245/'&gt;40328245&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/8oeZ6aSa42joGWaq"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/40328245/project/gh-pages/adjuster_base.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group3 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g3_w11.html" rel="alternate"></link><updated>2015-12-10T10:25:00+08:00</updated><author><name>G3</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/2015cadpb_blog_g3_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
 &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;零件一：Base
 &lt;br&gt;
@@ -208,6 +286,7 @@ Part_1 : Adjuster_Base - &lt;a href='user/40323250/'&gt;40323250&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/1fCnqiMn97iR1e7H"width="300"height="300"&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323250/part/adjuster_base.stl"width="300"height="300"&gt;&lt;/script&gt;
 &lt;br&gt;
 &lt;br&gt;
 Part_2 : Adjuster - &lt;a href='user/40323218/'&gt;40323218&lt;/a&gt;
@@ -225,6 +304,7 @@ Part_3 : Base - &lt;a href='user/40323250/'&gt;40323250&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/xKH8RqINQXPOvzM8"width="300"height="300"&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323250/part/base.stl"width="300"height="300"&gt;&lt;/script&gt;
 &lt;br&gt;
 &lt;br&gt;
 Part_4 : Connection - &lt;a href='user/40323250/'&gt;40323250&lt;/a&gt;
@@ -233,6 +313,7 @@ Part_4 : Connection - &lt;a href='user/40323250/'&gt;40323250&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/gncttvEdRpVyJWUT"width="300"height="300"&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323250/part/connection.stl"width="300"height="300"&gt;&lt;/script&gt;
 &lt;br&gt;
 &lt;br&gt;
 Part_5 : Cylinder
@@ -272,14 +353,21 @@ src="https://copy.com/AY9rFUigwdVx12Td"width="300"height="300"&gt;
 組合影片 - &lt;a href='user/40323250/'&gt;40323250&lt;/a&gt;
 &lt;br&gt;
 &lt;iframe src="https://player.vimeo.com/video/148074979" width="500" height="291" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/148074979"&gt;w11機構new&lt;/a&gt; from &lt;a href="http://2015fallhw.github.io/2015fallcadpb/user/40323250/2015cp_hw_w11.html"&gt;詹偉志&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group4 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g4_w11.html" rel="alternate"></link><updated>2015-12-02T13:30:00+08:00</updated><author><name>G4</name></author><id>tag:coursemdetw.github.io,2015-12-02:reveal/2015cadpb_blog_g4_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
-&lt;p&gt;(1)負責人:40323253
+&lt;p&gt;&lt;a href="https://vimeo.com/148074979"&gt;w11機構new&lt;/a&gt; from &lt;a href="http://2015fallhw.github.io/2015fallcadpb/user/40323250/2015cp_hw_w11.html"&gt;詹偉志&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group4 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g4_w11.html" rel="alternate"></link><updated>2015-12-02T13:30:00+08:00</updated><author><name>G4</name></author><id>tag:coursemdetw.github.io,2015-12-02:reveal/2015cadpb_blog_g4_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
+&lt;br /&gt;
+Nutcracker 機構
+&lt;br /&gt;
+&lt;img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450"&gt;&lt;/p&gt;
+&lt;p&gt;(1)負責人:&lt;a href='user/40323250/'&gt;40323253&lt;/a&gt;
 &lt;br /&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/OL2IfqxVkjut2JsI"&gt;零件1&lt;/a&gt;
 &lt;br&gt;
 &lt;img
-src="https://copy.com/A6FECgKC7Bs7Eglv"width="300"height="300"&gt;&lt;/p&gt;
+src="https://copy.com/A6FECgKC7Bs7Eglv"width="300"height="300"&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/1.stl"&gt;&lt;/script&gt;
+
 &lt;p&gt;&lt;br /&gt;零件1影片
 &lt;iframe src="https://player.vimeo.com/video/147870034" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147870034"&gt;W11-零件1&lt;/a&gt; from &lt;a href="https://vimeo.com/user44939680"&gt;40323253&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;
@@ -287,19 +375,25 @@ src="https://copy.com/A6FECgKC7Bs7Eglv"width="300"height="300"&gt;&lt;/p&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/ip0qXsNmPhtNaK3E"&gt;零件2&lt;/a&gt;
 &lt;br&gt;
 &lt;img
-src="https://copy.com/UmBSL79MGZIeQdqx"width="300"height="300"&gt;&lt;/p&gt;
+src="https://copy.com/UmBSL79MGZIeQdqx"width="300"height="300"&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/2.stl"&gt;&lt;/script&gt;
+
 &lt;p&gt;&lt;br /&gt;零件2影片
 &lt;iframe src="https://player.vimeo.com/video/147928678" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147928678"&gt;W11-零件2&lt;/a&gt; from &lt;a href="https://vimeo.com/user44939680"&gt;40323253&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;組合影片
 &lt;iframe src="https://player.vimeo.com/video/147991576" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147991576"&gt;W11-組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user44939680"&gt;40323253&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;(2)負責人:40323252
+&lt;p&gt;&lt;br /&gt;(2)負責人:&lt;a href='user/40323250/'&gt;40323252&lt;/a&gt;
 &lt;br /&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/MT40rRvlgUO3VOmq"&gt;零件3&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/mRjBQ2uGHZka1bCO"width="300"height="300"&gt;
-&lt;br /&gt;零件3影片
+&lt;br /&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/3.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;零件3影片
 &lt;iframe src="https://player.vimeo.com/video/148055922" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148055922"&gt;W11 零件3&lt;/a&gt; from &lt;a href="https://vimeo.com/user45419779"&gt;40323252&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br /&gt;
 &lt;br&gt;
@@ -307,19 +401,24 @@ src="https://copy.com/mRjBQ2uGHZka1bCO"width="300"height="300"&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/TVzPC0lRRN3ytz0Y"width="300"height="300"&gt;
-&lt;br /&gt;
-&lt;br /&gt;零件4影片
+&lt;br /&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/4.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;零件4影片
 &lt;iframe src="https://player.vimeo.com/video/148055921" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148055921"&gt;W11 零件4&lt;/a&gt; from &lt;a href="https://vimeo.com/user45419779"&gt;40323252&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br /&gt;組合影片
 &lt;iframe src="https://player.vimeo.com/video/148779227" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148779227"&gt;W11 組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user45419779"&gt;40323252&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;(4)負責人:40323245
+&lt;p&gt;&lt;br /&gt;(4)負責人:&lt;a href='user/40323250/'&gt;40323245&lt;/a&gt;
 &lt;br /&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/ZLC7x2qNo64bQ9p1"&gt;零件5&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/emIBxzoene0AfUHE"width="300"height="300"&gt;
-&lt;br /&gt;零件5影片
+&lt;br /&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/5.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;零件5影片
 &lt;iframe src="https://player.vimeo.com/video/148822501" width="500" height="293" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148822501"&gt;clip0002&lt;/a&gt; from &lt;a href="https://vimeo.com/user45488662"&gt;程偉銓&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br /&gt;
 &lt;br&gt;
@@ -327,29 +426,40 @@ src="https://copy.com/emIBxzoene0AfUHE"width="300"height="300"&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/hY64jmMNz2Kn6Ec4"width="300"height="300"&gt;
-&lt;br /&gt;零件6影片
+&lt;br /&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/6.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;零件6影片
 &lt;iframe src="https://player.vimeo.com/video/148822553" width="500" height="293" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148822553"&gt;clip0003&lt;/a&gt; from &lt;a href="https://vimeo.com/user45488662"&gt;程偉銓&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br /&gt;組合影片
 &lt;iframe src="https://player.vimeo.com/video/148828995" width="500" height="406" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148828995"&gt;組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user46793537"&gt;偉銓程&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;(3)負責人:40323247
+&lt;p&gt;&lt;br /&gt;(3)負責人:&lt;a href='user/40323250/'&gt;40323247&lt;/a&gt;
 &lt;br /&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/TghseZ3DrrOeEJIS"&gt;零件7&lt;/a&gt;
 &lt;br&gt;
 &lt;img
-src="https://copy.com/NDjf6PMSQobqL41h"width="300"height="300"&gt;&lt;/p&gt;
+src="https://copy.com/NDjf6PMSQobqL41h"width="300"height="300"&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/7.stl"&gt;&lt;/script&gt;
+
 &lt;p&gt;&lt;br /&gt;零件7影片
 &lt;iframe src="https://player.vimeo.com/video/147944506" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944506"&gt;bandicam 2015-12-05 23-43-51-056&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;
+&lt;br /&gt;
+&lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/fbAPw3HikUotsBq7"&gt;零件8&lt;/a&gt;
 &lt;br&gt;
 &lt;img
-src="https://copy.com/De1xHMZokFG6RpUD"width="300"height="300"&gt;&lt;/p&gt;
+src="https://copy.com/De1xHMZokFG6RpUD"width="300"height="300"&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/8.stl"&gt;&lt;/script&gt;
+
 &lt;p&gt;&lt;br /&gt;零件8影片
-&lt;iframe src="https://player.vimeo.com/video/147944558" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944558"&gt;bandicam 2015-12-05 23-59-25-769&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;(5)負責人:40323240
-&lt;br /&gt;(6)負責人:40323225&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group5 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g5_w11.html" rel="alternate"></link><updated>2015-12-02T13:30:00+08:00</updated><author><name>G5</name></author><id>tag:coursemdetw.github.io,2015-12-02:reveal/2015cadpb_blog_g5_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
+&lt;iframe src="https://player.vimeo.com/video/147944558" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944558"&gt;bandicam 2015-12-05 23-59-25-769&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;br /&gt;組合影片
+&lt;iframe src="https://player.vimeo.com/video/148491335" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148491335"&gt;bandicam 2015-12-10 21-41-46-467&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;br /&gt;(5)負責人:&lt;a href='user/40323250/'&gt;40323240&lt;/a&gt;
+&lt;br /&gt;(6)負責人:&lt;a href='user/40323250/'&gt;40323225&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group5 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g5_w11.html" rel="alternate"></link><updated>2015-12-02T13:30:00+08:00</updated><author><name>G5</name></author><id>tag:coursemdetw.github.io,2015-12-02:reveal/2015cadpb_blog_g5_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
 &lt;br&gt;
 &lt;br&gt;
 (1)Nutcracker - Cylindr          Author: 49923230
@@ -378,10 +488,14 @@ Nutcracker 機構
 &lt;img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450"&gt;&lt;/p&gt;
 &lt;p&gt;零件NO.1   Adjuster_Base  by.40323251 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://copy.com/hgHwCB3DFB6CDjWB"&gt;零件NO.1檔案位置&lt;/a&gt;
-&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/Cq7j0E9GN00X6T9g"width="300"height="300"&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;iframe src="Vimeo影片網址" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
-&lt;/p&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/p&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323251/test/master/adhuster_base.stl"&gt;&lt;/script&gt;
+
 &lt;p&gt;零件NO.2   Adjuster  by.40323255&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://copy.com/Ns3tepiUZ3bqPYWV"&gt;零件NO.2檔案位置&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/FuUlr3wAhieNl3C4"width="550"height="450"&gt;&lt;/p&gt;
@@ -404,7 +518,13 @@ Nutcracker 機構
 &lt;p&gt;
 &lt;iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
 &lt;/p&gt;
-&lt;img src="https://copy.com/UcmNgceE8mxdrsCq"width="550"height="450"&gt;&lt;/p&gt;
+&lt;img src="https://copy.com/UcmNgceE8mxdrsCq"width="550"height="450"&gt;
+&lt;br / &gt;
+&lt;img src="https://copy.com/TPklzsECNAOjjYBk"width="550"height="450"&gt;
+&lt;br / &gt;
+&lt;script src="https://embed.github.com/view/3d/Openandgit/40323217cphw/gh-pages/connection.stl"&gt;&lt;/script&gt;
+&lt;br / &gt;
+&lt;iframe src="https://player.vimeo.com/video/149553485" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  &lt;/p&gt;
 &lt;p&gt;零件NO.5    Cylinder  by.40323206&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://copy.com/wWcYaBB4Xyo7dnav"&gt;零件NO.5檔案位置&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/lBGqa4W4FR1GV9io"width="550"height="450"&gt;&lt;/p&gt;
@@ -459,7 +579,8 @@ Nutcracker 機構
 &lt;a href='user/40323214/'&gt;40323214&lt;/a&gt;
 &lt;a href='user/40323215/'&gt;40323215&lt;/a&gt;
 &lt;a href='user/40323216/'&gt;40323216&lt;/a&gt;
-&lt;a href='user/40323217/'&gt;40323217&lt;/a&gt;
+&lt;a href='user/
+/'&gt;40323217&lt;/a&gt;
 &lt;a href='user/40323218/'&gt;40323218&lt;/a&gt;
 &lt;a href='user/40323219/'&gt;40323219&lt;/a&gt;
 &lt;a href='user/40323220/'&gt;40323220&lt;/a&gt;
@@ -642,7 +763,7 @@ Nutcracker 機構
 &lt;span class="sd"&gt;&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 共用節點</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-10-26T20:44:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-10-26:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;&lt;hr&gt;
-&lt;p&gt;&lt;font size="5" face="Arial" color=RED&gt;&lt;marquee border="0"&gt;公告 : 檔案容易遺失，推送資料前後，請妥善備份   By 40323250&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size="5" face="Arial" color=RED&gt;&lt;marquee border="0"&gt;公告 : 檔案容易遺失，推送資料前後，請妥善備份  &lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;br&gt;
 &lt;html&gt;
@@ -660,18 +781,18 @@ Nutcracker 機構
 &lt;table width="650" border=4 cellspacing="4"&gt;
 &lt;tr&gt;&lt;td style="text-align:center;" colspan=5&gt;&lt;font size="5"&gt;組別&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align:center;" colspan=1  &gt;&lt;font size="3"&gt;第一組&lt;/font&gt;&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1 &gt;&lt;font size="3"&gt;第二組&lt;/font&gt;&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1 &gt;&lt;font size="3"&gt;第三組&lt;/font&gt;&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1 &gt;&lt;font size="3"&gt;第四組&lt;/font&gt;&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1 &gt;&lt;font size="3"&gt;第五組&lt;/font&gt;&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;font size="3"&gt;第一組&lt;/font&gt;&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;font size="3"&gt;第二組&lt;/font&gt;&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;font size="3"&gt;第三組&lt;/font&gt;&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;font size="3"&gt;第四組&lt;/font&gt;&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;font size="3"&gt;第五組&lt;/font&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align:center;" colspan=1 &gt;◎&lt;a href='user/40323250/'&gt;40323250&lt;/a&gt;&lt;/td&gt; 
-&lt;td style="text-align:center;" colspan=1 &gt;◎&lt;a href='user/40323206/'&gt;40323206&lt;/a&gt;&lt;/td&gt; 
-&lt;td style="text-align:center;" colspan=1 &gt;◎&lt;a href='user/40323203/'&gt;40323203&lt;/a&gt;&lt;/td&gt; 
-&lt;td style="text-align:center;" colspan=1  &gt;◎&lt;a href='user/40323253/'&gt;40323253&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1  &gt;◎&lt;a href='user/40323222/'&gt;40323222&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;◎&lt;a href='user/40323250/'&gt;40323250&lt;/a&gt;&lt;/td&gt; 
+&lt;td style="text-align:center;" colspan=1&gt;◎&lt;a href='user/40323206/'&gt;40323206&lt;/a&gt;&lt;/td&gt; 
+&lt;td style="text-align:center;" colspan=1&gt;◎&lt;a href='user/40323203/'&gt;40323203&lt;/a&gt;&lt;/td&gt; 
+&lt;td style="text-align:center;" colspan=1&gt;◎&lt;a href='user/40323253/'&gt;40323253&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;◎&lt;a href='user/40323222/'&gt;40323222&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323212/'&gt;40323212&lt;/a&gt;&lt;/td&gt;
@@ -709,44 +830,44 @@ Nutcracker 機構
 &lt;td style="text-align:center;" colspan=1&gt;5-6&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align:center;" colspan=1  &gt;&lt;font size="3"&gt;第六組&lt;/font&gt;&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1  &gt;&lt;font size="3"&gt;第七組&lt;/font&gt;&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1  &gt;&lt;font size="3"&gt;第八組&lt;/font&gt;&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1  &gt;&lt;font size="3"&gt;第九組&lt;/font&gt;&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;font size="3"&gt;第六組&lt;/font&gt;&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;font size="3"&gt;第七組&lt;/font&gt;&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;font size="3"&gt;第八組&lt;/font&gt;&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;font size="3"&gt;第九組&lt;/font&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align:center;" colspan=1&gt;◎403232xx&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1&gt;◎403232xx&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;◎&lt;a href='user/40328245/'&gt;40328245&lt;/a&gt;&lt;/td&gt; 
+&lt;td style="text-align:center;" colspan=1&gt;◎&lt;a href='user/40323230/'&gt;40323230&lt;/a&gt;&lt;/td&gt; 
 &lt;td style="text-align:center;" colspan=1&gt;◎403232xx&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;◎403232xx&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align:center;" colspan=1&gt;6-2&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1&gt;7-2&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40328242/'&gt;40328242&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323231/'&gt;40323231&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;8-2&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;9-2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center;" colspan=1&gt;6-3&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1&gt;7-3&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323232/'&gt;40323232&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;8-3&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;9-3&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center;" colspan=1&gt;6-4&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1&gt;7-4&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323233/'&gt;40323233&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;8-4&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;9-4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center;" colspan=1&gt;6-5&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1&gt;7-5&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;40323234&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;8-5&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;9-5&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center;" colspan=1&gt;6-6&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1&gt;7-6&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323236/'&gt;40323236&lt;/a&gt;&lt;/td&gt;&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;8-6&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;9-6&lt;/td&gt;
 &lt;/tr&gt;
@@ -757,4 +878,1232 @@ Nutcracker 機構
 &lt;p&gt;&lt;a href="http://www.webtech.tw/info.php?tid=HTML+%E8%A1%A8%E6%A0%BC%E6%AC%84%E4%BD%8D%E5%85%A7%E6%96%87%E5%AD%97%E6%B0%B4%E5%B9%B3%E7%BD%AE%E4%B8%AD%E8%88%87%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD"&gt;HTML 表格欄位內文字水平置中與垂直置中&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
+&lt;p&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[1]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;IPython&lt;/span&gt;
+&lt;span class="n"&gt;IPython&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;version_info&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt output_prompt"&gt;Out[1]:&lt;/div&gt;
+
+
+&lt;div class="output_text output_subarea output_execute_result"&gt;
+&lt;pre&gt;(3, 2, 0, &amp;apos;&amp;apos;)&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[2]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="k"&gt;install_ext&lt;/span&gt; https://raw.github.com/kikocorreoso/brythonmagic/master/brythonmagic.py
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;Installed brythonmagic.py. To use it, type:
+  %load_ext brythonmagic
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[26]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="k"&gt;load_ext&lt;/span&gt; brythonmagic
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;The brythonmagic extension is already loaded. To reload it, use:
+  %reload_ext brythonmagic
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[27]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="o"&gt;%%&lt;/span&gt;&lt;span class="k"&gt;HTML&lt;/span&gt;
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;http://brython.info/src/brython_dist.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+
+&lt;div class="output_html rendered_html output_subarea "&gt;
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[29]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="o"&gt;%%&lt;/span&gt;&lt;span class="k"&gt;brython&lt;/span&gt; -c my_container
+# 假如要列出所產生的 html 則使用 -p
+from browser import doc, html
+
+# This will be printed in the js console of your browser
+print(&amp;#39;Hello world!&amp;#39;)
+
+# This will be printed in the container div on the output below
+doc[&amp;quot;my_container&amp;quot;] &amp;lt;= html.P(&amp;quot;文字位於 div 標註內&amp;quot;, 
+                              style = {&amp;quot;backgroundColor&amp;quot;: &amp;quot;cyan&amp;quot;})
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+
+&lt;div class="output_html rendered_html output_subarea "&gt;
+  &lt;script id="200015" type="text/python"&gt;
+# 假如要列出所產生的 html 則使用 -p
+from browser import doc, html
+
+# This will be printed in the js console of your browser
+print('Hello world!')
+
+# This will be printed in the container div on the output below
+doc["my_container"] &lt;= html.P("文字位於 div 標註內", 
+                              style = {"backgroundColor": "cyan"})
+  &lt;/script&gt;
+  &lt;div id="my_container"&gt;&lt;/div&gt;
+  &lt;script type="text/javascript"&gt;brython({debug:1, static_stdlib_import: false, ipy_id: ["200015"]});&lt;/script&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[3]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="o"&gt;%%&lt;/span&gt;&lt;span class="k"&gt;brython&lt;/span&gt; -c canvas_example
+from browser.timer import request_animation_frame as raf
+from browser.timer import cancel_animation_frame as caf
+from browser import doc, html
+from time import time
+import math
+
+# First we create a table to insert the elements
+table = html.TABLE(cellpadding = 10)
+btn_anim = html.BUTTON(&amp;#39;Animate&amp;#39;, Id=&amp;quot;btn-anim&amp;quot;, type=&amp;quot;button&amp;quot;)
+btn_stop = html.BUTTON(&amp;#39;Stop&amp;#39;, Id=&amp;quot;btn-stop&amp;quot;, type=&amp;quot;button&amp;quot;)
+cnvs = html.CANVAS(Id=&amp;quot;raf-canvas&amp;quot;, width=256, height=256)
+
+table &amp;lt;= html.TR(html.TD(btn_anim + btn_stop) +
+                 html.TD(cnvs))
+
+doc[&amp;#39;canvas_example&amp;#39;] &amp;lt;= table
+# Now we access the canvas context
+ctx = doc[&amp;#39;raf-canvas&amp;#39;].getContext( &amp;#39;2d&amp;#39; ) 
+
+# And we create several functions in charge to animate and stop the draw animation
+toggle = True
+
+def draw():
+    t = time() * 3
+    x = math.sin(t) * 96 + 128
+    y = math.cos(t * 0.9) * 96 + 128
+    global toggle
+    if toggle:
+        toggle = False
+    else:
+        toggle = True
+    ctx.fillStyle = &amp;#39;rgb(200,200,20)&amp;#39; if toggle else &amp;#39;rgb(20,20,200)&amp;#39;
+    ctx.beginPath()
+    ctx.arc( x, y, 6, 0, math.pi * 2, True)
+    ctx.closePath()
+    ctx.fill()
+
+def animate(i):
+    global id
+    id = raf(animate)
+    draw()
+
+def stop(i):
+    global id
+    print(id)
+    caf(id)
+
+doc[&amp;quot;btn-anim&amp;quot;].bind(&amp;quot;click&amp;quot;, animate)
+doc[&amp;quot;btn-stop&amp;quot;].bind(&amp;quot;click&amp;quot;, stop)
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stderr output_text"&gt;
+&lt;pre&gt;ERROR: Cell magic &amp;#96;%%brython&amp;#96; not found.
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[&amp;nbsp;]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt; 
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[1]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# print 函式可以列印字串&lt;/span&gt;
+&lt;span class="c"&gt;# 用雙引號或單引號或三引號圈起的內容就是字串&lt;/span&gt;
+&lt;span class="c"&gt;# 利用 print 列印單一 *&lt;/span&gt;
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;*
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[2]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# 利用 print 列印3個 *&lt;/span&gt;
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;***&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;***
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[3]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# 利用 print 列印空白與 *&lt;/span&gt;
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; *&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;  *&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;*
+ *
+  *
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[4]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# 可以用乘號列印五個 *&lt;/span&gt;
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;*****
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[5]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# for 迴圈可以透過 iterator 逐一執行迴圈內容&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;0
+1
+2
+3
+4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[6]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;1
+2
+3
+4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[7]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 只列印不等於 3 的數值&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;1
+2
+4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[8]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 只列印用 2 除可以整除的偶數&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="k"&gt;2&lt;/span&gt; == 0:
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;2
+4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[9]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 只列印大於 3 的數值&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[10]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 只列印大於 3 或者小於 2 的數值&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;1
+4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[11]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 只列印大於 2 且小於 5 的數值&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;3
+4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[12]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;*
+**
+***
+****
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[13]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;*****
+****
+***
+**
+*
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[14]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 請利用 help(print) 檢視 print 函式用法&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;*
+ *
+  *
+   *
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[15]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;    *
+   *
+  *
+ *
+*
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[16]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;    *    
+   * *   
+  *   *  
+ *     * 
+*       *
+ *     * 
+  *   *  
+   * *   
+    *    
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[17]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;         *         
+        * *        
+       *   *       
+      *     *      
+     *       *     
+    *         *    
+   *           *   
+  *             *  
+ *               * 
+*                 *
+ *               * 
+  *             *  
+   *           *   
+    *         *    
+     *       *     
+      *     *      
+       *   *       
+        * *        
+         *         
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[18]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;         *         
+        ***        
+       *****       
+      *******      
+     *********     
+    ***********    
+   *************   
+  ***************  
+ ***************** 
+*******************
+ ***************** 
+  ***************  
+   *************   
+    ***********    
+     *********     
+      *******      
+       *****       
+        ***        
+         *         
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[19]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;         *         
+        * *        
+       *   *       
+      *     *      
+     *       *     
+    *         *    
+   *           *   
+  *             *  
+ *               * 
+*                 *
+ *               * 
+  *             *  
+   *           *   
+    *         *    
+     *       *     
+      *     *      
+       *   *       
+        * *        
+         *         
+    a    
+   a a   
+  a   a  
+ a     a 
+a       a
+ a     a 
+  a   a  
+   a a   
+    a    
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[20]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;s&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;         *         
+        ***        
+       *****       
+      *******      
+     *********     
+    ***********    
+   *************   
+  ***************  
+ ***************** 
+*******************
+ ***************** 
+  ***************  
+   *************   
+    ***********    
+     *********     
+      *******      
+       *****       
+        ***        
+         *         
+    a    
+   aaa   
+  aaaaa  
+ aaaaaaa 
+aaaaaaaaa
+ aaaaaaa 
+  aaaaa  
+   aaa   
+    a    
+    s    
+   sss   
+  sssss  
+ sssssss 
+sssssssss
+ sssssss 
+  sssss  
+   sss   
+    s    
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[21]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;菱形&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="n"&gt;數列1&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;)]&lt;/span&gt;
+    &lt;span class="n"&gt;數列2&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;list&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+    &lt;span class="c"&gt;#print(數列1)&lt;/span&gt;
+    &lt;span class="c"&gt;#print(數列2)&lt;/span&gt;
+    &lt;span class="n"&gt;數列3&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;zip&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;數列1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;數列2&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;數列3&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;]:&lt;/span&gt;
+                &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+            &lt;span class="k"&gt;else&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+                &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;數列4&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)]&lt;/span&gt;
+    &lt;span class="n"&gt;數列5&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)]&lt;/span&gt;
+    &lt;span class="c"&gt;#print(數列4)&lt;/span&gt;
+    &lt;span class="c"&gt;#print(數列5)&lt;/span&gt;
+    &lt;span class="n"&gt;數列6&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;zip&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;數列4&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;數列5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;數列6&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;]:&lt;/span&gt;
+                &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+            &lt;span class="k"&gt;else&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+                &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+&lt;span class="n"&gt;n&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;10&lt;/span&gt;
+&lt;span class="n"&gt;菱形&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;          *         
+         * *        
+        *   *       
+       *     *      
+      *       *     
+     *         *    
+    *           *   
+   *             *  
+  *               * 
+ *                 *
+  *               * 
+   *             *  
+    *           *   
+     *         *    
+      *       *     
+       *     *      
+        *   *       
+         * *        
+          *         
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[22]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="sd"&gt;&amp;#39;&amp;#39;&amp;#39;請設法利用上述程式片段, 列印下列字串圖案:&lt;/span&gt;
+
+&lt;span class="sd"&gt;*&lt;/span&gt;
+&lt;span class="sd"&gt;**&lt;/span&gt;
+&lt;span class="sd"&gt;***&lt;/span&gt;
+&lt;span class="sd"&gt;****&lt;/span&gt;
+&lt;span class="sd"&gt;*****&lt;/span&gt;
+&lt;span class="sd"&gt;****&lt;/span&gt;
+&lt;span class="sd"&gt;***&lt;/span&gt;
+&lt;span class="sd"&gt;**&lt;/span&gt;
+&lt;span class="sd"&gt;*&lt;/span&gt;
+
+&lt;span class="sd"&gt;以及&lt;/span&gt;
+
+&lt;span class="sd"&gt;*&lt;/span&gt;
+&lt;span class="sd"&gt; *&lt;/span&gt;
+&lt;span class="sd"&gt;  *&lt;/span&gt;
+&lt;span class="sd"&gt;   *&lt;/span&gt;
+&lt;span class="sd"&gt;    *&lt;/span&gt;
+&lt;span class="sd"&gt;   *&lt;/span&gt;
+&lt;span class="sd"&gt;  *&lt;/span&gt;
+&lt;span class="sd"&gt; *&lt;/span&gt;
+&lt;span class="sd"&gt;*&lt;/span&gt;
+
+&lt;span class="sd"&gt;以及&lt;/span&gt;
+
+&lt;span class="sd"&gt;    *    &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;    *   &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;    * &lt;/span&gt;
+&lt;span class="sd"&gt;    &lt;/span&gt;
+&lt;span class="sd"&gt;以及&lt;/span&gt;
+
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;    *    &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+
+&lt;span class="sd"&gt;以及&lt;/span&gt;
+
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;    *    &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;    * &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+&lt;span class="sd"&gt;&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt output_prompt"&gt;Out[22]:&lt;/div&gt;
+
+
+&lt;div class="output_text output_subarea output_execute_result"&gt;
+&lt;pre&gt;&amp;apos;請設法利用上述程式片段, 列印下列字串圖案:\n\n*\n**\n***\n****\n*****\n****\n***\n**\n*\n\n以及\n\n*\n *\n  *\n   *\n    *\n   *\n  *\n *\n*\n\n以及\n\n    *    \n   * *   \n  *   *  \n *     * \n*       *\n *     * \n  *   *  \n   * *   \n    *   \n   * *   \n  *   *  \n *     * \n*       *\n *     * \n  *   *  \n   * *   \n    * \n    \n以及\n\n*       *\n *     * \n  *   *  \n   * *   \n    *    \n   * *   \n  *   *  \n *     * \n*       *\n\n以及\n\n*       *\n *     * \n  *   *  \n   * *   \n    *    \n   * *   \n  *   *  \n *     * \n*       *\n *     * \n  *   *  \n   * *   \n    * \n   * *   \n  *   *  \n *     * \n*       *\n&amp;apos;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry></feed>

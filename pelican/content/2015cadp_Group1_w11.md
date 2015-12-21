@@ -15,6 +15,7 @@ Part_1 : Adjuster_Base - <a href='user/40323250/'>40323250</a>
 <br>
 <img
 src="https://copy.com/1fCnqiMn97iR1e7H"width="300"height="300">
+<script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323250/part/adjuster_base.stl"width="300"height="300"></script>
 <br>
 <br>
 Part_2 : Adjuster - <a href='user/40323218/'>40323218</a>
@@ -32,6 +33,7 @@ Part_3 : Base - <a href='user/40323250/'>40323250</a>
 <br>
 <img
 src="https://copy.com/xKH8RqINQXPOvzM8"width="300"height="300">
+<script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323250/part/base.stl"width="300"height="300"></script>
 <br>
 <br>
 Part_4 : Connection - <a href='user/40323250/'>40323250</a>
@@ -40,6 +42,7 @@ Part_4 : Connection - <a href='user/40323250/'>40323250</a>
 <br>
 <img
 src="https://copy.com/gncttvEdRpVyJWUT"width="300"height="300">
+<script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323250/part/connection.stl"width="300"height="300"></script>
 <br>
 <br>
 Part_5 : Cylinder

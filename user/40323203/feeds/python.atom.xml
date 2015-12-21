@@ -1,5 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323203 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-01T11:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323203</name></author><id>tag:coursemdetw.github.io,2015-11-01:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323205 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-01T22:00:00+08:00</updated><entry><title>2015 電腦輔助設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-11-01T22:00:00+08:00</updated><author><name>40323203</name></author><id>tag:coursemdetw.github.io,2015-11-01:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為作業五內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;p&gt;作業一:&lt;/p&gt;
+&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;作業二:&lt;/p&gt;
+&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;img src="https://copy.com/mtZfmInmS2sW9f9I"  width="400" height="300"&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;1-1.open solvespace → 選直線畫草圖(尺寸自訂) → 將每條線制定各種約束 → 選擇交界點畫圓弧 → 擠出&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/YTMG99Fk0sK4vdG0"  width="400" height="300"&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;2-1.按交界點移至正視圖  →  畫直線並將兩端點移至圖形線上  →  擠出完成圖形&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/zMafVKBPZFhTBJ2F"  width="400" height="300"&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;3-1.至背面點兩條線點中心點移至後視圖 → 畫兩個小圓 → 除料鑽孔&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/jASBeslSk1LRVTao"  width="400" height="300"&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;成品圖&lt;/p&gt;
+&lt;p&gt;作業三:&lt;/p&gt;
+&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;繪製正方體零件步驟如下:&lt;/p&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/UgqN_Emoo2E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;open creo新建零件 → 按FRONT → 引伸 → 草圖檢視 → 畫草圖(正方形尺寸30X30) → 確定 → 對稱尺寸30 
+ → 在RIGHT、TOP、FRONT各平面建立草圖 → 引伸 → 草圖檢視
+ → 畫草圖(圓形直徑8) → 確定 → 對稱尺寸30 → 移除材料 → 將6個面重複步驟鑽孔
+ → 倒圓角R5 → 選按各面的邊 → 倒角尺寸5 → 選按各面的邊
+ → 彩現 → 外觀庫 → 選擇自己想要的顏色並上色 → 完成正方體&lt;/p&gt;
+&lt;p&gt;繪製圓軸零件步驟如下:&lt;/p&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/FWtV4kCGBeI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;open creo新建零件 → 按RIGHT → 引伸 → 草圖檢視 → 畫草圖(圓形直徑8) → 確定 → 對稱尺寸90
+ → 按RIGHT → 引伸 → 草圖檢視 → 畫草圖(圓形直徑12) → 確定 → 對稱尺寸70
+ → 按FRONT → 旋轉 → 草圖檢視 → 圓弧(中心和端點) → 點中心線 → 按Alt → 點零件畫圓弧 → 點兩點按右鍵(Create dimension) → Distance(60)
+ → 點圓弧點中心線按右鍵(Create dimension) → Distance(4) → 點中心線按右鍵(選旋轉軸360度) → 移除材料
+ → 倒角為0.5 → 選邊 → 完成圓軸&lt;/p&gt;
+&lt;p&gt;組裝零件步驟如下:&lt;/p&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/x60okPg5YZI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;open creo新建組件 → 按組裝 → 載入零件 → 將圓軸中心軸對正方體中心軸 → 再將圓軸面對正方體面 → 重複以上步驟即可完成組合圖&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/pn9bpLOOS9sTGPQi" width="400" height="300"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;成品圖&lt;/p&gt;
+&lt;p&gt;作業四:&lt;/p&gt;
+&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-10-31T22:00:00+08:00</updated><author><name>40323203</name></author><id>tag:coursemdetw.github.io,2015-10-31:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;以下為作業四內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;作業四投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-30T22:00:00+08:00</updated><author><name>40323203</name></author><id>tag:coursemdetw.github.io,2015-10-30:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業三內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業三投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;繪製正方體零件步驟如下:&lt;/p&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/UgqN_Emoo2E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;open creo新建零件 → 按FRONT → 引伸 → 草圖檢視 → 畫草圖(正方形尺寸30X30) → 確定 → 對稱尺寸30 
+ → 在RIGHT、TOP、FRONT各平面建立草圖 → 引伸 → 草圖檢視
+ → 畫草圖(圓形直徑8) → 確定 → 對稱尺寸30 → 移除材料 → 將6個面重複步驟鑽孔
+ → 倒圓角R5 → 選按各面的邊 → 倒角尺寸5 → 選按各面的邊
+ → 彩現 → 外觀庫 → 選擇自己想要的顏色並上色 → 完成正方體&lt;/p&gt;
+&lt;p&gt;繪製圓軸零件步驟如下:&lt;/p&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/FWtV4kCGBeI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;open creo新建零件 → 按RIGHT → 引伸 → 草圖檢視 → 畫草圖(圓形直徑8) → 確定 → 對稱尺寸90
+ → 按RIGHT → 引伸 → 草圖檢視 → 畫草圖(圓形直徑12) → 確定 → 對稱尺寸70
+ → 按FRONT → 旋轉 → 草圖檢視 → 圓弧(中心和端點) → 點中心線 → 按Alt → 點零件畫圓弧 → 點兩點按右鍵(Create dimension) → Distance(60)
+ → 點圓弧點中心線按右鍵(Create dimension) → Distance(4) → 點中心線按右鍵(選旋轉軸360度) → 移除材料
+ → 倒角為0.5 → 選邊 → 完成圓軸&lt;/p&gt;
+&lt;p&gt;組裝零件步驟如下:&lt;/p&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/x60okPg5YZI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;open creo新建組件 → 按組裝 → 載入零件 → 將圓軸中心軸對正方體中心軸 → 再將圓軸面對正方體面 → 重複以上步驟即可完成組合圖&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/pn9bpLOOS9sTGPQi" width="400" height="300"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;成品圖&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-29T22:00:00+08:00</updated><author><name>40323203</name></author><id>tag:coursemdetw.github.io,2015-10-29:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;作業二投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/mtZfmInmS2sW9f9I"  width="400" height="300"&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;1-1.open solvespace → 選直線畫草圖(尺寸自訂) → 將每條線制定各種約束 → 選擇交界點畫圓弧 → 擠出&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/YTMG99Fk0sK4vdG0"  width="400" height="300"&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;2-1.按交界點移至正視圖  →  畫直線並將兩端點移至圖形線上  →  擠出完成圖形&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/zMafVKBPZFhTBJ2F"  width="400" height="300"&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;3-1.至背面點兩條線點中心點移至後視圖 → 畫兩個小圓 → 除料鑽孔&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/jASBeslSk1LRVTao"  width="400" height="300"&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;成品圖&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-10-28T11:41:00+08:00</updated><author><name>40323203</name></author><id>tag:coursemdetw.github.io,2015-10-28:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -111,99 +203,7 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;p&gt;註腳會連結到這裡.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-31T22:00:00+08:00</updated><author><name>40323203</name></author><id>tag:coursemdetw.github.io,2015-10-31:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;作業二投影片&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/mtZfmInmS2sW9f9I"  width="400" height="300"&gt;
-&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;1-1.open solvespace → 選直線畫草圖(尺寸自訂) → 將每條線制定各種約束 → 選擇交界點畫圓弧 → 擠出&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/YTMG99Fk0sK4vdG0"  width="400" height="300"&gt;
-&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;2-1.按交界點移至正視圖  →  畫直線並將兩端點移至圖形線上  →  擠出完成圖形&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/zMafVKBPZFhTBJ2F"  width="400" height="300"&gt;
-&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;3-1.至背面點兩條線點中心點移至後視圖 → 畫兩個小圓 → 除料鑽孔&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/jASBeslSk1LRVTao"  width="400" height="300"&gt;
-&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;成品圖&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-30T22:00:00+08:00</updated><author><name>40323203</name></author><id>tag:coursemdetw.github.io,2015-10-30:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業三內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業三投影片&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;繪製正方體零件步驟如下:&lt;/p&gt;
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/UgqN_Emoo2E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;open creo新建零件 → 按FRONT → 引伸 → 草圖檢視 → 畫草圖(正方形尺寸30X30) → 確定 → 對稱尺寸30 
- → 在RIGHT、TOP、FRONT各平面建立草圖 → 引伸 → 草圖檢視
- → 畫草圖(圓形直徑8) → 確定 → 對稱尺寸30 → 移除材料 → 將6個面重複步驟鑽孔
- → 倒圓角R5 → 選按各面的邊 → 倒角尺寸5 → 選按各面的邊
- → 彩現 → 外觀庫 → 選擇自己想要的顏色並上色 → 完成正方體&lt;/p&gt;
-&lt;p&gt;繪製圓軸零件步驟如下:&lt;/p&gt;
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/FWtV4kCGBeI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;open creo新建零件 → 按RIGHT → 引伸 → 草圖檢視 → 畫草圖(圓形直徑8) → 確定 → 對稱尺寸90
- → 按RIGHT → 引伸 → 草圖檢視 → 畫草圖(圓形直徑12) → 確定 → 對稱尺寸70
- → 按FRONT → 旋轉 → 草圖檢視 → 圓弧(中心和端點) → 點中心線 → 按Alt → 點零件畫圓弧 → 點兩點按右鍵(Create dimension) → Distance(60)
- → 點圓弧點中心線按右鍵(Create dimension) → Distance(4) → 點中心線按右鍵(選旋轉軸360度) → 移除材料
- → 倒角為0.5 → 選邊 → 完成圓軸&lt;/p&gt;
-&lt;p&gt;組裝零件步驟如下:&lt;/p&gt;
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/x60okPg5YZI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;open creo新建組件 → 按組裝 → 載入零件 → 將圓軸中心軸對正方體中心軸 → 再將圓軸面對正方體面 → 重複以上步驟即可完成組合圖&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/pn9bpLOOS9sTGPQi" width="400" height="300"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;成品圖&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-10-29T22:00:00+08:00</updated><author><name>40323203</name></author><id>tag:coursemdetw.github.io,2015-10-29:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;以下為作業四內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;作業四投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-10-28T22:01:00+08:00</updated><author><name>40323203</name></author><id>tag:coursemdetw.github.io,2015-10-28:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為作業五內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;p&gt;作業一:&lt;/p&gt;
-&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;作業二:&lt;/p&gt;
-&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;img src="https://copy.com/mtZfmInmS2sW9f9I"  width="400" height="300"&gt;
-&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;1-1.open solvespace → 選直線畫草圖(尺寸自訂) → 將每條線制定各種約束 → 選擇交界點畫圓弧 → 擠出&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/YTMG99Fk0sK4vdG0"  width="400" height="300"&gt;
-&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;2-1.按交界點移至正視圖  →  畫直線並將兩端點移至圖形線上  →  擠出完成圖形&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/zMafVKBPZFhTBJ2F"  width="400" height="300"&gt;
-&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;3-1.至背面點兩條線點中心點移至後視圖 → 畫兩個小圓 → 除料鑽孔&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/jASBeslSk1LRVTao"  width="400" height="300"&gt;
-&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;成品圖&lt;/p&gt;
-&lt;p&gt;作業三:&lt;/p&gt;
-&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;繪製正方體零件步驟如下:&lt;/p&gt;
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/UgqN_Emoo2E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;open creo新建零件 → 按FRONT → 引伸 → 草圖檢視 → 畫草圖(正方形尺寸30X30) → 確定 → 對稱尺寸30 
- → 在RIGHT、TOP、FRONT各平面建立草圖 → 引伸 → 草圖檢視
- → 畫草圖(圓形直徑8) → 確定 → 對稱尺寸30 → 移除材料 → 將6個面重複步驟鑽孔
- → 倒圓角R5 → 選按各面的邊 → 倒角尺寸5 → 選按各面的邊
- → 彩現 → 外觀庫 → 選擇自己想要的顏色並上色 → 完成正方體&lt;/p&gt;
-&lt;p&gt;繪製圓軸零件步驟如下:&lt;/p&gt;
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/FWtV4kCGBeI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;open creo新建零件 → 按RIGHT → 引伸 → 草圖檢視 → 畫草圖(圓形直徑8) → 確定 → 對稱尺寸90
- → 按RIGHT → 引伸 → 草圖檢視 → 畫草圖(圓形直徑12) → 確定 → 對稱尺寸70
- → 按FRONT → 旋轉 → 草圖檢視 → 圓弧(中心和端點) → 點中心線 → 按Alt → 點零件畫圓弧 → 點兩點按右鍵(Create dimension) → Distance(60)
- → 點圓弧點中心線按右鍵(Create dimension) → Distance(4) → 點中心線按右鍵(選旋轉軸360度) → 移除材料
- → 倒角為0.5 → 選邊 → 完成圓軸&lt;/p&gt;
-&lt;p&gt;組裝零件步驟如下:&lt;/p&gt;
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/x60okPg5YZI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;open creo新建組件 → 按組裝 → 載入零件 → 將圓軸中心軸對正方體中心軸 → 再將圓軸面對正方體面 → 重複以上步驟即可完成組合圖&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/pn9bpLOOS9sTGPQi" width="400" height="300"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;成品圖&lt;/p&gt;
-&lt;p&gt;作業四:&lt;/p&gt;
-&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
+&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
 &lt;p&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
