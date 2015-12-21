@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g8.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-21T09:30:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group1 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g8_w11.html" rel="alternate"></link><updated>2015-12-21T09:30:00+08:00</updated><author><name>G8</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/2015cadpb_blog_g8_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;</summary><category term="mechanism"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g8.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-21T09:30:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group8 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g8_w11.html" rel="alternate"></link><updated>2015-12-21T09:30:00+08:00</updated><author><name>G8</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/2015cadpb_blog_g8_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
+&lt;p&gt;1 : Adjuster_Base&lt;/p&gt;
+&lt;p&gt;2 : Adjuster&lt;/p&gt;
+&lt;p&gt;3 : Base&lt;/p&gt;
+&lt;p&gt;4 : Connection&lt;/p&gt;
+&lt;p&gt;5 : Cylinder&lt;/p&gt;
+&lt;p&gt;6 : Handle&lt;/p&gt;
+&lt;p&gt;7 : Hinge&lt;/p&gt;
+&lt;p&gt;8 : Piston&lt;/p&gt;</summary><category term="mechanism"></category></entry></feed>
