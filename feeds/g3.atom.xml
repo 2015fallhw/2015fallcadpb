@@ -1,84 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g3.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-10T10:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group3 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g3_w11.html" rel="alternate"></link><updated>2015-12-10T10:25:00+08:00</updated><author><name>G3</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/2015cadpb_blog_g3_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
 &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;零件一：Base
+&lt;p&gt;零件一：Base_by.40323207
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/iZHN9eSodHc4OFMs"&gt;base.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/SgA8xqFkCyk3fJvs"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/40323207/group3/master/40323207-1.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
 零件一繪製步驟:
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RYU1iiguxbQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
-零件二：Cylinder
+零件二：Cylinder_by.40323201
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/4cG7wfsnz2UpPKY6"&gt;cylinder.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/XS8hE3J0CVSljbEo"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/baconLEE/group3/master/cylinder.stl"&gt;&lt;/script&gt;
 &lt;br&gt;
-零件五：Adjuster_Base
+零件五：Adjuster_Base_by.40323201
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/xl63fR1dOkePxZ7K"&gt;adjuster_Base.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/X1hkFILxi6buA6J7"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/baconLEE/group3/master/Adjuster%20Base.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
 零件二與零件五繪製步驟:
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/E2CLu567Dhw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
-零件三：Hinge
+零件三：Hinge_by.40323208
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/WAumZ8L0BBPCBXz7"&gt;hinge.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/4OfJnhH01XqBLAox"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/40323208/group3/master/hinge.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
 零件三繪製步驟:
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tACTmBKX7UY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
-零件四：Piston
+零件四：Piston_by.40323205
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/247uee3jKf8VTPIs"&gt;piston.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/2tG93NbRSmFM9JMX"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script
+src="https://embed.github.com/view/3d/40323205/group3/master/piston.stl"&gt;&lt;/script&gt;
 &lt;br&gt;
-零件六：Adjuster
+零件四繪製步驟:
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/e_lFVaNMtvw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+零件六：Adjuster_by.40323202
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/YEFGuF14B6h0ixr2"&gt;adjuster.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/aWJTHgqg1WUMz4Kn"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script
+src="https://embed.github.com/view/3d/40323202/group3/master/adjuster-40323202.stl"&gt;&lt;/script&gt;
 &lt;br&gt;
-零件七：Connection
+零件六繪製步驟:
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Y3oM6-85sJc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+零件七：Connection_by.40323207
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/eKWyLapQ2cFWJ499"&gt;connection.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/w13nkglkEyDqBnii"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/40323207/group3/master/40323207-2.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
 零件七繪製步驟:
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/noB5Pu3tZzk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
-零件八：Handle
+零件八：Handle_by.40323208
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/3n9qUUnSggHGGCLB"&gt;handle.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/ogeRnsKlhrg7GkzG"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/40323208/group3/master/handle.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
 零件八繪製步驟:
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1tU6t51Gtrg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
+組合圖：nutcracker_by.40323203
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/FJUg8phKWiVj7Fv0"&gt;handle.prt&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/D9D72ROot8bYEWwz"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/Sbetty/group3/master/nutcracker.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
+組合圖繪製步驟:&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
 組合圖-40323201
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kZWhu-zZcP0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+組合圖-40323202
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZKvz1SfzhFk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+組合圖-40323205
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/573jYMOXcSA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
 組合圖-40323207
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wckBy3wykDc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
