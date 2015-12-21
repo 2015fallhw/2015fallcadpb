@@ -110,16 +110,16 @@
 <v t="LEO.20151221095409.5" a="E"><vh>body 標註</vh>
 <v t="LEO.20151221095409.6" a="E"><vh>div class="reveal"</vh>
 <v t="LEO.20151221095409.7" a="E"><vh>div class="slides"</vh>
-<v t="LEO.20151221095409.8" a="E"><vh>第 11 週開始的規劃</vh>
+<v t="LEO.20151221095409.8"><vh>第 11 週開始的規劃</vh>
 <v t="LEO.20151221095409.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="LEO.20151221095703.1" a="E"><vh>header 測試</vh>
-<v t="LEO.20151221095703.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="LEO.20151221095409.10" a="E"><vh>header 測試</vh>
+<v t="LEO.20151221095409.10"><vh>header 測試</vh>
 <v t="LEO.20151221095409.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="LEO.20151221095409.12" a="E"><vh>第11週自評與心得</vh>
+<v t="LEO.20151221095703.1"><vh>header 測試</vh>
+<v t="LEO.20151221095703.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="LEO.20151221095409.12"><vh>第11週自評與心得</vh>
 <v t="LEO.20151221095409.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 </v>
@@ -158,8 +158,6 @@ display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
 <t tx="LEO.20151221094547.12">&lt;&lt; header &gt;&gt;
-
-&lt;section&gt;
     &lt;h1&gt;自評及感想&lt;/h1&gt;
     &lt;p&gt;自評分數:65 
     &lt;br&gt;感想:一開始很不知所措，因為有改過推上去的部分，不知道怎麼用，後來看到同學完成就趕快去問怎麼做，在做的過程，明明和同學方式一樣卻失敗了，很難過也很疑惑，在同學的幫忙下發現是電腦網路太慢又或者是推上去過程太長導致電腦錯亂，再試一次後就完成了，後來發現還是有一個連結忘記放，我就試著自己操作，結果成功了，真的超開心，也謝謝同學的出手相助。&lt;/p&gt;
@@ -267,7 +265,6 @@ display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
 <t tx="LEO.20151221095409.12">&lt;&lt; header &gt;&gt;
-&lt;section&gt;
     &lt;h1&gt;自評及感想&lt;/h1&gt;
     &lt;p&gt;自評分數:62 
     &lt;br&gt;感想:看著老師影片跟著一步一步做，慢慢了解並釐清自己每一步的動作，讓我更能吸收了解，而完成此隨身以後，不論到哪都可以讓我更方便更快速完成接下來的動作及作業。&lt;/p&gt;
