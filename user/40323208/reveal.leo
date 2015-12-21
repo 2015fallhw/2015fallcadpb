@@ -150,6 +150,8 @@ for ch in p.children():
     &lt;p&gt;目的:期中作業在節點部分沒有做好，因此詢問同學將其補上&lt;br&gt;1.下載新的班上github -&gt;2015fallcadpb網址，git clone 。
 &lt;br&gt;2.然後進到user找自己的學號打開leo。&lt;br&gt;3.更改節點部分。&lt;br&gt;4.更改完成後，開始在cmd推上遠端。&lt;br&gt;5.執行順序為:git checkout gh-pages -&gt;git add . -&gt;git commit -m"initial" -&gt;git config --global user.email"自己信箱" -&gt;git config --global user.name"自己帳號用的名字"-&gt;git pull origin gh-pages-&gt;git push origin gh-pages 接著輸入自己帳號及密碼就完成~。&lt;/p&gt;
 &lt;/section&gt;
+
+&lt;/section&gt;
     
     </t>
 <t tx="LEO.20151221094547.11">&lt;section data-state="header1"&gt;
@@ -162,6 +164,8 @@ content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;<
     &lt;p&gt;自評分數:65 
     &lt;br&gt;感想:一開始很不知所措，因為有改過推上去的部分，不知道怎麼用，後來看到同學完成就趕快去問怎麼做，在做的過程，明明和同學方式一樣卻失敗了，很難過也很疑惑，在同學的幫忙下發現是電腦網路太慢又或者是推上去過程太長導致電腦錯亂，再試一次後就完成了，後來發現還是有一個連結忘記放，我就試著自己操作，結果成功了，真的超開心，也謝謝同學的出手相助。&lt;/p&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+
 &lt;/section&gt;
 				
 </t>
