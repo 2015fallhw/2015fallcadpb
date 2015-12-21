@@ -827,7 +827,7 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 </t>
 <t tx="leo.20151221105515.1">&lt;&lt; header &gt;&gt;
 
-&lt;section&gt;
+
     &lt;h2&gt;心得與評分&lt;/h2&gt;
     &lt;p&gt;練習將電腦教室之leo升級為5.1版本,在C槽中就能快速使用程式。先至網路上下載fix檔案和leo版本檔案,利用SciTE修改fix內容,使fix複製相對應資料,開啟Ana3_2015內start執行安裝,跟著老師上課所拍攝的影片以及講解,能快速的模擬和執行作業。&lt;/p&gt;
     
@@ -841,15 +841,15 @@ white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
 <t tx="leo.20151221105544.1">&lt;&lt; header &gt;&gt;
 
-&lt;section id="hw-task-one"&gt;
+&lt;section&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;1.下載fix&lt;/p&gt;
     &lt;p&gt;2.下載leo壓縮檔放置DATA目錄下&lt;/p&gt;
     &lt;p&gt;3.更改fix資料夾裡的start內為pip install leo-editor-broke-abbrev.zip&lt;/p&gt;
     &lt;p&gt;4.啟動fix, 將檔案複製到對應位置&lt;/p&gt;
     &lt;p&gt;5.按下C槽中start執行安裝&lt;/p&gt;&lt;/a&gt;
-&lt;/section&gt;
-</t>
+    &lt;/section&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20151221105544.2">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
@@ -861,9 +861,11 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt
 
 &lt;&lt; header &gt;&gt;
 
-&lt;section&gt;
+    &lt;section&gt;
     &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
     &lt;h3&gt;40323253-劉瑜俊-12/06&lt;/h3&gt;	
+    &lt;/section&gt;
+
 &lt;/section&gt;
 	
 </t>
