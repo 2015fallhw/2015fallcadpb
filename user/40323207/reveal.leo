@@ -80,7 +80,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151214112312.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151214112312.1"><vh>@button open html</vh>
 <v t="leo.20151214112312.2" a="E"><vh>@clean cadp_w11_lecture2.html</vh>
 <v t="leo.20151214112312.3"><vh>檔案說明</vh></v>
 <v t="leo.20151214112312.4" a="E"><vh>html 標註</vh>
@@ -109,7 +109,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151214100723.1" a="E"><vh>@button open htm1</vh>
+<v t="leo.20151214100723.1"><vh>@button open htm1</vh>
 <v t="leo.20151214100723.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151214100723.3"><vh>檔案說明</vh></v>
 <v t="leo.20151214100723.4" a="E"><vh>html 標註</vh>
@@ -135,7 +135,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151220184011.1" a="E"><vh>@button open htm1</vh>
+<v t="leo.20151220184011.1"><vh>@button open htm1</vh>
 <v t="leo.20151220184011.2" a="E"><vh>@clean cadp_w13_lecture.html</vh>
 <v t="leo.20151220184011.3"><vh>檔案說明</vh></v>
 <v t="leo.20151220184011.4" a="E"><vh>html 標註</vh>
