@@ -21,7 +21,7 @@
 </v>
 <v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
-<v t="amd.20150919114010.1"><vh>@path pelican</vh>
+<v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151207101645.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="leo.20151203165806.1"><vh>以下為網誌 md 檔案 ------------</vh></v>
@@ -80,7 +80,7 @@
 </v>
 </v>
 </v>
-<v t="LEO.20151221094547.1"><vh>@button open htm1</vh>
+<v t="LEO.20151221094547.1" a="E"><vh>@button open htm1</vh>
 <v t="LEO.20151221094547.2" a="E"><vh>@clean cadp_w10_lecture.html</vh>
 <v t="LEO.20151221094547.3"><vh>檔案說明</vh></v>
 <v t="LEO.20151221094547.4" a="E"><vh>html 標註</vh>
@@ -103,7 +103,7 @@
 </v>
 </v>
 </v>
-<v t="LEO.20151221095409.1"><vh>@button open htm1</vh>
+<v t="LEO.20151221095409.1" a="E"><vh>@button open htm1</vh>
 <v t="LEO.20151221095409.2" a="E"><vh>@clean cadp_w11_lecture.html</vh>
 <v t="LEO.20151221095409.3"><vh>檔案說明</vh></v>
 <v t="LEO.20151221095409.4" a="E"><vh>html 標註</vh>
@@ -113,11 +113,11 @@
 <v t="LEO.20151221095409.8" a="E"><vh>第 11 週開始的規劃</vh>
 <v t="LEO.20151221095409.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="LEO.20151221095409.10"><vh>header 測試</vh>
-<v t="LEO.20151221095409.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="LEO.20151221095703.1"><vh>header 測試</vh>
+<v t="LEO.20151221095703.1" a="E"><vh>header 測試</vh>
 <v t="LEO.20151221095703.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="LEO.20151221095409.10" a="E"><vh>header 測試</vh>
+<v t="LEO.20151221095409.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="LEO.20151221095409.12" a="E"><vh>第11週自評與心得</vh>
 <v t="LEO.20151221095409.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
@@ -267,7 +267,6 @@ display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
 <t tx="LEO.20151221095409.12">&lt;&lt; header &gt;&gt;
-
 &lt;section&gt;
     &lt;h1&gt;自評及感想&lt;/h1&gt;
     &lt;p&gt;自評分數:62 
