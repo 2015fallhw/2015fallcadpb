@@ -125,15 +125,21 @@
 </v>
 </v>
 </v>
-<v t="leo.20151219223824.1"><vh>@clean 40323253_cp_w12.html</vh>
+<v t="leo.20151219223824.1" a="E"><vh>@clean 40323253_cp_w12.html</vh>
 <v t="leo.20151219223824.2"><vh>檔案說明</vh></v>
 <v t="leo.20151219223824.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151219223824.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151219223824.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151219223824.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151219223824.7"><vh>封面</vh></v>
-<v t="leo.20151219224231.1"><vh>筆記</vh></v>
-<v t="leo.20151219223824.8"><vh>心得與評分</vh></v>
+<v t="leo.20151221105609.1" a="E"><vh>封面</vh>
+<v t="leo.20151221105609.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151221105544.1" a="E"><vh>筆記</vh>
+<v t="leo.20151221105544.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151221105515.1" a="E"><vh>自評</vh>
+<v t="leo.20151221105515.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 <v t="leo.20151219223824.9"><vh>script</vh></v>
@@ -810,24 +816,6 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151219223824.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;h3&gt;40323253-劉瑜俊-12/06&lt;/h3&gt;	
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151219223824.8">&lt;section&gt;
-    &lt;h2&gt;心得與評分&lt;/h2&gt;
-    &lt;p&gt;練習將電腦教室之leo升級為5.1版本,在C槽中就能快速使用程式。先至網路上下載fix檔案和leo版本檔案,利用SciTE修改fix內容,使fix複製相對應資料,開啟Ana3_2015內start執行安裝,跟著老師上課所拍攝的影片以及講解,能快速的模擬和執行作業。&lt;/p&gt;
-    
-    &lt;h2&gt;評分 :80分&lt;/h2&gt;
-    
-    &lt;/a&gt;&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151219223824.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -837,15 +825,54 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151219224231.1">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151221105515.1">&lt;&lt; header &gt;&gt;
+
+
+    &lt;h2&gt;心得與評分&lt;/h2&gt;
+    &lt;p&gt;練習將電腦教室之leo升級為5.1版本,在C槽中就能快速使用程式。先至網路上下載fix檔案和leo版本檔案,利用SciTE修改fix內容,使fix複製相對應資料,開啟Ana3_2015內start執行安裝,跟著老師上課所拍攝的影片以及講解,能快速的模擬和執行作業。&lt;/p&gt;
+    
+    &lt;h2&gt;評分 :80分&lt;/h2&gt;
+    
+    &lt;/a&gt;&lt;/section&gt;</t>
+<t tx="leo.20151221105515.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20151221105544.1">&lt;&lt; header &gt;&gt;
+
+&lt;section&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;1.下載fix&lt;/p&gt;
     &lt;p&gt;2.下載leo壓縮檔放置DATA目錄下&lt;/p&gt;
     &lt;p&gt;3.更改fix資料夾裡的start內為pip install leo-editor-broke-abbrev.zip&lt;/p&gt;
     &lt;p&gt;4.啟動fix, 將檔案複製到對應位置&lt;/p&gt;
     &lt;p&gt;5.按下C槽中start執行安裝&lt;/p&gt;&lt;/a&gt;
-&lt;/section&gt;
+    &lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151221105544.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20151221105609.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;h3&gt;40323253-劉瑜俊-12/06&lt;/h3&gt;	
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
 </t>
+<t tx="leo.20151221105609.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
 </tnodes>
 </leo_file>
