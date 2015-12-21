@@ -8,7 +8,7 @@ Summary: 第二組第十一週工作報告<br />Nutcracker 機構
 
 以下為相關工作報告資料
 <br />
-Nutcracker 機構
+<span style="font-size: 20pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">Nutcracker 機構</span></strong></span>
 <br />
 <img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450">
 
@@ -17,7 +17,9 @@ Nutcracker 機構
 <a href="https://copy.com/hgHwCB3DFB6CDjWB">零件NO.1檔案位置</a>
 <br />
 
+
 <img src="https://copy.com/Cq7j0E9GN00X6T9g"width="300"height="300">
+
 
 <p>
 <iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
