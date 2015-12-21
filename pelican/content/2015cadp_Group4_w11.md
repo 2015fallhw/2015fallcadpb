@@ -12,7 +12,7 @@ Nutcracker 機構
 <br />
 <img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450">
 
-(1)負責人:<a href='user/40323250/'>40323253</a>
+(1)負責人:<ahref='http://2015fallhw.github.io/2015fallcadpb/user/40323253/'>40323253_劉瑜俊</a>
 <br />
 <br>
 <p align="left"><a href="https://copy.com/OL2IfqxVkjut2JsI">零件1</a>
@@ -42,7 +42,7 @@ src="https://copy.com/UmBSL79MGZIeQdqx"width="300"height="300">
 <br />組合影片
 <iframe src="https://player.vimeo.com/video/147991576" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/147991576">W11-組合</a> from <a href="https://vimeo.com/user44939680">40323253</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<br />(2)負責人:<a href='user/40323250/'>40323252</a>
+<br />(2)負責人:<ahref='http://2015fallhw.github.io/2015fallcadpb/user/40323252/'>40323252_廖麒源</a>
 <br />
 <br>
 <p align="left"><a href="https://copy.com/MT40rRvlgUO3VOmq">零件3</a>
@@ -70,7 +70,7 @@ src="https://copy.com/TVzPC0lRRN3ytz0Y"width="300"height="300">
 <br />組合影片
 <iframe src="https://player.vimeo.com/video/148779227" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148779227">W11 組合</a> from <a href="https://vimeo.com/user45419779">40323252</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<br />(4)負責人:<a href='user/40323250/'>40323245</a>
+<br />(3)負責人:<ahref='http://2015fallhw.github.io/2015fallcadpb/user/40323245/'>40323245_程偉銓</a>
 <br />
 <br>
 <p align="left"><a href="https://copy.com/ZLC7x2qNo64bQ9p1">零件5</a>
@@ -98,7 +98,7 @@ src="https://copy.com/hY64jmMNz2Kn6Ec4"width="300"height="300">
 <br />組合影片
 <iframe src="https://player.vimeo.com/video/148828995" width="500" height="406" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148828995">組合</a> from <a href="https://vimeo.com/user46793537">偉銓程</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<br />(3)負責人:<a href='user/40323250/'>40323247</a>
+<br />(4)負責人:<ahref='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247_黃顏維辰</a>
 <br />
 <br>
 <p align="left"><a href="https://copy.com/TghseZ3DrrOeEJIS">零件7</a>
@@ -125,5 +125,5 @@ src="https://copy.com/De1xHMZokFG6RpUD"width="300"height="300">
 <iframe src="https://player.vimeo.com/video/147944558" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/147944558">bandicam 2015-12-05 23-59-25-769</a> from <a href="https://vimeo.com/user45499931">黃顏維辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br />組合影片
 <iframe src="https://player.vimeo.com/video/148491335" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148491335">bandicam 2015-12-10 21-41-46-467</a> from <a href="https://vimeo.com/user45499931">黃顏維辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<br />(5)負責人:<a href='user/40323250/'>40323240</a>
-<br />(6)負責人:<a href='user/40323250/'>40323225</a>
+<br />(5)負責人:<ahref='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240_陳建中</a>
+<br />(6)負責人:<ahref='http://2015fallhw.github.io/2015fallcadpb/user/40323225/'>40323225_姜智翔</a>
