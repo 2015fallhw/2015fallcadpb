@@ -849,6 +849,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt
     &lt;p&gt;4.啟動fix, 將檔案複製到對應位置&lt;/p&gt;
     &lt;p&gt;5.按下C槽中start執行安裝&lt;/p&gt;&lt;/a&gt;
     &lt;/section&gt;
+    
 &lt;/section&gt;</t>
 <t tx="leo.20151221105544.2">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
