@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g3.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-10T10:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group3 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g3_w11.html" rel="alternate"></link><updated>2015-12-10T10:25:00+08:00</updated><author><name>G3</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/2015cadpb_blog_g3_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
 &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;零件一：Base_by.40323207
-&lt;br&gt;
+&lt;p&gt;&lt;font size=6&gt;&lt;b&gt;&lt;font color="#0000ff"&gt;&lt;font face="微軟正黑體"&gt;零件一：Base_by.40323207&lt;/b&gt;&lt;/font&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/iZHN9eSodHc4OFMs"&gt;base.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
@@ -105,8 +104,9 @@ src="https://copy.com/D9D72ROot8bYEWwz"width="300"height="300"&gt;
 &lt;br&gt;
 &lt;script src="https://embed.github.com/view/3d/Sbetty/group3/master/nutcracker.stl"&gt;&lt;/script&gt;
 &lt;br&gt;
-組合圖繪製步驟:&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;
+組合圖繪製步驟:
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/akhIVRAIkto" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
 組合圖-40323201

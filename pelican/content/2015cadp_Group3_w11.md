@@ -9,8 +9,7 @@ Summary: 第三組第十一週工作報告<br />Nutcracker 機構
 以下為相關工作報告資料
 <br>
 
-零件一：Base_by.40323207
-<br>
+<font size=6><b><font color="#0000ff"><font face="微軟正黑體">零件一：Base_by.40323207</b></font>
 <p align="left"><a href="https://copy.com/iZHN9eSodHc4OFMs">base.prt</a>
 <br>
 <img
@@ -114,7 +113,7 @@ src="https://copy.com/D9D72ROot8bYEWwz"width="300"height="300">
 <script src="https://embed.github.com/view/3d/Sbetty/group3/master/nutcracker.stl"></script>
 <br>
 組合圖繪製步驟:
-
+<iframe width="420" height="315" src="https://www.youtube.com/embed/akhIVRAIkto" frameborder="0" allowfullscreen></iframe>
 <br>
 <br>
 <br>
