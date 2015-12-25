@@ -23,7 +23,7 @@
 <v t="123.20151208171418.2"><vh>@button user pelican</vh></v>
 <v t="123.20151208171418.3" a="E"><vh>@path pelican</vh>
 <v t="123.20151208183311.1"><vh>@edit publishconf.py</vh></v>
-<v t="123.20151208183519.1" a="E"><vh>@path content</vh>
+<v t="123.20151208183519.1"><vh>@path content</vh>
 <v t="123.20151208183519.2"><vh>@edit 2015cphww1.md</vh></v>
 <v t="123.20151208183519.3"><vh>@edit 2015cphww4.md</vh></v>
 <v t="123.20151208183519.4"><vh>@edit 2015cphww5.md</vh></v>
@@ -31,7 +31,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151208171423.1" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="123.20151208171423.1"><vh>以下為 reveal 投影片</vh>
 <v t="123.20151208183258.3"><vh>@clean simplest.html</vh>
 <v t="123.20151208183258.4"><vh>檔案說明</vh></v>
 <v t="123.20151208183258.5"><vh>html 標註</vh>
