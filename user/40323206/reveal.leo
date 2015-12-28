@@ -14,12 +14,12 @@
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="123.20151208171418.1" a="E"><vh>以下為 pelican 文章</vh>
+<v t="123.20151208171418.1"><vh>以下為 pelican 文章</vh>
 <v t="123.20151208171418.2"><vh>@button user pelican</vh></v>
 <v t="123.20151208171418.3" a="E"><vh>@path pelican</vh>
 <v t="123.20151209135836.1"><vh>@edit publishconf.py</vh></v>
@@ -34,6 +34,7 @@
 <v t="leo40323206.20151216173002.1"><vh>@edit 2015cphww11_g2.md</vh></v>
 <v t="leo40323206.20151214113734.1"><vh>@edit 2015cphww12.md</vh></v>
 <v t="leo40323206.20151225173754.1"><vh>@edit 2015cphww14.md</vh></v>
+<v t="leo40323206.20151228115013.1"><vh>@edit 2015cphww15.md</vh></v>
 <v t="123.20151209135849.7"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -185,7 +186,7 @@
 </v>
 </v>
 </v>
-<v t="leo40323206.20151225173916.1" a="E"><vh>@clean simplest10.html</vh>
+<v t="leo40323206.20151225173916.1"><vh>@clean simplest10.html</vh>
 <v t="leo40323206.20151225173916.2"><vh>檔案說明</vh></v>
 <v t="leo40323206.20151225173916.3" a="E"><vh>html 標註</vh>
 <v t="leo40323206.20151225173916.4" a="E"><vh>body 標註</vh>
@@ -203,7 +204,6 @@
 </v>
 </v>
 </v>
-<v t="leo40323206.20151221092914.1"><vh>Recovered Nodes</vh></v>
 </vnodes>
 <tnodes>
 <t tx="123.20151208171418.1"></t>
@@ -1196,7 +1196,6 @@ jupyter notebook
 &lt;/section&gt;
 				
 </t>
-<t tx="leo40323206.20151221092914.1"></t>
 <t tx="leo40323206.20151225173916.1">@language xml
 @tabwidth -4
 @others
