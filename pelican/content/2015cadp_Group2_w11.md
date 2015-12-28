@@ -12,6 +12,7 @@ Summary: 第二組第十一週工作報告<br />Nutcracker 機構
 
 <span style="font-size: 20pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">Nutcracker 機構</span></strong></span>
 <br />
+
 <img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450">
 
 零件NO.1   Adjuster_Base  by.40323251 
@@ -55,21 +56,18 @@ Summary: 第二組第十一週工作報告<br />Nutcracker 機構
 <script src="https://embed.github.com/view/3d/hsungchang/test/master/prt3.stl"></script>
 
 零件NO.4   Connection  by.40323217
-
+<br />
 <a href="https://copy.com/YpVnokEJI2Lt81uB">零件NO.4檔案位置</a>
+<br />
+<img src="https://copy.com/TPklzsECNAOjjYBk"width="550"height="450">
 <br />
 <p>
 <iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
-<img src="https://copy.com/UcmNgceE8mxdrsCq"width="550"height="450">
-<br / >
-<img src="https://copy.com/TPklzsECNAOjjYBk"width="550"height="450">
+
 <br / >
 <script src="https://embed.github.com/view/3d/Openandgit/40323217cphw/gh-pages/connection.stl"></script>
 <br / >
-<iframe src="https://player.vimeo.com/video/149553485" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-
-
 
 零件NO.5    Cylinder  by.40323206
 
@@ -118,4 +116,22 @@ Summary: 第二組第十一週工作報告<br />Nutcracker 機構
 </p>
 
 <script src="https://embed.github.com/view/3d/hsungchang/test/master/prt8.stl"></script>
+
+<br />
+
+<span style="font-size: 20pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">機構組裝影片</span></strong></span>
+
+<br />
+by.40323217
+
+<iframe src="https://player.vimeo.com/video/149553485" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+
+<br />
+by.40323206
+
+<iframe src="https://player.vimeo.com/video/150147977" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+
+
+
+
 

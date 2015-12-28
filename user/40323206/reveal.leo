@@ -19,7 +19,7 @@
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="123.20151208171418.1"><vh>以下為 pelican 文章</vh>
+<v t="123.20151208171418.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="123.20151208171418.2"><vh>@button user pelican</vh></v>
 <v t="123.20151208171418.3" a="E"><vh>@path pelican</vh>
 <v t="123.20151209135836.1"><vh>@edit publishconf.py</vh></v>
