@@ -179,7 +179,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151206110530.1"><vh>@clean 40323250_cp_w12.html</vh>
+<v t="40323250.20151206110530.1" a="E"><vh>@clean 40323250_cp_w12.html</vh>
 <v t="40323250.20151206110530.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151206110530.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151206110530.4" a="E"><vh>body 標註</vh>
@@ -200,7 +200,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151212234205.1"><vh>@clean 40323250_cp_w13.html</vh>
+<v t="123.20151212234205.1" a="E"><vh>@clean 40323250_cp_w13.html</vh>
 <v t="123.20151212234205.2"><vh>檔案說明</vh></v>
 <v t="123.20151212234205.3" a="E"><vh>html 標註</vh>
 <v t="123.20151212234205.4" a="E"><vh>body 標註</vh>
@@ -212,7 +212,7 @@
 <v t="123.20151212234205.9" a="E"><vh>投影頁面2 筆記</vh>
 <v t="123.20151212234205.12"></v>
 </v>
-<v t="123.20151212234205.11" a="E"><vh>投影頁面 自評與心得</vh>
+<v t="123.20151212234205.11" a="EM"><vh>投影頁面 自評與心得</vh>
 <v t="123.20151212234205.12"></v>
 </v>
 </v>
@@ -254,7 +254,7 @@
 
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;。   &lt;/p&gt;
+    &lt;p&gt;最近忙得不可開交，還好這週可以稍緩腳步，大家的進度都落後了，要努力跟上&lt;/p&gt;
     &lt;br&gt;
     &lt;p&gt;評分 : 85 &lt;/p&gt; 
 &lt;/section&gt;		
@@ -336,9 +336,9 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt
 </t>
 <t tx="123.20151212234205.9">&lt;&lt; header &gt;&gt;
     &lt;section&gt;
-    &lt;h3&gt;fix.bat&lt;/h3&gt;
+    &lt;h3&gt;幫助同學跟上腳步&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1.&lt;/p&gt;
+    &lt;p align="left"&gt;如果有能力，請盡力幫忙周遭同學，大家加油&lt;/p&gt;
     &lt;br&gt;
  
     &lt;/section&gt;
@@ -438,7 +438,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt
 </t>
 <t tx="123.20151227000849.9">&lt;&lt; header &gt;&gt;
     &lt;section&gt;
-    &lt;h3&gt;帶辦事項&lt;/h3&gt;
+    &lt;h3&gt;待辦事項&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
     &lt;p align="left"&gt;1. 使用creo繪製零件並組立(影片)&lt;/p&gt;
     &lt;br&gt;
