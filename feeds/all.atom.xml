@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T13:30:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group4 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g4_w15.html" rel="alternate"></link><updated>2015-12-28T13:30:00+08:00</updated><author><name>G4</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g4_w15.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T22:50:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group1 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g1_w15.html" rel="alternate"></link><updated>2015-12-28T22:50:00+08:00</updated><author><name>G1</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g1_w15.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
+&lt;p&gt;組員：
+&lt;br&gt;
+何昶熠&lt;a href='user/40323212/'&gt;40323212&lt;/a&gt;
+&lt;br&gt;
+吳信褘&lt;a href='user/40323214/'&gt;40323214&lt;/a&gt;
+&lt;br&gt;
+呂紹新&lt;a href='user/40323216/'&gt;40323216&lt;/a&gt;
+&lt;br&gt;
+李冠興&lt;a href='user/40323218/'&gt;40323218&lt;/a&gt;
+&lt;br&gt;
+詹偉志&lt;a href='user/40323250/'&gt;40323250&lt;/a&gt;
+&lt;br&gt;
+錢柏辰&lt;a href='user/40323256/'&gt;40323256&lt;/a&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;br&gt;
+組合影片 - &lt;a href='user/40323250/'&gt;40323250&lt;/a&gt;
+&lt;br&gt;
+&lt;iframe src="https://player.vimeo.com/video/150171592" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150171592"&gt;onshape_nutcracker&lt;/a&gt; from &lt;a href="https://vimeo.com/user44918931"&gt;詹偉志&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group4 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g4_w15.html" rel="alternate"></link><updated>2015-12-28T13:30:00+08:00</updated><author><name>G4</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g4_w15.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
 &lt;br /&gt;
 Nutcracker 機構
 &lt;br /&gt;
@@ -768,8 +788,22 @@ ctx.closePath()
 # 填色設為白色
 ctx.fillStyle = '#fff'
 ctx.fill()
-&lt;/script&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group1 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g1_w11.html" rel="alternate"></link><updated>2015-12-02T13:30:00+08:00</updated><author><name>G1</name></author><id>tag:coursemdetw.github.io,2015-12-02:reveal/2015cadpb_blog_g1_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
+&lt;/script&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group1 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g1_w11.html" rel="alternate"></link><updated>2015-12-02T13:30:00+08:00</updated><author><name>G1</name></author><id>tag:coursemdetw.github.io,2015-12-02:reveal/2015cadpb_blog_g1_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
+&lt;p&gt;組員：
 &lt;br&gt;
+何昶熠&lt;a href='user/40323212/'&gt;40323212&lt;/a&gt;
+&lt;br&gt;
+吳信褘&lt;a href='user/40323214/'&gt;40323214&lt;/a&gt;
+&lt;br&gt;
+呂紹新&lt;a href='user/40323216/'&gt;40323216&lt;/a&gt;
+&lt;br&gt;
+李冠興&lt;a href='user/40323218/'&gt;40323218&lt;/a&gt;
+&lt;br&gt;
+詹偉志&lt;a href='user/40323250/'&gt;40323250&lt;/a&gt;
+&lt;br&gt;
+錢柏辰&lt;a href='user/40323256/'&gt;40323256&lt;/a&gt;
+&lt;br&gt;
+&lt;hr&gt;
 &lt;br&gt;
 Part_1 : Adjuster_Base - &lt;a href='user/40323250/'&gt;40323250&lt;/a&gt;
 &lt;br&gt;
