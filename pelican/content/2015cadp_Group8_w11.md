@@ -24,6 +24,10 @@ src="https://copy.com/wJ7wCETWJxdp6bXs"width="300"height="300">
 <br>
 <iframe src="https://player.vimeo.com/video/149565545" width="500" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/149565545">零件2</a> from <a href="https://vimeo.com/user44975888">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
+<br>
+<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/blob/master/111.stl"></script>
+<br>
+
 
 3 : Base
 
