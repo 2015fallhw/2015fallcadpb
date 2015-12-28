@@ -118,7 +118,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228224659.1"><vh>@clean 40323230_cp_w10.html</vh>
+<v t="leo.20151228224659.1" a="E"><vh>@clean 40323230_cp_w10.html</vh>
 <v t="leo.20151228224659.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228224659.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228224659.4" a="E"><vh>body 標註</vh>
@@ -133,7 +133,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228225053.1"><vh>@clean 40323230_cp_w11.html</vh>
+<v t="leo.20151228225053.1" a="E"><vh>@clean 40323230_cp_w11.html</vh>
 <v t="leo.20151228225053.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228225053.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228225053.4" a="E"><vh>body 標註</vh>
@@ -148,7 +148,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228225706.1"><vh>@clean 40323230_cp_w12.html</vh>
+<v t="leo.20151228225706.1" a="E"><vh>@clean 40323230_cp_w12.html</vh>
 <v t="leo.20151228225706.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228225706.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228225706.4" a="E"><vh>body 標註</vh>
@@ -163,7 +163,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228225725.1"><vh>@clean 40323230_cp_w14.html</vh>
+<v t="leo.20151228225725.1" a="E"><vh>@clean 40323230_cp_w14.html</vh>
 <v t="leo.20151228225725.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228225725.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228225725.4" a="E"><vh>body 標註</vh>
@@ -968,7 +968,7 @@ jupyter notebook
 &lt;/section&gt;
 </t>
 <t tx="leo.20151228225725.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;Nutcracker組合圖&lt;/h1&gt;
+    &lt;h2&gt;Nutcracker組合圖&lt;/h2&gt;
     &lt;p&gt;
 1. 使用creo繪製零件並組立(影片)
 
