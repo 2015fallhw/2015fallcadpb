@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323208 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/cadpb-ke-cheng.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T10:24:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第十三周</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w13.html" rel="alternate"></link><updated>2015-12-28T10:24:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_w13.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323208 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/cadpb-ke-cheng.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T11:22:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第十四周</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w14.html" rel="alternate"></link><updated>2015-12-28T11:22:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_w14.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src=" cadp_w14_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w14_lecture.html" target="_blank"&gt;作業十四投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============
+把CREO檔改為STL檔(包含影片)&lt;/p&gt;
+&lt;p&gt;handle
+&lt;script src="https://embed.github.com/view/3d/40323208/group3/master/handle.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;hinge
+&lt;script src="https://embed.github.com/view/3d/40323208/group3/master/hinge.stl"&gt;&lt;/script&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 第十三周</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w13.html" rel="alternate"></link><updated>2015-12-28T10:24:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_w13.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src=" cadp_w13_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
