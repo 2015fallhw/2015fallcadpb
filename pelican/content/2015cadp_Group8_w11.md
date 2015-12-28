@@ -10,6 +10,15 @@ Summary: 第八組第十一週工作報告<br />Nutcracker 機構
 <img
 src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <br>
+<br>
+<span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">零件組裝  操作者:40323248 楊承儒 </span></strong></span>
+<br>
+<br>
+<iframe src="https://player.vimeo.com/video/149565546" width="500" height="302" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/149565546">零件組裝</a> from <a href="https://vimeo.com/user44975888">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
+<br>
 以下為相關工作報告資料
 
   <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">1 : Adjuster_Base  操作者:40323211 朱柏蔚 </span></strong></span>
