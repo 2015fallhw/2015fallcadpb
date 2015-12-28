@@ -186,12 +186,12 @@
 </v>
 </v>
 </v>
-<v t="leo40323206.20151225173916.1"><vh>@clean simplest10.html</vh>
+<v t="leo40323206.20151225173916.1" a="E"><vh>@clean simplest10.html</vh>
 <v t="leo40323206.20151225173916.2"><vh>檔案說明</vh></v>
 <v t="leo40323206.20151225173916.3" a="E"><vh>html 標註</vh>
 <v t="leo40323206.20151225173916.4" a="E"><vh>body 標註</vh>
 <v t="leo40323206.20151225173916.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo40323206.20151225173916.6" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151225173916.6"><vh>div class="slides"</vh>
 <v t="leo40323206.20151225173916.7"><vh>封面</vh></v>
 <v t="leo40323206.20151225173916.8"><vh>投影片2</vh></v>
 <v t="leo40323206.20151225173916.9"><vh>投影片3</vh></v>
@@ -200,6 +200,22 @@
 </v>
 </v>
 <v t="leo40323206.20151225173916.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo40323206.20151228142944.1" a="E"><vh>@clean simplest11.html</vh>
+<v t="leo40323206.20151228142944.2"><vh>檔案說明</vh></v>
+<v t="leo40323206.20151228142944.3" a="E"><vh>html 標註</vh>
+<v t="leo40323206.20151228142944.4" a="E"><vh>body 標註</vh>
+<v t="leo40323206.20151228142944.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151228145147.1" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151228145147.2"><vh>封面</vh></v>
+<v t="leo40323206.20151228145147.3"><vh>投影片2</vh></v>
+<v t="leo40323206.20151228145147.4"><vh>投影片3</vh></v>
+<v t="leo40323206.20151228145147.5"><vh>投影片4 </vh></v>
+</v>
+</v>
+<v t="leo40323206.20151228142944.13"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -1312,6 +1328,104 @@ jupyter notebook
     &lt;br&gt;
      
   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151228142944.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo40323206.20151228142944.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo40323206.20151228142944.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo40323206.20151228142944.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo40323206.20151228142944.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo40323206.20151228142944.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151228145147.1">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151228145147.2">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  
+    &lt;p&gt;&lt;font size="7" face="Comic Sans MS"&gt;&lt;marquee border="0"&gt;體魄康強，精神活潑，舉止端莊，人格健全，便是大學生的風度。
+
+不倦的追求真理，熱烈的愛護國家，積極的造福人類，才是大學生的職志。
+
+— 羅家倫&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+   
+    &lt;br&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo40323206.20151228145147.3">   &lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;上課筆記&lt;/h2&gt;
+    &lt;br&gt;
+     
+      &lt;p align="left"&gt;未完成 &lt;/p&gt;
+    
+  
+&lt;/section&gt;
+</t>
+<t tx="leo40323206.20151228145147.4">&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;這週的作業又是團體作業，一開始大家都急於把自己負責的零件傳到共享的頁面，導致網路有些負荷不了，所最後我們統一由一個組員將零件一次上傳，後續的組裝是每個人自己創一個組裝分頁獨自作業，所以互不干涉，比起Creo真的方便許多，而且又是免費的，所以我認為Onshape是設計產業及人員合作上很大的進步。&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151228145147.5">&lt;section&gt;
+    &lt;h2&gt;自評&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;未完成&lt;/p&gt;
+    &lt;br&gt;
 &lt;/section&gt;
 				
 </t>
