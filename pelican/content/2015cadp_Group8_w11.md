@@ -102,8 +102,40 @@ src="https://copy.com/0xy2mZSgw1OxzPEB"width="500"height="500">
 <hr/>
 
 
-7 : Hinge
+
+<span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">7 : Hinge  操作者:40323215 呂易煒</span></strong></span>
+<br>
+<br>
+<img
+src="https://copy.com/mIJ4HZsTpmMVEjt2"width="500"height="500">
+<br>
+<br>
+<iframe src="https://player.vimeo.com/video/150164520" width="500" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/150164520">7</a> from <a href="https://vimeo.com/user44975888">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
+<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/7777777.stl"></script>
+<br>
+<br>
+<hr/>
+
+<span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">8 : Piston  操作者:40323215 呂易煒</span></strong></span>
+<br>
+<br>
+<img
+src="https://copy.com/TIDcRKjbyPCbajXJ"width="500"height="500">
+<br>
+<br>
+<iframe src="https://player.vimeo.com/video/150164521" width="500" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/150164521">8</a> from <a href="https://vimeo.com/user44975888">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
+<script src="https://embed.github.com/view/3d/
+YANG-CHENG-RU/40323248-/master/888888888.stl"></script>
+<br>
+<br>
+<hr/>
 
 
-8 : Piston
+
 
