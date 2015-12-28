@@ -10,7 +10,7 @@ Summary: 第二組第十五週工作報告<br />Nutcracker 機構
 <br />
 
 By 40323204
-<script src="https://embed.github.com/view/3d/w16/b_g2_nutcracker%20-%2040323204_nutcrack.stl"></script>
+<script src="https://embed.github.com/view/3d/edit/w16/b_g2_nutcracker%20-%2040323204_nutcrack.stl"></script>
 
 
 
