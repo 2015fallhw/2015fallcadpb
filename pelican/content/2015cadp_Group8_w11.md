@@ -84,7 +84,22 @@ src="https://copy.com/89u1XxTwAfPYCXhX"width="500"height="500">
 <br>
 <hr/>
 
-6 : Handle
+
+<span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">6 : Handle  操作者:40323223 林聖祐 </span></strong></span>
+<br>
+<br>
+<img
+src="https://copy.com/0xy2mZSgw1OxzPEB"width="500"height="500">
+<br>
+<br>
+<iframe src="https://player.vimeo.com/video/150164523" width="500" height="297" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/150164523">6</a> from <a href="https://vimeo.com/user44975888">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
+<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/6666666.stl"></script>
+<br>
+<br>
+<hr/>
 
 
 7 : Hinge
