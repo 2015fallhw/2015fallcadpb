@@ -163,7 +163,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228225725.1" a="E"><vh>@clean 40323230_cp_w14.html</vh>
+<v t="leo.20151228225725.1"><vh>@clean 40323230_cp_w14.html</vh>
 <v t="leo.20151228225725.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228225725.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228225725.4" a="E"><vh>body 標註</vh>
@@ -728,17 +728,17 @@ jupyter notebook
 <t tx="leo.20151228224659.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;安裝 miniconda&lt;/h1&gt;
     &lt;p&gt;步驟 : 
-
+&lt;/br&gt;
 1. conda install pip
-
+&lt;/br&gt;
 2. pip install pelican Markdown
-
+&lt;/br&gt;
 3. conda install pyqt
-
+&lt;/br&gt;
 4. pip install ( github的leo檔網址 )
-
+&lt;/br&gt;
 5. conda install anaconda-client
-
+&lt;/br&gt;
 6. conda install jupyter
 &lt;/p&gt;
 &lt;/section&gt;</t>
@@ -810,13 +810,13 @@ jupyter notebook
 <t tx="leo.20151228225053.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;連結個人倉儲&lt;/h1&gt;
     &lt;p&gt;步驟 : 
-
+&lt;/br&gt;
 1.另外下載一份班上倉儲 且回復舊版本 
-
+&lt;/br&gt;
 2.將舊版本自己節點 參照個人網頁(新版)或者user/40323250的reveal.leo節點 貼到原始的班上倉儲reveal.leo檔(不是舊版的那個)
-
+&lt;/br&gt;
 3.如果可以存檔及轉檔不會錯誤，就可以推回。
-
+&lt;/br&gt;
 4.完成
 &lt;/p&gt;
 &lt;/section&gt;</t>
@@ -886,19 +886,19 @@ jupyter notebook
 &lt;/section&gt;
 </t>
 <t tx="leo.20151228225706.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;連結個人倉儲&lt;/h1&gt;
+    &lt;h2&gt;學校的電腦使用fix安裝leo檔案&lt;/h2&gt;
     &lt;p&gt;步驟 :
-
+&lt;/br&gt;
 1.下載 fix壓縮檔
-
+&lt;/br&gt;
 2.下載leo壓縮檔，並放置於fix資料夾內
-
+&lt;/br&gt;
 3. 新增fix路徑 copy leo-editor-broke-abbrev.zip "C:\Ana3_2015\data\" 路徑依自己的檔案修改
-
+&lt;/br&gt;
 4. 修改start.bat內pip install leo-editor-broke-abbrev.zip
-
+&lt;/br&gt;
 5. 啟動fix ，將相對應得檔案複製到指定位置即可
-
+&lt;/br&gt;
 如果已安裝過pelican和Markdown等模組，可以用rem跳過該段程序
 &lt;/p&gt;
 &lt;/section&gt;</t>
@@ -971,15 +971,15 @@ jupyter notebook
     &lt;h2&gt;Nutcracker組合圖&lt;/h2&gt;
     &lt;p&gt;
 1. 使用creo繪製零件並組立(影片)
-
+&lt;/br&gt;
 2. 圖檔上傳github並附上載點，在小組網站顯示，以及轉檔成.stl並顯示在網誌內(影片)
-
+&lt;/br&gt;
 3. 使用onshape繪製零件並組立，及輸出零件圖等(影片)
 &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20151228225725.9">&lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;安裝一個可攜式、能夠自訂化的工具，雖然不知道所有的用途，但是已經可以突破既有的框架，給自己80分。&lt;/p&gt;
+    &lt;p&gt;以協同的方式合力繪製並組裝機構，這種線上即時的編輯方式十分方便，其他人的檔案有問題時可以迅速檢查並做修改，只要功能再完善流暢就更好了，給自己80分。&lt;/p&gt;
     &lt;hr&gt;
     &lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;課程資料&lt;/a&gt;
 &lt;/section&gt;
