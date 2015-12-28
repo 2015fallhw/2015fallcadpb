@@ -7,6 +7,7 @@ Authors: G8
 Summary: 第八組第十一週工作報告<br />Nutcracker 機構
 <br>
 <br>
+<br>
 <img
 src="https://copy.com/woK6zwVSGqwnh2Fp"width="300"height="300">
 <br>
@@ -17,7 +18,6 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="300"height="300">
 
 
 2 : Adjuster    操作者:40323248 楊承儒
-<br>
 <br>
 <img
 src="https://copy.com/wJ7wCETWJxdp6bXs"width="300"height="300">
