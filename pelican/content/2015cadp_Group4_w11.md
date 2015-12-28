@@ -136,3 +136,5 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建�
 <iframe src="https://player.vimeo.com/video/149599832" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/149599832">組合</a> from <a href="https://vimeo.com/user47023306">louis</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br />(6)負責人:<a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323225/'>40323225-姜智翔</a>
+<br />組合影片
+<iframe src="https://player.vimeo.com/video/149603212" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/149603212">組合</a> from <a href="https://vimeo.com/user47024031">jack</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

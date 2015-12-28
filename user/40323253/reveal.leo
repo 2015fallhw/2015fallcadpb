@@ -19,12 +19,12 @@
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="leo.20151214111816.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151214111816.2"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151214111816.3"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151214111816.4"><vh>@path content</vh>
+<v t="leo.20151214111816.4" a="E"><vh>@path content</vh>
 <v t="leo.20151214111816.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151214111816.6"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="leo.20151214111816.7"><vh>@edit 40323253_cp_w1~2.md</vh></v>
@@ -33,6 +33,7 @@
 <v t="leo.20151214111816.10"><vh>@edit 40323253_cp_w8.md</vh></v>
 <v t="leo.20151219222320.1"><vh>@edit 40323253_cp_w11.md</vh></v>
 <v t="leo.20151219223729.1"><vh>@edit 40323253_cp_w12.md</vh></v>
+<v t="leo.20151228102725.1"><vh>@edit 40323253_cp_w15.md</vh></v>
 </v>
 </v>
 </v>
@@ -125,7 +126,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151219223824.1" a="E"><vh>@clean 40323253_cp_w12.html</vh>
+<v t="leo.20151219223824.1"><vh>@clean 40323253_cp_w12.html</vh>
 <v t="leo.20151219223824.2"><vh>檔案說明</vh></v>
 <v t="leo.20151219223824.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151219223824.4" a="E"><vh>body 標註</vh>
@@ -143,6 +144,27 @@
 </v>
 </v>
 <v t="leo.20151219223824.9"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151228102736.1" a="E"><vh>@clean 40323253_cp_w15.html</vh>
+<v t="leo.20151228102736.2"><vh>檔案說明</vh></v>
+<v t="leo.20151228102736.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151228102736.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151228102736.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151228102736.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151228102736.7" a="E"><vh>封面</vh>
+<v t="leo.20151228102736.8"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151228102736.9" a="E"><vh>筆記</vh>
+<v t="leo.20151228102736.10"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151228102736.11" a="E"><vh>自評</vh>
+<v t="leo.20151228102736.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151228102736.13"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -875,5 +897,100 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20151228102736.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151228102736.10">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20151228102736.11">&lt;&lt; header &gt;&gt;
+
+
+    &lt;h2&gt;心得與評分&lt;/h2&gt;
+    &lt;p&gt;&lt;/p&gt;
+    
+    &lt;h2&gt;評分 :80分&lt;/h2&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20151228102736.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20151228102736.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151228102736.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151228102736.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151228102736.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151228102736.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228102736.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228102736.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;h3&gt;40323253-劉瑜俊-12/28&lt;/h3&gt;	
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151228102736.8">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20151228102736.9">&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;123&lt;/p&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
