@@ -104,23 +104,23 @@
 </v>
 </v>
 </v>
-<v t="LEO.20151221095409.1"><vh>@button open htm1</vh>
+<v t="LEO.20151221095409.1" a="E"><vh>@button open htm1</vh>
 <v t="LEO.20151221095409.2" a="E"><vh>@clean cadp_w11_lecture.html</vh>
 <v t="LEO.20151221095409.3"><vh>檔案說明</vh></v>
 <v t="LEO.20151221095409.4" a="E"><vh>html 標註</vh>
 <v t="LEO.20151221095409.5" a="E"><vh>body 標註</vh>
 <v t="LEO.20151221095409.6" a="E"><vh>div class="reveal"</vh>
 <v t="LEO.20151221095409.7" a="E"><vh>div class="slides"</vh>
-<v t="LEO.20151221095409.8"><vh>第 11 週開始的規劃</vh>
-<v t="LEO.20151221095409.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="LEO.20151221095409.8" a="E"><vh>第 11 週開始的規劃</vh>
+<v t="leo.20151228095024.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="LEO.20151221095409.10"><vh>header 測試</vh>
+<v t="LEO.20151221095409.10" a="E"><vh>header 測試</vh>
 <v t="LEO.20151221095409.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="LEO.20151221095703.1"><vh>header 測試</vh>
+<v t="LEO.20151221095703.1" a="E"><vh>header 測試</vh>
 <v t="LEO.20151221095703.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="LEO.20151221095409.12"><vh>第11週自評與心得</vh>
+<v t="LEO.20151221095409.12" a="E"><vh>第11週自評與心得</vh>
 <v t="LEO.20151221095409.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 </v>
@@ -137,13 +137,13 @@
 <v t="LEO.20151221105255.5" a="E"><vh>body 標註</vh>
 <v t="LEO.20151221105255.6" a="E"><vh>div class="reveal"</vh>
 <v t="LEO.20151221105255.7" a="E"><vh>div class="slides"</vh>
-<v t="LEO.20151221105255.8"><vh>第 12 週開始的規劃</vh>
+<v t="LEO.20151221105255.8" a="E"><vh>第 12 週開始的規劃</vh>
 <v t="LEO.20151221105255.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="LEO.20151221105255.10"><vh>header 測試</vh>
+<v t="LEO.20151221105255.10" a="E"><vh>header 測試</vh>
 <v t="LEO.20151221105255.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="LEO.20151221105255.14"><vh>第12週自評與心得</vh>
+<v t="LEO.20151221105255.14" a="E"><vh>第12週自評與心得</vh>
 <v t="LEO.20151221105255.15"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 </v>
@@ -368,11 +368,6 @@ cadp w12 講課內容投影片
 &lt;/section&gt;
 	
 </t>
-<t tx="LEO.20151221095409.9">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
 <t tx="LEO.20151221095703.1">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -408,6 +403,9 @@ for ch in p.children():
 &lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業說明&lt;/h1&gt;
     &lt;p&gt;目的:在一個GROUP裡，繪畫自己所分到的零件，並操作多次熟悉之後，在錄影錄音的情況下畫出，搭配自己的繪畫說明。&lt;/p&gt;
+    &lt;br&gt;HANDLE:先畫出方形柱狀再從一面長出圓柱，然後鑽兩個孔。
+    &lt;br&gt;HINGE:先做出其外觀然後鑽孔。
+    
 &lt;/section&gt;
     </t>
 <t tx="LEO.20151221105255.11">&lt;section data-state="header1"&gt;
@@ -820,5 +818,10 @@ jupyter notebook
     而建立新分頁這些動作也比較熟練了應該是作業弄了很多次才成功的收穫吧 。&lt;/p&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20151228095024.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
 </tnodes>
 </leo_file>

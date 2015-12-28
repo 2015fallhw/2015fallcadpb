@@ -131,5 +131,8 @@ src="https://copy.com/De1xHMZokFG6RpUD"width="300"height="300">
 <iframe src="https://player.vimeo.com/video/148491335" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148491335">bandicam 2015-12-10 21-41-46-467</a> from <a href="https://vimeo.com/user45499931">黃顏維辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br />(5)負責人:<a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建中</a>
+
+<br />組合影片
+<iframe src="https://player.vimeo.com/video/149599832" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/149599832">組合</a> from <a href="https://vimeo.com/user47023306">louis</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br />(6)負責人:<a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323225/'>40323225-姜智翔</a>
