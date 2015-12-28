@@ -7,7 +7,22 @@ Authors: G1
 Summary: 第一組第十一週工作報告<br />Nutcracker 機構
 
 以下為相關工作報告資料
+
+組員：
 <br>
+何昶熠<a href='user/40323212/'>40323212</a>
+<br>
+吳信褘<a href='user/40323214/'>40323214</a>
+<br>
+呂紹新<a href='user/40323216/'>40323216</a>
+<br>
+李冠興<a href='user/40323218/'>40323218</a>
+<br>
+詹偉志<a href='user/40323250/'>40323250</a>
+<br>
+錢柏辰<a href='user/40323256/'>40323256</a>
+<br>
+<hr>
 <br>
 Part_1 : Adjuster_Base - <a href='user/40323250/'>40323250</a>
 <br>
