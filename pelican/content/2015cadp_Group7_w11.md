@@ -42,7 +42,8 @@ Product(s) File Download link：</br><a href='https://copy.com/WbcDlfhLsaLf0LPj'
 
 <h2>Part3-Base</br>[Quantity:1]</h2>
 
-Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'>40323230張元</a>
+Authors：</br><a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'>40323230張元</a>
 
 Product(s) Preview：</br><script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323230/part/base.stl"width="300"height="300"></script>
 

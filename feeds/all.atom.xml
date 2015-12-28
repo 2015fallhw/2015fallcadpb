@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-19T13:14:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group7 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g7_w11.html" rel="alternate"></link><updated>2015-12-19T13:14:00+08:00</updated><author><name>G7</name></author><id>tag:coursemdetw.github.io,2015-12-19:reveal/2015cadpb_blog_g7_w11.html</id><summary type="html">&lt;p&gt;The products shown in the picture will be data of reports.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T10:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group9 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g9_w11.html" rel="alternate"></link><updated>2015-12-28T10:25:00+08:00</updated><author><name>G9</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g9_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
+&lt;br&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group8 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g8_w11.html" rel="alternate"></link><updated>2015-12-21T09:30:00+08:00</updated><author><name>G8</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/2015cadpb_blog_g8_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
+&lt;p&gt;1 : Adjuster_Base&lt;/p&gt;
+&lt;p&gt;2 : Adjuster&lt;/p&gt;
+&lt;p&gt;3 : Base&lt;/p&gt;
+&lt;p&gt;4 : Connection&lt;/p&gt;
+&lt;p&gt;5 : Cylinder&lt;/p&gt;
+&lt;p&gt;6 : Handle&lt;/p&gt;
+&lt;p&gt;7 : Hinge&lt;/p&gt;
+&lt;p&gt;8 : Piston&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group7 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g7_w11.html" rel="alternate"></link><updated>2015-12-19T13:14:00+08:00</updated><author><name>G7</name></author><id>tag:coursemdetw.github.io,2015-12-19:reveal/2015cadpb_blog_g7_w11.html</id><summary type="html">&lt;p&gt;The products shown in the picture will be data of reports.
 &lt;br&gt;
 Use STL file to preview following parts.
 &lt;br&gt;
@@ -25,7 +34,8 @@ For example, if the URL of your part is "github.com/User/Projects/stl/base.stl",
 &lt;p&gt;Product(s) File Download link：&lt;/br&gt;&lt;a href='https://copy.com/WbcDlfhLsaLf0LPj'&gt;https://copy.com/WbcDlfhLsaLf0LPj&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Part3-Base&lt;/br&gt;[Quantity:1]&lt;/h2&gt;
 
-&lt;p&gt;Authors：&lt;/br&gt;&lt;a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'&gt;40323230張元&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Authors：&lt;/br&gt;&lt;a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'&gt;40323230張元&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Product(s) Preview：&lt;/br&gt;&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323230/part/base.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;
 &lt;p&gt;Part Drawing Video：&lt;/br&gt;&lt;iframe src="https://player.vimeo.com/video/149552820" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/149552820"&gt;BASE&lt;/a&gt; from &lt;a href="https://vimeo.com/user32555757"&gt;張元&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -77,86 +87,135 @@ Part_1 : Adjuster_Base - &lt;a href='user/40328245/'&gt;40328245&lt;/a&gt;
 src="https://copy.com/8oeZ6aSa42joGWaq"width="300"height="300"&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;script src="https://embed.github.com/view/3d/40328245/project/gh-pages/adjuster_base.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group3 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g3_w11.html" rel="alternate"></link><updated>2015-12-10T10:25:00+08:00</updated><author><name>G3</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/2015cadpb_blog_g3_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;零件一：Base
+&lt;script src="https://embed.github.com/view/3d/40328245/project/gh-pages/adjuster_base.stl"width="300"height="300"&gt;&lt;/script&gt;
 &lt;br&gt;
+&lt;br&gt;
+Part_7 : Hinge - &lt;a href='user/40328242/'&gt;40328242&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/LqL49YKs7QplisTr"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/40328242/cadp/gh-pages/parts/hinge.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group3 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g3_w11.html" rel="alternate"></link><updated>2015-12-10T10:25:00+08:00</updated><author><name>G3</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/2015cadpb_blog_g3_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件一：Base_by.40323207&lt;/b&gt;&lt;/span&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/iZHN9eSodHc4OFMs"&gt;base.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/SgA8xqFkCyk3fJvs"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/40323207/group3/master/40323207-1.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
 零件一繪製步驟:
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RYU1iiguxbQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
-零件二：Cylinder
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件二：Cylinder_by.40323201&lt;/b&gt;&lt;/span&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/4cG7wfsnz2UpPKY6"&gt;cylinder.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/XS8hE3J0CVSljbEo"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/baconLEE/group3/master/cylinder.stl"&gt;&lt;/script&gt;
 &lt;br&gt;
-零件五：Adjuster_Base
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件五：Adjuster_Base_by.40323201&lt;/b&gt;&lt;/span&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/xl63fR1dOkePxZ7K"&gt;adjuster_Base.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/X1hkFILxi6buA6J7"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/baconLEE/group3/master/Adjuster%20Base.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
 零件二與零件五繪製步驟:
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/E2CLu567Dhw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
-零件三：Hinge
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件三：Hinge_by.40323208&lt;/b&gt;&lt;/span&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/WAumZ8L0BBPCBXz7"&gt;hinge.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/4OfJnhH01XqBLAox"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/40323208/group3/master/hinge.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
 零件三繪製步驟:
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tACTmBKX7UY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
-零件四：Piston
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件四：Piston_by.40323205&lt;/b&gt;&lt;/span&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/247uee3jKf8VTPIs"&gt;piston.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/2tG93NbRSmFM9JMX"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script
+src="https://embed.github.com/view/3d/40323205/group3/master/piston.stl"&gt;&lt;/script&gt;
 &lt;br&gt;
-零件六：Adjuster
+零件四繪製步驟:
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/e_lFVaNMtvw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件六：Adjuster_by.40323202&lt;/b&gt;&lt;/span&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/YEFGuF14B6h0ixr2"&gt;adjuster.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/aWJTHgqg1WUMz4Kn"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script
+src="https://embed.github.com/view/3d/40323202/group3/master/adjuster-40323202.stl"&gt;&lt;/script&gt;
 &lt;br&gt;
-零件七：Connection
+零件六繪製步驟:
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Y3oM6-85sJc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件七：Connection_by.40323207&lt;/b&gt;&lt;/span&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/eKWyLapQ2cFWJ499"&gt;connection.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/w13nkglkEyDqBnii"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/40323207/group3/master/40323207-2.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
 零件七繪製步驟:
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/noB5Pu3tZzk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
-零件八：Handle
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件八：Handle_by.40323208&lt;/b&gt;&lt;/span&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/3n9qUUnSggHGGCLB"&gt;handle.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/ogeRnsKlhrg7GkzG"width="300"height="300"&gt;
 &lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/40323208/group3/master/handle.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
 零件八繪製步驟:
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1tU6t51Gtrg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;組合圖：nutcracker_by.40323203&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/FJUg8phKWiVj7Fv0"&gt;handle.prt&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/D9D72ROot8bYEWwz"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/Sbetty/group3/master/nutcracker.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
+組合圖繪製步驟:
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/akhIVRAIkto" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
 組合圖-40323201
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kZWhu-zZcP0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+組合圖-40323202
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZKvz1SfzhFk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+組合圖-40323205
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/573jYMOXcSA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
 組合圖-40323207
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wckBy3wykDc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
@@ -316,12 +375,16 @@ src="https://copy.com/gncttvEdRpVyJWUT"width="300"height="300"&gt;
 &lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323250/part/connection.stl"width="300"height="300"&gt;&lt;/script&gt;
 &lt;br&gt;
 &lt;br&gt;
-Part_5 : Cylinder
+Part_5 : Cylinder - &lt;a
+href='user/40323214/'&gt;40323214&lt;/a&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/VAjcZCzsxXGFY1a4"&gt;Cylinder.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/JG777R8KOqMhPd4E"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;iframe src="https://player.vimeo.com/video/149606028" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/149606028"&gt;40323214_5&lt;/a&gt; from &lt;a href="https://vimeo.com/user45009540"&gt;吳信褘&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
 &lt;br&gt;
 Part_6 : Handle
@@ -358,7 +421,8 @@ src="https://copy.com/AY9rFUigwdVx12Td"width="300"height="300"&gt;
 Nutcracker 機構
 &lt;br /&gt;
 &lt;img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450"&gt;&lt;/p&gt;
-&lt;p&gt;(1)負責人:&lt;a href='user/40323250/'&gt;40323253&lt;/a&gt;
+&lt;p&gt;(1)負責人:&lt;a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323253/'&gt;40323253-劉瑜俊&lt;/a&gt;
 &lt;br /&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/OL2IfqxVkjut2JsI"&gt;零件1&lt;/a&gt;
@@ -383,7 +447,8 @@ src="https://copy.com/UmBSL79MGZIeQdqx"width="300"height="300"&gt;
 &lt;iframe src="https://player.vimeo.com/video/147928678" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147928678"&gt;W11-零件2&lt;/a&gt; from &lt;a href="https://vimeo.com/user44939680"&gt;40323253&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;組合影片
 &lt;iframe src="https://player.vimeo.com/video/147991576" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147991576"&gt;W11-組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user44939680"&gt;40323253&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;(2)負責人:&lt;a href='user/40323250/'&gt;40323252&lt;/a&gt;
+&lt;p&gt;&lt;br /&gt;(2)負責人:&lt;a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323252/'&gt;40323252-廖麒源&lt;/a&gt;
 &lt;br /&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/MT40rRvlgUO3VOmq"&gt;零件3&lt;/a&gt;
@@ -408,7 +473,8 @@ src="https://copy.com/TVzPC0lRRN3ytz0Y"width="300"height="300"&gt;
 &lt;iframe src="https://player.vimeo.com/video/148055921" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148055921"&gt;W11 零件4&lt;/a&gt; from &lt;a href="https://vimeo.com/user45419779"&gt;40323252&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br /&gt;組合影片
 &lt;iframe src="https://player.vimeo.com/video/148779227" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148779227"&gt;W11 組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user45419779"&gt;40323252&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;(4)負責人:&lt;a href='user/40323250/'&gt;40323245&lt;/a&gt;
+&lt;p&gt;&lt;br /&gt;(3)負責人:&lt;a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323245/'&gt;40323245-程偉銓&lt;/a&gt;
 &lt;br /&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/ZLC7x2qNo64bQ9p1"&gt;零件5&lt;/a&gt;
@@ -433,7 +499,8 @@ src="https://copy.com/hY64jmMNz2Kn6Ec4"width="300"height="300"&gt;
 &lt;iframe src="https://player.vimeo.com/video/148822553" width="500" height="293" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148822553"&gt;clip0003&lt;/a&gt; from &lt;a href="https://vimeo.com/user45488662"&gt;程偉銓&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br /&gt;組合影片
 &lt;iframe src="https://player.vimeo.com/video/148828995" width="500" height="406" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148828995"&gt;組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user46793537"&gt;偉銓程&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;(3)負責人:&lt;a href='user/40323250/'&gt;40323247&lt;/a&gt;
+&lt;p&gt;&lt;br /&gt;(4)負責人:&lt;a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'&gt;40323247-黃顏維辰&lt;/a&gt;
 &lt;br /&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/TghseZ3DrrOeEJIS"&gt;零件7&lt;/a&gt;
@@ -458,8 +525,14 @@ src="https://copy.com/De1xHMZokFG6RpUD"width="300"height="300"&gt;
 &lt;iframe src="https://player.vimeo.com/video/147944558" width="300" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944558"&gt;bandicam 2015-12-05 23-59-25-769&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br /&gt;組合影片
 &lt;iframe src="https://player.vimeo.com/video/148491335" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148491335"&gt;bandicam 2015-12-10 21-41-46-467&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;br /&gt;(5)負責人:&lt;a href='user/40323250/'&gt;40323240&lt;/a&gt;
-&lt;br /&gt;(6)負責人:&lt;a href='user/40323250/'&gt;40323225&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group5 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g5_w11.html" rel="alternate"></link><updated>2015-12-02T13:30:00+08:00</updated><author><name>G5</name></author><id>tag:coursemdetw.github.io,2015-12-02:reveal/2015cadpb_blog_g5_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
+&lt;br /&gt;(5)負責人:&lt;a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'&gt;40323240-陳建中&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;組合影片
+&lt;iframe src="https://player.vimeo.com/video/149599832" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/149599832"&gt;組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user47023306"&gt;louis&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;br /&gt;(6)負責人:&lt;a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323225/'&gt;40323225-姜智翔&lt;/a&gt;
+&lt;br /&gt;組合影片
+&lt;iframe src="https://player.vimeo.com/video/149603212" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/149603212"&gt;組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user47024031"&gt;jack&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group5 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g5_w11.html" rel="alternate"></link><updated>2015-12-02T13:30:00+08:00</updated><author><name>G5</name></author><id>tag:coursemdetw.github.io,2015-12-02:reveal/2015cadpb_blog_g5_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
 &lt;br&gt;
 &lt;br&gt;
 (1)Nutcracker - Cylindr          Author: 49923230
@@ -482,8 +555,8 @@ src="https://copy.com/6svYtsWJip8AA9G6"width="300"height="300"&gt;
 &lt;iframe src="cadp_w12_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="cadp_w12_lecture.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group2 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g2_w11.html" rel="alternate"></link><updated>2015-11-23T10:25:00+08:00</updated><author><name>G2</name></author><id>tag:coursemdetw.github.io,2015-11-23:reveal/2015cadpb_blog_g2_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
-&lt;br /&gt;
-Nutcracker 機構
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 20pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
 &lt;br /&gt;
 &lt;img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450"&gt;&lt;/p&gt;
 &lt;p&gt;零件NO.1   Adjuster_Base  by.40323251 &lt;/p&gt;
@@ -500,8 +573,10 @@ Nutcracker 機構
 &lt;p&gt;&lt;a href="https://copy.com/Ns3tepiUZ3bqPYWV"&gt;零件NO.2檔案位置&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/FuUlr3wAhieNl3C4"width="550"height="450"&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;iframe src="https://www.youtube.com/watch?v=LSeltpAuI7A" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe src="https://player.vimeo.com/video/148832383" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;/p&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/adjuster.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;零件NO.3   Base  by.40323204&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://copy.com/HYuFKm9j82iMJBwC"&gt;零件NO.3檔案位置&lt;/a&gt;&lt;/p&gt;
@@ -538,25 +613,24 @@ Nutcracker 機構
 &lt;p&gt;&lt;a href="https://copy.com/V8A0t9ySlWG8Dfpa"&gt;零件NO.6檔案位置&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450"&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;iframe src="https://www.youtube.com/watch?v=SkE4UZlHBlk" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-零件NO.7   Hinge  by.40323255
-
-&lt;a href="https://copy.com/cjXMvw0xDPncvOeg"&gt;零件NO.7檔案位置&lt;/a&gt;
-
-&lt;img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450"&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://www.youtube.com/watch?v=j18Ca-OczQM" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;/p&gt;
 
-零件NO.8   Piston  by.40323204 
+&lt;script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/handle.stl"&gt;&lt;/script&gt;
 
-&lt;a href="https://copy.com/VHJhcuB9n6Gey8g6"&gt;零件NO.8檔案位置&lt;/a&gt;
-&lt;br /&gt;
+&lt;p&gt;零件NO.7   Hinge  by.40323255&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copy.com/cjXMvw0xDPncvOeg"&gt;零件NO.7檔案位置&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/p&gt;
 
-&lt;img src="https://copy.com/pzQN4TAdZ3u9byZ3"width="550"height="450"&gt;
+&lt;script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/hinge.stl"&gt;&lt;/script&gt;
 
+&lt;p&gt;零件NO.8   Piston  by.40323204 &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copy.com/VHJhcuB9n6Gey8g6"&gt;零件NO.8檔案位置&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/pzQN4TAdZ3u9byZ3"width="550"height="450"&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;/p&gt;
@@ -838,38 +912,38 @@ Nutcracker 機構
 &lt;tr&gt;
 &lt;td style="text-align:center;" colspan=1&gt;◎&lt;a href='user/40328245/'&gt;40328245&lt;/a&gt;&lt;/td&gt; 
 &lt;td style="text-align:center;" colspan=1&gt;◎&lt;a href='user/40323230/'&gt;40323230&lt;/a&gt;&lt;/td&gt; 
-&lt;td style="text-align:center;" colspan=1&gt;◎403232xx&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1&gt;◎403232xx&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;◎&lt;a href='user/40323248/'&gt;40323248&lt;/a&gt;&lt;/td&gt; 
+&lt;td style="text-align:center;" colspan=1&gt;◎&lt;a href='user/40323213/'&gt;40323213&lt;/a&gt;&lt;/td&gt; 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40328242/'&gt;40328242&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323231/'&gt;40323231&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1&gt;8-2&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1&gt;9-2&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323210/'&gt;40323210&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323226/'&gt;40323226&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center;" colspan=1&gt;6-3&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323232/'&gt;40323232&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;8-3&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1&gt;9-3&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323229/'&gt;40323229&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center;" colspan=1&gt;6-4&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323233/'&gt;40323233&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;8-4&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1&gt;9-4&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323237/'&gt;40323237&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center;" colspan=1&gt;6-5&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;40323234&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;8-5&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1&gt;9-5&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323239/'&gt;40323239&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align:center;" colspan=1&gt;6-6&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323236/'&gt;40323236&lt;/a&gt;&lt;/td&gt;&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;8-6&lt;/td&gt;
-&lt;td style="text-align:center;" colspan=1&gt;9-6&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323242/'&gt;40323242&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;

@@ -1,0 +1,100 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+  
+    <p><font size="7" face="Comic Sans MS"><marquee border="0">MERRY CHRISTMAS .</marquee></font></p>
+   
+    <br>
+    <h2>四設計二乙</h2>
+    <p>40323206 黃婉菁</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h2>上課筆記</h2>
+    <br>
+     
+      <p align="left">1.到Creo另存零件檔為stl. </p>
+      <p align="left">2.會出現一個Export STL的視窗</p>
+       <p align="left">◎ 格式(Format)→選擇ASCII</p>
+       <p align="left">◎ 偏差控制(Deviation Control)→弦高(Chord Hight)→數值越小圓越精細</p>
+       <p align="left">3.設定完成OK</p>
+       <p align="left">4.將stl檔傳至自己的github <br> (方法跟之前一樣，可以參考我Week2的上課筆記) </p>
+       <p align="left">5.上傳後進入自己的github打開檔案 </p>
+       <p align="left">6.會看到零件360°的立體圖</p>
+      
+    <br>
+     
+  
+</section>
+				
+<section id="hw-task-one">
+    <h2>上課筆記</h2>
+    <br>
+     
+      <p align="left">7.右上角有一個Raw右鍵開啟</p>
+      <p align="left">8.複製網址 <br>※從自己的帳號開始複製</p>
+       <p align="left">9.語法 ：<br> <pre lang="html"><code>script src="https://embed.github.com/view/3d/步驟 8 複製內容"/script&gt;
+</code></pre></p>
+       
+       <br>
+       <br>
+       <p align="left">※ 語法如果從老師給的使用方法說明找，就是使用第一個喔~</p>
+       
+
+    <br>
+     
+  
+</section>
+				
+<section>
+    <h2>心得</h2>
+    <br>
+   
+      <p align="left">透過老師的上課提示，很快就可以摸索出來了，可是使用方法我一開始也不是很懂，所以我就直接在頁面F12檢視原始碼了，現在想想感覺有點投機呀~不過能成功完成真是太好了，組員們也幾乎都完成了，其中遇到的問題還有存檔時的格式忘記選擇ASCII。</p>
+    <br>
+</section>
+				
+<section>
+    <h2>自評</h2>
+    <br>
+   
+      <p align="left">這次的作業我也是在課堂上完成的，覺得最近都很順利，原本以為會很困難，結果老師一提點馬上就通，雖然有投機的地方，然後作業80%都是老師先查好資料的...但結果還是很滿意！自評85分。</p>
+    <br>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

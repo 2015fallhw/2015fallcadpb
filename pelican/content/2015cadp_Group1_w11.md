@@ -45,12 +45,16 @@ src="https://copy.com/gncttvEdRpVyJWUT"width="300"height="300">
 <script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323250/part/connection.stl"width="300"height="300"></script>
 <br>
 <br>
-Part_5 : Cylinder
+Part_5 : Cylinder - <a
+href='user/40323214/'>40323214</a>
 <br>
 <p align="left"><a href="https://copy.com/VAjcZCzsxXGFY1a4">Cylinder.prt</a>
 <br>
 <img
 src="https://copy.com/JG777R8KOqMhPd4E"width="300"height="300">
+<br>
+<iframe src="https://player.vimeo.com/video/149606028" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/149606028">40323214_5</a> from <a href="https://vimeo.com/user45009540">吳信褘</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
 Part_6 : Handle

@@ -8,7 +8,9 @@ Summary: 第二組第十一週工作報告<br />Nutcracker 機構
 
 以下為相關工作報告資料
 <br />
-Nutcracker 機構
+
+
+<span style="font-size: 20pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">Nutcracker 機構</span></strong></span>
 <br />
 <img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450">
 
@@ -17,7 +19,9 @@ Nutcracker 機構
 <a href="https://copy.com/hgHwCB3DFB6CDjWB">零件NO.1檔案位置</a>
 <br />
 
+
 <img src="https://copy.com/Cq7j0E9GN00X6T9g"width="300"height="300">
+
 
 <p>
 <iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
@@ -33,8 +37,10 @@ Nutcracker 機構
 <img src="https://copy.com/FuUlr3wAhieNl3C4"width="550"height="450">
 
 <p>
-<iframe src="https://www.youtube.com/watch?v=LSeltpAuI7A" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+<iframe src="https://player.vimeo.com/video/148832383" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
+
+<script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/adjuster.stl"></script>
 
 零件NO.3   Base  by.40323204
 
@@ -85,8 +91,10 @@ Nutcracker 機構
 <img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450">
 
 <p>
-<iframe src="https://www.youtube.com/watch?v=SkE4UZlHBlk" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+<iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+</p>
 
+<script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/handle.stl"></script>
 零件NO.7   Hinge  by.40323255
 
 <a href="https://copy.com/cjXMvw0xDPncvOeg">零件NO.7檔案位置</a>
@@ -94,9 +102,10 @@ Nutcracker 機構
 <img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450">
 
 <p>
-<iframe src="https://www.youtube.com/watch?v=j18Ca-OczQM" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+<iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
 
+<script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/hinge.stl"></script>
 零件NO.8   Piston  by.40323204 
 
 <a href="https://copy.com/VHJhcuB9n6Gey8g6">零件NO.8檔案位置</a>
