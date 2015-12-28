@@ -33,8 +33,15 @@ src="https://copy.com/wJ7wCETWJxdp6bXs"width="300"height="300">
 
 
 5 : Cylinder
-
-
+<br>
+<br>
+<img
+src="https://copy.com/89u1XxTwAfPYCXhX"width="300"height="300">
+<br>
+<br>
+<iframe src="https://player.vimeo.com/video/149565544" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/149565544">零件5</a> from <a href="https://vimeo.com/user44975888">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
 6 : Handle
 
 
