@@ -12,7 +12,8 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <br>
 以下為相關工作報告資料
 
-1 : Adjuster_Base 操作者:40323211 朱柏蔚
+1 : Adjuster_Base  <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">1 : Adjuster_Base  40323211 朱柏蔚 </span></strong></span>
+
 <br>
 <img
 src="https://copy.com/46R7KFjIlPvCRrSP"width="300"height="300">
