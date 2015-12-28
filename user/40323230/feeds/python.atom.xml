@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-15T12:00:00+08:00</updated><entry><title>2015 計算機程式 第八週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-11-15T12:00:00+08:00</updated><author><name>40323230</name></author><id>tag:coursemdetw.github.io,2015-11-15:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;h2&gt;第八週作業-統整&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-26T12:00:00+08:00</updated><entry><title>2015 計算機程式 第十四週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-26T12:00:00+08:00</updated><author><name>40323230</name></author><id>tag:coursemdetw.github.io,2015-12-26:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為第十四週作業內容&lt;/p&gt;
+&lt;iframe src="40323230_cp_w14.html" width="750" height="450"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40323230_cp_w14.html" target="_blank"&gt;第十三週作業　投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Nutcracker組合圖&lt;/h2&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十二週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-19T12:00:00+08:00</updated><author><name>40323230</name></author><id>tag:coursemdetw.github.io,2015-12-19:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為第十二週作業內容&lt;/p&gt;
+&lt;iframe src="40323230_cp_w12.html" width="750" height="450"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40323230_cp_w12.html" target="_blank"&gt;第十二週作業　投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;學校的電腦使用fix  安裝leo檔案&lt;/h2&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十一週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-12-12T12:00:00+08:00</updated><author><name>40323230</name></author><id>tag:coursemdetw.github.io,2015-12-12:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為第十一週作業內容&lt;/p&gt;
+&lt;iframe src="40323230_cp_w11.html" width="750" height="450"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40323230_cp_w11.html" target="_blank"&gt;第十一週作業　投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;連結個人倉儲&lt;/h2&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-12-05T12:00:00+08:00</updated><author><name>40323230</name></author><id>tag:coursemdetw.github.io,2015-12-05:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為第十週作業內容&lt;/p&gt;
+&lt;iframe src="40323230_cp_w10.html" width="750" height="450"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40323230_cp_w10.html" target="_blank"&gt;第十週作業　投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;安裝 miniconda&lt;/h2&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第八週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-11-15T12:00:00+08:00</updated><author><name>40323230</name></author><id>tag:coursemdetw.github.io,2015-11-15:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;h2&gt;第八週作業-統整&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpb/user/40323230/2015cp_hw_w1.html"&gt;第一、二週&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;這兩週學習如何上傳至倉儲，以及基本的管理與編輯倉儲內容。&lt;/p&gt;

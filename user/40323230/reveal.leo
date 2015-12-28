@@ -31,10 +31,14 @@
 <v t="123.20151228210943.6"><vh>@edit 40323230_cp_w6.md</vh></v>
 <v t="123.20151228210943.7"><vh>@edit 40323230_cp_w7.md</vh></v>
 <v t="123.20151228210943.8"><vh>@edit 40323230_cp_w8.md</vh></v>
+<v t="leo.20151228223913.1"><vh>@edit 40323230_cp_w10.md</vh></v>
+<v t="leo.20151228224251.1"><vh>@edit 40323230_cp_w11.md</vh></v>
+<v t="leo.20151228223512.1"><vh>@edit 40323230_cp_w12.md</vh></v>
+<v t="leo.20151228224344.1"><vh>@edit 40323230_cp_w14.md</vh></v>
 </v>
 </v>
 </v>
-<v t="123.20151208171423.1"><vh>以下為 reveal 投影片</vh>
+<v t="123.20151208171423.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="123.20151228210745.3"><vh>@clean 40323230_cp_w2.html</vh>
 <v t="123.20151228210745.4"><vh>檔案說明</vh></v>
 <v t="123.20151228210745.5"><vh>html 標註</vh>
@@ -111,6 +115,66 @@
 </v>
 </v>
 <v t="123.20151228210745.56"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151228224659.1"><vh>@clean 40323230_cp_w10.html</vh>
+<v t="leo.20151228224659.2"><vh>檔案說明</vh></v>
+<v t="leo.20151228224659.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151228224659.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151228224659.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151228224659.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151228224659.7"><vh>標題</vh></v>
+<v t="leo.20151228224659.8"><vh>作業任務一</vh></v>
+<v t="leo.20151228224659.9"><vh>自評</vh></v>
+</v>
+</v>
+<v t="leo.20151228224659.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151228225053.1"><vh>@clean 40323230_cp_w11.html</vh>
+<v t="leo.20151228225053.2"><vh>檔案說明</vh></v>
+<v t="leo.20151228225053.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151228225053.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151228225053.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151228225053.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151228225053.7"><vh>標題</vh></v>
+<v t="leo.20151228225053.8"><vh>作業任務一</vh></v>
+<v t="leo.20151228225053.9"><vh>自評</vh></v>
+</v>
+</v>
+<v t="leo.20151228225053.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151228225706.1"><vh>@clean 40323230_cp_w12.html</vh>
+<v t="leo.20151228225706.2"><vh>檔案說明</vh></v>
+<v t="leo.20151228225706.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151228225706.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151228225706.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151228225706.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151228225706.7"><vh>標題</vh></v>
+<v t="leo.20151228225706.8"><vh>作業任務一</vh></v>
+<v t="leo.20151228225706.9"><vh>自評</vh></v>
+</v>
+</v>
+<v t="leo.20151228225706.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151228225725.1"><vh>@clean 40323230_cp_w14.html</vh>
+<v t="leo.20151228225725.2"><vh>檔案說明</vh></v>
+<v t="leo.20151228225725.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151228225725.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151228225725.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151228225725.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151228225725.7"><vh>標題</vh></v>
+<v t="leo.20151228225725.8"><vh>作業任務一</vh></v>
+<v t="leo.20151228225725.9"><vh>自評</vh></v>
+</v>
+</v>
+<v t="leo.20151228225725.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -603,6 +667,323 @@ sudo pip3 install jupyter
 執行
 
 jupyter notebook
+</t>
+<t tx="leo.20151228224659.1">@language xml
+@tabwidth -4
+@others
+</t>
+<t tx="leo.20151228224659.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151228224659.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151228224659.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151228224659.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151228224659.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228224659.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228224659.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;hr&gt;
+    &lt;p&gt;40323230-張元-12/5&lt;/p&gt;		
+&lt;/section&gt;
+</t>
+<t tx="leo.20151228224659.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;安裝 miniconda&lt;/h1&gt;
+    &lt;p&gt;步驟 : 
+
+1. conda install pip
+
+2. pip install pelican Markdown
+
+3. conda install pyqt
+
+4. pip install ( github的leo檔網址 )
+
+5. conda install anaconda-client
+
+6. conda install jupyter
+&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151228224659.9">&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;安裝一個可攜式、能夠自訂化的工具，雖然不知道所有的用途，但是已經可以突破既有的框架，給自己80分。&lt;/p&gt;
+    &lt;hr&gt;
+    &lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;課程資料&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151228225053.1">@language xml
+@tabwidth -4
+@others
+</t>
+<t tx="leo.20151228225053.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151228225053.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151228225053.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151228225053.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151228225053.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228225053.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228225053.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;hr&gt;
+    &lt;p&gt;40323230-張元-12/12&lt;/p&gt;		
+&lt;/section&gt;
+</t>
+<t tx="leo.20151228225053.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;連結個人倉儲&lt;/h1&gt;
+    &lt;p&gt;步驟 : 
+
+1.另外下載一份班上倉儲 且回復舊版本 
+
+2.將舊版本自己節點 參照個人網頁(新版)或者user/40323250的reveal.leo節點 貼到原始的班上倉儲reveal.leo檔(不是舊版的那個)
+
+3.如果可以存檔及轉檔不會錯誤，就可以推回。
+
+4.完成
+&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151228225053.9">&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;安裝一個可攜式、能夠自訂化的工具，雖然不知道所有的用途，但是已經可以突破既有的框架，給自己80分。&lt;/p&gt;
+    &lt;hr&gt;
+    &lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;課程資料&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151228225706.1">@language xml
+@tabwidth -4
+@others
+</t>
+<t tx="leo.20151228225706.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151228225706.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151228225706.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151228225706.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151228225706.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228225706.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228225706.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;hr&gt;
+    &lt;p&gt;40323230-張元-12/19&lt;/p&gt;		
+&lt;/section&gt;
+</t>
+<t tx="leo.20151228225706.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;連結個人倉儲&lt;/h1&gt;
+    &lt;p&gt;步驟 :
+
+1.下載 fix壓縮檔
+
+2.下載leo壓縮檔，並放置於fix資料夾內
+
+3. 新增fix路徑 copy leo-editor-broke-abbrev.zip "C:\Ana3_2015\data\" 路徑依自己的檔案修改
+
+4. 修改start.bat內pip install leo-editor-broke-abbrev.zip
+
+5. 啟動fix ，將相對應得檔案複製到指定位置即可
+
+如果已安裝過pelican和Markdown等模組，可以用rem跳過該段程序
+&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151228225706.9">&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;安裝一個可攜式、能夠自訂化的工具，雖然不知道所有的用途，但是已經可以突破既有的框架，給自己80分。&lt;/p&gt;
+    &lt;hr&gt;
+    &lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;課程資料&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151228225725.1">@language xml
+@tabwidth -4
+@others
+</t>
+<t tx="leo.20151228225725.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151228225725.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151228225725.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151228225725.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151228225725.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228225725.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228225725.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;hr&gt;
+    &lt;p&gt;40323230-張元-12/26&lt;/p&gt;		
+&lt;/section&gt;
+</t>
+<t tx="leo.20151228225725.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;Nutcracker組合圖&lt;/h1&gt;
+    &lt;p&gt;
+1. 使用creo繪製零件並組立(影片)
+
+2. 圖檔上傳github並附上載點，在小組網站顯示，以及轉檔成.stl並顯示在網誌內(影片)
+
+3. 使用onshape繪製零件並組立，及輸出零件圖等(影片)
+&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151228225725.9">&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;安裝一個可攜式、能夠自訂化的工具，雖然不知道所有的用途，但是已經可以突破既有的框架，給自己80分。&lt;/p&gt;
+    &lt;hr&gt;
+    &lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;課程資料&lt;/a&gt;
+&lt;/section&gt;
+				
 </t>
 </tnodes>
 </leo_file>
