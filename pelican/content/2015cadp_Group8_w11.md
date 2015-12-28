@@ -12,11 +12,18 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <br>
 以下為相關工作報告資料
 
-1 : Adjuster_Base 
+1 : Adjuster_Base 操作者:40323211 朱柏蔚
 <br>
 <img
 src="https://copy.com/46R7KFjIlPvCRrSP"width="300"height="300">
 <br>
+<br>
+<iframe src="https://player.vimeo.com/video/150164518" width="500" height="298" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/150164518">1</a> from <a href="https://vimeo.com/user44975888">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/111.stl"></script>
+<br>
+
 
 2 : Adjuster    操作者:40323248 楊承儒
 <br>
@@ -29,9 +36,8 @@ src="https://copy.com/YKN1BPSI3m3BXlJZ"width="500"height="500">
 <iframe src="https://player.vimeo.com/video/149565545" width="500" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/149565545">零件2</a> from <a href="https://vimeo.com/user44975888">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
-<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/111.stl"></script>
+<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/22222222.stl"></script>
 <br>
-
 
 3 : Base
 
