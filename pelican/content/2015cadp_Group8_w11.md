@@ -8,7 +8,7 @@ Summary: 第八組第十一週工作報告<br />Nutcracker 機構
 <br>
 <br>
 <img
-src="https://copy.com/woK6zwVSGqwnh2Fp"width="300"height="300">
+src="https://copy.com/woK6zwVSGqwnh2Fp"width="500"height="500">
 <br>
 <br>
 以下為相關工作報告資料
