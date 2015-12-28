@@ -12,7 +12,7 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <br>
 以下為相關工作報告資料
 
-1 : Adjuster_Base  <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">1 : Adjuster_Base  40323211 朱柏蔚 </span></strong></span>
+  <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">1 : Adjuster_Base  40323211 朱柏蔚 </span></strong></span>
 
 <br>
 <img
@@ -25,8 +25,8 @@ src="https://copy.com/46R7KFjIlPvCRrSP"width="300"height="300">
 <script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/111.stl"></script>
 <br>
 
+<span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">2 : Adjuster    操作者:40323248 楊承儒 </span></strong></span>
 
-2 : Adjuster    操作者:40323248 楊承儒
 <br>
 <img
 src="https://copy.com/wJ7wCETWJxdp6bXs"width="500"height="500">
@@ -40,7 +40,8 @@ src="https://copy.com/YKN1BPSI3m3BXlJZ"width="500"height="500">
 <script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/22222222.stl"></script>
 <br>
 
-3 : Base    操作者:40323210 古丙駿
+<span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">3 : Base    操作者:40323210 古丙駿</span></strong></span>
+
 <br>
 <img
 src="https://copy.com/zhSfazdufCR1IJG4"width="300"height="300">
@@ -55,8 +56,8 @@ src="https://copy.com/zhSfazdufCR1IJG4"width="300"height="300">
 
 4 : Connection
 
+<span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">5 : Cylinder    操作者:40323248 楊承儒</span></strong></span>
 
-5 : Cylinder    操作者:40323248 楊承儒
 <br>
 <br>
 <img
