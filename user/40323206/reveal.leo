@@ -186,11 +186,11 @@
 </v>
 </v>
 </v>
-<v t="leo40323206.20151225173916.1" a="E"><vh>@clean simplest10.html</vh>
+<v t="leo40323206.20151225173916.1"><vh>@clean simplest10.html</vh>
 <v t="leo40323206.20151225173916.2"><vh>檔案說明</vh></v>
 <v t="leo40323206.20151225173916.3" a="E"><vh>html 標註</vh>
-<v t="leo40323206.20151225173916.4" a="E"><vh>body 標註</vh>
-<v t="leo40323206.20151225173916.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151225173916.4"><vh>body 標註</vh>
+<v t="leo40323206.20151225173916.5"><vh>div class="reveal"</vh>
 <v t="leo40323206.20151225173916.6"><vh>div class="slides"</vh>
 <v t="leo40323206.20151225173916.7"><vh>封面</vh></v>
 <v t="leo40323206.20151225173916.8"><vh>投影片2</vh></v>
@@ -203,12 +203,12 @@
 </v>
 </v>
 </v>
-<v t="leo40323206.20151228142944.1" a="E"><vh>@clean simplest11.html</vh>
+<v t="leo40323206.20151228142944.1"><vh>@clean simplest11.html</vh>
 <v t="leo40323206.20151228142944.2"><vh>檔案說明</vh></v>
 <v t="leo40323206.20151228142944.3" a="E"><vh>html 標註</vh>
 <v t="leo40323206.20151228142944.4" a="E"><vh>body 標註</vh>
 <v t="leo40323206.20151228142944.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo40323206.20151228145147.1" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151228145147.1"><vh>div class="slides"</vh>
 <v t="leo40323206.20151228145147.2"><vh>封面</vh></v>
 <v t="leo40323206.20151228145147.3"><vh>投影片2</vh></v>
 <v t="leo40323206.20151228145147.4"><vh>投影片3</vh></v>
@@ -1406,7 +1406,11 @@ jupyter notebook
     &lt;h2&gt;上課筆記&lt;/h2&gt;
     &lt;br&gt;
      
-      &lt;p align="left"&gt;未完成 &lt;/p&gt;
+      &lt;p align="left"&gt;1.由組長建立一個工作空間 &lt;br&gt;命名為 cadpb_g組別_nutcracker &lt;/p&gt;
+      &lt;p align="left"&gt;2.點選右上角的Share加入組員 &lt;br&gt; 輸入組員e-mail及設定權限 &lt;/p&gt;
+      &lt;p align="left"&gt;3.組員進入工作空間後要先執行兩個步驟&lt;br&gt; ◎點選左下角的 "+" import 匯入自己負責的零件並命名 &lt;br&gt; ◎再點選 "+" Create assembly 新增自己的組裝空間&lt;/p&gt;
+      &lt;p align="left"&gt;4.由組員個別進行組裝作業 &lt;/p&gt;
+      
     
   
 &lt;/section&gt;
@@ -1424,7 +1428,7 @@ jupyter notebook
     &lt;h2&gt;自評&lt;/h2&gt;
     &lt;br&gt;
    
-      &lt;p align="left"&gt;未完成&lt;/p&gt;
+      &lt;p align="left"&gt;這次是老師直接操作給我們看，約束的地方我還沒弄清楚，但機構已經組裝起來，比起Creo我覺得Onshape的組裝彈性很多，可是約束的設定也比較多，組裝不難，但完整度需要思考，...........&lt;/p&gt;
     &lt;br&gt;
 &lt;/section&gt;
 				
