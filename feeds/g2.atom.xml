@@ -1,5 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g2.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T10:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group2 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g2_w15.html" rel="alternate"></link><updated>2015-12-28T10:25:00+08:00</updated><author><name>G2</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g2_w15.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g2.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T10:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group2 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g2_w11.html" rel="alternate"></link><updated>2015-12-28T10:25:00+08:00</updated><author><name>G2</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g2_w11.html</id><summary type="html">&lt;p&gt;組員：&lt;br /&gt;
+張筱萱&lt;a href='user/40323204/'&gt;40323204&lt;/a&gt;&lt;br /&gt;黃婉菁&lt;a href='user/40323206/'&gt;40323206&lt;/a&gt;&lt;br /&gt;李伯皇&lt;a href='user/40323217/'&gt;40323217&lt;/a&gt;&lt;br /&gt;雷堯軒&lt;a href='user/40323251/'&gt;40323251&lt;/a&gt;&lt;br /&gt;鄭智文&lt;a href='user/40323255/'&gt;40323255&lt;/a&gt;&lt;br /&gt;陳政憲&lt;a href='user/40323241/'&gt;40323241&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+
+&lt;p&gt;以下為相關工作報告資料
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件NO.1   Adjuster_Base  by.40323251&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copy.com/hgHwCB3DFB6CDjWB"&gt;零件NO.1檔案位置&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/Cq7j0E9GN00X6T9g"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/p&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323251/test/master/adhuster_base.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件NO.2   Adjuster  by.40323255&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copy.com/Ns3tepiUZ3bqPYWV"&gt;零件NO.2檔案位置&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/FuUlr3wAhieNl3C4"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/148832383" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/p&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/adjuster.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件NO.3   Base  by.40323204&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copy.com/HYuFKm9j82iMJBwC"&gt;零件NO.3檔案位置&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/8ZBPUMlMFsG7lxZG"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/p&gt;
+
+&lt;script src="https://embed.github.com/view/3d/hsungchang/test/master/prt3.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件NO.4   Connection  by.40323217&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copy.com/YpVnokEJI2Lt81uB"&gt;零件NO.4檔案位置&lt;/a&gt;
+&lt;br /&gt;
+&lt;img src="https://copy.com/TPklzsECNAOjjYBk"width="450"height="350"&gt;
+&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/Openandgit/40323217cphw/gh-pages/connection.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件NO.5    Cylinder  by.40323206&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copy.com/wWcYaBB4Xyo7dnav"&gt;零件NO.5檔案位置&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/lBGqa4W4FR1GV9io"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/p&gt;
+
+&lt;script src="https://embed.github.com/view/3d/michell1995huang/test_stl_3D/master/prt5.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件NO.6   Handle  by.40323255&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copy.com/y217HNo9NV8OkNSk"&gt;零件NO.6檔案位置&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/Ty3MxZTLeZrqpllf"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/p&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/handle.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件NO.7   Hinge  by.40323255&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copy.com/cjXMvw0xDPncvOeg"&gt;零件NO.7檔案位置&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/Ty3MxZTLeZrqpllf"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/p&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/hinge.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件NO.8   Piston  by.40323204 &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copy.com/VHJhcuB9n6Gey8g6"&gt;零件NO.8檔案位置&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/pzQN4TAdZ3u9byZ3"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/p&gt;
+
+&lt;script src="https://embed.github.com/view/3d/hsungchang/test/master/prt8.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #7A0099;"&gt;機構組裝影片&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;by.40323217
+&lt;iframe src="https://player.vimeo.com/video/149553485" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  &lt;/p&gt;
+&lt;p&gt;by.40323206
+&lt;iframe src="https://player.vimeo.com/video/150147977" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  &lt;/p&gt;
+&lt;p&gt;by.40323204
+&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group2 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g2_w15.html" rel="alternate"></link><updated>2015-12-28T10:25:00+08:00</updated><author><name>G2</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g2_w15.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
 &lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;By 40323204
 &lt;script src="https://embed.github.com/view/3d/hsungchang/test/blob/master/b_g2_nutcracker%20-%2040323204_nutcrack.stl"&gt;&lt;/script&gt;&lt;/p&gt;
@@ -82,97 +190,4 @@
 &lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;/p&gt;
 
-&lt;script src="https://embed.github.com/view/3d/hsungchang/test/master/prt8.stl"&gt;&lt;/script&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group2 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g2_w11.html" rel="alternate"></link><updated>2015-11-23T10:25:00+08:00</updated><author><name>G2</name></author><id>tag:coursemdetw.github.io,2015-11-23:reveal/2015cadpb_blog_g2_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
-&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="font-size: 20pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450"&gt;&lt;/p&gt;
-&lt;p&gt;零件NO.1   Adjuster_Base  by.40323251 &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://copy.com/hgHwCB3DFB6CDjWB"&gt;零件NO.1檔案位置&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/Cq7j0E9GN00X6T9g"width="300"height="300"&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323251/test/master/adhuster_base.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;零件NO.2   Adjuster  by.40323255&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://copy.com/Ns3tepiUZ3bqPYWV"&gt;零件NO.2檔案位置&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/FuUlr3wAhieNl3C4"width="550"height="450"&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832383" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/adjuster.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;零件NO.3   Base  by.40323204&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://copy.com/HYuFKm9j82iMJBwC"&gt;零件NO.3檔案位置&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/8ZBPUMlMFsG7lxZG"width="550"height="450"&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;script src="https://embed.github.com/view/3d/hsungchang/test/master/prt3.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;零件NO.4   Connection  by.40323217
-&lt;br /&gt;
-&lt;a href="https://copy.com/YpVnokEJI2Lt81uB"&gt;零件NO.4檔案位置&lt;/a&gt;
-&lt;br /&gt;
-&lt;img src="https://copy.com/TPklzsECNAOjjYBk"width="550"height="450"&gt;
-&lt;br /&gt;
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
-&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br / &gt;
-&lt;script src="https://embed.github.com/view/3d/Openandgit/40323217cphw/gh-pages/connection.stl"&gt;&lt;/script&gt;
-&lt;br / &gt;&lt;/p&gt;
-&lt;p&gt;零件NO.5    Cylinder  by.40323206&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://copy.com/wWcYaBB4Xyo7dnav"&gt;零件NO.5檔案位置&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/lBGqa4W4FR1GV9io"width="550"height="450"&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;script src="https://embed.github.com/view/3d/michell1995huang/test_stl_3D/master/prt5.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;零件NO.6   Handle  by.40323255&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://copy.com/y217HNo9NV8OkNSk"&gt;零件NO.6檔案位置&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450"&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/handle.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;零件NO.7   Hinge  by.40323255&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://copy.com/cjXMvw0xDPncvOeg"&gt;零件NO.7檔案位置&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450"&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/hinge.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;零件NO.8   Piston  by.40323204 &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://copy.com/VHJhcuB9n6Gey8g6"&gt;零件NO.8檔案位置&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/pzQN4TAdZ3u9byZ3"width="550"height="450"&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;script src="https://embed.github.com/view/3d/hsungchang/test/master/prt8.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="font-size: 20pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;機構組裝影片&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;
-by.40323217&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/149553485" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;
-by.40323206&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150147977" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;by.40323204&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="mechanism"></category></entry></feed>
+&lt;script src="https://embed.github.com/view/3d/hsungchang/test/master/prt8.stl"&gt;&lt;/script&gt;</summary><category term="mechanism"></category></entry></feed>
