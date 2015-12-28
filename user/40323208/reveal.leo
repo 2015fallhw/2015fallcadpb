@@ -140,8 +140,11 @@
 <v t="LEO.20151221105255.8" a="E"><vh>第 12 週開始的規劃</vh>
 <v t="LEO.20151221105255.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="LEO.20151221105255.10" a="E"><vh>header 測試</vh>
+<v t="LEO.20151221105255.10"><vh>header 測試</vh>
 <v t="LEO.20151221105255.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151228095953.1" a="E"><vh>header 測試</vh>
+<v t="leo.20151228095953.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="LEO.20151221105255.14" a="E"><vh>第12週自評與心得</vh>
 <v t="LEO.20151221105255.15"><vh>&lt;&lt; header &gt;&gt;</vh></v>
@@ -816,6 +819,23 @@ jupyter notebook
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20151228095024.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20151228095953.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;HANDLE&lt;/h1&gt;
+    &lt;p&gt;我是先畫出方形柱狀再從一面長出圓柱，然後鑽兩個孔。&lt;/p&gt;
+    &lt;h1&gt;HINGE&lt;/h1&gt;
+    &lt;p&gt;先做出其外觀然後鑽孔。&lt;/p&gt;
+&lt;/section&gt;
+    </t>
+<t tx="leo.20151228095953.2">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
