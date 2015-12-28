@@ -39,8 +39,18 @@ src="https://copy.com/YKN1BPSI3m3BXlJZ"width="500"height="500">
 <script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/22222222.stl"></script>
 <br>
 
-3 : Base
-
+3 : Base    操作者:40323210 古丙駿
+<br>
+<img
+src="https://copy.com/zhSfazdufCR1IJG4"width="300"height="300">
+<br>
+<br>
+<iframe src="https://player.vimeo.com/video/150164519" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/150164519">3</a> from <a href="https://vimeo.com/user44975888">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
+<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/3.stl"></script>
+<br>
 
 4 : Connection
 
