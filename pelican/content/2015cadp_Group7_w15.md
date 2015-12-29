@@ -41,7 +41,7 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'>40323230張元</
 
 Product(s) Preview：</br><script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323230/part/base.stl"width="300"height="300"></script>
 
-Part Drawing Video：</br>Onshape：</br><iframe src="https://player.vimeo.com/video/150088868" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+Part Drawing Video</br>Onshape：</br><iframe src="https://player.vimeo.com/video/150088868" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/150088868">Base</a> from <a href="https://vimeo.com/user32555757">張元</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Product(s) File Download link：</br><a href='https://copy.com/P44dMVl6tgivZMK1'>Download Link</a>
