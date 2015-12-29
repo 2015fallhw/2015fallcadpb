@@ -37,6 +37,7 @@
 <v t="123.20151229184405.1"><vh>@edit 2015cphww13.md</vh></v>
 <v t="12.20151229094021.1"><vh>@edit 2015cphww14.md</vh></v>
 <v t="12.20151229094020.1"><vh>@edit 2015cphww15.md</vh></v>
+<v t="1.20151229225957.1"><vh>@edit 2015cphww16.md</vh></v>
 <v t="123.20151208172124.1"><vh>@path content</vh></v>
 </v>
 </v>
@@ -174,7 +175,7 @@
 </v>
 </v>
 </v>
-<v t="12.20151229111808.1" a="E"><vh>@clean simplest9.html</vh>
+<v t="12.20151229111808.1"><vh>@clean simplest9.html</vh>
 <v t="12.20151229111808.2"><vh>檔案說明</vh></v>
 <v t="12.20151229111808.3" a="E"><vh>html 標註</vh>
 <v t="12.20151229111808.4" a="E"><vh>body 標註</vh>
@@ -213,7 +214,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151229184518.1" a="E"><vh>@clean simplest11.html</vh>
+<v t="123.20151229184518.1"><vh>@clean simplest11.html</vh>
 <v t="123.20151229184518.2"><vh>檔案說明</vh></v>
 <v t="123.20151229184518.3" a="E"><vh>html 標註</vh>
 <v t="123.20151229184518.4" a="E"><vh>body 標註</vh>
@@ -231,9 +232,113 @@
 </v>
 </v>
 </v>
+<v t="1.20151229225952.1"><vh>@clean simplest12.html</vh>
+<v t="1.20151229225952.2"><vh>檔案說明</vh></v>
+<v t="1.20151229225952.3" a="E"><vh>html 標註</vh>
+<v t="1.20151229225952.4" a="E"><vh>body 標註</vh>
+<v t="1.20151229225952.5" a="E"><vh>div class="reveal"</vh>
+<v t="1.20151229225952.6" a="E"><vh>div class="slides"</vh>
+<v t="1.20151229225952.7" a="E"><vh>有關我的作業</vh>
+<v t="1.20151229225952.10"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="1.20151229225952.9" a="E"><vh>第3張投影片</vh>
+<v t="1.20151229225952.10"></v>
+</v>
+</v>
+</v>
+<v t="1.20151229225952.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
 </v>
 </vnodes>
 <tnodes>
+<t tx="1.20151229225952.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="1.20151229225952.10">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323233"; }&lt;/style&gt;</t>
+<t tx="1.20151229225952.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="1.20151229225952.2">﻿&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="1.20151229225952.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="1.20151229225952.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="1.20151229225952.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="1.20151229225952.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="1.20151229225952.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
+    &lt;h2&gt;第十三週作業&lt;/h2&gt;
+    &lt;p&gt;40323233張維元&lt;/p&gt;
+    &lt;/section&gt;
+    		
+&lt;/section&gt;
+	
+</t>
+<t tx="1.20151229225952.9">&lt;&lt; header &gt;&gt;
+
+    &lt;h2&gt;自評&lt;/h2&gt;
+    &lt;p&gt;
+這個禮拜是小組一起分工，畫完所有零件必且把零件全部組合起來，
+組合圖我研究了一下在拍影片會比較快，只是拍完第1片後才發現我沒錄到聲音，
+只好再重錄一次。其實如果熟悉操作的話組合圖大概10分鐘內就可以拍完了。
+
+&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p&gt;自評分數:75&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
 <t tx="12.20151229094810.1">@language xml
 @tabwidth -4
 @others
@@ -1148,7 +1253,7 @@ g.es("user pelican 執行完畢")</t>
     &lt;p&gt;這禮拜的因為老師放慢進度，所以畫圖也快跟上腳步了，希望自己能夠再加油一點。
 &lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;自評分數:70&lt;/p&gt;
+    &lt;p&gt;自評分數:75&lt;/p&gt;
     
 &lt;/section&gt;
 				
