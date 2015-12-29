@@ -304,8 +304,9 @@
 	
 </t>
 <t tx="12.20151229094811.8">&lt;&lt; header &gt;&gt;
+
     &lt;h3&gt;作業&lt;/h3&gt;
-    &lt;p&gt;這週必須在班級用戶內 做一個個人的        reveal.leo檔案，以及本週課程、學號證明                &lt;/p&gt; 
+    &lt;p&gt;這週必須在班級用戶內 做一個個人的        reveal.leo檔案，以及本週課程、學號證明  &lt;/p&gt; 
     &lt;br&gt;
     
     步驟 : 
@@ -320,11 +321,13 @@
 				
 </t>
 <t tx="12.20151229094811.9">&lt;&lt; header &gt;&gt;
+
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;本週作業部分，簡單來說就是做一個個人的 reveal.leo檔案，以及本週課程，
 中途在Save時出了一些小狀況，還好沒什麼太大的影響，然後注意推的時候不要把別人的檔案破壞了。&lt;/p&gt;
 &lt;br&gt;
     &lt;p&gt;自評分數:70&lt;/p&gt;
+    
 &lt;/section&gt;
 				
 </t>
