@@ -214,7 +214,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151229184518.1"><vh>@clean simplest11.html</vh>
+<v t="123.20151229184518.1" a="E"><vh>@clean simplest11.html</vh>
 <v t="123.20151229184518.2"><vh>檔案說明</vh></v>
 <v t="123.20151229184518.3" a="E"><vh>html 標註</vh>
 <v t="123.20151229184518.4" a="E"><vh>body 標註</vh>
@@ -232,7 +232,7 @@
 </v>
 </v>
 </v>
-<v t="1.20151229225952.1"><vh>@clean simplest12.html</vh>
+<v t="1.20151229225952.1" a="E"><vh>@clean simplest12.html</vh>
 <v t="1.20151229225952.2"><vh>檔案說明</vh></v>
 <v t="1.20151229225952.3" a="E"><vh>html 標註</vh>
 <v t="1.20151229225952.4" a="E"><vh>body 標註</vh>
@@ -317,7 +317,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323233"; }&lt;/style&gt
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
     &lt;section&gt;
-    &lt;h2&gt;第十三週作業&lt;/h2&gt;
+    &lt;h2&gt;第十六週&lt;/h2&gt;
     &lt;p&gt;40323233張維元&lt;/p&gt;
     &lt;/section&gt;
     		
