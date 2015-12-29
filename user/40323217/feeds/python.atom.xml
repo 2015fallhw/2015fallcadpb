@@ -62,7 +62,12 @@
 &lt;br / &gt;
 &lt;iframe src="https://player.vimeo.com/video/149553485" width="500" height="271" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 &lt;br / &gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/149553485"&gt;2015fallcadpb_walnut machine combination&lt;/a&gt; from &lt;a href="https://vimeo.com/user44933766"&gt;Li Bo Huang(李伯皇)&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業W5</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-17T18:41:00+08:00</updated><author><name>Openandgit</name></author><id>tag:coursemdetw.github.io,2015-10-17:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業五內容 &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/149553485"&gt;2015fallcadpb_walnut machine combination&lt;/a&gt; from &lt;a href="https://vimeo.com/user44933766"&gt;Li Bo Huang(李伯皇)&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業W6</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-10-18T19:00:00+08:00</updated><author><name>Openandgit</name></author><id>tag:coursemdetw.github.io,2015-10-18:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;p&gt;以下為作業六內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest6.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br / &gt;
+&lt;a href="simplest6.html" target="_blank"&gt;作業六投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業W5</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-17T18:41:00+08:00</updated><author><name>Openandgit</name></author><id>tag:coursemdetw.github.io,2015-10-17:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業五內容 &lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
