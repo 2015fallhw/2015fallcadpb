@@ -22,6 +22,11 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 以下為相關工作報告資料
 
   <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">1 : Adjuster_Base  操作者:40323211 朱柏蔚 </span></strong></span>
+<br>
+<br>
+<br>
+<a href="https://copy.com/OEKJgrhc34C6nMB6">零件NO.1</a>
+<br />
 
 <br>
 <img
@@ -37,6 +42,11 @@ src="https://copy.com/46R7KFjIlPvCRrSP"width="300"height="300">
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">2 : Adjuster    操作者:40323248 楊承儒 </span></strong></span>
 
 <br>
+<br>
+<br>
+<a href="https://copy.com/STsvAGYHNIqtvMrc">零件NO.2</a>
+<br />
+<br>
 <img
 src="https://copy.com/wJ7wCETWJxdp6bXs"width="500"height="500">
 <br>
@@ -50,6 +60,12 @@ src="https://copy.com/YKN1BPSI3m3BXlJZ"width="500"height="500">
 <br>
 <hr/>
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">3 : Base    操作者:40323210 古丙駿</span></strong></span>
+<br>
+<br>
+<br>
+<a href="https://copy.com/fywunTDVdOpM1ypi">零件NO.3</a>
+<br />
+<br>
 
 <br>
 <img
@@ -66,6 +82,11 @@ src="https://copy.com/zhSfazdufCR1IJG4"width="300"height="300">
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;"> 4 : Connection  操作者:40323211 朱柏蔚 </span></strong></span>
 <br>
+<br>
+<br>
+<a href="https://copy.com/81ca2P9jh7iOM7eF">零件NO.4</a>
+<br />
+<br>
 <img
 src="https://copy.com/Iyjk7Xofrjr4dh2z"width="500"height="500">
 <br>
@@ -79,7 +100,12 @@ src="https://copy.com/Iyjk7Xofrjr4dh2z"width="500"height="500">
 <hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">5 : Cylinder    操作者:40323248 楊承儒</span></strong></span>
-
+<br>
+<br>
+<br>
+<a href="https://copy.com/4ArPrrAyM38yZDDQ">零件NO.5</a>
+<br />
+<br>
 <br>
 <br>
 <img
@@ -95,6 +121,12 @@ src="https://copy.com/89u1XxTwAfPYCXhX"width="500"height="500">
 
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">6 : Handle  操作者:40323223 林聖祐 </span></strong></span>
+<br>
+<br>
+<br>
+<a href="https://copy.com/OothM6bDO9nm3wYU">零件NO.6</a>
+<br />
+<br>
 <br>
 <br>
 <img
@@ -115,6 +147,11 @@ src="https://copy.com/0xy2mZSgw1OxzPEB"width="500"height="500">
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">7 : Hinge  操作者:40323215 呂易煒</span></strong></span>
 <br>
 <br>
+<br>
+<a href="https://copy.com/uHRPMUlR3TeJWH1x">零件NO.7</a>
+<br />
+<br>
+<br>
 <img
 src="https://copy.com/mIJ4HZsTpmMVEjt2"width="500"height="500">
 <br>
@@ -129,6 +166,11 @@ src="https://copy.com/mIJ4HZsTpmMVEjt2"width="500"height="500">
 <hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">8 : Piston  操作者:40323215 呂易煒</span></strong></span>
+<br>
+<br>
+<br>
+<a href="https://copy.com/iwTCejbVUPY1VBxg">零件NO.8</a>
+<br />
 <br>
 <br>
 <img
