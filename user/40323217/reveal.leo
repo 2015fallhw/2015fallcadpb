@@ -2287,7 +2287,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	
 </t>
 <t tx="40323217.20151229164608.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;CPW6筆記&lt;/h1&gt;
+    &lt;h1&gt;CPW5筆記&lt;/h1&gt;
 &lt;p&gt;1.標註尺寸時要按住Ctrl鍵選取兩點-&gt;滑鼠右鍵,就可以去改變尺寸。
      2.零件組合時要靠近所組裝的地方，再去制定建置(不然會離太遠只會顯示距離)
      3.繪製草圖前要先選擇要繪製的平面(例如:前視圖或者右視),在選擇是要拉伸還是選轉(除料時可以用到)
