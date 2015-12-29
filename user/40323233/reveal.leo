@@ -296,7 +296,7 @@
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
-    
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
     &lt;h2&gt;第十一週作業&lt;/h2&gt;
     &lt;p&gt;40323233張維元&lt;/p&gt;
     		
@@ -322,7 +322,7 @@
 </t>
 <t tx="12.20151229094811.9">&lt;&lt; header &gt;&gt;
 
-    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;h2&gt;自評&lt;/h2&gt;
     &lt;p&gt;本週作業部分，簡單來說就是做一個個人的 reveal.leo檔案，以及本週課程，
 中途在Save時出了一些小狀況，還好沒什麼太大的影響，然後注意推的時候不要把別人的檔案破壞了。&lt;/p&gt;
 &lt;br&gt;
