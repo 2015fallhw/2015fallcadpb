@@ -23,7 +23,7 @@
 <v t="123.20151208171418.2"><vh>@button user pelican</vh></v>
 <v t="123.20151208171418.3" a="E"><vh>@path pelican</vh>
 <v t="123.20151208172057.1"><vh>@edit publishconf.py</vh></v>
-<v t="123.20151208171418.5" a="E"><vh>@path content</vh>
+<v t="123.20151208171418.5"><vh>@path content</vh>
 <v t="123.20151208172021.58"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="123.20151208172124.3"><vh>@edit 2015cphww2.md</vh></v>
 <v t="123.20151208172124.4"><vh>@edit 2015cphww4.md</vh></v>
@@ -296,8 +296,10 @@
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
+    &lt;section&gt;
     &lt;h2&gt;第十一週作業&lt;/h2&gt;
-    &lt;p&gt;40323233張維元&lt;/p&gt;		
+    &lt;p&gt;40323233張維元&lt;/p&gt;
+    &lt;/section&gt;		
 &lt;/section&gt;
 	
 </t>
@@ -320,11 +322,13 @@
 				
 </t>
 <t tx="12.20151229094811.9">&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;本週作業部分，簡單來說就是做一個個人的 reveal.leo檔案，以及本週課程，
 中途在Save時出了一些小狀況，還好沒什麼太大的影響，然後注意推的時候不要把別人的檔案破壞了。&lt;/p&gt;
 &lt;br&gt;
     &lt;p&gt;自評分數:70&lt;/p&gt;
+    &lt;/section&gt;
 &lt;/section&gt;
 				
 </t>
