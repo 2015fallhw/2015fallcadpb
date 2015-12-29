@@ -10,8 +10,6 @@ The products shown in the picture will be data of reports.
 <br>
 Use STL file to preview following parts.
 <br>
-And we also have a public project on <a href='https://cad.onshape.com/'>Onshape.com</a>. Called "b_g7_nutcracker".
-<br>
 <img src="https://raw.githubusercontent.com/2015fallhw/2015fallcadpb/gh-pages/user/40323230/images/nut.JPG"width="550"height="450">
 <br>
 If you want 3D models presented in your webpages, you need to get some URL code.
