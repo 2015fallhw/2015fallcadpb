@@ -26,7 +26,10 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <iframe src="https://player.vimeo.com/video/150268592" width="500" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268592">2-1</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
-
+<br>
+<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/111.stl"></script>
+<br>
+<hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">2 : Adjuster 操作者:40323211 朱柏蔚   </span></strong></span>
 <br>
@@ -34,6 +37,9 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <iframe src="https://player.vimeo.com/video/150268595" width="500" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268595">2-2</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
+<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/22222222.stl"></script>
+<br>
+<hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">3 : Base  操作者:40323210 古丙駿 </span></strong></span>
 <br>
@@ -41,6 +47,9 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <iframe src="https://player.vimeo.com/video/150268593" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268593">2-3</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
+<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/3.stl"></script>
+<br>
+<hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">4 : Connection 操作者:40323211 朱柏蔚 </span></strong></span>
 <br>
@@ -48,6 +57,9 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <iframe src="https://player.vimeo.com/video/150268596" width="500" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268596">2-4</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
+<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/4444.stl"></script>
+<br>
+<hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">5 : Cylinder 操作者:40323215 呂易煒 </span></strong></span>
 <br>
@@ -55,6 +67,9 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <iframe src="https://player.vimeo.com/video/150268597" width="500" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268597">2-5</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
+<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/5555555.stl"></script>
+<br>
+<hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">6 : Handle操作者:40323210 古丙駿 </span></strong></span>
 <br>
@@ -62,6 +77,10 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <iframe src="https://player.vimeo.com/video/150268594" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268594">2-6</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
+<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/6666666.stl"></script>
+<br>
+<br>
+<hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">7 : Hinge 操作者:40323235 莊皓惟 </span></strong></span>
 <br>
@@ -69,9 +88,20 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <iframe src="https://player.vimeo.com/video/150268600" width="500" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268600">2-7</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
+<script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/7777777.stl"></script>
+<br>
+<br>
+<hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">8 : Piston 操作者:40323248 楊承儒 </span></strong></span>
 <br>
 <br>
 <iframe src="https://player.vimeo.com/video/150268601" width="500" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268601">2-8</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
+<br>
+<script src="https://embed.github.com/view/3d/
+YANG-CHENG-RU/40323248-/master/888888888.stl"></script>
+<br>
+<br>
+<hr/>
+
