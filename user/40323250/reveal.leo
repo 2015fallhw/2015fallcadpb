@@ -222,7 +222,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151227000849.1"><vh>@clean 40323250_cp_w14.html</vh>
+<v t="123.20151227000849.1" a="E"><vh>@clean 40323250_cp_w14.html</vh>
 <v t="123.20151227000849.2"><vh>檔案說明</vh></v>
 <v t="123.20151227000849.3" a="E"><vh>html 標註</vh>
 <v t="123.20151227000849.4" a="E"><vh>body 標註</vh>
@@ -460,7 +460,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt
 </t>
 <t tx="123.20151227000849.9">&lt;&lt; header &gt;&gt;
     &lt;section&gt;
-    &lt;h3&gt;待辦事項&lt;/h3&gt;
+    &lt;h3&gt;事項&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
     &lt;p align="left"&gt;1. 使用creo繪製零件並組立(影片)&lt;/p&gt;
     &lt;br&gt;
@@ -485,7 +485,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt
 
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;因為onshape已經可以在網路上直接繪圖，雖然功能還很洋春，但能夠直接轉成很多檔案，包括三視圖，對於目前還可以接受  &lt;/p&gt;
+    &lt;p&gt;時間過得很快，稍為恍神一下就到期末了，還有很多東西想嘗試，可是時間分配不均，真的很想要利用自己畫出的東西並能夠模擬和分析。 &lt;/p&gt;
     &lt;br&gt;
     &lt;p&gt;評分 : 85 &lt;/p&gt; 
 &lt;/section&gt;		
@@ -566,16 +566,12 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt
 </t>
 <t tx="123.20151228231946.9">&lt;&lt; header &gt;&gt;
     &lt;section&gt;
-    &lt;h3&gt;待辦事項&lt;/h3&gt;
+    &lt;h3&gt;自評前一週&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1. 使用creo繪製零件並組立(影片)&lt;/p&gt;
+    &lt;p align="left"&gt;這禮拜在onshape新增組員為共同管理者，並能在同時間編輯圖檔，之後利用solvespace計算機構的最大最小移動範圍，達到一個機構的設計&lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;2. 圖檔上傳github並附上載點，在小組網站顯示，以及轉檔成.stl並顯示在網誌內(影片)&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3. 使用onshape繪製零件並組立，及輸出零件圖等(影片)&lt;/p&gt;
-    &lt;br&gt;
- 
     &lt;/section&gt;
+    
 &lt;/section&gt;
 
 
