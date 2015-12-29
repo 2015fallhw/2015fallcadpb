@@ -11,6 +11,10 @@ Summary: 第八組第十一週工作報告<br />Nutcracker 機構
 src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <br>
 <br>
+Authors：</br><a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323248/'>40323248楊承儒</a>
+<br>
+<br>
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">零件組裝  操作者:40323248 楊承儒 </span></strong></span>
 <br>
 <br>
