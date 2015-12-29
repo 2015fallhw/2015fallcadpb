@@ -7,6 +7,12 @@ Authors: G8
 Summary: 第八組第十一週工作報告<br />Nutcracker 機構
 <br>
 <br>
+組員：<br />
+楊承儒<a href='user/40323248/'>40323248</a><br />朱柏蔚<a href='user/40323211/'>40323211</a><br />古丙駿<a href='user/40323210/'>40323210</a><br />莊皓惟<a href='user/40323235/'>40323235</a><br />呂易煒<a href='user/40323215/'>40323215</a><br />林聖祐<a href='user/40323223/'>40323223</a>
+
+<hr/>
+<br>
+<br>
 <img
 src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <br>
