@@ -25,7 +25,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),('班上作業倉儲', 'http://openandgit.github.io/40323217cphw/'),
+LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
          ('Python', 'http://python.org/'),
          ('Vimeo課程影片', 'https://vimeo.com/user24079973/videos/'),)
 
