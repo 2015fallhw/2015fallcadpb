@@ -296,20 +296,18 @@
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
-    &lt;section&gt;
+    
     &lt;h2&gt;第十一週作業&lt;/h2&gt;
     &lt;p&gt;40323233張維元&lt;/p&gt;
-    &lt;/section&gt;		
+    		
 &lt;/section&gt;
 	
 </t>
 <t tx="12.20151229094811.8">&lt;&lt; header &gt;&gt;
-    &lt;section&gt;
     &lt;h3&gt;作業&lt;/h3&gt;
     &lt;p&gt;這週必須在班級用戶內 做一個個人的        reveal.leo檔案，以及本週課程、學號證明                &lt;/p&gt; 
     &lt;br&gt;
-    &lt;/section&gt;
-    &lt;section&gt;
+    
     步驟 : 
     &lt;br&gt;
 1.另外下載一份班上倉儲 且回復舊版本 
@@ -317,18 +315,16 @@
 2.將舊版本自己節點 參照個人網頁(新版)或者user/40323233的reveal.leo節點 貼到原始的班上倉儲reveal.leo檔(NO舊版)
     &lt;br&gt;
 3.如果可以save 及 轉檔  沒有任何的錯誤，就可以推回去 。
-    &lt;/section&gt;
+    
 &lt;/section&gt;
 				
 </t>
 <t tx="12.20151229094811.9">&lt;&lt; header &gt;&gt;
-    &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;本週作業部分，簡單來說就是做一個個人的 reveal.leo檔案，以及本週課程，
 中途在Save時出了一些小狀況，還好沒什麼太大的影響，然後注意推的時候不要把別人的檔案破壞了。&lt;/p&gt;
 &lt;br&gt;
     &lt;p&gt;自評分數:70&lt;/p&gt;
-    &lt;/section&gt;
 &lt;/section&gt;
 				
 </t>
