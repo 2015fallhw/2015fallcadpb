@@ -4,7 +4,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>2015 計算機程式 作業一 &mdash; 2015FALL 403232100 電腦輔助設計實習 作業</title>
+  <title>2015 計算機程式 作業二 &mdash; 2015FALL 403232100 電腦輔助設計實習 作業</title>
   <meta name="author" content="40323210">
 
 
@@ -47,18 +47,32 @@
 <div>
   <article class="hentry" role="article">
 <header>
-      <h1 class="entry-title">2015 計算機程式 作業一</h1>
+      <h1 class="entry-title">2015 計算機程式 作業二</h1>
     <p class="meta">
-<time datetime="2015-09-19T11:41:00+08:00" pubdate>週六 19 九月 2015</time>    </p>
+<time datetime="2015-11-07T12:00:00+08:00" pubdate>週六 07 十一月 2015</time>    </p>
 </header>
 
-  <div class="entry-content"><p>以下為作業一內容</p>
+  <div class="entry-content"><p>以下為作業二內容</p>
 <p>利用 iframe 嵌入投影片:</p>
-<iframe src="simplest.html" width="500" height="300"></iframe>
+<iframe src="simplest2.html" width="500" height="300"></iframe>
 
-<p><a href="simplest.html" target="_blank">作業一投影片</a></p>
+<p><a href="simplest2.html" target="_blank">作業二投影片</a></p>
+<p><br>
+<hr>
+<html>
+<head>
+<title>bgm001.mp3</title>
+</head>
+<body>
+    <audio controls pause loop>
+        <source src="https://copy.com/7VjtFXZ0pwRP0fly">
+    </audio>
+</body>
+</html>
+<hr>
+<br></p>
 <h1>使用 H1 標題</h1>
-<p>文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視連續的資料</p>
+<p>文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視為連續的資料</p>
 <p>使用. <em>斜體文字</em>, <strong>黑體文字</strong>, 以及 <code>單線文字</code>. 表列資料可以寫為:</p>
 <ul>
 <li>第1項說明</li>
@@ -107,6 +121,21 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 </pre></div>
 
 
+<p>以下為另外一種嵌入程式碼的方法:</p>
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1
+2
+3
+4
+5
+6</pre></div></td><td class="code"><div class="highlight"><pre><span class="kn">import</span> <span class="nn">time</span>
+<span class="c"># 以下會從 0 數到 9</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">):</span>
+    <span class="c"># 稍微暫停一下</span>
+    <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mf">0.5</span><span class="p">)</span>
+    <span class="k">print</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
+</pre></div>
+</td></tr></table>
+
 <h3>H3 標題</h3>
 <p>以下則為內嵌式的表列法t:</p>
 <ol>
@@ -137,11 +166,12 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 <p>特別注意各階資料都以內縮4個空白鍵來加以區隔, 包含最後一行.</p>
 <p>Markdown 的超文件連結寫法 <a href="http://www.google.com" target="_blank">連到 Google</a>, 也可以連到同目錄下的檔案 <a href="cadpbw1.html" target="_blank">cadpbw1.html</a>, 也能使用註腳 <sup id="fnref:1"><a class="footnote-ref" href="#fn:1" rel="footnote">1</a></sup>.</p>
 <p>放入圖檔, 可以直接利用 html 的 img 標註:</p>
-<p><img src="images/3d_parts_viewer.png" width="250" alt="3D 零件檢視"></img></p>
+<p><img src="images/spur.png" width="500" alt="正齒輪繪圖"></img></p>
 <p>Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):</p>
 <iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<p><p><a href="https://vimeo.com/137724068">Welcome Speech</a> from <a href="https://vimeo.com/user24079973">虎尾科大機械設計工程系 KMOL</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
+<p><p><a href="https://vimeo.com/137724068">Welcome Speech</a> from <a href="https://vimeo.com/user24079973">虎尾科大機械設計工程系 KMOL</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br></p>
 <div class="footnote">
 <hr />
 <ol>
@@ -154,10 +184,10 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 <p class="meta">
   <span class="byline author vcard">
     Posted by <span class="fn">
-        40323210
+        40323210@gm.nfu.edu.tw
     </span>
   </span>
-<time datetime="2015-09-19T11:41:00+08:00" pubdate>週六 19 九月 2015</time>  <span class="categories">
+<time datetime="2015-11-07T12:00:00+08:00" pubdate>週六 07 十一月 2015</time>  <span class="categories">
     <a class='category' href='./category/python.html'>Python</a>
   </span>
   <span class="categories">
@@ -234,9 +264,9 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
   <script src="./theme/js/octopress.js" type="text/javascript"></script>
   <script type="text/javascript">
     var disqus_shortname = '2015fall';
-    var disqus_identifier = '/2015cp_hw_w1.html';
-    var disqus_url = './2015cp_hw_w1.html';
-    var disqus_title = '2015 計算機程式 作業一';
+    var disqus_identifier = '/2015cp_hw_w2.html';
+    var disqus_url = './2015cp_hw_w2.html';
+    var disqus_title = '2015 計算機程式 作業二';
     (function() {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
       dsq.src = "//" + disqus_shortname + '.disqus.com/embed.js';
