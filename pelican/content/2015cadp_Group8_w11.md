@@ -44,7 +44,11 @@ src="https://copy.com/46R7KFjIlPvCRrSP"width="300"height="300">
 <br>
 <hr/>
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">2 : Adjuster    操作者:40323248 楊承儒 </span></strong></span>
-
+<br>
+<br>
+Authors：</br><a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323248/'>40323248楊承儒</a>
+<br>
 <br>
 <br>
 <br>
@@ -104,6 +108,11 @@ src="https://copy.com/Iyjk7Xofrjr4dh2z"width="500"height="500">
 <hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">5 : Cylinder    操作者:40323248 楊承儒</span></strong></span>
+<br>
+<br>
+<br>
+Authors：</br><a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323248/'>40323248楊承儒</a>
 <br>
 <br>
 <br>
