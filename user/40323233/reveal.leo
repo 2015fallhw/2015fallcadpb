@@ -296,9 +296,11 @@
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
+    &lt;section&gt;
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
     &lt;h2&gt;第十一週作業&lt;/h2&gt;
     &lt;p&gt;40323233張維元&lt;/p&gt;
+    &lt;/section&gt;
     		
 &lt;/section&gt;
 	
