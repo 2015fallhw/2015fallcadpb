@@ -41,12 +41,12 @@
 </v>
 </v>
 <v t="123.20151208171423.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="123.20151208172021.3"><vh>@clean simplest.html</vh>
+<v t="123.20151208172021.3" a="E"><vh>@clean simplest.html</vh>
 <v t="123.20151208172021.4"><vh>檔案說明</vh></v>
-<v t="123.20151208172021.5"><vh>html 標註</vh>
-<v t="123.20151208172021.6"><vh>body 標註</vh>
-<v t="123.20151208172021.7"><vh>div class="reveal"</vh>
-<v t="123.20151208172021.8"><vh>div class="slides"</vh>
+<v t="123.20151208172021.5" a="E"><vh>html 標註</vh>
+<v t="123.20151208172021.6" a="E"><vh>body 標註</vh>
+<v t="123.20151208172021.7" a="E"><vh>div class="reveal"</vh>
+<v t="123.20151208172021.8" a="E"><vh>div class="slides"</vh>
 <v t="123.20151208172021.9"><vh>有關我的作業</vh></v>
 <v t="123.20151208172021.10"><vh>作業任務一</vh></v>
 <v t="123.20151208172021.11"><vh>第3張投影片</vh></v>
@@ -56,12 +56,12 @@
 </v>
 </v>
 </v>
-<v t="123.20151208172021.13"><vh>@clean simplest2.html</vh>
+<v t="123.20151208172021.13" a="E"><vh>@clean simplest2.html</vh>
 <v t="123.20151208172021.14"><vh>檔案說明</vh></v>
-<v t="123.20151208172021.15"><vh>html 標註</vh>
-<v t="123.20151208172021.16"><vh>body 標註</vh>
-<v t="123.20151208172021.17"><vh>div class="reveal"</vh>
-<v t="123.20151208172021.18"><vh>div class="slides"</vh>
+<v t="123.20151208172021.15" a="E"><vh>html 標註</vh>
+<v t="123.20151208172021.16" a="E"><vh>body 標註</vh>
+<v t="123.20151208172021.17" a="E"><vh>div class="reveal"</vh>
+<v t="123.20151208172021.18" a="E"><vh>div class="slides"</vh>
 <v t="123.20151208172021.19"><vh>有關我的作業</vh></v>
 <v t="123.20151208172021.20"><vh>作業任務一</vh></v>
 <v t="123.20151208172021.21"><vh>第3張投影片</vh></v>
@@ -73,10 +73,10 @@
 </v>
 <v t="123.20151208172021.23"><vh>@clean simplest3.html</vh>
 <v t="123.20151208172021.24"><vh>檔案說明</vh></v>
-<v t="123.20151208172021.25"><vh>html 標註</vh>
-<v t="123.20151208172021.26"><vh>body 標註</vh>
-<v t="123.20151208172021.27"><vh>div class="reveal"</vh>
-<v t="123.20151208172021.28"><vh>div class="slides"</vh>
+<v t="123.20151208172021.25" a="E"><vh>html 標註</vh>
+<v t="123.20151208172021.26" a="E"><vh>body 標註</vh>
+<v t="123.20151208172021.27" a="E"><vh>div class="reveal"</vh>
+<v t="123.20151208172021.28" a="E"><vh>div class="slides"</vh>
 <v t="123.20151208172021.29"><vh>有關我的作業</vh></v>
 <v t="123.20151208172021.30"><vh>作業任務一</vh></v>
 <v t="123.20151208172021.31"><vh>第3張投影片</vh></v>
@@ -88,10 +88,10 @@
 </v>
 <v t="123.20151208172021.33"><vh>@clean simplest4.html</vh>
 <v t="123.20151208172021.34"><vh>檔案說明</vh></v>
-<v t="123.20151208172021.35"><vh>html 標註</vh>
-<v t="123.20151208172021.36"><vh>body 標註</vh>
-<v t="123.20151208172021.37"><vh>div class="reveal"</vh>
-<v t="123.20151208172021.38"><vh>div class="slides"</vh>
+<v t="123.20151208172021.35" a="E"><vh>html 標註</vh>
+<v t="123.20151208172021.36" a="E"><vh>body 標註</vh>
+<v t="123.20151208172021.37" a="E"><vh>div class="reveal"</vh>
+<v t="123.20151208172021.38" a="E"><vh>div class="slides"</vh>
 <v t="123.20151208172021.39"><vh>有關我的作業</vh></v>
 <v t="123.20151208172021.40"><vh>作業任務一</vh></v>
 <v t="123.20151208172021.41"><vh>第3張投影片</vh></v>
@@ -101,12 +101,12 @@
 </v>
 </v>
 </v>
-<v t="123.20151208172021.43" a="E"><vh>@clean simplest5.html</vh>
+<v t="123.20151208172021.43"><vh>@clean simplest5.html</vh>
 <v t="123.20151208172021.44"><vh>檔案說明</vh></v>
 <v t="123.20151208172021.45" a="E"><vh>html 標註</vh>
-<v t="123.20151208172021.46"><vh>body 標註</vh>
-<v t="123.20151208172021.47"><vh>div class="reveal"</vh>
-<v t="123.20151208172021.48"><vh>div class="slides"</vh>
+<v t="123.20151208172021.46" a="E"><vh>body 標註</vh>
+<v t="123.20151208172021.47" a="E"><vh>div class="reveal"</vh>
+<v t="123.20151208172021.48" a="E"><vh>div class="slides"</vh>
 <v t="123.20151208172021.49"><vh>有關我的作業</vh></v>
 <v t="123.20151208172021.50"><vh>作業任務一</vh></v>
 <v t="123.20151208172021.51"><vh>第3張投影片</vh></v>
@@ -247,7 +247,7 @@
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;第十周作業&lt;/h2&gt;
+    &lt;h2&gt;第十週作業&lt;/h2&gt;
     &lt;p&gt;40323233張維元 &lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -648,7 +648,7 @@ g.es("user pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;第二次作業&lt;/h1&gt;
+    &lt;h2&gt;第二次作業&lt;/h2&gt;
     &lt;p&gt;40323233張維元10/07&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -720,7 +720,7 @@ g.es("user pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;第三次作業&lt;/h1&gt;
+    &lt;h2&gt;第三次作業&lt;/h2&gt;
     &lt;p&gt;40323233張維元10 / 18&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -797,7 +797,7 @@ g.es("user pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;第三次作業&lt;/h1&gt;
+    &lt;h2&gt;第三次作業&lt;/h2&gt;
     &lt;p&gt;40323233張維元10 / 18&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -877,7 +877,7 @@ g.es("user pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;第三次作業&lt;/h1&gt;
+    &lt;h2&gt;第三次作業&lt;/h2&gt;
     &lt;p&gt;40323233張維元10 / 18&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -939,7 +939,7 @@ g.es("user pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h3&gt;四設計二乙&lt;/h3&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323233 張維元&lt;/p&gt;		
 &lt;/section&gt;
 	
