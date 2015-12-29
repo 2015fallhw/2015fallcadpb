@@ -41,7 +41,7 @@
 </v>
 </v>
 <v t="123.20151208171423.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="123.20151208172021.3" a="E"><vh>@clean simplest.html</vh>
+<v t="123.20151208172021.3"><vh>@clean simplest.html</vh>
 <v t="123.20151208172021.4"><vh>檔案說明</vh></v>
 <v t="123.20151208172021.5" a="E"><vh>html 標註</vh>
 <v t="123.20151208172021.6" a="E"><vh>body 標註</vh>
@@ -56,7 +56,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151208172021.13" a="E"><vh>@clean simplest2.html</vh>
+<v t="123.20151208172021.13"><vh>@clean simplest2.html</vh>
 <v t="123.20151208172021.14"><vh>檔案說明</vh></v>
 <v t="123.20151208172021.15" a="E"><vh>html 標註</vh>
 <v t="123.20151208172021.16" a="E"><vh>body 標註</vh>
@@ -116,7 +116,7 @@
 </v>
 </v>
 </v>
-<v t="12.20151229094810.1" a="E"><vh>@clean simplest6.html</vh>
+<v t="12.20151229094810.1"><vh>@clean simplest6.html</vh>
 <v t="12.20151229094810.2"><vh>檔案說明</vh></v>
 <v t="12.20151229094810.3" a="E"><vh>html 標註</vh>
 <v t="12.20151229094810.4" a="E"><vh>body 標註</vh>
@@ -302,16 +302,20 @@
 	
 </t>
 <t tx="12.20151229094811.8">&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
     &lt;h3&gt;作業&lt;/h3&gt;
-    &lt;p&gt;這週必須在班級用戶內 做一個個人的 reveal.leo檔案，以及本週課程、學號證明 &lt;/p&gt;
-&lt;br&gt;
-步驟 : 
-&lt;br&gt;
+    &lt;p&gt;這週必須在班級用戶內 做一個個人的        reveal.leo檔案，以及本週課程、學號證明                &lt;/p&gt; 
+    &lt;br&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    步驟 : 
+    &lt;br&gt;
 1.另外下載一份班上倉儲 且回復舊版本 
-&lt;br&gt;
+    &lt;br&gt;
 2.將舊版本自己節點 參照個人網頁(新版)或者user/40323233的reveal.leo節點 貼到原始的班上倉儲reveal.leo檔(NO舊版)
-&lt;br&gt;
+    &lt;br&gt;
 3.如果可以save 及 轉檔  沒有任何的錯誤，就可以推回去 。
+    &lt;/section&gt;
 &lt;/section&gt;
 				
 </t>
