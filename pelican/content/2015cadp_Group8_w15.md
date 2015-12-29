@@ -17,10 +17,20 @@ Summary: 第八組第十五週工作報告<br />Nutcracker 機構
 <img
 src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <br>
+<br>
+<img
+src="https://copy.com/FSzz3d2nEfMkDTIO"width="400"height="400">
+<br>
 以下為相關工作報告資料
 <br>
 <br>
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">1 : Adjuster_Base  操作者:40323248 楊承儒 </span></strong></span>
+<br>
+<br>
+<br>
+<img
+src="https://copy.com/RTSEp91IwKaXWJau"width="300"height="300">
+<br>
 <br>
 <br>
 <iframe src="https://player.vimeo.com/video/150268592" width="500" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268592">2-1</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -34,6 +44,12 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">2 : Adjuster 操作者:40323211 朱柏蔚   </span></strong></span>
 <br>
 <br>
+<br>
+<img
+src="https://copy.com/nUMN48Dh4LInhSOn"width="300"height="300">
+<br>
+<br>
+<br>
 <iframe src="https://player.vimeo.com/video/150268595" width="500" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268595">2-2</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
@@ -42,6 +58,12 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">3 : Base  操作者:40323210 古丙駿 </span></strong></span>
+<br>
+<br>
+<br>
+<img
+src="https://copy.com/Y0TtaR0gFMOXHfFJ"width="300"height="300">
+<br>
 <br>
 <br>
 <iframe src="https://player.vimeo.com/video/150268593" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268593">2-3</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -54,6 +76,12 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">4 : Connection 操作者:40323211 朱柏蔚 </span></strong></span>
 <br>
 <br>
+<br>
+<img
+src="https://copy.com/WdglKDuEpKmpCXfr"width="300"height="300">
+<br>
+<br>
+<br>
 <iframe src="https://player.vimeo.com/video/150268596" width="500" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268596">2-4</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
@@ -64,6 +92,12 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">5 : Cylinder 操作者:40323215 呂易煒 </span></strong></span>
 <br>
 <br>
+<br>
+<img
+src="https://copy.com/eFBA3gpCyt7GlT6b"width="300"height="300">
+<br>
+<br>
+<br>
 <iframe src="https://player.vimeo.com/video/150268597" width="500" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268597">2-5</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
@@ -72,6 +106,12 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">6 : Handle操作者:40323210 古丙駿 </span></strong></span>
+<br>
+<br>
+<br>
+<img
+src="https://copy.com/y3YatLKp3SKrn6GD"width="300"height="300">
+<br>
 <br>
 <br>
 <iframe src="https://player.vimeo.com/video/150268594" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268594">2-6</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -85,6 +125,12 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">7 : Hinge 操作者:40323235 莊皓惟 </span></strong></span>
 <br>
 <br>
+<br>
+<img
+src="https://copy.com/t0QiyY0YYpVsji3A"width="300"height="300">
+<br>
+<br>
+<br>
 <iframe src="https://player.vimeo.com/video/150268600" width="500" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268600">2-7</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
@@ -94,6 +140,12 @@ src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
 <hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">8 : Piston 操作者:40323248 楊承儒 </span></strong></span>
+<br>
+<br>
+<br>
+<img
+src="https://copy.com/gBdDjzGvmwdZTiSM"width="300"height="300">
+<br>
 <br>
 <br>
 <iframe src="https://player.vimeo.com/video/150268601" width="500" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150268601">2-8</a> from <a href="https://vimeo.com/user47283613">40323248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
