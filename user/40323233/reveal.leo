@@ -247,28 +247,28 @@
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;第十周作業&lt;/h1&gt;
+    &lt;h2&gt;第十周作業&lt;/h2&gt;
     &lt;p&gt;40323233張維元 &lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="12.20151229094810.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;安裝 miniconda&lt;/h1&gt;
+    &lt;h3&gt;安裝 miniconda&lt;/h3&gt;
     &lt;p&gt;
 步驟 : 
 
 1. conda install pip
-
+&lt;br&gt;
 2. pip install pelican Markdown
-
+&lt;br&gt;
 3. conda install pyqt
-
+&lt;br&gt;
 4. pip install ( github的leo檔網址 )
-
+&lt;br&gt;
 5. conda install anaconda-client
-
+&lt;br&gt;
 6. conda install jupyter
-
+&lt;br&gt;
 假如自己電腦沒有python程式，可以自行簡易安裝&lt;/p&gt;
 
 &lt;/section&gt;
