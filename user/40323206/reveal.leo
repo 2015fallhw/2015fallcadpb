@@ -14,7 +14,7 @@
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
@@ -33,6 +33,8 @@
 <v t="leo40323206.20151216181833.1"><vh>@edit 2015cphww11.md</vh></v>
 <v t="leo40323206.20151216173002.1"><vh>@edit 2015cphww11_g2.md</vh></v>
 <v t="leo40323206.20151214113734.1"><vh>@edit 2015cphww12.md</vh></v>
+<v t="leo40323206.20151225173754.1"><vh>@edit 2015cphww14.md</vh></v>
+<v t="leo40323206.20151228115013.1"><vh>@edit 2015cphww15.md</vh></v>
 <v t="123.20151209135849.7"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -181,6 +183,39 @@
 </v>
 </v>
 <v t="leo40323206.20151214114143.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo40323206.20151225173916.1"><vh>@clean simplest10.html</vh>
+<v t="leo40323206.20151225173916.2"><vh>檔案說明</vh></v>
+<v t="leo40323206.20151225173916.3" a="E"><vh>html 標註</vh>
+<v t="leo40323206.20151225173916.4" a="E"><vh>body 標註</vh>
+<v t="leo40323206.20151225173916.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151225173916.6" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151225173916.7"><vh>封面</vh></v>
+<v t="leo40323206.20151225173916.8"><vh>投影片2</vh></v>
+<v t="leo40323206.20151225173916.9"><vh>投影片3</vh></v>
+<v t="leo40323206.20151225173916.10"><vh>投影片4 </vh></v>
+<v t="leo40323206.20151225173916.11"><vh>投影片5</vh></v>
+</v>
+</v>
+<v t="leo40323206.20151225173916.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo40323206.20151228142944.1" a="E"><vh>@clean simplest11.html</vh>
+<v t="leo40323206.20151228142944.2"><vh>檔案說明</vh></v>
+<v t="leo40323206.20151228142944.3" a="E"><vh>html 標註</vh>
+<v t="leo40323206.20151228142944.4" a="E"><vh>body 標註</vh>
+<v t="leo40323206.20151228142944.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo40323206.20151228145147.1" a="E"><vh>div class="slides"</vh>
+<v t="leo40323206.20151228145147.2"><vh>封面</vh></v>
+<v t="leo40323206.20151228145147.3"><vh>投影片2</vh></v>
+<v t="leo40323206.20151228145147.4"><vh>投影片3</vh></v>
+<v t="leo40323206.20151228145147.5"><vh>投影片4 </vh></v>
+</v>
+</v>
+<v t="leo40323206.20151228142944.13"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -1173,6 +1208,227 @@ jupyter notebook
     &lt;br&gt;
    
       &lt;p align="left"&gt;組員都很配合，也如期的完成了被分配到的零件，圖片、影片、stl. 也陸續補上，讓我覺得很踏實也覺得很感動，組員們都很積極，也願意互相幫忙，對我而言這一週的作業又增添了一層意義。&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151225173916.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo40323206.20151225173916.10">&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;透過老師的上課提示，很快就可以摸索出來了，可是使用方法我一開始也不是很懂，所以我就直接在頁面F12檢視原始碼了，現在想想感覺有點投機呀~不過能成功完成真是太好了，組員們也幾乎都完成了，其中遇到的問題還有存檔時的格式忘記選擇ASCII。&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151225173916.11">&lt;section&gt;
+    &lt;h2&gt;自評&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;這次的作業我也是在課堂上完成的，覺得最近都很順利，原本以為會很困難，結果老師一提點馬上就通，雖然有投機的地方，然後作業80%都是老師先查好資料的...但結果還是很滿意！自評85分。&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151225173916.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo40323206.20151225173916.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo40323206.20151225173916.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo40323206.20151225173916.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo40323206.20151225173916.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151225173916.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151225173916.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  
+    &lt;p&gt;&lt;font size="7" face="Comic Sans MS"&gt;&lt;marquee border="0"&gt;MERRY CHRISTMAS .&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+   
+    &lt;br&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo40323206.20151225173916.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;上課筆記&lt;/h2&gt;
+    &lt;br&gt;
+     
+      &lt;p align="left"&gt;1.到Creo另存零件檔為stl. &lt;/p&gt;
+      &lt;p align="left"&gt;2.會出現一個Export STL的視窗&lt;/p&gt;
+       &lt;p align="left"&gt;◎ 格式(Format)→選擇ASCII&lt;/p&gt;
+       &lt;p align="left"&gt;◎ 偏差控制(Deviation Control)→弦高(Chord Hight)→數值越小圓越精細&lt;/p&gt;
+       &lt;p align="left"&gt;3.設定完成OK&lt;/p&gt;
+       &lt;p align="left"&gt;4.將stl檔傳至自己的github &lt;br&gt; (方法跟之前一樣，可以參考我Week2的上課筆記) &lt;/p&gt;
+       &lt;p align="left"&gt;5.上傳後進入自己的github打開檔案 &lt;/p&gt;
+       &lt;p align="left"&gt;6.會看到零件360°的立體圖&lt;/p&gt;
+      
+    &lt;br&gt;
+     
+  
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151225173916.9">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;上課筆記&lt;/h2&gt;
+    &lt;br&gt;
+     
+      &lt;p align="left"&gt;7.右上角有一個Raw右鍵開啟&lt;/p&gt;
+      &lt;p align="left"&gt;8.複製網址 &lt;br&gt;※從自己的帳號開始複製&lt;/p&gt;
+       &lt;p align="left"&gt;9.語法 ：&lt;br&gt; &lt;pre lang="html"&gt;&lt;code&gt;script src="https://embed.github.com/view/3d/步驟 8 複製內容"/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+       
+       &lt;br&gt;
+       &lt;br&gt;
+       &lt;p align="left"&gt;※ 語法如果從老師給的使用方法說明找，就是使用第一個喔~&lt;/p&gt;
+       
+
+    &lt;br&gt;
+     
+  
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151228142944.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo40323206.20151228142944.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo40323206.20151228142944.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo40323206.20151228142944.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo40323206.20151228142944.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo40323206.20151228142944.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151228145147.1">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo40323206.20151228145147.2">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  
+    &lt;p&gt;&lt;font size="6" face="Comic Sans MS"&gt;&lt;marquee border="0"&gt;體魄康強，精神活潑，舉止端莊，人格健全，便是大學生的風度。
+
+不倦的追求真理，熱烈的愛護國家，積極的造福人類，才是大學生的職志。
+
+— 羅家倫&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+   
+    &lt;br&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo40323206.20151228145147.3">   &lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;上課筆記&lt;/h2&gt;
+    &lt;br&gt;
+     
+      &lt;p align="left"&gt;1.由組長建立一個工作空間 &lt;br&gt;命名為 cadpb_g組別_nutcracker &lt;/p&gt;
+      &lt;p align="left"&gt;2.點選右上角的Share加入組員 &lt;br&gt; 輸入組員e-mail及設定權限 &lt;/p&gt;
+      &lt;p align="left"&gt;3.組員進入工作空間後要先執行兩個步驟&lt;br&gt; ◎點選左下角的 "+" import 匯入自己負責的零件並命名 &lt;br&gt; ◎再點選 "+" Create assembly 新增自己的組裝空間&lt;/p&gt;
+      &lt;p align="left"&gt;4.由組員個別進行組裝作業 &lt;/p&gt;
+      
+    
+  
+&lt;/section&gt;
+</t>
+<t tx="leo40323206.20151228145147.4">&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;這週的作業又是團體作業，一開始大家都急於把自己負責的零件傳到共享的頁面，導致網路有些負荷不了，所最後我們統一由一個組員將零件一次上傳，後續的組裝是每個人自己創一個組裝分頁獨自作業，所以互不干涉，比起Creo真的方便許多，而且又是免費的，所以我認為Onshape是設計產業及人員合作上很大的進步。&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151228145147.5">&lt;section&gt;
+    &lt;h2&gt;自評&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;這次是老師直接操作給我們看，約束的地方我還沒弄清楚，但機構已經組裝起來，比起Creo我覺得Onshape的組裝彈性很多，可是約束的設定也比較多，組裝不難，但需要思考才能讓完整度更高，然後我要來複習Solvespace了，自評85分。&lt;/p&gt;
     &lt;br&gt;
 &lt;/section&gt;
 				

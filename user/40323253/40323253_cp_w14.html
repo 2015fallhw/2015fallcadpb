@@ -1,0 +1,78 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }</style>
+
+    <section>
+    <h2>電腦輔助設計與實習</h2>
+    <h3>40323253-劉瑜俊-12/21</h3>	
+    </section>
+
+</section>
+	
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }</style>
+
+    <h3>筆記</h3>
+    <p>1.請各組員利用學校配發的 Gmail 帳號, 至 https://www.onshape.com 申請免費帳號.</p>
+    <p>2.請依照 BOM 編號, 將零件分配給組員, 並分別利用 public 模式完成零件繪製, 協同 Workspace 命名: b_g1_nutcracker 表示為學號 乙班同學第1組所建立的 nutcracker 協同專案 (其餘各組依此類推各組專案名稱).</p>
+    <p>3.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.</p>
+    <p>4.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.</p>
+    
+</section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }</style>
+
+
+    <h2>心得與評分</h2>
+    <p>利用Onshape在雲端上面繪圖,這個網頁使用起來非常方便,沒有安裝程式上面的問題,故只要能連上網頁即可畫圖,未來在高鐵上也可能使用平板或手機與組員溝通及設計,這週我熟悉了這個網頁的繪圖模式,繪畫出了Nutcracker 機構中的AD JUSTER及AD JUSTER_BASE兩個零件,方便在下週與組員一起完成組立工作。</p>
+    
+    <h2>評分 :80分</h2>
+    
+</section>
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

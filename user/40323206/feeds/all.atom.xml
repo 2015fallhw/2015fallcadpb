@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323206 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-14T16:50:00+08:00</updated><entry><title>2015 電腦輔助與設計 Week11組別作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11_g2.html" rel="alternate"></link><updated>2015-12-14T16:50:00+08:00</updated><author><name>michell1995huang</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/2015cp_hw_w11_g2.html</id><summary type="html">&lt;iframe src="simplest8.html" width="500" height="300"&gt;&lt;/iframe&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323206 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T12:00:00+08:00</updated><entry><title>2015 電腦輔助與設計 Week15作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-28T12:00:00+08:00</updated><author><name>michell1995huang</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest11.html" target="_blank"&gt;作業投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助與設計 Week14作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w14.html" rel="alternate"></link><updated>2015-12-25T18:50:00+08:00</updated><author><name>michell1995huang</name></author><id>tag:coursemdetw.github.io,2015-12-25:reveal/2015cp_hw_w14.html</id><summary type="html">&lt;iframe src="simplest10.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest10.html" target="_blank"&gt;作業投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;執行6~8步驟時可以參考
+&lt;br&gt;
+ &lt;img src="https://copy.com/3tlXGjpfshuZmoM6"width="650"height="550"&gt;
+&lt;br&gt;
+ &lt;img src="https://copy.com/fwMbhtDonNd6PbFR"width="650"height="550"&gt;
+&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助與設計 Week11組別作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11_g2.html" rel="alternate"></link><updated>2015-12-14T16:50:00+08:00</updated><author><name>michell1995huang</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/2015cp_hw_w11_g2.html</id><summary type="html">&lt;iframe src="simplest8.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest8.html" target="_blank"&gt;作業投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;我的組別是第二組
@@ -16,7 +26,9 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;script src="https://embed.github.com/view/3d/michell1995huang/test_stl_3D/master/prt5.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助與設計 Week12作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-14T11:50:00+08:00</updated><author><name>michell1995huang</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;iframe src="simplest9.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;p&gt;組合影片
+&lt;br /&gt;
+&lt;iframe src="https://player.vimeo.com/video/150147977" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助與設計 Week12作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-14T11:50:00+08:00</updated><author><name>michell1995huang</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;iframe src="simplest9.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest9.html" target="_blank"&gt;作業投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;附上 &lt;a href="https://github.com/leo-editor/leo-editor"&gt;Leo-editor GitHub&lt;/a&gt; 的連結&lt;/p&gt;

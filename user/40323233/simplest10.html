@@ -1,0 +1,72 @@
+﻿<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+
+<!-- 出現在每一頁的 header 格式 -->
+
+<header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"></header>
+
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323233"; }</style>
+    <section>
+    <h2>第十五週作業</h2>
+    <p>40323233張維元</p>
+    </section>
+    		
+</section>
+	
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323233"; }</style>
+
+    <h2>期末心得</h2>
+    <p>這個學期的課程讓大家都體驗到真正的協同，還有小組的作業，比較困擾的是拍攝影片，有時候真的會重拍很多遍，
+有時候會笑場或者是碰到自己解決不了的事情，真的是很累的作業。然後onshape真的是很方便的軟體，
+雖然全英文，但是摸索一下還不錯用，作業部分因為上次大家回去都先把零件畫出來了，所以只剩下組裝，但過程中發生蠻多問題的，
+我的組合圖有時候忘記調 PISTON 的限制，其他都沒甚麼太大的問題。這學期的電腦輔助設計我覺得很不錯，學到蠻多的。
+</p>
+    <br>
+    <p>自評分數:70</p>
+    
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
