@@ -7,8 +7,18 @@ Authors: G8
 Summary: 第八組第十一週工作報告<br />Nutcracker 機構
 <br>
 <br>
+組員：<br />
+楊承儒<a href='user/40323248/'>40323248</a><br />朱柏蔚<a href='user/40323211/'>40323211</a><br />古丙駿<a href='user/40323210/'>40323210</a><br />莊皓惟<a href='user/40323235/'>40323235</a><br />呂易煒<a href='user/40323215/'>40323215</a><br />林聖祐<a href='user/40323223/'>40323223</a>
+
+<hr/>
+<br>
+<br>
 <img
 src="https://copy.com/woK6zwVSGqwnh2Fp"width="800"height="800">
+<br>
+<br>
+Authors：</br><a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323248/'>40323248楊承儒</a>
 <br>
 <br>
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">零件組裝  操作者:40323248 楊承儒 </span></strong></span>
@@ -40,7 +50,11 @@ src="https://copy.com/46R7KFjIlPvCRrSP"width="300"height="300">
 <br>
 <hr/>
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">2 : Adjuster    操作者:40323248 楊承儒 </span></strong></span>
-
+<br>
+<br>
+Authors：</br><a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323248/'>40323248楊承儒</a>
+<br>
 <br>
 <br>
 <br>
@@ -100,6 +114,11 @@ src="https://copy.com/Iyjk7Xofrjr4dh2z"width="500"height="500">
 <hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">5 : Cylinder    操作者:40323248 楊承儒</span></strong></span>
+<br>
+<br>
+<br>
+Authors：</br><a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323248/'>40323248楊承儒</a>
 <br>
 <br>
 <br>

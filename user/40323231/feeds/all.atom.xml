@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015 40323231 電腦輔助設計作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-18T11:43:00+08:00</updated><entry><title>2015 計算機程式 第八週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-10-18T11:43:00+08:00</updated><author><name>40323231</name></author><id>tag:coursemdetw.github.io,2015-10-18:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015 40323231 電腦輔助設計作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-29T22:15:00+08:00</updated><entry><title>2015 計算機程式 第十六週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2015-12-29T22:15:00+08:00</updated><author><name>40323231</name></author><id>tag:coursemdetw.github.io,2015-12-29:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest12.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest12.html" target="_blank"&gt;作業投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十五週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-29T22:14:00+08:00</updated><author><name>40323231</name></author><id>tag:coursemdetw.github.io,2015-12-29:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest11.html" target="_blank"&gt;作業投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十四週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w14.html" rel="alternate"></link><updated>2015-12-29T22:13:00+08:00</updated><author><name>40323231</name></author><id>tag:coursemdetw.github.io,2015-12-29:reveal/2015cp_hw_w14.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest10.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest10.html" target="_blank"&gt;作業投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十三週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w13.html" rel="alternate"></link><updated>2015-12-29T22:12:00+08:00</updated><author><name>40323231</name></author><id>tag:coursemdetw.github.io,2015-12-29:reveal/2015cp_hw_w13.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest9.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest9.html" target="_blank"&gt;作業投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十二週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-29T22:11:00+08:00</updated><author><name>40323231</name></author><id>tag:coursemdetw.github.io,2015-12-29:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest8.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest8.html" target="_blank"&gt;作業投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十一週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-29T22:10:00+08:00</updated><author><name>40323231</name></author><id>tag:coursemdetw.github.io,2015-12-29:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest7.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest7.html" target="_blank"&gt;作業投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-12-29T22:09:00+08:00</updated><author><name>40323231</name></author><id>tag:coursemdetw.github.io,2015-12-29:reveal/2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest6.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest6.html" target="_blank"&gt;作業投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第八週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-10-18T11:43:00+08:00</updated><author><name>40323231</name></author><id>tag:coursemdetw.github.io,2015-10-18:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;期中資料統整&lt;/p&gt;
 &lt;p&gt;第一、二週&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;這兩週裡面我學習到了如何推送到網路上，以及重新複習一年級所學習到的能力，和IPV6、IPV4的差異。
@@ -27,13 +55,13 @@
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業投影片&lt;/a&gt;
+&lt;p&gt;&lt;a href="simplest5.html" target="_blank"&gt;作業投影片&lt;/a&gt;
 &lt;hr&gt;
 &lt;img src="https://copy.com/qxAAHWwYkyGerR1Y" width="250" alt="3D 零件檢視"&gt;&lt;/img&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第六週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-10-18T11:41:00+08:00</updated><author><name>40323231</name></author><id>tag:coursemdetw.github.io,2015-10-18:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業投影片&lt;/a&gt;
+&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;作業投影片&lt;/a&gt;
 &lt;hr&gt;
 &lt;br&gt;
 &lt;p&gt;creo影片補拍 + 推送影片&lt;/p&gt;

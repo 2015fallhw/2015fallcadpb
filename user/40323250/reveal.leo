@@ -568,7 +568,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt
     &lt;section&gt;
     &lt;h3&gt;自評前一週&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;這禮拜在onshape新增組員為共同管理者，並能在同時間編輯圖檔，之後利用solvespace計算機構的最大最小移動範圍，達到一個機構的設計&lt;/p&gt;
+    &lt;p align="left"&gt;這禮拜在onshape新增組員為共同管理者，並能在同時間編輯圖檔，之後利用solvespace計算機構的最大最小移動範圍，達到一個機構的設計。( 機構的移動範圍我沒有確切算出，只有大約調整 )&lt;/p&gt;
     &lt;br&gt;
     &lt;/section&gt;
     
