@@ -3,7 +3,26 @@
 &lt;p&gt;包括簡報檔, vimeo 影片, copy.com 零件檔案與其他相關資料連結&lt;/p&gt;
 &lt;iframe src="cadp_w11_lecture.html" width="700" height="500"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="cadp_w11_lecture.html" target="_blank"&gt;作業六投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://example.com/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323213</name></author><id>tag:example.com,2015-11-01:2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="cadp_w11_lecture.html" target="_blank"&gt;作業六投影片&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;零件HANDLE&lt;/p&gt;
+&lt;h2&gt;&lt;img src="https://copy.com/8KvMuRfTPcaEihqh" width="500" &gt;&lt;/img&gt;&lt;/h2&gt;
+&lt;p&gt;零件HANDLE 3D 呈現&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/nashnash/group9/master/connection.stl"&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;零件HANDLE影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/TyaWna6RzC8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;零件CONNECTION&lt;/p&gt;
+&lt;h2&gt;&lt;img src="https://copy.com/rsdkqNQl0yzDbrH2" width="500" &gt;&lt;/img&gt;&lt;/h2&gt;
+&lt;p&gt;零件CONNECTION 3D呈現&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/nashnash/group9/master/handle.stl"&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;零件CONNECTION影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_rRavIViRbw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://example.com/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323213</name></author><id>tag:example.com,2015-11-01:2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
