@@ -30,9 +30,9 @@
 <v t="123.20151209140048.5"><vh>@edit 2015cphww7.md</vh></v>
 <v t="123.20151209140048.6"><vh>@edit 2015cphww8.md</vh></v>
 <v t="123.20151209140048.7"><vh>@edit 2015cphww_all.md</vh></v>
-<v t="123.20151209140048.8"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="123.20151214113832.1"><vh>@edit 2015cphww11.md</vh></v>
 <v t="123.20151228144337.1"><vh>@edit 2015cphww15.md</vh></v>
+<v t="123.20151209140048.8"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
 </v>
@@ -864,6 +864,7 @@ g.es("user pelican 執行完畢")</t>
 <t tx="123.20151228144550.11">&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;成績自評分數80分&lt;/h3&gt;
 &lt;p&gt;這是一個在線上的建模程式，剛開始看到時覺得這個程式太強大了，雖然因為上課時大家都在用頓，但是這是一個不用存檔而且不會佔到電腦容量的程式，他可以設定參數，讓組合圖可以模擬，雖然我還是無大懂他的許多功能，但我相信未來他會是一個主流，我會努力學習的。&lt;/p&gt;
+
 &lt;/section&gt;
 				
 </t>
@@ -931,14 +932,11 @@ g.es("user pelican 執行完畢")</t>
 <t tx="123.20151228144550.9">&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;筆記&lt;/h3&gt;
       &lt;p&gt;1.組長建立一個共同介面，名稱為b_g2_nutcracker(乙班_組別_nutcracker)
-      
-     &lt;p&gt; 2.share給組員&lt;/p&gt;
-      
+      &lt;p&gt; 2.share給組員&lt;/p&gt;
      &lt;p&gt; 3.import所有零件&lt;/p&gt;
-      
      &lt;p&gt; 4.新建一個組合圖將名字改為學號 &lt;/p&gt; 
-      
      &lt;p&gt; 5.引入所有檔案開始組合，並設定參數&lt;/p&gt;
+     
 &lt;/section&gt;
 				
 </t>
@@ -960,8 +958,6 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt
       &lt;p&gt;1.將原本舊版的leo獨立修改成自己的檔案&lt;/p&gt;
       &lt;p&gt;2.修改完後放在user內自己學號的資料夾中&lt;/p&gt;
       &lt;p&gt;3.最後推回遠端即可&lt;/p
-      
-    &lt;/section&gt;
     
 &lt;/section&gt;
 </t>
@@ -977,7 +973,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt
       &lt;h3&gt;成績自評分數80分&lt;/h3&gt;
       &lt;p&gt;這次對於新增一個自己的leo覺得蠻有困難的，最後是請同學幫忙教我的，在分組作業中畫的圖我覺得不難，難再組合，需要各種約束而且零件不是出自一人之手，所以有人畫錯就會組不起來，真不愧是小組作業，需要大家的努力及合作。 &lt;/p&gt;
       
-    &lt;/section&gt;
+
     
 &lt;/section&gt;
 </t>
