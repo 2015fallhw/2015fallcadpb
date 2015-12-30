@@ -26,9 +26,9 @@ Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323232/
 
 Product(s) Preview：</br><script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323232/part/adjuster_base.stl"width="300"height="300"></script>
 
-Part Drawing Video：
+Part Drawing Video</br>Creo 2.0：</br>
 
-Product(s) File Download link：</br><a href='https://copy.com/x6YlnDUqnkaQ79gL'>https://copy.com/x6YlnDUqnkaQ79gL</a>
+Product(s) File Download link：</br><a href='https://copy.com/qD4WoTFmczlt1jxG'>Download Link</a>
 
 <h2>Part2-Adjuster</br>[Quantity:1]</h2>
 
@@ -36,9 +36,9 @@ Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323236/
 
 Product(s) Preview：</br><script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323236/part/adjuster.stl"width="300"height="300"></script>
 
-Part Drawing Video：
+Part Drawing Video</br>Creo 2.0：</br>
 
-Product(s) File Download link：</br><a href='https://copy.com/WbcDlfhLsaLf0LPj'>https://copy.com/WbcDlfhLsaLf0LPj</a>
+Product(s) File Download link：</br><a href='https://copy.com/vlq3gceuMIBjgsvS'>Download Link</a>
 
 <h2>Part3-Base</br>[Quantity:1]</h2>
 
@@ -47,10 +47,10 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'>40323230張元</
 
 Product(s) Preview：</br><script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323230/part/base.stl"width="300"height="300"></script>
 
-Part Drawing Video：</br><iframe src="https://player.vimeo.com/video/149552820" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+Part Drawing Video</br>Creo 2.0：</br><iframe src="https://player.vimeo.com/video/149552820" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/149552820">BASE</a> from <a href="https://vimeo.com/user32555757">張元</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Product(s) File Download link：</br><a href='https://copy.com/qbGDGP1QFCrOgy2M'>https://copy.com/qbGDGP1QFCrOgy2M</a>
+Product(s) File Download link：</br><a href='https://copy.com/P44dMVl6tgivZMK1'>Download Link</a>
 
 <h2>Part4-Connection</br>[Quantity:2]</h2>
 
@@ -58,9 +58,9 @@ Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323233/
 
 Product(s) Preview：</br><script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323233/part/connection.stl"width="300"height="300"></script>
 
-Part Drawing Video：</br><iframe src="https://player.vimeo.com/video/149543176" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/149543176">connection 零件4</a> from <a href="https://vimeo.com/user45372770">張維元</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+Part Drawing Video</br>Creo 2.0：</br><iframe src="https://player.vimeo.com/video/149543176" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/149543176">connection 零件4</a> from <a href="https://vimeo.com/user45372770">張維元</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Product(s) File Download link：</br><a href='https://copy.com/FwUbzxnsyjXyniHs'>https://copy.com/FwUbzxnsyjXyniHs</a>
+Product(s) File Download link：</br><a href='https://copy.com/CQzMNAmAZGaHu0Aj'>Download Link</a>
 
 <h2>Part5-Cylinder</br>[Quantity:1]</h2>
 
@@ -68,10 +68,10 @@ Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/
 
 Product(s) Preview：</br><script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323230/part/cylinder.stl"width="300"height="300"></script>
 
-Part Drawing Video：</br><iframe src="https://player.vimeo.com/video/149552821" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+Part Drawing Video</br>Creo 2.0：</br><iframe src="https://player.vimeo.com/video/149552821" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/149552821">CYLINDER</a> from <a href="https://vimeo.com/user32555757">張元</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Product(s) File Download link：</br><a href='https://copy.com/vlO0sRy9aYns2Ked'>https://copy.com/vlO0sRy9aYns2Ked</a>
+Product(s) File Download link：</br><a href='https://copy.com/RL2DCcNHcCfPkR7B'>Download Link</a>
 
 <h2>Part6-Handle</br>[Quantity:1]</h2>
 
@@ -79,9 +79,9 @@ Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323231/
 
 Product(s) Preview：</br><script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323231/part/handle.stl"width="300"height="300"></script>
 
-Part Drawing Video：</br><iframe src="https://player.vimeo.com/video/149557371" width="500" height="267" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/149557371">HANDLE</a> from <a href="https://vimeo.com/user45497999">張立昇</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+Part Drawing Video</br>Creo 2.0：</br><iframe src="https://player.vimeo.com/video/149557371" width="500" height="267" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/149557371">HANDLE</a> from <a href="https://vimeo.com/user45497999">張立昇</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Product(s) File Download link：</br><a href='https://copy.com/o2lQG4NWthVzRNsX'>https://copy.com/o2lQG4NWthVzRNsX</a>
+Product(s) File Download link：</br><a href='https://copy.com/Y8b4gaIfQUZaUwdy'>Download Link</a>
 
 <h2>Part7-Hinge</br>[Quantity:1]</h2>
 
@@ -89,10 +89,10 @@ Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/
 
 Product(s) Preview：</br><script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323230/part/hinge.stl"width="300"height="300"></script>
 
-Part Drawing Video：</br><iframe src="https://player.vimeo.com/video/149552819" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+Part Drawing Video</br>Creo 2.0：</br><iframe src="https://player.vimeo.com/video/149552819" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/149552819">HINGE</a> from <a href="https://vimeo.com/user32555757">張元</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Product(s) File Download link：</br><a href='https://copy.com/j1wGL1XYrUEobzQK'>https://copy.com/j1wGL1XYrUEobzQK</a>
+Product(s) File Download link：</br><a href='https://copy.com/KXpNERSxugvTuOi7'>Download Link</a>
 
 <h2>Part8-Piston</br>[Quantity:1]</h2>
 
@@ -100,15 +100,24 @@ Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/
 
 Product(s) Preview：</br><script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323230/part/piston.stl"width="300"height="300"></script>
 
-Part Drawing Video：</br><iframe src="https://player.vimeo.com/video/149552822" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+Part Drawing Video</br>Creo 2.0：</br><iframe src="https://player.vimeo.com/video/149552822" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/149552822">PISTON</a> from <a href="https://vimeo.com/user32555757">張元</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Product(s) File Download link：</br><a href='https://copy.com/40OUWCqgFUzwYdgq'>https://copy.com/40OUWCqgFUzwYdgq</a>
+Product(s) File Download link：</br><a href='https://copy.com/QRXj41FjmtiudChE'>Download Link</a>
 
 <h2>Mechanism Assembly：</br>Nutcracker</h2>
 
-Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'>40323230張元</a>
+Authors：</br><a href='http://2015fallhw.github.io/2015fallcadpb/category/g7.html'>G7 Groupmembers</a>
 
-Assembly Drawing Video：
+<h3>Assembly Drawing Video</h3>
 
-Assembly File Download link：
+Creo 2.0：
+
+By <a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'>40323230張元</a></br><iframe src="https://player.vimeo.com/video/150250143" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/150250143">asm_c</a> from <a href="https://vimeo.com/user32555757">張元</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+By <a href='http://2015fallhw.github.io/2015fallcadpb/user/40323233/'>40323233張維元</a></br><iframe src="https://player.vimeo.com/video/150063471" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/150063471">ice_video_20151227-011305</a> from <a href="https://vimeo.com/user45372770">張維元</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+By <a href='http://2015fallhw.github.io/2015fallcadpb/user/40323231/'>40323231張立昇</a></br><iframe src="https://player.vimeo.com/video/150063644" width="500" height="267" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/150063644">40323231組合</a> from <a href="https://vimeo.com/user45497999">張立昇</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

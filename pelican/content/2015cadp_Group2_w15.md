@@ -93,7 +93,7 @@ By 40323204
 
 <a href="https://copy.com/V8A0t9ySlWG8Dfpa">零件NO.6檔案位置</a>
 
-<img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450">
+<img src="https://copy.com/MObqoaiUYGOBvFkJ"width="550"height="450">
 
 <p>
 <iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  

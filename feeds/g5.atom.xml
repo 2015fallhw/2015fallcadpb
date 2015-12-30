@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g5.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-02T13:30:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group5 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g5_w11.html" rel="alternate"></link><updated>2015-12-02T13:30:00+08:00</updated><author><name>G5</name></author><id>tag:coursemdetw.github.io,2015-12-02:reveal/2015cadpb_blog_g5_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g5.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-02T13:30:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group5 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g5_w11.html" rel="alternate"></link><updated>2015-12-02T13:30:00+08:00</updated><author><name>G5</name></author><id>tag:coursemdetw.github.io,2015-12-02:reveal/2015cadpb_blog_g5_w11.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
+組員:
+&lt;br&gt;
+陳柏村&lt;a href='user/49923230/'&gt;49923230&lt;/a&gt;
+&lt;br&gt;
+蕭閔健&lt;a href='user/40023256/'&gt;40023256&lt;/a&gt;
+&lt;br&gt;
+林宗濠&lt;a href='user/40323222/'&gt;40323222&lt;/a&gt;
+&lt;br&gt;
+黃品穎&lt;a href='user/40323246/'&gt;40323246&lt;/a&gt;
+&lt;br&gt;
+曾彥君&lt;a href='user/40323243/'&gt;40323243&lt;/a&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;以下為相關工作報告資料
 &lt;br&gt;
 &lt;br&gt;
-(1)Nutcracker - Cylindr          Author: 49923230
+(1)Nutcracker - Cylindr 
+&lt;br&gt;       &lt;br /&gt;
+Author: 49923230
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/3BJJzoa2AqV6ZuuC"&gt;Cylinder component&lt;/a&gt;
 &lt;br&gt;
@@ -10,11 +27,78 @@
 src="https://copy.com/0Zu3snYRujEz40YZ"width="300"height="300"&gt;
 &lt;br&gt;
 &lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(2)Nutcracker - Handle        &lt;br /&gt;
 &lt;br&gt;
-(2)Nutcracker - Handle          Author:49923230
+Author:49923230
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/r1FdiwWNxnT4AOj1"&gt;Handle component&lt;/a&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/6svYtsWJip8AA9G6"width="300"height="300"&gt;
-&lt;br&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry></feed>
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(3)Nutcracker - Hinge      &lt;br /&gt;
+&lt;br&gt;
+Author:40023256
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/alyBS1Sl01tIkz1R"&gt;Hinge component&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/BNPXny1MNthP7XUL"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(4)Nutcracker - Piston      &lt;br /&gt;
+&lt;br&gt;
+Author:40023256
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/B1JtIoyQMn2VDggA"&gt;Piston component&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/yFwlXHYmDYWucs6V"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(5)Nutcracker - Base      &lt;br /&gt;
+&lt;br&gt;
+Author:40323222
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/rBCsiC0Vn2jqZ4Ht"&gt;Base component&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/dMddt8oiNdwuGtij"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(6)Nutcracker - Connection      &lt;br /&gt;
+&lt;br&gt;
+Author:40323222
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/osSdZnTytNyc3oUo"&gt;Connection component&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/DdmqY4w1iWnu8Hev"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(7)Nutcracker - Adjuster      &lt;br /&gt;
+&lt;br&gt;
+Author:40323246
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/e7l2mmobRjCJ4EoA"&gt;Connection component&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/XFcZRjOSF6pNLGOt"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Nutcracker - Assembly
+&lt;br&gt;
+Author:40323222
+&lt;br&gt;
+Videos
+&lt;br&gt;
+&lt;iframe src="https://player.vimeo.com/video/150168374" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150168374"&gt;組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user47246587"&gt;林宗濠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry></feed>
