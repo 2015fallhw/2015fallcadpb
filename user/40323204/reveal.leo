@@ -830,6 +830,10 @@ g.es("user pelican 執行完畢")</t>
 <t tx="123.20151214114203.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;&lt; header &gt;&gt;
+
+
 &lt;section&gt;
     &lt;body bgcolor="green"&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
