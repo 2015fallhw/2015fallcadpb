@@ -6,9 +6,6 @@ Slug: 2015cadpb_blog_g2_w15
 Authors: G2
 Summary: 第二組第十五週工作報告<br />Nutcracker 機構
 
-組員：<br />
-張筱萱<a href='user/40323204/'>40323204</a><br />黃婉菁<a href='user/40323206/'>40323206</a><br />李伯皇<a href='user/40323217/'>40323217</a><br />雷堯軒<a href='user/40323251/'>40323251</a><br />鄭智文<a href='user/40323255/'>40323255</a><br />陳政憲<a href='user/40323241/'>40323241</a>
-
 以下為相關工作報告資料
 <br />
 
@@ -96,7 +93,7 @@ By 40323204
 
 <a href="https://copy.com/V8A0t9ySlWG8Dfpa">零件NO.6檔案位置</a>
 
-<img src="https://copy.com/MObqoaiUYGOBvFkJ"width="550"height="450">
+<img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450">
 
 <p>
 <iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
