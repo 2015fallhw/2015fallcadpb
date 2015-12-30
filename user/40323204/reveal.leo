@@ -190,12 +190,16 @@
 <v t="123.20151230181110.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="123.20151214115535.1" a="E"><vh>第二頁</vh>
-<v t="123.20151214115535.4"><vh>第二-1頁</vh></v>
 <v t="123.20151230181139.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="123.20151214115535.4" a="E"><vh>第二-1頁</vh>
+<v t="123.20151230183220.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 <v t="123.20151214115704.1" a="E"><vh>第三頁</vh>
-<v t="123.20151214115704.2"><vh>第三-1頁</vh></v>
 <v t="123.20151230181151.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="123.20151214115704.2" a="E"><vh>第三-1頁</vh>
+<v t="123.20151230183147.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -859,6 +863,8 @@ g.es("user pelican 執行完畢")</t>
     &lt;/p&gt;
       
     &lt;/section&gt;
+    
+    &lt;/section&gt;
 </t>
 <t tx="123.20151214115535.1">&lt;&lt; header &gt;&gt;
 
@@ -867,8 +873,10 @@ g.es("user pelican 執行完畢")</t>
 
 &lt;/section&gt;
 				
-</t>
-<t tx="123.20151214115535.4">&lt;section id="hw-task-one"&gt;
+&lt;/section&gt;</t>
+<t tx="123.20151214115535.4">&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
 
 &lt;p&gt;1.將原本舊版的leo獨立修改成自己的檔案&lt;/p&gt;
 &lt;p&gt;2.修改完後放在user內自己學號的資料夾中&lt;/p&gt;
@@ -876,7 +884,7 @@ g.es("user pelican 執行完畢")</t>
 
 &lt;/section&gt;
 				
-</t>
+&lt;/section&gt;</t>
 <t tx="123.20151214115704.1">&lt;&lt; header &gt;&gt;
 
 &lt;section id="hw-task-one"&gt;
@@ -884,11 +892,15 @@ g.es("user pelican 執行完畢")</t>
 
 &lt;/section&gt;
 				
-</t>
-<t tx="123.20151214115704.2">&lt;section id="hw-task-one"&gt;
+&lt;/section&gt;</t>
+<t tx="123.20151214115704.2">&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;心得&lt;/h3&gt;
     &lt;p&gt;這次對於新增一個自己的leo覺得蠻有困難的，最後是請同學幫忙教我的，在分組作業中畫的圖我覺得不難，難再組合，需要各種約束而且零件不是出自一人之手，所以有人畫錯就會組不起來，真不愧是小組作業，需要大家的努力及合作。 &lt;/p&gt;
-&lt;/section&gt;		
+&lt;/section&gt;
+
+&lt;/section&gt;			
 </t>
 <t tx="123.20151228144550.1">@language xml
 @tabwidth -4
@@ -999,6 +1011,16 @@ display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt;</t>
 <t tx="123.20151230181151.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt;</t>
+<t tx="123.20151230183147.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt;</t>
+<t tx="123.20151230183220.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
