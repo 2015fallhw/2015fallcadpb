@@ -190,8 +190,8 @@
 <v t="123.20151230181110.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="123.20151214115535.1" a="E"><vh>第二頁</vh>
-<v t="123.20151230181139.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 <v t="123.20151214115535.4"><vh>第二-1頁</vh></v>
+<v t="123.20151230181139.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="123.20151214115704.1" a="E"><vh>第三頁</vh>
 <v t="123.20151230181151.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
@@ -852,9 +852,11 @@ g.es("user pelican 執行完畢")</t>
 &lt;section id="hw-task-one"&gt;
 
    &lt;h3&gt;作業內容&lt;/h3&gt;
-      &lt;p&gt;1.在user裡面自己的學號中自行建立一個leo，以維護自己的檔案
+   &lt;p&gt;
+   1.在user裡面自己的學號中自行建立一個leo，以維護自己的檔案
       
-      2.以小組為單位分工繪製 &lt;a href="https://www.copy.com/s/t%3ADXQiGkDoe9K8Cz7m%3Bp%3A%252FProEMechanism.pdf%3Boid%3A86"&gt;Nutcracker 機構&lt;/a&gt;零件及錄製過程&lt;/p&gt;
+    2.以小組為單位分工繪製 &lt;a href="https://www.copy.com/s/t%3ADXQiGkDoe9K8Cz7m%3Bp%3A%252FProEMechanism.pdf%3Boid%3A86"&gt;Nutcracker 機構&lt;/a&gt;零件及錄製過程
+    &lt;/p&gt;
       
     &lt;/section&gt;
 </t>
@@ -884,7 +886,7 @@ g.es("user pelican 執行完畢")</t>
 </t>
 <t tx="123.20151214115704.2">&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;心得&lt;/h3&gt;
-    &lt;p&gt;這次對於新增一個自己的leo覺得蠻有困難的，最後是請同學幫忙教我的，在分組作業中畫的圖我覺得不難，難再組合，需要各種約束而且零件不是出自一人之手，所以有人畫錯就會組不起來，真不愧是小組作業，需要大家的努力及合作。
+    &lt;p&gt;這次對於新增一個自己的leo覺得蠻有困難的，最後是請同學幫忙教我的，在分組作業中畫的圖我覺得不難，難再組合，需要各種約束而且零件不是出自一人之手，所以有人畫錯就會組不起來，真不愧是小組作業，需要大家的努力及合作。 &lt;/p&gt;
 &lt;/section&gt;		
 </t>
 <t tx="123.20151228144550.1">@language xml
