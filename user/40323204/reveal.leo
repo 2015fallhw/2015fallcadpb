@@ -33,7 +33,6 @@
 <v t="123.20151214113832.1"><vh>@edit 2015cphww11.md</vh></v>
 <v t="123.20151228144337.1"><vh>@edit 2015cphww15.md</vh></v>
 <v t="123.20151230205816.1"><vh>@edit 2015cphww12.md</vh></v>
-<v t="123.20151230205929.1"><vh>@edit 2015cphww13.md</vh></v>
 <v t="123.20151230204145.1"><vh>@edit 2015cphww10.md</vh></v>
 <v t="123.20151230210015.1"><vh>@edit 2015cphww14.md</vh></v>
 <v t="123.20151209140048.8"><vh>@edit 2015cpnote1.md</vh></v>
@@ -193,23 +192,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151230210004.1"><vh>@clean simplest11.html</vh>
-<v t="123.20151230210004.2"><vh>檔案說明</vh></v>
-<v t="123.20151230210004.3" a="E"><vh>html 標註</vh>
-<v t="123.20151230210004.4" a="E"><vh>body 標註</vh>
-<v t="123.20151230210004.5" a="E"><vh>div class="reveal"</vh>
-<v t="123.20151230210004.6" a="E"><vh>div class="slides"</vh>
-<v t="123.20151230210004.7"><vh>封面</vh></v>
-<v t="123.20151230210004.8"><vh>第一頁</vh></v>
-<v t="123.20151230210004.9"><vh>第二頁</vh></v>
-<v t="123.20151230210004.10"><vh>第三頁</vh></v>
-</v>
-</v>
-<v t="123.20151230210004.11"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="123.20151230210039.1"><vh>@clean simplest12.html</vh>
+<v t="123.20151230210039.1" a="E"><vh>@clean simplest12.html</vh>
 <v t="123.20151230210039.2"><vh>檔案說明</vh></v>
 <v t="123.20151230210039.3" a="E"><vh>html 標註</vh>
 <v t="123.20151230210039.4" a="E"><vh>body 標註</vh>
@@ -1025,10 +1008,12 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt
    &lt;h3&gt;筆記&lt;/h3&gt;
 &lt;p&gt;1.將原本舊版的leo獨立修改成自己的檔案&lt;/p&gt;
 &lt;p&gt;2.修改完後放在user內自己學號的資料夾中&lt;/p&gt;
-&lt;p&gt;3.最後推回遠端即可&lt;/p
+&lt;p&gt;3.最後推回遠端即可
+    &lt;/p&gt;
+      
+    &lt;/section&gt;
     
-&lt;/section&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="123.20151230201025.2">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
@@ -1038,12 +1023,12 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt
 
       &lt;section id="hw-task-one"&gt;
       &lt;h3&gt;成績自評分數80分&lt;/h3&gt;
-      &lt;p&gt;這次對於新增一個自己的leo覺得蠻有困難的，最後是請同學幫忙教我的，在分組作業中畫的圖我覺得不難，難再組合，需要各種約束而且零件不是出自一人之手，所以有人畫錯就會組不起來，真不愧是小組作業，需要大家的努力及合作。 &lt;/p&gt;
+      &lt;p&gt;這次對於新增一個自己的leo覺得蠻有困難的，最後是請同學幫忙教我的，在分組作業中畫的圖我覺得不難，難再組合，需要各種約束而且零件不是出自一人之手，所以有人畫錯就會組不起來，真不愧是小組作業，需要大家的努力及合作。
+    &lt;/p&gt;
       
-
+    &lt;/section&gt;
     
-&lt;/section&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="123.20151230201113.2">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
@@ -1141,7 +1126,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt
 </t>
 <t tx="123.20151230205856.10">&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;成績自評分數80分&lt;/h3&gt;
-    &lt;p&gt;此次下載是為了讓leo更新，由於新的版本一直出現，所以我們也要跟進，使用的東西越來越好，讓我們也越來越方便快速。
+    &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快，我覺得安裝過程還蠻複雜的，還好有老師的影片可以讓我一步一步跟著做，安裝過後好像真的有變快了。
 &lt;/section&gt;
 				
 </t>
@@ -1196,111 +1181,39 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323204 &lt;/p&gt;
     &lt;p&gt; 張筱萱  &lt;/p&gt;
-    &lt;p&gt; 11/30&lt;/p&gt;		
+    &lt;p&gt; 12/30&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="123.20151230205856.8">&lt;section id="hw-task-one"&gt;
    &lt;h3&gt;作業內容&lt;/h3&gt;
-      &lt;p&gt;安裝miniconda&lt;/p&gt;
+      &lt;p&gt;下載fix.bat&lt;/p&gt;
       
     &lt;/section&gt;</t>
 <t tx="123.20151230205856.9">&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;筆記&lt;/h3&gt;
-&lt;p&gt;1.至&lt;a href="http://conda.pydata.org/miniconda.html"&gt;&lt;/a&gt;安裝python3.5&lt;br&gt;
-2.到cmd輸入指令&lt;br&gt;
-→conda install pip&lt;br&gt;
- →pip install pelican Markdown&lt;br&gt;
-→conda install pyqt&lt;br&gt;
-→pip uninstall leo (解除原本的leo 5.0)&lt;br&gt;
-→pip install ( github的leo檔網址 )&lt;br&gt;
-→conda install anaconda-client&lt;br&gt;
-→conda install jupyter&lt;br&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="123.20151230210004.1">@language xml
-@tabwidth -4
-@others
+&lt;p&gt;1.至 Leo-editor GitHub&lt;br&gt;
+2.點選 releases 下載zip檔
+&lt;br&gt;
+3.將載下來的檔案拉到 Ana3_2015 的 data
+&lt;br&gt;
+4.下載老師給的fix資料夾並拉到Ana3_2015
+&lt;br&gt;
+6.開啟SciTE
+&lt;br&gt;
+7.將fix資料夾內的fix.bat及start.bat拉入SciTE
+&lt;br&gt;
+8.fix.bat需新增
+copy leo-editor-broke-abbrev.zip E:\Ana3_2015\data\ 
+(我的檔案是放在E槽的隨身碟)
+&lt;br&gt;
+9.start.bat把第25行改為 pip install leo-editor-broke-abbrev.zip
+ &lt;br&gt;
+10.儲存完之後點兩下fix.bat
+&lt;br&gt;
+11.再啟動 start 就安裝成功了
+&lt;br&gt;
 
-</t>
-<t tx="123.20151230210004.10">&lt;section id="hw-task-one"&gt;
-      &lt;h3&gt;成績自評分數80分&lt;/h3&gt;
-    &lt;p&gt;此次下載是為了讓leo更新，由於新的版本一直出現，所以我們也要跟進，使用的東西越來越好，讓我們也越來越方便快速。
-&lt;/section&gt;
-				
-</t>
-<t tx="123.20151230210004.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="123.20151230210004.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="123.20151230210004.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="123.20151230210004.4">&lt;body bgcolor="green"&gt;
-&lt;/body&gt;
-</t>
-<t tx="123.20151230210004.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="123.20151230210004.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="123.20151230210004.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;body bgcolor="green"&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323204 &lt;/p&gt;
-    &lt;p&gt; 張筱萱  &lt;/p&gt;
-    &lt;p&gt; 11/30&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="123.20151230210004.8">&lt;section id="hw-task-one"&gt;
-   &lt;h3&gt;作業內容&lt;/h3&gt;
-      &lt;p&gt;安裝miniconda&lt;/p&gt;
-      
-    &lt;/section&gt;</t>
-<t tx="123.20151230210004.9">&lt;section id="hw-task-one"&gt;
-      &lt;h3&gt;筆記&lt;/h3&gt;
-&lt;p&gt;1.至&lt;a href="http://conda.pydata.org/miniconda.html"&gt;&lt;/a&gt;安裝python3.5&lt;br&gt;
-2.到cmd輸入指令&lt;br&gt;
-→conda install pip&lt;br&gt;
- →pip install pelican Markdown&lt;br&gt;
-→conda install pyqt&lt;br&gt;
-→pip uninstall leo (解除原本的leo 5.0)&lt;br&gt;
-→pip install ( github的leo檔網址 )&lt;br&gt;
-→conda install anaconda-client&lt;br&gt;
-→conda install jupyter&lt;br&gt;
 &lt;/section&gt;
 				
 </t>
@@ -1311,7 +1224,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt
 </t>
 <t tx="123.20151230210039.10">&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;成績自評分數80分&lt;/h3&gt;
-    &lt;p&gt;此次下載是為了讓leo更新，由於新的版本一直出現，所以我們也要跟進，使用的東西越來越好，讓我們也越來越方便快速。
+    &lt;p&gt;上次只是把圖畫出來傳承圖片檔，沒想到還有功能可以將零件檔放成3D的，還可以自己選擇想看的位置，我學到的東西真是越來越多了!
 &lt;/section&gt;
 				
 </t>
@@ -1366,26 +1279,38 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323204 &lt;/p&gt;
     &lt;p&gt; 張筱萱  &lt;/p&gt;
-    &lt;p&gt; 11/30&lt;/p&gt;		
+    &lt;p&gt; 12/29&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="123.20151230210039.8">&lt;section id="hw-task-one"&gt;
    &lt;h3&gt;作業內容&lt;/h3&gt;
-      &lt;p&gt;安裝miniconda&lt;/p&gt;
+      &lt;p&gt;將之前CREO繪製出來的零件轉成STL檔&lt;/p&gt;
       
     &lt;/section&gt;</t>
 <t tx="123.20151230210039.9">&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;筆記&lt;/h3&gt;
-&lt;p&gt;1.至&lt;a href="http://conda.pydata.org/miniconda.html"&gt;&lt;/a&gt;安裝python3.5&lt;br&gt;
-2.到cmd輸入指令&lt;br&gt;
-→conda install pip&lt;br&gt;
- →pip install pelican Markdown&lt;br&gt;
-→conda install pyqt&lt;br&gt;
-→pip uninstall leo (解除原本的leo 5.0)&lt;br&gt;
-→pip install ( github的leo檔網址 )&lt;br&gt;
-→conda install anaconda-client&lt;br&gt;
-→conda install jupyter&lt;br&gt;
+&lt;p&gt;1.Creo另存零件檔為stl
+&lt;br&gt;
+2.出現一個Export STL的視窗&gt;
+→格式選擇ASCII
+→偏差控制弦高(數值越小圓越精細)
+&lt;br&gt;
+3.設定完成OK
+&lt;br&gt;
+4.將stl檔傳到自己的github
+ &lt;br&gt;
+5.上傳後進入自己的github打開檔案
+&lt;br&gt;
+6.會看到零件360°的立體圖
+&lt;br&gt;
+7.複製上方網址(.COM之後的網址)
+&lt;br&gt;
+8.依照老師的語法更改後面的網址
+&lt;br&gt;
+&lt;p&gt;語法為&lt;script src="https://embed.github.com/view/3d/hsungchang/test/master/prt3.stl"&gt;&lt;/script&gt;3d後面為自己的網址&lt;/p&gt;
+
+&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>

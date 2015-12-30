@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323204 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/w12.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T11:38:00+08:00</updated><entry><title>2015 CADP w12</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-28T11:38:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為w12內容&lt;/p&gt;
-&lt;p&gt;利用onshape組合&lt;a href="https://www.copy.com/s/t%3ADXQiGkDoe9K8Cz7m%3Bp%3A%252FProEMechanism.pdf%3Boid%3A86"&gt;Nutcracker 機構&lt;/a&gt;零件並設定限制參數&lt;/p&gt;
+&lt;p&gt;下載fix.bat&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest10.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p target="_blank"&gt;&lt;a href="simplest10.html"&gt;w12投影片&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;有關組裝說明&lt;/h1&gt;
-&lt;p&gt;&lt;hr size="5"align="center"noshade width="90%"color="0000ff"&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;p target="_blank"&gt;&lt;a href="simplest10.html"&gt;w12投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
