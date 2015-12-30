@@ -1308,7 +1308,7 @@ copy leo-editor-broke-abbrev.zip E:\Ana3_2015\data\
 &lt;br&gt;
 8.依照老師的語法更改後面的網址
 &lt;br&gt;
-&lt;p&gt;語法為&lt;script src="https://embed.github.com/view/3d/hsungchang/test/master/prt3.stl"&gt;&lt;/script&gt;3d後面為自己的網址&lt;/p&gt;
+&lt;p&gt;語法為script src="https://embed.github.com/view/3d/hsungchang/test/master/prt3.stl"&gt;/script  3d後面為自己的網址&lt;/p&gt;
 
 &lt;/p&gt;
 &lt;/section&gt;
