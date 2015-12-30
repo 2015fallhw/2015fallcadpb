@@ -183,12 +183,11 @@
 <v t="123.20151214114203.4" a="E"><vh>body 標註</vh>
 <v t="123.20151214114203.5" a="E"><vh>div class="reveal"</vh>
 <v t="123.20151214114203.6" a="E"><vh>div class="slides"</vh>
-<v t="123.20151214114203.7"><vh>封面</vh></v>
-<v t="123.20151214114203.8" a="E"><vh>第一頁</vh>
-<v t="123.20151230172710.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="123.20151214114203.7" a="E"><vh>封面</vh>
+<v t="123.20151230174927.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
+<v t="123.20151214114203.8"><vh>第一頁</vh></v>
 <v t="123.20151214115535.1" a="E"><vh>第二頁</vh>
-<v t="123.20151230173521.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 <v t="123.20151214115535.4"><vh>第二-1頁</vh></v>
 </v>
 <v t="123.20151214115704.1" a="E"><vh>第三頁</vh>
@@ -813,7 +812,13 @@ g.es("user pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="123.20151214114203.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
+
 @others
 &lt;/div&gt;
 </t>
@@ -830,16 +835,16 @@ g.es("user pelican 執行完畢")</t>
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323204 &lt;/p&gt;
     &lt;p&gt; 張筱萱  &lt;/p&gt;
-    &lt;p&gt; 11/30&lt;/p&gt;		
+    &lt;p&gt; 11/16&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="123.20151214114203.8">&lt;section id="hw-task-one"&gt;
    &lt;h3&gt;作業內容&lt;/h3&gt;
-      &lt;p&gt;1.在自己學號目錄下建立個人的leo&lt;/p&gt;
-     &lt;p&gt; 2.以小組為單位繪製&lt;a href="https://www.copy.com/s/t%3ADXQiGkDoe9K8Cz7m%3Bp%3A%252FProEMechanism.pdf%3Boid%3A86"&gt;Nutcracker 機構&lt;/a&gt;及錄製影片&lt;/p&gt;
+      &lt;p&gt;將前面8週的心得及作業整理出來&lt;/p&gt;
       
-    &lt;/section&gt;</t>
+    &lt;/section&gt;
+</t>
 <t tx="123.20151214115535.1">&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;筆記&lt;/h3&gt;
 
@@ -962,12 +967,7 @@ g.es("user pelican 執行完畢")</t>
 &lt;/section&gt;
 				
 </t>
-<t tx="123.20151230172710.1">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt;</t>
-<t tx="123.20151230173521.1">&lt;section data-state="header1"&gt;
+<t tx="123.20151230174927.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
