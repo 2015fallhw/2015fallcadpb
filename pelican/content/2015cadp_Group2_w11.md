@@ -9,6 +9,9 @@ Summary: 第二組第十一週工作報告<br />Nutcracker 機構
 以下為相關工作報告資料
 <br />
 
+組員：<br />
+張筱萱<a href='user/40323204/'>40323204</a><br />黃婉菁<a href='user/40323206/'>40323206</a><br />李伯皇<a href='user/40323217/'>40323217</a><br />雷堯軒<a href='user/40323251/'>40323251</a><br />鄭智文<a href='user/40323255/'>40323255</a><br />陳政憲<a href='user/40323241/'>40323241</a>
+
 
 <span style="font-size: 20pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">Nutcracker 機構</span></strong></span>
 <br />
