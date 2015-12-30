@@ -188,7 +188,7 @@
 <v t="123.20151230201025.1"><vh>第二頁</vh>
 <v t="123.20151230201025.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="123.20151230201113.1" a="E"><vh>第三頁</vh>
+<v t="123.20151230201113.1"><vh>第三頁</vh>
 <v t="123.20151230201113.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 </v>
@@ -932,13 +932,13 @@ g.es("user pelican 執行完畢")</t>
       &lt;h3&gt;筆記&lt;/h3&gt;
       &lt;p&gt;1.組長建立一個共同介面，名稱為b_g2_nutcracker(乙班_組別_nutcracker)
       
-      2.share給組員
+     &lt;p&gt; 2.share給組員&lt;/p&gt;
       
-      3.import所有零件
+     &lt;p&gt; 3.import所有零件&lt;/p&gt;
       
-      4.新建一個組合圖將名字改為學號  
+     &lt;p&gt; 4.新建一個組合圖將名字改為學號 &lt;/p&gt; 
       
-      5.引入所有檔案開始組合，並設定參數&lt;/p&gt;
+     &lt;p&gt; 5.引入所有檔案開始組合，並設定參數&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>

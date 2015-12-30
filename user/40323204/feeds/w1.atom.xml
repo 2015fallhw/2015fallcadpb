@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323204 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/w1.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-29T20:00:00+08:00</updated><entry><title>2015 CADP 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-29T20:00:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-09-29:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;使用 Git 在 Github 與 Bitbucket 管理個人 分組與班上倉儲資料:
+&lt;p&gt;參考 &lt;a href="http://backlogtool.com/git-guide/tw/intro/intro1_1.html"&gt;連猴子都能懂得git入門指南&lt;/a&gt;與 &lt;a href="https://leoeditor-coursemdetw.rhcloud.com/get_page?heading=Leo%20Editor%20Tutorial"&gt;Leo Editor Tutorial &lt;/a&gt; 與 &lt;a href="http://www.sciencedirect.com/science/article/pii/B9780815514473500029"&gt;What Engineers do? &lt;/a&gt;，作業內容: 看完說明，利用 Leo Editor 摘要重點，建立個人 Github 課程倉儲 (名稱為&lt;a href="https://github.com/hsungchang/cadpaw2/tree/gh-pages"&gt;cadpaw2 &lt;/a&gt; )&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
