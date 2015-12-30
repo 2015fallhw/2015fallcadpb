@@ -186,12 +186,20 @@
 <v t="123.20151214114203.7" a="E"><vh>封面</vh>
 <v t="123.20151230174927.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="123.20151214114203.8"><vh>第一頁</vh></v>
+<v t="123.20151214114203.8" a="E"><vh>第一頁</vh>
+<v t="123.20151230181110.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 <v t="123.20151214115535.1" a="E"><vh>第二頁</vh>
-<v t="123.20151214115535.4"><vh>第二-1頁</vh></v>
+<v t="123.20151230181139.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="123.20151214115535.4" a="E"><vh>第二-1頁</vh>
+<v t="123.20151230181147.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 <v t="123.20151214115704.1" a="E"><vh>第三頁</vh>
-<v t="123.20151214115704.2"><vh>第三-1頁</vh></v>
+<v t="123.20151230181151.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+<v t="123.20151214115704.2" a="E"><vh>第三-1頁</vh>
+<v t="123.20151230181154.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -839,43 +847,53 @@ g.es("user pelican 執行完畢")</t>
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323204 &lt;/p&gt;
     &lt;p&gt; 張筱萱  &lt;/p&gt;
-    &lt;p&gt; 11/16&lt;/p&gt;		
+    &lt;p&gt; 11/30&lt;/p&gt;		
 &lt;/section&gt;
 	
-</t>
-<t tx="123.20151214114203.8">&lt;section id="hw-task-one"&gt;
+&lt;/section&gt;</t>
+<t tx="123.20151214114203.8">&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+
    &lt;h3&gt;作業內容&lt;/h3&gt;
-      &lt;p&gt;將前面8週的心得及作業整理出來&lt;/p&gt;
+      &lt;p&gt;1.在user裡面自己的學號中自行建立一個leo，以維護自己的檔案
+      
+      2.以小組為單位分工繪製 &lt;a href="https://www.copy.com/s/t%3ADXQiGkDoe9K8Cz7m%3Bp%3A%252FProEMechanism.pdf%3Boid%3A86"&gt;Nutcracker 機構&lt;/a&gt;零件及錄製過程&lt;/p&gt;
       
     &lt;/section&gt;
 </t>
-<t tx="123.20151214115535.1">&lt;section id="hw-task-one"&gt;
+<t tx="123.20151214115535.1">&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;筆記&lt;/h3&gt;
 
 &lt;/section&gt;
 				
 </t>
-<t tx="123.20151214115535.4">&lt;section id="hw-task-one"&gt;
+<t tx="123.20151214115535.4">&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;筆記&lt;/h3&gt;
-&lt;p&gt;1.pelican 網誌與 reveal.js 投影片製作, 內容送到 Github pages 分支&lt;/p&gt;
-&lt;p&gt;2.What engineers do? 摘要&lt;/p&gt;
-&lt;p&gt;3.Solvespace 基本操作:
-&lt;a href="http://solvespace.com/tutorial.pl"&gt;&lt;/a&gt; (簡介)&lt;/p&gt;
-&lt;p&gt;4.Creo Parametric 基本操作:
- &lt;a href="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;&lt;/a&gt; 
-&lt;p&gt;5.Pro/Engineer Mechanism:  &lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m"&gt;&lt;/a&gt; (Nutcracker Mechanism)&lt;/p&gt;
+&lt;p&gt;1.將原本舊版的leo獨立修改成自己的檔案&lt;/p&gt;
+&lt;p&gt;2.修改完後放在user內自己學號的資料夾中&lt;/p&gt;
+&lt;p&gt;3.最後推回遠端即可&lt;/p&gt;
+
 &lt;/section&gt;
 				
 </t>
-<t tx="123.20151214115704.1">&lt;section id="hw-task-one"&gt;
+<t tx="123.20151214115704.1">&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;成績自評分數80分&lt;/h3&gt;
 
 &lt;/section&gt;
 				
 </t>
-<t tx="123.20151214115704.2">&lt;section id="hw-task-one"&gt;
+<t tx="123.20151214115704.2">&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;心得&lt;/h3&gt;
-    &lt;p&gt;經過這幾週的課程，學會了Creo及Solvespace，雖然要用他們畫出腳踏車對我還是有一些難度，但是我會跟組員們一起努力的，對於Leo的使用上學會了很多，從一開始的建立自己的網頁，到製作投影片，在來要建立班上的協同，靠了許多人的幫忙才能完成到這一步呢!希望之後的課程可以學到更多。
+    &lt;p&gt;這次對於新增一個自己的leo覺得蠻有困難的，最後是請同學幫忙教我的，在分組作業中畫的圖我覺得不難，難再組合，需要各種約束而且零件不是出自一人之手，所以有人畫錯就會組不起來，真不愧是小組作業，需要大家的努力及合作。
 &lt;/section&gt;		
 </t>
 <t tx="123.20151228144550.1">@language xml
@@ -972,6 +990,31 @@ g.es("user pelican 執行完畢")</t>
 				
 </t>
 <t tx="123.20151230174927.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt;</t>
+<t tx="123.20151230181110.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt;</t>
+<t tx="123.20151230181139.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt;</t>
+<t tx="123.20151230181147.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt;</t>
+<t tx="123.20151230181151.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt;</t>
+<t tx="123.20151230181154.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;

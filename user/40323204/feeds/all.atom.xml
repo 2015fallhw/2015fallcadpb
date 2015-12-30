@@ -4,8 +4,7 @@
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest8.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;[w15投影片](simplest8.html){:target="_blank"}&lt;/p&gt;
-
+&lt;p target="_blank"&gt;&lt;a href="simplest8.html"&gt;w15投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;有關組裝說明&lt;/h1&gt;
 &lt;p&gt;&lt;hr size="5"align="center"noshade width="90%"color="0000ff"&gt;&lt;/p&gt;
 
@@ -24,8 +23,7 @@
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest7.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;[w11投影片](simplest7.html){:target="_blank"}&lt;/p&gt;
-
+&lt;p target="_blank"&gt;&lt;a href="simplest7.html"&gt;w11投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;零件繪製影片&lt;/h1&gt;
 &lt;p&gt;&lt;hr size="5"align="center"noshade width="90%"color="0000ff"&gt;&lt;/p&gt;
 
