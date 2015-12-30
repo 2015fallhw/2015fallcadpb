@@ -26,11 +26,10 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),('2015作業主頁', '../../'),('個人倉儲網站', 'http://as19735.github.io/reveal2hwk/'),('個人github倉儲網站', 'https://github.com/as19735/reveal2hwk/tree/gh-pages'))
+         ('Python', 'http://python.org/'),('個人倉儲網站', 'http://as19735.github.io/reveal2hwk/'),('個人github倉儲網站', 'https://github.com/as19735/reveal2hwk/tree/gh-pages'),('Group9倉儲網站', 'http://2015fallhw.github.io/2015fallcadpb/category/g9.html'))
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
-          ('github', 'http://github.com/ametaireau'),)
+SOCIAL = (('2015fallcadpb', 'https://github.com/2015fallhw/2015fallcadpb/tree/gh-pages'),)
           
 DEFAULT_PAGINATION = 10
 
