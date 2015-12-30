@@ -30,11 +30,11 @@
 <v t="leo.20151230160917.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151230160923.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="leo.20151230160928.1"><vh>@edit 2015cphww7.md</vh></v>
-<v t="leo.20151230160934.1"><vh>@edit 2015cadp_w11.md</vh></v>
+<v t="leo.20151230171720.1"><vh>@edit 2015cadp_w11.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20151230161044.1"><vh>@clean cpw1.html</vh>
 <v t="leo.20151230161044.2"><vh>檔案說明</vh></v>
 <v t="leo.20151230161044.3" a="E"><vh>html 標註</vh>
