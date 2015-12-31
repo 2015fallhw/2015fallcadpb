@@ -30,6 +30,8 @@
 <v t="1.20151231114016.5"><vh>@edit 40323255_cp_w5.md</vh></v>
 <v t="1.20151231114016.6"><vh>@edit 40323255_cp_w6.md</vh></v>
 <v t="1.20151231114016.7"><vh>@edit 40323255_cp_w7.md</vh></v>
+<v t="40323255.20151231163622.1"><vh>@edit 40323255_cp_w11.md</vh></v>
+<v t="40323255.20151231163640.1"><vh>@edit 40323255_cp_w15.md</vh></v>
 </v>
 </v>
 </v>
@@ -112,6 +114,40 @@
 </v>
 </v>
 <v t="1.20151231113932.58"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323255.20151231163703.1"><vh>@clean 40323255_cp_w11.html</vh>
+<v t="40323255.20151231163703.2"><vh>檔案說明</vh></v>
+<v t="40323255.20151231163703.3" a="E"><vh>html 標註</vh>
+<v t="40323255.20151231163703.4"><vh>body 標註</vh>
+<v t="40323255.20151231163703.5"><vh>div class="reveal"</vh>
+<v t="40323255.20151231163703.6"><vh>div class="slides"</vh>
+<v t="40323255.20151231163703.7"><vh>有關我的作業</vh></v>
+<v t="40323255.20151231163703.8"><vh>2</vh></v>
+<v t="40323255.20151231163703.9"><vh>3</vh></v>
+<v t="40323255.20151231163703.10"><vh>4</vh></v>
+<v t="40323255.20151231163703.11"><vh>5</vh></v>
+</v>
+</v>
+<v t="40323255.20151231163703.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323255.20151231163723.1"><vh>@clean 40323255_cp_w15.html</vh>
+<v t="40323255.20151231163723.2"><vh>檔案說明</vh></v>
+<v t="40323255.20151231163723.3"><vh>html 標註</vh>
+<v t="40323255.20151231163723.4"><vh>body 標註</vh>
+<v t="40323255.20151231163723.5"><vh>div class="reveal"</vh>
+<v t="40323255.20151231163723.6"><vh>div class="slides"</vh>
+<v t="40323255.20151231163723.7"><vh>有關我的作業</vh></v>
+<v t="40323255.20151231163723.8"><vh>2</vh></v>
+<v t="40323255.20151231163723.9"><vh>3</vh></v>
+<v t="40323255.20151231163723.10"><vh>4</vh></v>
+<v t="40323255.20151231163723.11"><vh>5</vh></v>
+</v>
+</v>
+<v t="40323255.20151231163723.12"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -537,6 +573,182 @@ os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../them
 g.es("user pelican 執行完畢")</t>
 <t tx="123.20151208171418.3"></t>
 <t tx="123.20151208171423.1"></t>
+<t tx="40323255.20151231163703.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323255.20151231163703.10">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(3)&lt;/h2&gt;
+    &lt;p&gt;第二種畫法：旋轉&lt;/p&gt;
+    &lt;p&gt;首先，我們點選旋轉，選擇前視圖，依照它軸的形狀，畫完之後，旋轉長料，軸就完成了；再點選旋轉，一樣在前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20151231163703.11">&lt;section&gt;
+    &lt;h2&gt;心得及自評分數&lt;/h2&gt;
+    &lt;p&gt;Creo這套軟體越畫越有心得，同一種零件，我們不一定要使用同一種方式才畫得出來，就看我們怎麼利用它的功能而已，尤其對於有學過其他繪圖軟體的人，很容易就上手了。 &lt;/p&gt;
+    &lt;p&gt;自評分數：80 &lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20151231163703.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323255.20151231163703.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323255.20151231163703.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323255.20151231163703.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323255.20151231163703.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20151231163703.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20151231163703.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;p&gt;四設計二乙&lt;/p&gt;	
+    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323255.20151231163703.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(1)&lt;/h2&gt;
+    &lt;p&gt;我們第二個零件，是一根全長90mm的軸，這零件有兩種畫法；第一種是用引伸長料的方式，另一種方式則是使用旋轉長料的方式，而中間凹陷的地方，方法都是使用旋轉除料的方式，這零件值得注意的地方，它也是有倒角的哦，在實際零件上，導角的功用是方便配置哦。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20151231163703.9">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(2)&lt;/h2&gt;
+    &lt;p&gt;第一種畫法：引伸&lt;/p&gt;
+    &lt;p&gt;首先，我們點選引伸，選擇右側視圖，畫一個圓直徑8mm，長料90mm，再用引伸的方式，一樣在右側視圖，畫一個圓直徑12mm，伸長70mm；點選旋轉，轉至前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20151231163723.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323255.20151231163723.10">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(3)&lt;/h2&gt;
+    &lt;p&gt;第二種畫法：旋轉&lt;/p&gt;
+    &lt;p&gt;首先，我們點選旋轉，選擇前視圖，依照它軸的形狀，畫完之後，旋轉長料，軸就完成了；再點選旋轉，一樣在前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20151231163723.11">&lt;section&gt;
+    &lt;h2&gt;心得及自評分數&lt;/h2&gt;
+    &lt;p&gt;Creo這套軟體越畫越有心得，同一種零件，我們不一定要使用同一種方式才畫得出來，就看我們怎麼利用它的功能而已，尤其對於有學過其他繪圖軟體的人，很容易就上手了。 &lt;/p&gt;
+    &lt;p&gt;自評分數：80 &lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20151231163723.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323255.20151231163723.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323255.20151231163723.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323255.20151231163723.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323255.20151231163723.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20151231163723.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20151231163723.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;p&gt;四設計二乙&lt;/p&gt;	
+    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323255.20151231163723.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(1)&lt;/h2&gt;
+    &lt;p&gt;我們第二個零件，是一根全長90mm的軸，這零件有兩種畫法；第一種是用引伸長料的方式，另一種方式則是使用旋轉長料的方式，而中間凹陷的地方，方法都是使用旋轉除料的方式，這零件值得注意的地方，它也是有倒角的哦，在實際零件上，導角的功用是方便配置哦。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20151231163723.9">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(2)&lt;/h2&gt;
+    &lt;p&gt;第一種畫法：引伸&lt;/p&gt;
+    &lt;p&gt;首先，我們點選引伸，選擇右側視圖，畫一個圓直徑8mm，長料90mm，再用引伸的方式，一樣在右側視圖，畫一個圓直徑12mm，伸長70mm；點選旋轉，轉至前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
