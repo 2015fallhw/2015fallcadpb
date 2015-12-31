@@ -76,20 +76,12 @@ Summary: 第二組第十一週工作報告<br />Nutcracker 機構
 <p>
 <iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
-<<<<<<< HEAD
-<img src="https://copy.com/UcmNgceE8mxdrsCq"width="550"height="450">
-<br / >
-<img src="https://copy.com/TPklzsECNAOjjYBk"width="550"height="450">
-<br / >
-<script src="https://embed.github.com/view/3d/Openandgit/40323217cphw/gh-pages/connection.stl"></script>
-<br / >
-<a>核桃機組合影片</a>
-<iframe src="https://player.vimeo.com/video/149553485" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 
-=======
->>>>>>> fdc18a7890b1f156bb75cbd169496d20c2d7af73
 
 <script src="https://embed.github.com/view/3d/Openandgit/40323217cphw/gh-pages/connection.stl"></script>
+<br / >
+  
+
 
 <br />
 <br />
