@@ -47,6 +47,22 @@ src="https://copy.com/RTSEp91IwKaXWJau"width="600"height="600">
 <br>
 <script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/111.stl"></script>
 <br>
+<br>
+<span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">心得:40323248 楊承儒 </span></strong></span>
+<br>
+<br>
+這周練習onshape，與 Creo Parametric 繪製 Nutcracker 機構一樣，
+並且以小組為單位進行，onshape進行組別繪製有一個缺點，
+正是如果組員多人在群組進行繪製時可能造成自己所畫的零件，
+被隊員修改，所以團隊溝通很重要，自己先畫好零件在丟入群組較好。
+onshape容易受到網路影響，零件圖有時候會因為網路不穩
+而讀取不出來，onshape的組裝圖兩零件裝配時，無法完全拘束，
+還要再多加練習及詢問同學
+onshape與 Creo Parametric的架構 類似我們高職用的inventor和solidworks
+只不過之前我們都是用中文版的，還現在所用的指令都是使用英文
+常常找不到指令，或看不懂指令意思
+英文程度還要再加強~!
+<br>
 <hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">2 : Adjuster 操作者:40323211 朱柏蔚   </span></strong></span>
