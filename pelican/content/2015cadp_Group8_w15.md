@@ -79,6 +79,17 @@ src="https://copy.com/nUMN48Dh4LInhSOn"width="600"height="600">
 <br>
 <script src="https://embed.github.com/view/3d/YANG-CHENG-RU/40323248-/master/22222222.stl"></script>
 <br>
+<br>
+<span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">心得:40323211 朱柏蔚 </span></strong></span>
+<br>
+<br>
+使用onshape跟其他繪圖軟體並無太大區別,
+不過一次性能讓多個使用者同時編輯檔案,
+此功能與方便性令人驚艷,透過這軟體進行遠端討論或表達,
+比起一般討論與雲端傳送檔案來的方便許多,以Autodesk 的fusion 360來比較,
+fusion 360的限制在不能通時編輯與雲端回傳較慢,
+沒辦法在第一時間看成果,也無法同時模擬與表達
+
 <hr/>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">3 : Base  操作者:40323210 古丙駿 </span></strong></span>
