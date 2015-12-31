@@ -42,7 +42,7 @@ By 40323204
 <img src="https://copy.com/FuUlr3wAhieNl3C4"width="550"height="450">
 
 <p>
-<iframe src="https://player.vimeo.com/video/148832383" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+<iframe src="https://player.vimeo.com/video/150088678" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
 
 <script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/adjuster.stl"></script>
@@ -96,7 +96,7 @@ By 40323204
 <img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450">
 
 <p>
-<iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+<iframe src="https://player.vimeo.com/video/150088928" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
 
 <script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/handle.stl"></script>
@@ -107,7 +107,7 @@ By 40323204
 <img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450">
 
 <p>
-<iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+<iframe src="https://player.vimeo.com/video/150088203" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 </p>
 
 <script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/hinge.stl"></script>
@@ -123,4 +123,10 @@ By 40323204
 </p>
 
 <script src="https://embed.github.com/view/3d/hsungchang/test/master/prt8.stl"></script>
+
+<span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #7A0099;">機構組裝影片</span></strong></span>
+<br />
+
+by.40323255
+<iframe src="https://player.vimeo.com/video/150357688" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 
