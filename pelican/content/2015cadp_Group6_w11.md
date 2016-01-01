@@ -22,11 +22,21 @@ src="https://copy.com/8oeZ6aSa42joGWaq"width="300"height="300">
 Part_7 : Hinge - <a href='user/40328242/'>40328242</a>
 <br>
 <br>
+<p align="left"><a href="https://copy.com/cFzAwElrq7q1uf1N">Hinge.prt</a>
+<br>
+<br>
 <img
 src="https://copy.com/LqL49YKs7QplisTr"width="300"height="300">
 <br>
 <br>
 <script src="https://embed.github.com/view/3d/40328242/cadp/gh-pages/parts/hinge.stl"width="300"height="300"></script>
+<br>
+<br>
+<iframe src="https://player.vimeo.com/video/150476142" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150476142">hinge</a> from <a href="https://vimeo.com/user46488280">40328242</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
+機構組立影片
+<iframe src="https://player.vimeo.com/video/150475173" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150475173">nutcracker</a> from <a href="https://vimeo.com/user46488280">40328242</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
 Part_3 : Base - <a href='user/40323254/'>40323254</a>
