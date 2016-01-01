@@ -12,7 +12,7 @@ Nutcracker 機構
 <br />
 <img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450">
 
-(1)負責人:<a
+<h2>(1)負責人</h2>:<a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323253/'>40323253-劉瑜俊</a>
 <br />
 <br>
@@ -25,7 +25,7 @@ src="https://copy.com/A6FECgKC7Bs7Eglv"width="300"height="300">
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/1.stl"></script>
 
 <br />零件1影片
-
+<iframe src="https://player.vimeo.com/video/150092381" width="500" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150092381">W15-零件1</a> from <a href="https://vimeo.com/user44939680">40323253</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <br />
 <br>
@@ -38,12 +38,12 @@ src="https://copy.com/UmBSL79MGZIeQdqx"width="300"height="300">
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/2.stl"></script>
 
 <br />零件2影片
-
+<iframe src="https://player.vimeo.com/video/150467531" width="500" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150467531">W15-零件2</a> from <a href="https://vimeo.com/user45426766">40323253two</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <br />組合影片
 
 
-<br />(2)負責人:<a
+<br /><h2>(2)負責人</h2>:<a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323252/'>40323252-廖麒源</a>
 <br />
 <br>
@@ -72,7 +72,7 @@ src="https://copy.com/TVzPC0lRRN3ytz0Y"width="300"height="300">
 <br />組合影片
 
 
-<br />(3)負責人:<a
+<br /><h2>(3)負責人</h2>:<a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323245/'>40323245-程偉銓</a>
 <br />
 <br>
@@ -100,7 +100,7 @@ src="https://copy.com/hY64jmMNz2Kn6Ec4"width="300"height="300">
 
 <br />組合影片
 
-<br />(4)負責人:<a
+<br /><h2>(4)負責人</h2>:<a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏維辰</a>
 <br />
 <br>
@@ -128,11 +128,11 @@ src="https://copy.com/De1xHMZokFG6RpUD"width="300"height="300">
 
 <br />組合影片
 
-<br />(5)負責人:<a
+<br /><h2>(5)負責人</h2>:<a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建中</a>
 
 <br />組合影片
 
-<br />(6)負責人:<a
+<br /><h2>(6)負責人</h2>:<a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323225/'>40323225-姜智翔</a>
 <br />組合影片
