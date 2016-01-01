@@ -6,13 +6,16 @@ Slug: 2015cadpb_blog_g4_w15
 Authors: G4
 Summary: 第四組第十五週工作報告<br />Nutcracker 機構
 
-以下為相關工作報告資料
+組員：<br />
+劉瑜俊:<a href='user/40323253/'>40323253</a><br />廖麒源:<a href='user/40323252/'>40323252</a><br />黃顏維辰:<a href='user/40323247/'>40323247</a><br />程偉銓:<a href='user/40323245/'>40323245</a><br />陳建中:<a href='user/40323240/'>40323240</a><br />姜智翔:<a href='user/40323225/'>40323225</a>
+
+<br />以下為相關工作報告資料
 <br />
 Nutcracker 機構
 <br />
 <img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450">
 
-<h2>(1)負責人</h2>:<a
+<h2>(1)負責人:</h2><a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323253/'>40323253-劉瑜俊</a>
 <br />
 <br>
@@ -43,7 +46,7 @@ src="https://copy.com/UmBSL79MGZIeQdqx"width="300"height="300">
 <br />組合影片
 
 
-<br /><h2>(2)負責人</h2>:<a
+<br /><h2>(2)負責人:</h2><a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323252/'>40323252-廖麒源</a>
 <br />
 <br>
@@ -72,7 +75,7 @@ src="https://copy.com/TVzPC0lRRN3ytz0Y"width="300"height="300">
 <br />組合影片
 
 
-<br /><h2>(3)負責人</h2>:<a
+<br /><h2>(3)負責人:</h2><a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323245/'>40323245-程偉銓</a>
 <br />
 <br>
@@ -100,7 +103,7 @@ src="https://copy.com/hY64jmMNz2Kn6Ec4"width="300"height="300">
 
 <br />組合影片
 
-<br /><h2>(4)負責人</h2>:<a
+<br /><h2>(4)負責人:</h2><a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏維辰</a>
 <br />
 <br>
@@ -128,11 +131,11 @@ src="https://copy.com/De1xHMZokFG6RpUD"width="300"height="300">
 
 <br />組合影片
 
-<br /><h2>(5)負責人</h2>:<a
+<br /><h2>(5)負責人:</h2><a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建中</a>
 
 <br />組合影片
 
-<br /><h2>(6)負責人</h2>:<a
+<br /><h2>(6)負責人:</h2><a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323225/'>40323225-姜智翔</a>
 <br />組合影片
