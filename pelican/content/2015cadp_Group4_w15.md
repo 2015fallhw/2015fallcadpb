@@ -47,7 +47,7 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323252/'>40323252-廖麒�
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/3.stl"></script>
 
 <br />零件3影片
-
+<iframe src="https://player.vimeo.com/video/150146485" width="500" height="270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150146485">零件3影片</a> from <a href="https://vimeo.com/user45419779">40323252</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br />
 零件4
 <br />
@@ -55,9 +55,9 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323252/'>40323252-廖麒�
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/4.stl"></script>
 
 <br />零件4影片
-
+<iframe src="https://player.vimeo.com/video/150516075" width="500" height="270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150516075">零件4影片</a> from <a href="https://vimeo.com/user47392068">aabbc</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br />組合影片
-
+<iframe src="https://player.vimeo.com/video/150516074" width="500" height="298" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150516074">onshape組合</a> from <a href="https://vimeo.com/user47392068">aabbc</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <br /><h2>(3)負責人:</h2><a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323245/'>40323245-程偉銓</a>
@@ -119,6 +119,8 @@ Onshape繪圖網站的發展性高,只要擁有網路,電腦、手機、平板�
 <a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323252/'>40323252-廖麒源</a>
 <br />
+Onshape這能直接在網頁上工作是個滿方便的功能,零件繪畫的部分也是滿簡單的,這次組合遇到的困難比較多,包括要約束什麼的,最大距離與最小距離之間的差距,這些對自己來說都是比較複雜的,藉由別組的影片與同組之間的討論,協助我完成這次的作業。
+<br />
 <a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323245/'>40323245-程偉銓</a>
 <br />
@@ -126,6 +128,8 @@ Onshape網路繪圖程式很方便,但前提是必須要有網路。介面很乾
 <br />
 <a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏維辰</a>
+<br />
+這個程式是既上次Parametric零件與組合圖畫完之後，老師教的下一個繪圖軟體，心裡總想又要麻煩同學了，沒想到它是網頁版的繪圖軟體，當天在課堂上用學校的帳號辦會員，辦好的時候想說畫畫看，結果一畫，跟上次畫的Parametric有那麼一點點的相似，所以學起來比較快，但因為是英文所以我學得有些吃力，而且很多功能不太會使用，但在慢慢的摸索下，把零件與組合圖繪畫完，在這次的合作下發現到，為什麼零件7的洞沒辦法跟板子密合，原來是當初給的圖的尺寸是錯的，想說都畫對怎麼可能組不起來，在這次的合作，我們一步一步的完成最後Onshape的組合圖。
 <br />
 <a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建中</a>
