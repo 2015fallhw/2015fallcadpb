@@ -10,7 +10,6 @@ Summary: example video
 <br>
 <hr>
 <h2>重頭開始</h2>
-<br>
 <p align="left"><a href="https://mega.nz/#!mF8jQIaT!-YlPUVuVF5LnFUEsoIY1wXyX4PI9a-vHhX6nES8N3_w">Ana3_2015壓縮檔 - 透過瀏覽器下載，leo檔案已安裝，請記得更改使用者名稱</a>
 <br>
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">step.1</span></strong></span>
