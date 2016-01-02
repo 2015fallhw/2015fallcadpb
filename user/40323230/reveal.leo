@@ -36,6 +36,7 @@
 <v t="leo.20151228223512.1"><vh>@edit 40323230_cp_w12.md</vh></v>
 <v t="leo.20151228224344.1"><vh>@edit 40323230_cp_w14.md</vh></v>
 <v t="leo.20151228232923.1"><vh>@edit 40323230_cp_w15.md</vh></v>
+<v t="leo.20160102215600.1"><vh>@edit 40323230_cp_w16.md</vh></v>
 </v>
 </v>
 </v>
@@ -104,7 +105,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151228210745.47" a="E"><vh>@clean 40323230_cp_w7.html</vh>
+<v t="123.20151228210745.47"><vh>@clean 40323230_cp_w7.html</vh>
 <v t="123.20151228210745.48"><vh>檔案說明</vh></v>
 <v t="123.20151228210745.49" a="E"><vh>html 標註</vh>
 <v t="123.20151228210745.50" a="E"><vh>body 標註</vh>
@@ -125,7 +126,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228224659.1" a="E"><vh>@clean 40323230_cp_w10.html</vh>
+<v t="leo.20151228224659.1"><vh>@clean 40323230_cp_w10.html</vh>
 <v t="leo.20151228224659.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228224659.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228224659.4" a="E"><vh>body 標註</vh>
@@ -146,7 +147,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228225053.1" a="E"><vh>@clean 40323230_cp_w11.html</vh>
+<v t="leo.20151228225053.1"><vh>@clean 40323230_cp_w11.html</vh>
 <v t="leo.20151228225053.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228225053.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228225053.4" a="E"><vh>body 標註</vh>
@@ -188,7 +189,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228225725.1" a="E"><vh>@clean 40323230_cp_w14.html</vh>
+<v t="leo.20151228225725.1"><vh>@clean 40323230_cp_w14.html</vh>
 <v t="leo.20151228225725.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228225725.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228225725.4" a="E"><vh>body 標註</vh>
@@ -937,7 +938,7 @@ jupyter notebook
 
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;安裝一個可攜式、能夠自訂化的工具，雖然不知道所有的用途，但是已經可以突破既有的框架，給自己80分。&lt;/p&gt;
+    &lt;p&gt;解決學校電腦無法使用leo的問題，學到很多常識，給自己80分。&lt;/p&gt;
     &lt;hr&gt;
     &lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;課程資料&lt;/a&gt;
 &lt;/section&gt;
