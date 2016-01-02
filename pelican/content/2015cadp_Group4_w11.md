@@ -141,3 +141,28 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建�
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323225/'>40323225-姜智翔</a>
 <br />組合影片
 <iframe src="https://player.vimeo.com/video/149603212" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/149603212">組合</a> from <a href="https://vimeo.com/user47024031">jack</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+<h2>心得區</h2>
+<a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323253/'>40323253-劉瑜俊</a>
+<br />
+Creo繪圖程式的功能成熟,且繪圖快速不會有網路的快慢問題,在繪圖順暢度方面Creo比Onshape好,但以方便性和機動性來說還是Onshape較為勝出。
+<br />
+<a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323252/'>40323252-廖麒源</a>
+<br />
+<a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323245/'>40323245-程偉銓</a>
+<br />
+Creo繪圖軟體功能很多,利於讓使用者快速繪圖與組合,但目前使用上只用到少部分功能,所以會覺得介面很花,但整體上操作起來很順手。
+<br />
+<a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏維辰</a>
+<br />
+<a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建中</a>
+<br />
+<a
+href='http://2015fallhw.github.io/2015fallcadpb/user/40323225/'>40323225-姜智翔</a>
+<br />
