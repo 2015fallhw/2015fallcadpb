@@ -92,7 +92,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151214112232.1"><vh>@clean 40323253_cp_w8.html</vh>
+<v t="leo.20151214112232.1" a="E"><vh>@clean 40323253_cp_w8.html</vh>
 <v t="leo.20151214112232.2"><vh>檔案說明</vh></v>
 <v t="leo.20151214112232.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151214112232.4"><vh>body 標註</vh>
@@ -170,7 +170,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228102736.1" a="E"><vh>@clean 40323253_cp_w15.html</vh>
+<v t="leo.20151228102736.1"><vh>@clean 40323253_cp_w15.html</vh>
 <v t="leo.20151228102736.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228102736.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228102736.4" a="E"><vh>body 標註</vh>
@@ -191,7 +191,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228114552.1" a="E"><vh>@clean 40323253_cp_w16.html</vh>
+<v t="leo.20151228114552.1"><vh>@clean 40323253_cp_w16.html</vh>
 <v t="leo.20151228114552.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228114552.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228114552.4" a="E"><vh>body 標註</vh>
@@ -821,6 +821,11 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 &lt;/body&gt;
 </t>
 <t tx="leo.20151219222329.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -870,6 +875,11 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 &lt;/body&gt;
 </t>
 <t tx="leo.20151219223824.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -997,6 +1007,11 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228102736.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -1183,6 +1198,11 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228175624.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
