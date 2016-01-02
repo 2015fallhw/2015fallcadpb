@@ -888,7 +888,6 @@ jupyter notebook
     &lt;hr&gt;
     &lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;課程資料&lt;/a&gt;
 &lt;/section&gt;
-				
 </t>
 <t tx="leo.20151228225706.1">@language xml
 @tabwidth -4
