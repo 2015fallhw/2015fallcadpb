@@ -88,7 +88,7 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏�
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/7.stl"></script>
 
 <br />零件7影片
-
+<iframe src="https://player.vimeo.com/video/150341656" width="500" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150341656">bandicam 2015-12-30 22-19-41-030</a> from <a href="https://vimeo.com/user45499931">黃顏維辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br />
 <br>
 零件8
@@ -97,9 +97,9 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏�
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/8.stl"></script>
 
 <br />零件8影片
-
+<iframe src="https://player.vimeo.com/video/150341619" width="500" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150341619">bandicam 2015-12-30 21-55-08-456</a> from <a href="https://vimeo.com/user45499931">黃顏維辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br />組合影片
-
+<iframe src="https://player.vimeo.com/video/150522783" width="500" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150522783">bandicam 2016-01-02 20-23-37-234</a> from <a href="https://vimeo.com/user45499931">黃顏維辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br /><h2>(5)負責人:</h2><a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建中</a>
 
