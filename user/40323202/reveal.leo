@@ -36,7 +36,7 @@
 </v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="leo.20160103212658.1"><vh>@button open html</vh>
+<v t="leo.20160103212658.1" a="E"><vh>@button open html</vh>
 <v t="leo.20160103212658.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
 <v t="leo.20160103212658.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103212658.4" a="E"><vh>html 標註</vh>
@@ -59,7 +59,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103211250.1"><vh>@button open html</vh>
+<v t="leo.20160103211250.1" a="E"><vh>@button open html</vh>
 <v t="leo.20160103211250.2" a="E"><vh>@clean cadp_w13_lecture.html</vh>
 <v t="leo.20160103211250.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103211250.4" a="E"><vh>html 標註</vh>
@@ -82,7 +82,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103203745.1"><vh>@button open html</vh>
+<v t="leo.20160103203745.1" a="E"><vh>@button open html</vh>
 <v t="leo.20160103203745.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20160103203745.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103203745.4" a="E"><vh>html 標註</vh>
@@ -518,10 +518,10 @@ for ch in p.children():
 &lt;section&gt;
     &lt;h1&gt;步驟說明一&lt;/h1&gt;
     &lt;ol&gt;
-    &lt;li&gt;1.選擇2015Fall課程的copy.com→https://copy.com/zpYyuIcuB3fHAdr0 (fix.zip)&lt;/le&gt;
-    &lt;li&gt;2.回到隨身碟打開Ana3_lite2→data→SciTE→SciTE.exe&lt;/li&gt;
-    &lt;li&gt;3.打開下載的fix→fix.bat和start.bat用SciTE.exe打開&lt;/li&gt;
-    &lt;li&gt;4.到網站輸入leo-editor github→進去後按releases→下載broke-abbrev&lt;/li&gt;    
+    &lt;li&gt;選擇2015Fall課程的copy.com→https://copy.com/zpYyuIcuB3fHAdr0 (fix.zip)&lt;/le&gt;
+    &lt;li&gt;回到隨身碟打開Ana3_lite2→data→SciTE→SciTE.exe&lt;/li&gt;
+    &lt;li&gt;打開下載的fix→fix.bat和start.bat用SciTE.exe打開&lt;/li&gt;
+    &lt;li&gt;到網站輸入leo-editor github→進去後按releases→下載broke-abbrev&lt;/li&gt;    
     
     &lt;/ol&gt;		
     &lt;/section&gt;
@@ -541,10 +541,10 @@ content: "課程: 電腦輔助設計實習B 學號: 40323202"; }&lt;/style&gt;</
 &lt;section&gt;
     &lt;h1&gt;步驟說明二&lt;/h1&gt;
     &lt;ol&gt;
-    &lt;li&gt;5.將此資料夾複製到fix裡貼上&lt;/li&gt;
-    &lt;li&gt;6.到SciTE.exe→fix.bat→新增copy leo-editor-broke-abbrev.zipC:\Ana3_2015\data\→儲存&lt;/li&gt;
-    &lt;li&gt;7.start.bat裡第35行改成pip install leo-editor-broke-abbrev.zip→儲存&lt;/li&gt;
-    &lt;li&gt;8.啟動fix.bat→點stop.bat→點star.bat→leo是5.1版&lt;/li&gt;
+    &lt;li&gt;將此資料夾複製到fix裡貼上&lt;/li&gt;
+    &lt;li&gt;到SciTE.exe→fix.bat→新增copy leo-editor-broke-abbrev.zipC:\Ana3_2015\data\→儲存&lt;/li&gt;
+    &lt;li&gt;start.bat裡第35行改成pip install leo-editor-broke-abbrev.zip→儲存&lt;/li&gt;
+    &lt;li&gt;啟動fix.bat→點stop.bat→點star.bat→leo是5.1版&lt;/li&gt;
    
     &lt;/ol&gt;		
     &lt;/section&gt;
@@ -654,10 +654,10 @@ for ch in p.children():
 &lt;section&gt;
     &lt;h1&gt;步驟說明一&lt;/h1&gt;
     &lt;ol&gt;
-    &lt;li&gt;1.打開Creo Parametric&lt;/le&gt;
-    &lt;li&gt;2.畫所分配到的零件圖&lt;/li&gt;
-    &lt;li&gt;3.組裝組合圖&lt;/li&gt;
-    &lt;li&gt;4.錄製零件圖和組合圖的步驟&lt;/li&gt;    
+    &lt;li&gt;打開Creo Parametric&lt;/le&gt;
+    &lt;li&gt;畫所分配到的零件圖&lt;/li&gt;
+    &lt;li&gt;組裝組合圖&lt;/li&gt;
+    &lt;li&gt;錄製零件圖和組合圖的步驟&lt;/li&gt;    
     
     &lt;/ol&gt;		
     &lt;/section&gt;
@@ -773,10 +773,10 @@ for ch in p.children():
 &lt;section&gt;
     &lt;h1&gt;步驟說明一&lt;/h1&gt;
     &lt;ol&gt;
-    &lt;li&gt;1.到onshape的網址→https://www.onshape.com/ 註冊&lt;/le&gt;
-    &lt;li&gt;2.畫所分配到的零件圖&lt;/li&gt;
-    &lt;li&gt;3.組裝組合圖&lt;/li&gt;
-    &lt;li&gt;4.錄製零件圖和組合圖的步驟&lt;/li&gt;    
+    &lt;li&gt;到onshape的網址→https://www.onshape.com/ 註冊&lt;/le&gt;
+    &lt;li&gt;畫所分配到的零件圖&lt;/li&gt;
+    &lt;li&gt;組裝組合圖&lt;/li&gt;
+    &lt;li&gt;錄製零件圖和組合圖的步驟&lt;/li&gt;    
     
     &lt;/ol&gt;		
     &lt;/section&gt;
