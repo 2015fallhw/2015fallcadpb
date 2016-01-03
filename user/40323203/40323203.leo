@@ -38,19 +38,19 @@
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20151214182620.1"><vh>@button open html</vh>
-<v t="leo.20151214182620.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
+<v t="leo.20151214182620.2"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151214182620.3"><vh>檔案說明</vh></v>
 <v t="leo.20151214182620.4" a="E"><vh>html 標註</vh>
 <v t="leo.20151214182620.5" a="E"><vh>body 標註</vh>
 <v t="leo.20151214182620.6" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151214182620.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151214182620.8" a="E"><vh>第 12 週開始的規劃</vh>
+<v t="leo.20151214182620.8" a="E"><vh>班級</vh>
 <v t="leo.20151214182620.15"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20151214182620.10" a="E"><vh>header1 測試</vh>
+<v t="leo.20151214182620.10" a="E"><vh>操作步驟說明1</vh>
 <v t="leo.20151214182620.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20151214182620.12" a="E"><vh>header2測試</vh>
+<v t="leo.20151214182620.12" a="E"><vh>操作步驟說明2</vh>
 <v t="leo.20151214182620.15"></v>
 </v>
 <v t="leo.20151214182620.14" a="E"><vh>第12週自評與心得</vh>
@@ -63,20 +63,20 @@
 </v>
 </v>
 </v>
-<v t="leo.20151214182615.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151214182615.1"><vh>@button open html</vh>
 <v t="leo.20151214182615.2" a="E"><vh>@clean cadp_w11_lecture.html</vh>
 <v t="leo.20151214182615.3"><vh>檔案說明</vh></v>
 <v t="leo.20151214182615.4" a="E"><vh>html 標註</vh>
 <v t="leo.20151214182615.5" a="E"><vh>body 標註</vh>
 <v t="leo.20151214182615.6" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151214182615.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151214182615.8" a="E"><vh>第 11 週開始的規劃</vh>
+<v t="leo.20151214182615.8" a="E"><vh>班級</vh>
 <v t="leo.20151214182615.15"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20151214182615.10" a="E"><vh>header1 測試</vh>
+<v t="leo.20151214182615.10" a="E"><vh>操作步驟說明1</vh>
 <v t="leo.20151214182615.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20151214182615.12" a="E"><vh>header2測試</vh>
+<v t="leo.20151214182615.12" a="E"><vh>操作步驟說明2</vh>
 <v t="leo.20151214182615.15"></v>
 </v>
 <v t="leo.20151214182615.14" a="E"><vh>第11週自評與心得</vh>
@@ -651,7 +651,7 @@ content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;</
 
     &lt;h1&gt;自評與心得&lt;/h1&gt;
     &lt;p&gt;自評分數:65&lt;/p&gt;
-    &lt;p&gt;第12週的課程是教學如何將leo-editor變成5.1版本的，剛開始的步驟比較繁雜，不過在上課的同時我有寫筆記，一方面讓我更快將軟體升級，也可以讓我學習上課時要認真聽才能一字不漏得把老師的操作步驟一一寫下來，經過期中考前的作業，讓我更加順利上手12週的作業。&lt;/p&gt;
+    &lt;p&gt;第11週的課程是教學如何創自己的個人leo，創個人leo最主要是當老師教了新的課程時，而你要將作業放到班上的個人網站，這時候就可以很方面的將班上資料夾git clone 下來然後直接按user資料夾開啟我學號資料夾，並將我的leo叫出來修改，因此讓我更迅速的完成我的作業。&lt;/p&gt;
         
 &lt;/section&gt;
 				
@@ -719,8 +719,8 @@ cadp w12 講課內容投影片
 
     &lt;section&gt;
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
-    &lt;h1&gt;第 11 週開始的規劃&lt;/h1&gt;
-    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323203 施郁琪&lt;/p&gt;
     &lt;/section&gt;
     
 &lt;/section&gt;
@@ -853,8 +853,8 @@ cadp w12 講課內容投影片
 
     &lt;section&gt;
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
-    &lt;h1&gt;第 12 週開始的規劃&lt;/h1&gt;
-    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323203 施郁琪&lt;/p&gt;
     &lt;/section&gt;
     
 &lt;/section&gt;

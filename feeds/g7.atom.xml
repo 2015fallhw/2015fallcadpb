@@ -99,7 +99,7 @@ And we also have a public project on &lt;a href='https://cad.onshape.com/'&gt;On
 &lt;p&gt;Authors：&lt;/br&gt;&lt;a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'&gt;40323230張元&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Product(s) Preview：&lt;/br&gt;&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323230/part/base.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;Part Drawing Video：&lt;/br&gt;Onshape：&lt;/br&gt;&lt;iframe src="https://player.vimeo.com/video/150088868" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Part Drawing Video&lt;/br&gt;Onshape：&lt;/br&gt;&lt;iframe src="https://player.vimeo.com/video/150088868" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/150088868"&gt;Base&lt;/a&gt; from &lt;a href="https://vimeo.com/user32555757"&gt;張元&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;Product(s) File Download link：&lt;/br&gt;&lt;a href='https://copy.com/P44dMVl6tgivZMK1'&gt;Download Link&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Part4-Connection&lt;/br&gt;[Quantity:2]&lt;/h2&gt;
@@ -127,7 +127,11 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'&gt;40323230張�
 
 &lt;p&gt;Authors：&lt;/br&gt;&lt;a href='http://2015fallhw.github.io/2015fallcadpb/user/40323230/'&gt;40323230張元&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Product(s) Preview：&lt;/br&gt;&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323230/part/hinge.stl"width="300"height="300"&gt;&lt;/script&gt;&lt;/p&gt;
+<<<<<<< HEAD
 &lt;p&gt;Part Drawing Video&lt;/br&gt;Onshape：&lt;/br&gt;&lt;iframe src="https://player.vimeo.com/video/150088869" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+=======
+&lt;p&gt;Part Drawing Video&lt;/br&gt;Onshape：&lt;iframe src="https://player.vimeo.com/video/150088869" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+>>>>>>> f556174da271379aa53fce9dff129da8a4a0353a
 &lt;p&gt;&lt;a href="https://vimeo.com/150088869"&gt;Hinge&lt;/a&gt; from &lt;a href="https://vimeo.com/user32555757"&gt;張元&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;Product(s) File Download link：&lt;/br&gt;&lt;a href='https://copy.com/KXpNERSxugvTuOi7'&gt;Download Link&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Part8-Piston&lt;/br&gt;[Quantity:1]&lt;/h2&gt;

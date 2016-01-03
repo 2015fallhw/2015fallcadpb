@@ -209,15 +209,29 @@
 <v t="leo40323206.20151228142944.4" a="E"><vh>body 標註</vh>
 <v t="leo40323206.20151228142944.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo40323206.20151228145147.1" a="E"><vh>div class="slides"</vh>
-<v t="leo40323206.20151228145147.2"><vh>封面</vh></v>
-<v t="leo40323206.20151228145147.3"><vh>投影片2</vh></v>
-<v t="leo40323206.20151228145147.4"><vh>投影片3</vh></v>
-<v t="leo40323206.20151228145147.5"><vh>投影片4 </vh></v>
+<v t="leo40323206.20151228145147.2" a="E"><vh>封面</vh>
+<v t="leo40323206.20151231133910.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo40323206.20151228145147.3" a="E"><vh>投影片2</vh>
+<v t="leo40323206.20151231134106.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo40323206.20151228145147.4" a="E"><vh>投影片3</vh>
+<v t="leo40323206.20151231134151.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo40323206.20151228145147.5" a="E"><vh>投影片4 </vh>
+<v t="leo40323206.20151231134201.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 <v t="leo40323206.20151228142944.13"><vh>script</vh></v>
 </v>
 </v>
+</v>
+</v>
+<v t="leo40323206.20151231133816.2"><vh>Recovered Nodes</vh>
+<v t="leo40323206.20151231133816.3"><vh>Recovered node "投影片4" from @clean simplest6.html</vh>
+<v t="leo40323206.20151231133816.4"><vh>old:投影片4</vh></v>
+<v t="leo40323206.20151231133816.5"><vh>new:投影片4</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1374,7 +1388,7 @@ jupyter notebook
 
 &lt;!-- 出現在每一頁的 header 格式 --&gt;
 
-&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+&lt;header style="position: absolute;top: 15px; left: 15px; z-index:300; font-size:20px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
 
 &lt;div class="reveal"&gt;
 @others
@@ -1388,6 +1402,9 @@ jupyter notebook
 <t tx="leo40323206.20151228145147.2">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;&lt; header &gt;&gt;
+
 &lt;section&gt;
   
     &lt;p&gt;&lt;font size="6" face="Comic Sans MS"&gt;&lt;marquee border="0"&gt;體魄康強，精神活潑，舉止端莊，人格健全，便是大學生的風度。
@@ -1399,10 +1416,11 @@ jupyter notebook
     &lt;br&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
+    &lt;/section&gt;
 &lt;/section&gt;
-	
 </t>
-<t tx="leo40323206.20151228145147.3">   &lt;section id="hw-task-one"&gt;
+<t tx="leo40323206.20151228145147.3">   &lt;&lt; header &gt;&gt;
+   &lt;section id="hw-task-one"&gt;
     &lt;h2&gt;上課筆記&lt;/h2&gt;
     &lt;br&gt;
      
@@ -1414,17 +1432,19 @@ jupyter notebook
     
   
 &lt;/section&gt;
-</t>
-<t tx="leo40323206.20151228145147.4">&lt;section&gt;
+&lt;/section&gt;</t>
+<t tx="leo40323206.20151228145147.4">&lt;&lt; header &gt;&gt;
+&lt;section&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
     &lt;br&gt;
    
       &lt;p align="left"&gt;這週的作業又是團體作業，一開始大家都急於把自己負責的零件傳到共享的頁面，導致網路有些負荷不了，所最後我們統一由一個組員將零件一次上傳，後續的組裝是每個人自己創一個組裝分頁獨自作業，所以互不干涉，比起Creo真的方便許多，而且又是免費的，所以我認為Onshape是設計產業及人員合作上很大的進步。&lt;/p&gt;
     &lt;br&gt;
 &lt;/section&gt;
-				
+&lt;/section&gt;				
 </t>
-<t tx="leo40323206.20151228145147.5">&lt;section&gt;
+<t tx="leo40323206.20151228145147.5">&lt;&lt; header &gt;&gt;
+&lt;section&gt;
     &lt;h2&gt;自評&lt;/h2&gt;
     &lt;br&gt;
    
@@ -1432,6 +1452,59 @@ jupyter notebook
     &lt;br&gt;
 &lt;/section&gt;
 				
+&lt;/section&gt;</t>
+<t tx="leo40323206.20151231133816.2"></t>
+<t tx="leo40323206.20151231133816.3">(uncached) leo40323206.20151213160904.1
+Diff...
+  &lt;section&gt;
+      &lt;h2&gt;自評&lt;/h2&gt;
+      &lt;br&gt;
+     
+-       &lt;p align="left"&gt;這週老師示範了如何更新自己的環境，但是實際上我並沒有實際操作，進度還是在其它週的作業上。對於更新這件事，我覺得比其它作業還要來得麻煩，因為當你習慣一件事，你根本不想去改變，甚至懶得去處理，但至少我有了解到它的必要性，所以自評分數75分。&lt;/p&gt;
+?                                                                                                                                            ^
++       &lt;p align="left"&gt;這週老師示範了如何更新自己的環境，但是實際上我並沒有實際操作，進度還是在其它週的作業上。對於更新這件事，我覺得比其它作業還要來得麻煩，因為當你習慣一件事，你根本不想去改變，甚至懶得去處理，但至少我有了解到它的必要性，所以自評分數75分 。&lt;/p&gt;
+?                                                                                                                                            ^
+      &lt;br&gt;
+  &lt;/section&gt;
+  				
 </t>
+<t tx="leo40323206.20151231133816.4">&lt;section&gt;
+    &lt;h2&gt;自評&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;這週老師示範了如何更新自己的環境，但是實際上我並沒有實際操作，進度還是在其它週的作業上。對於更新這件事，我覺得比其它作業還要來得麻煩，因為當你習慣一件事，你根本不想去改變，甚至懶得去處理，但至少我有了解到它的必要性，所以自評分數75分 。&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151231133816.5">&lt;section&gt;
+    &lt;h2&gt;自評&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;這週老師示範了如何更新自己的環境，但是實際上我並沒有實際操作，進度還是在其它週的作業上。對於更新這件事，我覺得比其它作業還要來得麻煩，因為當你習慣一件事，你根本不想去改變，甚至懶得去處理，但至少我有了解到它的必要性，所以自評分數75分。&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo40323206.20151231133910.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323206"; }&lt;/style&gt;</t>
+<t tx="leo40323206.20151231134106.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323206"; }&lt;/style&gt;</t>
+<t tx="leo40323206.20151231134151.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323206"; }&lt;/style&gt;</t>
+<t tx="leo40323206.20151231134201.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323206"; }&lt;/style&gt;</t>
 </tnodes>
 </leo_file>

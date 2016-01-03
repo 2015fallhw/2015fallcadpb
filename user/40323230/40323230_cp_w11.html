@@ -18,17 +18,33 @@
 </head>
 <body>
 <!-- 將整個投影片包在 "reveal" class 中 -->
+
+<!-- 出現在每一頁的 header 格式 -->
+
+<header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"></header>
+
 <div class="reveal">
 <!-- 將所有投影片包在 "slides" class 中 -->
 <div class="slides">
 <!-- 以下為投影片 -->
 <!-- 每一個 section 都代表一張投影片,  -->
 <!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
-<section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323230"; }</style>
+    <section>
     <h1>電腦輔助設計與實習</h1>
     <hr>
     <p>40323230-張元-12/12</p>		
+    </section>
 </section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323230"; }</style>
 <section id="hw-task-one">
     <h1>連結個人倉儲</h1>
     <p>步驟 : 
@@ -42,13 +58,17 @@
 4.完成
 </p>
 </section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323230"; }</style>
 <section>
     <h1>自評</h1>
-    <p>安裝一個可攜式、能夠自訂化的工具，雖然不知道所有的用途，但是已經可以突破既有的框架，給自己80分。</p>
+    <p>將個人倉儲和班級的倉儲內容作連結，藉此連動相關內容，給自己80分。</p>
     <hr>
     <a href="https://wordpress-2015course.rhcloud.com/">課程資料</a>
 </section>
-				
 </div>
 </div>
 <script src="lib/js/head.min.js"></script>

@@ -1,7 +1,7 @@
 Title: 2015 CADP week-all
 Date: 2015-11-16 11:00
 Modified: 2015-11-16 11:00
-Category: Python
+Category: w all
 Tags: pelican, publishing
 Slug: 2015cp_hw_w_all
 Authors: 40323204

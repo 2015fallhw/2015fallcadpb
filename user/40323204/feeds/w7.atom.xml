@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323204 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/w7.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-16T10:10:00+08:00</updated><entry><title>2015 CADP 作業四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-11-16T10:10:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-11-16:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;以下為作業四內容&lt;/p&gt;
+&lt;p&gt;使用 Git 在 Github 管理個人、分組與班上倉儲、協同資料:
+&lt;p&gt;相關連結 &lt;a href="https://github.com/2015fallhw/2015fallcadpb"&gt;全班協同倉儲&lt;/a&gt;與 &lt;a href="http://2015fallhw.github.io/2015fallcadpb/"&gt;二乙 CADP 全班協同作業&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業四投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>

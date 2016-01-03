@@ -1,0 +1,69 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>電腦輔助設計與實習</h2>
+    <p>四設計二乙</p>	
+    <p>40323255 鄭智文</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h2>Creo Parametric操作流程(1)</h2>
+    <p>我們第二個零件，是一根全長90mm的軸，這零件有兩種畫法；第一種是用引伸長料的方式，另一種方式則是使用旋轉長料的方式，而中間凹陷的地方，方法都是使用旋轉除料的方式，這零件值得注意的地方，它也是有倒角的哦，在實際零件上，導角的功用是方便配置哦。</p>
+    
+</section>
+				
+<section id="hw-task-one">
+    <h2>Creo Parametric操作流程(2)</h2>
+    <p>第一種畫法：引伸</p>
+    <p>首先，我們點選引伸，選擇右側視圖，畫一個圓直徑8mm，長料90mm，再用引伸的方式，一樣在右側視圖，畫一個圓直徑12mm，伸長70mm；點選旋轉，轉至前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。</p>
+</section>
+				
+<section id="hw-task-one">
+    <h2>Creo Parametric操作流程(3)</h2>
+    <p>第二種畫法：旋轉</p>
+    <p>首先，我們點選旋轉，選擇前視圖，依照它軸的形狀，畫完之後，旋轉長料，軸就完成了；再點選旋轉，一樣在前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。</p>
+</section>
+				
+<section>
+    <h2>心得及自評分數</h2>
+    <p>Creo這套軟體越畫越有心得，同一種零件，我們不一定要使用同一種方式才畫得出來，就看我們怎麼利用它的功能而已，尤其對於有學過其他繪圖軟體的人，很容易就上手了。 </p>
+    <p>自評分數：80 </p>
+
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

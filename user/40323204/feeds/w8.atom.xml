@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323204 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/w8.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-16T10:00:00+08:00</updated><entry><title>2015 CADP 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-11-16T10:00:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-11-16:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為作業五內容&lt;/p&gt;
+&lt;p&gt;利用 Solvespace 與 Creo 繪製折疊電動自行車零件&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest5.html" target="_blank"&gt;作業五投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;關於腳踏車尺寸解說&lt;/h1&gt;
+&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;
+
+&lt;p&gt;&lt;img src="https://copy.com/t9JR8FD0vqzdVmmF" width="500" height="900" alt="住圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/kzm9SXx6u91PZUHX" width="500" height="900" alt="住圖"&gt;&lt;/img&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
