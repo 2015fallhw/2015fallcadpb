@@ -28,7 +28,6 @@
 <v t="1.20151230215028.2"><vh>@edit publishconf.py</vh></v>
 <v t="1.20151230215028.3"><vh>@edit 2015cadp_w12.md</vh></v>
 <v t="1.20151230215028.4"><vh>@edit 2015cadp_Group1_w11.md</vh></v>
-<v t="123.20160102164150.1"><vh>@edit 2015cadp_example.md</vh></v>
 <v t="1.20151230215028.5"><vh>@edit 2015cadp_Group1_w15.md</vh></v>
 <v t="1.20151230215028.6"><vh>@edit 2015cadp_Group2_w11.md</vh></v>
 <v t="1.20151230215028.7"><vh>@edit 2015cadp_Group2_w15.md</vh></v>
