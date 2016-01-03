@@ -1,16 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323250 電腦輔助設計實習 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T23:20:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第十五週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-28T23:20:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323250 電腦輔助設計實習 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-03T18:30:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第十六週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2016-01-03T18:30:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2016-01-03:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;Time After Time - Cyndi Lauper &lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;audio controls pause loop&gt;
+        &lt;source src="https://copy.com/pmHNSuUAMYca0IdT"&gt;
+    &lt;/audio&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;hr&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;第10~11週&lt;/h3&gt;
+&lt;p&gt;目標:學會建立Miniconda簡易的可攜環境，以及使用批次檔安裝leo模組、Pelican及Markdown模組，班上user節點分割為個人節點&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;注意事項&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; 
+&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="err"&gt;編輯個人節點需要回復成舊版本，須確認推送的檔案是否新增到新版本，避免再次將舊版覆蓋回去&lt;/span&gt;
+&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;Miniconda安裝後也要安裝pip功能&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h3&gt;第12週&lt;/h3&gt;
+&lt;p&gt;目標:利用Creo繪製nutcracker零件及組立，並放置於小組節點內&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;小組內零件須附上載點、圖片及stl格式檔
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h3&gt;第13~14週&lt;/h3&gt;
+&lt;p&gt;目標:學會Creo繪製零件之後，使用Onshape網路版CAD繪製零件，熟悉操作介面以及等待同學跟上腳步&lt;/p&gt;
+&lt;h3&gt;第15週&lt;/h3&gt;
+&lt;p&gt;目標:Onshape由組長建立一個共通檔案，並加入組員協同繪圖，並且每個組員都要完成組立成品，機構運動範圍的運算也是一個重點，可經由Solvespace運算求得&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;Onshape可以將零件或是組合件直接轉為stl或是solidwork的格式檔案，也可以依照個人所需輸出工程圖
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第十五週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-28T23:20:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
 &lt;iframe src="40323250_cp_w15.html" width="550" height="350"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="40323250_cp_w15.html" target="_blank"&gt;投影片放大&lt;/a&gt;
 &lt;br&gt;
 &lt;hr&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;title&gt;Selena Gomez - My Dilemma&lt;/title&gt;
+&lt;title&gt;Krewella - Enjoy the Ride&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
     &lt;audio controls pause loop&gt;
-        &lt;source src="https://copy.com/l1w6g8bPP9amsegM"&gt;
+        &lt;source src="https://copy.com/XSA7DHQMDHaURg2e"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
 &lt;/html&gt;
@@ -31,11 +64,11 @@
 &lt;hr&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;title&gt;Selena Gomez - My Dilemma&lt;/title&gt;
+&lt;title&gt;Whatcha Say - Jason Derulo&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
     &lt;audio controls pause loop&gt;
-        &lt;source src="https://copy.com/l1w6g8bPP9amsegM"&gt;
+        &lt;source src="https://copy.com/KSriZr4z6RgwsSFz"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
 &lt;/html&gt;
@@ -47,11 +80,11 @@
 &lt;hr&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;title&gt;Selena Gomez - My Dilemma&lt;/title&gt;
+&lt;title&gt;Just Give Me a Reason  - Sam Tsui Kylee &amp;amp; Kurt Schneider&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
     &lt;audio controls pause loop&gt;
-        &lt;source src="https://copy.com/l1w6g8bPP9amsegM"&gt;
+        &lt;source src="https://copy.com/jkeEEijrSHs1OrZ6"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
 &lt;/html&gt;
@@ -97,11 +130,11 @@ src="https://copy.com/gncttvEdRpVyJWUT"width="300"height="300"&gt;
 &lt;hr&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;title&gt;Selena Gomez - My Dilemma&lt;/title&gt;
+&lt;title&gt;David Guetta - Play Hard ft. Ne-Yo Akon&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
     &lt;audio controls pause loop&gt;
-        &lt;source src="https://copy.com/l1w6g8bPP9amsegM"&gt;
+        &lt;source src="https://copy.com/D3xiu99RAt6wzSCd"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
 &lt;/html&gt;
@@ -117,11 +150,11 @@ src="https://copy.com/gncttvEdRpVyJWUT"width="300"height="300"&gt;
 &lt;hr&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;title&gt;Selena Gomez - My Dilemma&lt;/title&gt;
+&lt;title&gt;Drag Me Down - One Direction - Megan Nicole Sam Tsui &amp;amp; KHS Cover&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
     &lt;audio controls pause loop&gt;
-        &lt;source src="https://copy.com/l1w6g8bPP9amsegM"&gt;
+        &lt;source src="https://copy.com/GfkrYHNC24L6TBiA"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
 &lt;/html&gt;
