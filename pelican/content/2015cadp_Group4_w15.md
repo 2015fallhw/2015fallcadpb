@@ -102,7 +102,6 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏�
 <iframe src="https://player.vimeo.com/video/150522783" width="500" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150522783">bandicam 2016-01-02 20-23-37-234</a> from <a href="https://vimeo.com/user45499931">黃顏維辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br /><h2>(5)負責人:</h2><a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建中</a>
-
 <br />組合影片
 
 <br /><h2>(6)負責人:</h2><a
@@ -133,6 +132,9 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏�
 <br />
 <a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建中</a>
+<br />
+onshape零件與組立
+Onshape這個網站真的太強大了!!完全不用安裝任何軟體就可以在瀏覽器上畫圖~其組立的部分也跟creo大同小異，有了基礎在使用上也更顯的得心應手，我最喜歡的就是它還有聊天室的功能，即使畫到一辦遇到一些問題，也可以直接在網頁上發問，組員就會一起幫你解決問題。
 <br />
 <a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323225/'>40323225-姜智翔</a>

@@ -167,6 +167,10 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏�
 <a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建中</a>
 <br />
+creo零件與組立
+剛開始要適應一個新軟體真的很不容易，就光是這個組立的部分少說也組了20幾次，很多細節真的是自己摸很久才知道，像是連桿的部分有兩個孔，一個連接拉桿，一個連接滾筒，所以在兩個孔的設定上就要符合連接件的約束，例如：拉桿用pin 孔就用pin,滾筒用cylinder 孔就用cylinder。
+<br />
 <a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323225/'>40323225-姜智翔</a>
+<br />
 <br />
