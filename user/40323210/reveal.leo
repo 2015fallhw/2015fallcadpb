@@ -1613,8 +1613,10 @@ jupyter notebook
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
+
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323210  古丙駿  2015/12/06&lt;/p&gt;		
+    &lt;p&gt;40323210  古丙駿  2015/12/06&lt;/p&gt;
+    		
 &lt;/section&gt;
 	
 </t>
@@ -1753,8 +1755,10 @@ jupyter notebook
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
+
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323210  古丙駿  2015/11/07&lt;/p&gt;		
+    &lt;p&gt;40323210  古丙駿  2015/11/07&lt;/p&gt;
+    		
 &lt;/section&gt;
 	
 </t>
@@ -1879,7 +1883,6 @@ jupyter notebook
 <t tx="leo.20151229190741.15">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 
 &lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
-
 
 &lt;div class="reveal"&gt;
 @others
@@ -2019,7 +2022,6 @@ jupyter notebook
 <t tx="leo.20151229190746.15">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 
 &lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
-
 
 &lt;div class="reveal"&gt;
 @others
