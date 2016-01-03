@@ -24,6 +24,7 @@
 <v t="40323250.20151206164449.2"><vh>@button admin pelican</vh></v>
 <v t="40323250.20151206164449.4" a="E"><vh>@path pelican</vh>
 <v t="40323250.20151206164449.5"><vh>@edit publishconf.py</vh></v>
+<<<<<<< HEAD
 <v t="1.20151230215028.1" a="E"><vh>@path content</vh>
 <v t="1.20151230215028.2"><vh>@edit publishconf.py</vh></v>
 <v t="1.20151230215028.3"><vh>@edit 2015cadp_w12.md</vh></v>
@@ -46,6 +47,29 @@
 <v t="1.20151230215028.19"><vh>@edit 2015cphww7.md</vh></v>
 <v t="1.20151230215028.20"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="1.20151230215028.21"><vh>@edit 2015cadp_g1.md</vh></v>
+=======
+<v t="40323250.20151206164449.8"><vh>@edit 2015cadp_w12.md</vh></v>
+<v t="40323250.20151206164449.11"><vh>@edit 2015cadp_Group1_w11.md</vh></v>
+<v t="123.20151228225022.1"><vh>@edit 2015cadp_Group1_w15.md</vh></v>
+<v t="40323250.20151206164449.10"><vh>@edit 2015cadp_Group2_w11.md</vh></v>
+<v t="123.20151228113800.1"><vh>@edit 2015cadp_Group2_w15.md</vh></v>
+<v t="leo.20151207111626.1"><vh>@edit 2015cadp_Group3_w11.md</vh></v>
+<v t="leo.20151207102955.1"><vh>@edit 2015cadp_Group4_w11.md</vh></v>
+<v t="leo.20151228180544.1"><vh>@edit 2015cadp_Group4_w15.md</vh></v>
+<v t="49923230.20151207191509.1"><vh>@edit 2015cadp_Group5_w11.md</vh></v>
+<v t="49923230.20160101173748.1"><vh>@edit 2015cadp_Group5_w15.md</vh></v>
+<v t="123.20151220213339.1"><vh>@edit 2015cadp_Group6_w11.md</vh></v>
+<v t="123.20151220213348.1"><vh>@edit 2015cadp_Group7_w11.md</vh></v>
+<v t="leo.20151229220905.1"><vh>@edit 2015cadp_Group7_w15.md</vh></v>
+<v t="123.20151228110748.1"><vh>@edit 2015cadp_Group8_w11.md</vh></v>
+<v t="leo.20151228223152.1"><vh>@edit 2015cadp_Group8_w15.md</vh></v>
+<v t="leo.20151228101939.1"><vh>@edit 2015cadp_Group9_w11.md</vh></v>
+<v t="leo.20160103203956.1"><vh>@edit 2015cadp_Group9_w15.md</vh></v>
+<v t="40323250.20151206164449.12"><vh>@edit 2015cphww7-1.md</vh></v>
+<v t="40323250.20151206164449.13"><vh>@edit 2015cphww7.md</vh></v>
+<v t="40323250.20151206164449.14"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="40323250.20151208161815.1"><vh>@edit 2015cadp_g1.md</vh></v>
+>>>>>>> 30b2145a21802d4c387fc6d6ddc097dfa6ba7245
 </v>
 </v>
 </v>

@@ -73,12 +73,14 @@ src="https://copy.com/JG777R8KOqMhPd4E"width="300"height="300">
 <p><a href="https://vimeo.com/149606028">40323214_5</a> from <a href="https://vimeo.com/user45009540">吳信褘</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
-Part_6 : Handle
+Part_6 : Handle<a href='user/40323216/'>40323216</a>
 <br>
 <p align="left"><a href="https://copy.com/7iGTmhww6bAaIxMn">Handle.prt</a>
 <br>
 <img
 src="https://copy.com/CqI806YMEkNwAmBY"width="300"height="300">
+<br>
+<iframe src="https://player.vimeo.com/video/150588743" width="500" height="270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150588743">ice_video_20160103-222955</a> from <a href="https://vimeo.com/user45183410">呂紹新</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
 Part_7 : Hinge

@@ -35,7 +35,7 @@
 </v>
 </v>
 <v t="123.20151208171423.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="49923230.20160103141143.1" a="E"><vh>@clean 2015cadpslidesw15.html</vh>
+<v t="49923230.20160103141143.1"><vh>@clean 2015cadpslidesw15.html</vh>
 <v t="49923230.20160103141143.2"><vh>檔案說明</vh></v>
 <v t="49923230.20160103141143.3" a="E"><vh>html 標註</vh>
 <v t="49923230.20160103141143.4" a="E"><vh>body 標註</vh>
@@ -53,7 +53,7 @@
 </v>
 <v t="49923230.20160103115226.1"><vh>@clean 2015cadpslidesw14.html</vh>
 <v t="49923230.20160103115226.2"><vh>檔案說明</vh></v>
-<v t="49923230.20160103115226.3"><vh>html 標註</vh>
+<v t="49923230.20160103115226.3" a="E"><vh>html 標註</vh>
 <v t="49923230.20160103115226.4" a="E"><vh>body 標註</vh>
 <v t="49923230.20160103115226.5" a="E"><vh>div class="reveal"</vh>
 <v t="49923230.20160103115226.6" a="E"><vh>div class="slides"</vh>
@@ -88,9 +88,9 @@
 <v t="123.20151229213900.3"><vh>@clean 2015cadpslidesw1.html</vh>
 <v t="123.20151229213900.4"><vh>檔案說明</vh></v>
 <v t="123.20151229213900.5"><vh>html 標註</vh>
-<v t="123.20151229213900.6" a="E"><vh>body 標註</vh>
-<v t="123.20151229213900.7" a="E"><vh>div class="reveal"</vh>
-<v t="123.20151229213900.8" a="E"><vh>div class="slides"</vh>
+<v t="123.20151229213900.6"><vh>body 標註</vh>
+<v t="123.20151229213900.7"><vh>div class="reveal"</vh>
+<v t="123.20151229213900.8"><vh>div class="slides"</vh>
 <v t="123.20151229213900.9"><vh>有關我的作業</vh></v>
 <v t="123.20151229213900.10"><vh>作業任務一</vh></v>
 <v t="123.20151229213900.11"><vh>自我評分</vh></v>
@@ -106,10 +106,10 @@
 </v>
 <v t="123.20151229213900.17"><vh>@clean 2015cadpslidesw2.html</vh>
 <v t="123.20151229213900.18"><vh>檔案說明</vh></v>
-<v t="123.20151229213900.19" a="E"><vh>html 標註</vh>
-<v t="123.20151229213900.20" a="E"><vh>body 標註</vh>
-<v t="123.20151229213900.21" a="E"><vh>div class="reveal"</vh>
-<v t="123.20151229213900.22" a="E"><vh>div class="slides"</vh>
+<v t="123.20151229213900.19"><vh>html 標註</vh>
+<v t="123.20151229213900.20"><vh>body 標註</vh>
+<v t="123.20151229213900.21"><vh>div class="reveal"</vh>
+<v t="123.20151229213900.22"><vh>div class="slides"</vh>
 <v t="123.20151229213900.23"><vh>有關我的作業</vh></v>
 <v t="123.20151229213900.24"><vh>作業任務一</vh></v>
 <v t="123.20151229213900.25"><vh>自我評分</vh></v>
@@ -473,7 +473,7 @@ g.es("user pelican 執行完畢")</t>
 &lt;/section&gt;
 
 &lt;section&gt;
-&lt;h2&gt;What else were installed with miniconda?&lt;/h2&gt;
+&lt;h2&gt;What else were installed in miniconda?&lt;/h2&gt;
 &lt;p&gt;1. Using Conda to install pip.&lt;/p&gt;
 &lt;p&gt;2. Using pip to install pelican markdown.&lt;/p&gt;
 &lt;p&gt;3. Using conda to install pyqt4. &lt;/p&gt;
@@ -486,11 +486,11 @@ g.es("user pelican 執行完畢")</t>
 <t tx="49923230.20160101141658.11">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
 
 &lt;section&gt;
-    &lt;h4&gt;Reviews of Install Miniconda as protable tool&lt;/h4&gt;
+    &lt;h4&gt;Reviews of installing Miniconda as protable tool&lt;/h4&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
-    &lt;p&gt;Anaconda is the full package portable tools, which may take too much storage from the disk. Miniconda is for solving thiese problems. Which you just need to install the tools that you want to use.Which became even more convenient for people to make a persoanl portable tools. &lt;/p&gt;
+    &lt;p&gt;Anaconda is the full package portable tools, which may take too much storage from the disk. Miniconda is for solving these problems. Which you just need to install the tools that you want to use. This way makes more convenient for people to make a persoanl portable tools. &lt;/p&gt;
 &lt;/section&gt;
 
 &lt;/section&gt;
@@ -568,8 +568,8 @@ g.es("user pelican 執行完畢")</t>
 <t tx="49923230.20160103115226.10">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
 
 &lt;section&gt;
-    &lt;h2&gt;Videos of assemble Nutcracker by Onshape&lt;/h2&gt;
-    &lt;p&gt;Please slide down the page verticaly to watch the videos&lt;/p&gt;
+    &lt;h2&gt;Videos of using Onshape&lt;/h2&gt;
+    &lt;p&gt;Please slide down the page verticaly to watch the video.&lt;/p&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
@@ -578,13 +578,13 @@ g.es("user pelican 執行完畢")</t>
 &lt;/section&gt;
 
 &lt;section&gt;
-&lt;h2&gt;Steps of assemble the Nutcracker&lt;/h2&gt;
-&lt;p&gt;1. Inter the component "base" and fix it in the working page.&lt;/p&gt;
+&lt;h2&gt;Steps of assembly&lt;/h2&gt;
+&lt;p&gt;1. Insert the component "base" and fix it in the working page.&lt;/p&gt;
 &lt;p&gt;2. Insert "adjuster base, hinge and cylinder".&lt;/p&gt;
-&lt;p&gt;3. Using cylindrical mate to mate the hole on each component.  &lt;/p&gt;
-&lt;p&gt;4. Using planar mate to mate the combined face on each compnent.&lt;/p&gt;
+&lt;p&gt;3. Using "cylindrical mate" to mate the hole on each component.  &lt;/p&gt;
+&lt;p&gt;4. Using "planar mate" to mate the combined face on each component.&lt;/p&gt;
 &lt;p&gt;5. Insert "adjuster and piston."  &lt;/p&gt;
-&lt;p&gt;6. Using slider mate to mate "adjuster and piston."&lt;/p&gt;
+&lt;p&gt;6. Using "slider mate" to mate "adjuster and piston".&lt;/p&gt;
 &lt;p&gt;7. Insert "connection and handle" and assemble them. &lt;/p&gt;
 &lt;p&gt;8. Give the limitation on "adjuster and piston" sliding part. &lt;/p&gt;
 &lt;/section&gt;
@@ -598,7 +598,7 @@ g.es("user pelican 執行完畢")</t>
 &lt;/section&gt;
 
 &lt;section&gt;
-    &lt;p&gt;Onshape is a fantastic browser app for CAD 3D design. People and collaborate with teammate  on the smae working page. And the interface is really simple to operate, just like solidworks. I think it's going to be very populer because of its convinience. People don't need to bring their heavy laptop anymore. Becauese it supports the pad and smartphone, which makes people and work or show the design wherever they want. &lt;/p&gt;
+    &lt;p&gt;Onshape is a fantastic browser app for CAD 3D design. People can collaborate with team on the smae working page. If there is something goes wrong, the histroy function might be helpful for designer. And the interface is really simple to use, just like solidworks. I think it's going to be very populer because of its convenience and collaboration function. Especially people don't need to bring their heavy laptop anymore. Becauese it supports tablets and smartphones, which makes people and work or show the design wherever they want.&lt;/p&gt;
 &lt;/section&gt;
 
 &lt;/section&gt;
@@ -676,11 +676,11 @@ g.es("user pelican 執行完畢")</t>
 <t tx="49923230.20160103141143.11">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
 
 &lt;section&gt;
-    &lt;h4&gt;Reviews of whole semester&lt;/h4&gt;
+    &lt;h4&gt;Semester reviews&lt;/h4&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
-    &lt;p&gt;It's really cool that professor taught us not only about CAD, but also a lot of value system and growing trend of technology of the world. I didn't anything about github before, cuz I didn't have that much interested in programming. But I realize that it's also a trend in the world. It's almost becoming a basic knowledge for every single person. It's a awsome couse I can ever have. And also professor always mention about how important of having good english skill. So that's why I tried to do most of the assignment in english instead of chinese. In the future, we will face all the competitor from all over the world. And english will be the basic skill for us. &lt;/p&gt;
+    &lt;p&gt;It's really cool that professor taught us not only CAD, but also a lot of value system and growing trend of technology of the world. I didn't know anything about github before, cuz I didn't have that much interested in programming. But I realize that it's also a trend in the world. It's almost becoming a basic knowledge for every single person. It's a awsome couse I can ever have. And also professor always mention about how important of english skill. So that's why I tried to do most of the assignments in english instead of chinese. In the future, we will face all the competitor from all over the world. And english will be the basic skill for us to compete with them. &lt;/p&gt;
 &lt;/section&gt;
 
 &lt;/section&gt;
@@ -730,7 +730,7 @@ g.es("user pelican 執行完畢")</t>
 &lt;/div&gt;
 </t>
 <t tx="49923230.20160103141143.7">&lt;section&gt;
-    &lt;h1&gt;Reviews of whole semester&lt;/h1&gt;
+    &lt;h1&gt;Semester Reviews&lt;/h1&gt;
     &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
     &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
     &lt;p class ="fragment"&gt;Date: 2016/01/02&lt;/p&gt;	

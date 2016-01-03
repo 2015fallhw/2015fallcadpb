@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 49923230 電腦輔助設計實習 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-27T20:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第10週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;Below is slides of Installing Miniconda and Fix&lt;/p&gt;
-&lt;p&gt;Using iframe insert slides:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 49923230 電腦輔助設計實習 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-27T20:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第10週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;Slides of Installing Miniconda and Fix&lt;/p&gt;
+&lt;p&gt;Using iframe to insert slides:&lt;/p&gt;
 &lt;iframe src="2015cadpslidesw10.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="2015cadpslidesw10.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
@@ -18,14 +18,12 @@
 &lt;/html&gt;
 &lt;hr&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;What's the contents of the sides?&lt;/h1&gt;
-&lt;p&gt;The 2nd uploading homework slides included a few items bellow.&lt;/p&gt;
-&lt;p&gt;These items are:&lt;/p&gt;
+&lt;h1&gt;What's the contents in the sides?&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Videos of &lt;strong&gt;Install Miniconda&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Reviews of &lt;strong&gt;Install Miniconda&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;The reviews of installing miniconda and other portable tools.&lt;/h2&gt;
+&lt;h2&gt;Reviews of installing miniconda and other portable tools.&lt;/h2&gt;
 &lt;p&gt;Anaconda is the full package portable tools, which may take too much storage from the disk. Miniconda is for solving thiese problems. Which you just need to install the tools that you want to use.Which became even more convenient for people to make a persoanl portable tools.&lt;/p&gt;
 &lt;h2&gt;Videos of installing miniconda&lt;/h2&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147218972" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147218972"&gt;install miniconda&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -44,7 +42,7 @@
 &lt;/html&gt;
 &lt;hr&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;Below is the pics of drawing Cylinder and Handle by Creo&lt;/h1&gt;
+&lt;h1&gt;Drawing Cylinder and Handle by Creo&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt;
 &lt;br&gt;
 (1)Nutcracker - Cylindr 
@@ -71,9 +69,9 @@ src="https://copy.com/6svYtsWJip8AA9G6"width="300"height="300"&gt;
 &lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/49923230/componentstl/handle.stl"width="300"height="300"&gt;&lt;/script&gt;
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;The reviews of collaborate with teammate by using github.&lt;/h2&gt;
-&lt;p&gt;Actually, I think it's very convinient that github is very helpful for saving all the history. But since Onshape has been on the market. There is the other way can collaborate with teammate. But still, github is not specific for CAD design. It's for programming designer who can writing the program in Collaboration. So I think github is still unreplable.  &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第14週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w14.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w14.html</id><summary type="html">&lt;p&gt;Below is slides of drawing Nutcracker by Onshape&lt;/p&gt;
-&lt;p&gt;Using iframe insert slides:&lt;/p&gt;
+&lt;h2&gt;Reviews of using Creo and Github with team&lt;/h2&gt;
+&lt;p&gt;Actually, I think it's very convinient that github can help us to save all the history which have pushed up to the github page. But since Onshape has been on the market recently. There is the other way can collaborate with the team. But still, github is not only for CAD design. It's for programming designer who can writing the program by collaboration. So I think github is still irreplaceable.  &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第14週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w14.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w14.html</id><summary type="html">&lt;p&gt;Drawing Nutcracker by Onshape&lt;/p&gt;
+&lt;p&gt;Using iframe to insert slides:&lt;/p&gt;
 &lt;iframe src="2015cadpslidesw14.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="2015cadpslidesw14.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
@@ -91,34 +89,38 @@ src="https://copy.com/6svYtsWJip8AA9G6"width="300"height="300"&gt;
 &lt;/html&gt;
 &lt;hr&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;What's the contents of the sides?&lt;/h1&gt;
+&lt;h1&gt;What's the contents in the sides?&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Videos of &lt;strong&gt;Assemble Nutcracker&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Reviews of &lt;strong&gt;Using Onshape and collaborate with teammate&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Reviews of &lt;strong&gt;Onshape and Collaboration&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;The reviews of using Onshape and collaborate with teammate&lt;/h2&gt;
-&lt;p&gt;Onshape is a fantastic browser app for CAD 3D design. People and collaborate with teammate  on the smae working page. And the interface is really simple to operate, just like solidworks. I think it's going to be very populer because of its convinience. People don't need to bring their heavy laptop anymore. Becauese it supports the pad and smartphone, which makes people and work or show the design wherever they want.&lt;/p&gt;
-&lt;h2&gt;Videos of assemble Nutcracker&lt;/h2&gt;
+&lt;h2&gt;Reviews of using Onshape and collaboration&lt;/h2&gt;
+&lt;p&gt;Onshape is a fantastic browser app for CAD 3D design. People can collaborate with team on the smae working page. If there is something goes wrong, the histroy function might be helpful for designer. And the interface is really simple to use, just like solidworks. I think it's going to be very populer because of its convenience and collaboration function. Especially people don't need to bring their heavy laptop anymore. Becauese it supports tablets and smartphones, which makes people and work or show the design wherever they want.&lt;/p&gt;
+&lt;h2&gt;Videos of assembly&lt;/h2&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/150560454" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150560454"&gt;Nutcracker assembly&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h2&gt;Pics of assemble Nutcracker&lt;/h2&gt;
+&lt;h2&gt;Pics of Nutcracker&lt;/h2&gt;
 &lt;p&gt;&lt;br&gt;
-assemble
+Nutcracker
 &lt;br&gt;
 &lt;img src="https://copy.com/6qoNYlfm4d0tf6wg"width="450"height="450"&gt;
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;
-open
+Open - maximum space between piston and adjuster
 &lt;br&gt;
 &lt;img src="https://copy.com/xVDzMtPP87Y8q90W"width="450"height="450"&gt;
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;
-close
+Close - minimum space between piston and adjuster
 &lt;br&gt;
 &lt;img src="https://copy.com/ZZG9YGZJnwdCpA7O"width="450"height="450"&gt;
 &lt;br&gt;
-&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第15週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;Using iframe insert slides:&lt;/p&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/49923230/componentstl/nutcracker.stl"width="300"height="300"&gt;&lt;/script&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第15週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;Using iframe to insert slides:&lt;/p&gt;
 &lt;iframe src="2015cadpslidesw15.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="2015cadpslidesw15.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
@@ -136,8 +138,8 @@ close
 &lt;/html&gt;
 &lt;hr&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;The reviews of whole semester&lt;/h2&gt;
-&lt;p&gt;It's really cool that professor taught us not only about CAD, but also a lot of value system and growing trend of technology of the world. I didn't anything about github before, cuz I didn't have that much interested in programming. But I realize that it's also a trend in the world. It's almost becoming a basic knowledge for every single person. It's a awsome couse I can ever have. And also professor always mention about how important of having good english skill. So that's why I tried to do most of the assignment in english instead of chinese. In the future, we will face all the competitor from all over the world. And english will be the basic skill for us. &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第一次上傳</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;Bellow is the 1st uploading slide&lt;/p&gt;
+&lt;h2&gt;Semester reviews&lt;/h2&gt;
+&lt;p&gt;It's really cool that professor taught us not only CAD, but also a lot of value system and growing trend of technology of the world. I didn't know anything about github before, cuz I didn't have that much interested in programming. But I realize that it's also a trend in the world. It's almost becoming a basic knowledge for every single person. It's a awsome couse I can ever have. And also professor always mention about how important of english skill. So that's why I tried to do most of the assignments in english instead of chinese. In the future, we will face all the competitor from all over the world. And english will be the basic skill for us to compete with them. &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第一次上傳</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;Bellow is the 1st uploading slide&lt;/p&gt;
 &lt;p&gt;Using iframe to insert slides:&lt;/p&gt;
 &lt;iframe src="2015cadpslidesw1.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
