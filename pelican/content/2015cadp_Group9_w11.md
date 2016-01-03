@@ -16,6 +16,10 @@ Summary: 第九組第十一週工作報告<br />Nutcracker 機構
 <br>
 <img src="https://copy.com/F6q46W0GhtERM72z" width="500" ></img>
 <br>
+<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>組合影片_by_40323213</b></span>
+<br>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/Bxp62cYuq1o" frameborder="0" allowfullscreen></iframe>
+<br>
 <span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>HANDLE_by_40323213</b></span>
 <br>
 <img src="https://copy.com/NkKObX3viI0I0Aq8" width="500" ></img>
@@ -31,4 +35,10 @@ Summary: 第九組第十一週工作報告<br />Nutcracker 機構
 <script src="https://embed.github.com/view/3d/nashnash/group9/master/connection.stl"></script>
 <br>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/_rRavIViRbw" frameborder="0" allowfullscreen></iframe>
+<br>
+<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>ADJUSTER_BASE_by_40323213</b></span>
+<br>
+<img src="https://copy.com/6xINj7IgxCmKCYCa" width="500" ></img>
+<br>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/gh1Zo7cxttM" frameborder="0" allowfullscreen></iframe>
 <br>
