@@ -58,8 +58,10 @@
 &lt;p&gt;&lt;a href="simplest12.html" target="_blank"&gt;投影片連結&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/leo-editor/leo-editor"&gt;Leo-editor GitHub&lt;/a&gt; 連結
 可以在其中找到最新版本的LEO&lt;/p&gt;
-&lt;p&gt;fix操作影片
-&lt;iframe src="https://copy.com/Fc9TmweiFlt2feoX" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第十一週作業</title><link href="http://coursemdetw.github.io/reveal/40323251_cp_w11.html" rel="alternate"></link><updated>2015-11-23T10:03:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-11-23:reveal/40323251_cp_w11.html</id><summary type="html">&lt;p&gt;以下為作業內容&lt;/p&gt;
+&lt;p&gt;fix操作影片&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/148025820" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第十一週作業</title><link href="http://coursemdetw.github.io/reveal/40323251_cp_w11.html" rel="alternate"></link><updated>2015-11-23T10:03:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-11-23:reveal/40323251_cp_w11.html</id><summary type="html">&lt;p&gt;以下為作業內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
