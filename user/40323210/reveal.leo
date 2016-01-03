@@ -235,22 +235,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229190725.1"><vh>@clean simplest10.html</vh>
-<v t="leo.20151229190725.2"><vh>@clean simplest10.html</vh>
-<v t="leo.20151229190725.3"><vh>檔案說明</vh></v>
-<v t="leo.20151229190725.4" a="E"><vh>html 標註</vh>
-<v t="leo.20151229190725.5" a="E"><vh>body 標註</vh>
-<v t="leo.20151229190725.6" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151229190725.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151229190725.8"><vh>有關我的作業</vh></v>
-<v t="leo.20151229190725.9"><vh>作業任務一</vh></v>
-<v t="leo.20151229190725.10"><vh>第3張投影片</vh></v>
-</v>
-</v>
-<v t="leo.20151229190725.11"><vh>script</vh></v>
-</v>
-</v>
-</v>
+<v t="leo.20151229190725.1" a="E"><vh>@clean simplest10.html</vh>
 <v t="leo.20151229190725.12"><vh>檔案說明</vh></v>
 <v t="leo.20151229190725.13" a="E"><vh>html 標註</vh>
 <v t="leo.20151229190725.14" a="E"><vh>body 標註</vh>
@@ -265,22 +250,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229190729.1"><vh>@clean simplest11.html</vh>
-<v t="leo.20151229190729.2"><vh>@clean simplest11.html</vh>
-<v t="leo.20151229190729.3"><vh>檔案說明</vh></v>
-<v t="leo.20151229190729.4" a="E"><vh>html 標註</vh>
-<v t="leo.20151229190729.5" a="E"><vh>body 標註</vh>
-<v t="leo.20151229190729.6" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151229190729.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151229190729.8"><vh>有關我的作業</vh></v>
-<v t="leo.20151229190729.9"><vh>作業任務一</vh></v>
-<v t="leo.20151229190729.10"><vh>第3張投影片</vh></v>
-</v>
-</v>
-<v t="leo.20151229190729.11"><vh>script</vh></v>
-</v>
-</v>
-</v>
+<v t="leo.20151229190729.1" a="E"><vh>@clean simplest11.html</vh>
 <v t="leo.20151229190729.12"><vh>檔案說明</vh></v>
 <v t="leo.20151229190729.13" a="E"><vh>html 標註</vh>
 <v t="leo.20151229190729.14" a="E"><vh>body 標註</vh>
@@ -298,22 +268,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229190734.1"><vh>@clean simplest12.html</vh>
-<v t="leo.20151229190734.2"><vh>@clean simplest12.html</vh>
-<v t="leo.20151229190734.3"><vh>檔案說明</vh></v>
-<v t="leo.20151229190734.4" a="E"><vh>html 標註</vh>
-<v t="leo.20151229190734.5" a="E"><vh>body 標註</vh>
-<v t="leo.20151229190734.6" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151229190734.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151229190734.8"><vh>有關我的作業</vh></v>
-<v t="leo.20151229190734.9"><vh>作業任務一</vh></v>
-<v t="leo.20151229190734.10"><vh>第3張投影片</vh></v>
-</v>
-</v>
-<v t="leo.20151229190734.11"><vh>script</vh></v>
-</v>
-</v>
-</v>
+<v t="leo.20151229190734.1" a="E"><vh>@clean simplest12.html</vh>
 <v t="leo.20151229190734.12"><vh>檔案說明</vh></v>
 <v t="leo.20151229190734.13" a="E"><vh>html 標註</vh>
 <v t="leo.20151229190734.14" a="E"><vh>body 標註</vh>
@@ -331,22 +286,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229190741.1"><vh>@clean simplest13.html</vh>
-<v t="leo.20151229190741.2"><vh>@clean simplest13.html</vh>
-<v t="leo.20151229190741.3"><vh>檔案說明</vh></v>
-<v t="leo.20151229190741.4" a="E"><vh>html 標註</vh>
-<v t="leo.20151229190741.5" a="E"><vh>body 標註</vh>
-<v t="leo.20151229190741.6" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151229190741.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151229190741.8"><vh>有關我的作業</vh></v>
-<v t="leo.20151229190741.9"><vh>作業任務一</vh></v>
-<v t="leo.20151229190741.10"><vh>第3張投影片</vh></v>
-</v>
-</v>
-<v t="leo.20151229190741.11"><vh>script</vh></v>
-</v>
-</v>
-</v>
+<v t="leo.20151229190741.1" a="E"><vh>@clean simplest13.html</vh>
 <v t="leo.20151229190741.12"><vh>檔案說明</vh></v>
 <v t="leo.20151229190741.13" a="E"><vh>html 標註</vh>
 <v t="leo.20151229190741.14" a="E"><vh>body 標註</vh>
@@ -364,22 +304,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229190746.1"><vh>@clean simplest14.html</vh>
-<v t="leo.20151229190746.2"><vh>@clean simplest14.html</vh>
-<v t="leo.20151229190746.3"><vh>檔案說明</vh></v>
-<v t="leo.20151229190746.4" a="E"><vh>html 標註</vh>
-<v t="leo.20151229190746.5" a="E"><vh>body 標註</vh>
-<v t="leo.20151229190746.6" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151229190746.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151229190746.8"><vh>有關我的作業</vh></v>
-<v t="leo.20151229190746.9"><vh>作業任務一</vh></v>
-<v t="leo.20151229190746.10"><vh>第3張投影片</vh></v>
-</v>
-</v>
-<v t="leo.20151229190746.11"><vh>script</vh></v>
-</v>
-</v>
-</v>
+<v t="leo.20151229190746.1" a="E"><vh>@clean simplest14.html</vh>
 <v t="leo.20151229190746.12"><vh>檔案說明</vh></v>
 <v t="leo.20151229190746.13" a="E"><vh>html 標註</vh>
 <v t="leo.20151229190746.14" a="E"><vh>body 標註</vh>
@@ -1411,22 +1336,6 @@ jupyter notebook
 @others
 
 </t>
-<t tx="leo.20151229190725.10">&lt;section&gt;
-    &lt;h1&gt;70&lt;/h1&gt;
-    &lt;p&gt;這一次的功課多虧有同學的幫忙我才順利的完成，希望下一次我可以靠著自己的力量完成作業&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務四&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151229190725.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
 <t tx="leo.20151229190725.12">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
@@ -1485,11 +1394,6 @@ jupyter notebook
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151229190725.2">@language xml
-@tabwidth -4
-@others
-
-</t>
 <t tx="leo.20151229190725.20">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -1499,76 +1403,9 @@ jupyter notebook
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151229190725.3">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="leo.20151229190725.4">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="leo.20151229190725.5">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="leo.20151229190725.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151229190725.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151229190725.8">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;四設計二乙&lt;/h1&gt;
-    &lt;p&gt;40323210  古丙駿  2015/10/12&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151229190725.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務四&lt;/h1&gt;
-    &lt;p&gt;前面的步驟和上一次功課所做的東西類似，多了一個繪圖的功課，讓我又多學習了一種繪圖工具。&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151229190729.1">@language xml
 @tabwidth -4
 @others
-</t>
-<t tx="leo.20151229190729.10">&lt;section&gt;
-    &lt;h1&gt;70&lt;/h1&gt;
-    &lt;p&gt;這一次的功課多虧有同學的幫忙我才順利的完成，希望下一次我可以靠著自己的力量完成作業&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務四&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151229190729.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
 </t>
 <t tx="leo.20151229190729.12">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
@@ -1626,11 +1463,6 @@ jupyter notebook
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151229190729.2">@language xml
-@tabwidth -4
-@others
-
-</t>
 <t tx="leo.20151229190729.20">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -1640,76 +1472,9 @@ jupyter notebook
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151229190729.3">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="leo.20151229190729.4">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="leo.20151229190729.5">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="leo.20151229190729.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151229190729.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151229190729.8">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;四設計二乙&lt;/h1&gt;
-    &lt;p&gt;40323210  古丙駿  2015/10/12&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151229190729.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務四&lt;/h1&gt;
-    &lt;p&gt;前面的步驟和上一次功課所做的東西類似，多了一個繪圖的功課，讓我又多學習了一種繪圖工具。&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151229190734.1">@language xml
 @tabwidth -4
 @others
-</t>
-<t tx="leo.20151229190734.10">&lt;section&gt;
-    &lt;h1&gt;70&lt;/h1&gt;
-    &lt;p&gt;這一次的功課多虧有同學的幫忙我才順利的完成，希望下一次我可以靠著自己的力量完成作業&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務四&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151229190734.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
 </t>
 <t tx="leo.20151229190734.12">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
@@ -1767,11 +1532,6 @@ jupyter notebook
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151229190734.2">@language xml
-@tabwidth -4
-@others
-
-</t>
 <t tx="leo.20151229190734.20">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -1781,76 +1541,9 @@ jupyter notebook
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151229190734.3">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="leo.20151229190734.4">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="leo.20151229190734.5">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="leo.20151229190734.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151229190734.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151229190734.8">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;四設計二乙&lt;/h1&gt;
-    &lt;p&gt;40323210  古丙駿  2015/10/12&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151229190734.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務四&lt;/h1&gt;
-    &lt;p&gt;前面的步驟和上一次功課所做的東西類似，多了一個繪圖的功課，讓我又多學習了一種繪圖工具。&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151229190741.1">@language xml
 @tabwidth -4
 @others
-</t>
-<t tx="leo.20151229190741.10">&lt;section&gt;
-    &lt;h1&gt;70&lt;/h1&gt;
-    &lt;p&gt;這一次的功課多虧有同學的幫忙我才順利的完成，希望下一次我可以靠著自己的力量完成作業&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務四&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151229190741.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
 </t>
 <t tx="leo.20151229190741.12">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
@@ -1905,11 +1598,6 @@ jupyter notebook
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151229190741.2">@language xml
-@tabwidth -4
-@others
-
-</t>
 <t tx="leo.20151229190741.20">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -1919,77 +1607,10 @@ jupyter notebook
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151229190741.3">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="leo.20151229190741.4">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="leo.20151229190741.5">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="leo.20151229190741.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151229190741.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151229190741.8">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;四設計二乙&lt;/h1&gt;
-    &lt;p&gt;40323210  古丙駿  2015/10/12&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151229190741.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務四&lt;/h1&gt;
-    &lt;p&gt;前面的步驟和上一次功課所做的東西類似，多了一個繪圖的功課，讓我又多學習了一種繪圖工具。&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151229190746.1">@language xml
 @tabwidth -4
 @others
 
-</t>
-<t tx="leo.20151229190746.10">&lt;section&gt;
-    &lt;h1&gt;70&lt;/h1&gt;
-    &lt;p&gt;這一次的功課多虧有同學的幫忙我才順利的完成，希望下一次我可以靠著自己的力量完成作業&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務四&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151229190746.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
 </t>
 <t tx="leo.20151229190746.12">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
@@ -2045,11 +1666,6 @@ jupyter notebook
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151229190746.2">@language xml
-@tabwidth -4
-@others
-
-</t>
 <t tx="leo.20151229190746.20">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -2058,57 +1674,6 @@ jupyter notebook
     });
 &lt;/script&gt;
 	
-</t>
-<t tx="leo.20151229190746.3">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="leo.20151229190746.4">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="leo.20151229190746.5">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="leo.20151229190746.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151229190746.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151229190746.8">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;四設計二乙&lt;/h1&gt;
-    &lt;p&gt;40323210  古丙駿  2015/10/12&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151229190746.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務四&lt;/h1&gt;
-    &lt;p&gt;前面的步驟和上一次功課所做的東西類似，多了一個繪圖的功課，讓我又多學習了一種繪圖工具。&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
 </t>
 <t tx="leo.20151229190804.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
