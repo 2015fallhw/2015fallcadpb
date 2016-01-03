@@ -448,17 +448,17 @@ g.es("user pelican 執行完畢")</t>
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B \A 學號: 40323211"; }&lt;/style&gt;</t>
 <t tx="4123.20160104071552.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B \A 學號: 40323211"; }&lt;/style&gt;</t>
 <t tx="4123.20160104071606.1">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B \A 學號: 40323211"; }&lt;/style&gt;</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
