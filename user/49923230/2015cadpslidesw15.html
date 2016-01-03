@@ -1,0 +1,65 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>15th weeks uploding</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<section>
+    <h1>Reviews of whole semester</h1>
+    <p class ="fragment">Student ID: 49923230</p>
+    <p class ="fragment">Name: 陳柏村</p>
+    <p class ="fragment">Date: 2016/01/02</p>	
+</section>
+	
+<section id="hw-task-one">
+    <h1>Homework reference</h1>
+    <p>Homework details</p>
+    <p>Please refer to the following web<a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631">Koml course blog</a>
+    <p>For watching the course videos<a href="https://vimeo.com/user24079973/videos">Vimeo professor's record</a>
+</section>
+				
+<section data-transition="slide" data-background="#b5533c" data-background-transition="zoom">
+    <h1>自我評分</h1>
+    <p>自我評分成績:80</p>
+    <p>Connecting to my recording videos<a href="https://vimeo.com/user44760923/albums">My vimeo homework list</a>
+</section>
+<section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom">
+
+<section>
+    <h4>Reviews of whole semester</h4>
+</section>
+
+<section>
+    <p>It's really cool that professor taught us not only about CAD, but also a lot of value system and growing trend of technology of the world. I didn't anything about github before, cuz I didn't have that much interested in programming. But I realize that it's also a trend in the world. It's almost becoming a basic knowledge for every single person. It's a awsome couse I can ever have. And also professor always mention about how important of having good english skill. So that's why I tried to do most of the assignment in english instead of chinese. In the future, we will face all the competitor from all over the world. And english will be the basic skill for us. </p>
+</section>
+
+</section>
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
