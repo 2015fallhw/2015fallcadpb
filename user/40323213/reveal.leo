@@ -129,7 +129,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151230172710.1"><vh>@button open html</vh>
+<v t="leo.20151230172710.1" a="E"><vh>@button open html</vh>
 <v t="leo.20151230172710.2" a="E"><vh>@clean cadp_w11_lecture.html</vh>
 <v t="leo.20151230172710.3"><vh>檔案說明</vh></v>
 <v t="leo.20151230172710.4" a="E"><vh>html 標註</vh>
