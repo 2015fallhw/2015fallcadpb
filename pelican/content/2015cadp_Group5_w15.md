@@ -73,6 +73,8 @@ Video
 <br>
 <iframe src="https://player.vimeo.com/video/150560454" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150560454">Nutcracker assembly</a> from <a href="https://vimeo.com/user44760923">Felix</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
+<script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/49923230/componentstl/nutcracker.stl"width="300"height="300"></script>
+<br>
 <br>
 <hr>
 <br>
