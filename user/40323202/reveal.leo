@@ -36,7 +36,7 @@
 </v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="leo.20160103212658.1"><vh>@button open html</vh>
+<v t="leo.20160103212658.1" a="E"><vh>@button open html</vh>
 <v t="leo.20160103212658.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
 <v t="leo.20160103212658.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103212658.4" a="E"><vh>html 標註</vh>
@@ -59,7 +59,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103211250.1"><vh>@button open html</vh>
+<v t="leo.20160103211250.1" a="E"><vh>@button open html</vh>
 <v t="leo.20160103211250.2" a="E"><vh>@clean cadp_w13_lecture.html</vh>
 <v t="leo.20160103211250.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103211250.4" a="E"><vh>html 標註</vh>
@@ -82,7 +82,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103203745.1"><vh>@button open html</vh>
+<v t="leo.20160103203745.1" a="E"><vh>@button open html</vh>
 <v t="leo.20160103203745.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20160103203745.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103203745.4" a="E"><vh>html 標註</vh>
