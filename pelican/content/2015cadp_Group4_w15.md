@@ -20,7 +20,9 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323253/'>40323253-劉瑜�
 <br />
 零件1
 <br />
-
+<img
+src="https://copy.com/Cx1Y6XFF0ZcsAcBT"width="500"height="500">
+<br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/1.stl"></script>
 
 <br />零件1影片
@@ -29,7 +31,9 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323253/'>40323253-劉瑜�
 <br />
 零件2
 <br />
-
+<img
+src="https://copy.com/ey9snzTFthvliODt"width="500"height="500">
+<br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/2.stl"></script>
 
 <br />零件2影片
@@ -43,7 +47,9 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323252/'>40323252-廖麒�
 <br />
 零件3
 <br />
-
+<img
+src="https://copy.com/ZXWFPHeta4BeNbqI"width="500"height="500">
+<br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/3.stl"></script>
 
 <br />零件3影片
@@ -51,7 +57,9 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323252/'>40323252-廖麒�
 <br />
 零件4
 <br />
-
+<img
+src="https://copy.com/BKrlatLIE8Uqtr4O"width="500"height="500">
+<br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/4.stl"></script>
 
 <br />零件4影片
@@ -64,7 +72,9 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323245/'>40323245-程偉�
 <br />
 零件5
 <br />
-
+<img
+src="https://copy.com/mdbTLX2WM1EAzEm2"width="500"height="500">
+<br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/5.stl"></script>
 
 <br />零件5影片
@@ -72,7 +82,9 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323245/'>40323245-程偉�
 <br />
 零件6
 <br />
-
+<img
+src="https://copy.com/1xXcdS2hMuc9NJnz"width="500"height="500">
+<br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/6.stl"></script>
 
 <br />零件6影片
@@ -84,7 +96,9 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏�
 <br />
 零件7
 <br />
-
+<img
+src="https://copy.com/6RaKvEjhkhQkpJlC"width="500"height="500">
+<br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/7.stl"></script>
 
 <br />零件7影片
@@ -93,7 +107,9 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏�
 <br>
 零件8
 <br />
-
+<img
+src="https://copy.com/uYG9NIrDC106xrU7"width="500"height="500">
+<br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/8.stl"></script>
 
 <br />零件8影片
@@ -102,7 +118,6 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏�
 <iframe src="https://player.vimeo.com/video/150522783" width="500" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150522783">bandicam 2016-01-02 20-23-37-234</a> from <a href="https://vimeo.com/user45499931">黃顏維辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br /><h2>(5)負責人:</h2><a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建中</a>
-
 <br />組合影片
 
 <br /><h2>(6)負責人:</h2><a
@@ -134,6 +149,11 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏�
 <a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建中</a>
 <br />
+onshape零件與組立
+Onshape這個網站真的太強大了!!完全不用安裝任何軟體就可以在瀏覽器上畫圖~其組立的部分也跟creo大同小異，有了基礎在使用上也更顯的得心應手，我最喜歡的就是它還有聊天室的功能，即使畫到一辦遇到一些問題，也可以直接在網頁上發問，組員就會一起幫你解決問題。
+<br />
 <a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323225/'>40323225-姜智翔</a>
+<br />
+Onshape這個網站是我看過以來唯一可以不用安裝任何軟體就可以直接在瀏覽器上畫圖，而且他還可以直接用聊天室討論，很方便~再來就是它的軟體與creo很相似，使用上也比較快適應~
 <br />

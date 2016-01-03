@@ -33,8 +33,9 @@
 <v t="123.20151214113832.1"><vh>@edit 2015cphww11.md</vh></v>
 <v t="123.20151228144337.1"><vh>@edit 2015cphww15.md</vh></v>
 <v t="123.20151230205816.1"><vh>@edit 2015cphww12.md</vh></v>
-<v t="123.20151230204145.1"><vh>@edit 2015cphww10.md</vh></v>
 <v t="123.20151230210015.1"><vh>@edit 2015cphww14.md</vh></v>
+<v t="123.20160103201632.1"><vh>@edit 2015cphww10~15.md</vh></v>
+<v t="123.20151230204145.1"><vh>@edit 2015cphww10.md</vh></v>
 <v t="123.20151209140048.8"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -119,7 +120,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151209140017.35"><vh>@clean simplest6.html</vh>
+<v t="123.20151209140017.35" a="E"><vh>@clean simplest6.html</vh>
 <v t="123.20151209140017.36"><vh>檔案說明</vh></v>
 <v t="123.20151209140017.37" a="E"><vh>html 標註</vh>
 <v t="123.20151209140017.38" a="E"><vh>body 標註</vh>
@@ -162,7 +163,7 @@
 </v>
 <v t="123.20151230204240.1"><vh>@clean simplest9.html</vh>
 <v t="123.20151230204240.2"><vh>檔案說明</vh></v>
-<v t="123.20151230204240.3" a="E"><vh>html 標註</vh>
+<v t="123.20151230204240.3"><vh>html 標註</vh>
 <v t="123.20151230204240.4" a="E"><vh>body 標註</vh>
 <v t="123.20151230204240.5" a="E"><vh>div class="reveal"</vh>
 <v t="123.20151230204240.6" a="E"><vh>div class="slides"</vh>
@@ -224,7 +225,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151214114203.1" a="E"><vh>@clean simplest7.html</vh>
+<v t="123.20151214114203.1"><vh>@clean simplest7.html</vh>
 <v t="123.20151214114203.2"><vh>檔案說明</vh></v>
 <v t="123.20151214114203.3" a="E"><vh>html 標註</vh>
 <v t="123.20151214114203.4" a="E"><vh>body 標註</vh>
@@ -253,6 +254,12 @@
 <v t="leo40323206.20151231134635.2"><vh>Recovered node "第二頁" from @clean simplest9.html</vh>
 <v t="leo40323206.20151231134635.3"><vh>old:第二頁</vh></v>
 <v t="leo40323206.20151231134635.4"><vh>new:第二頁</vh></v>
+</v>
+</v>
+<v t="123.20160103201216.1" a="E"><vh>Recovered Nodes</vh>
+<v t="123.20160103201216.2"><vh>Recovered node "第二頁" from @clean simplest9.html</vh>
+<v t="123.20160103201216.3"><vh>old:第二頁</vh></v>
+<v t="123.20160103201216.4"><vh>new:第二頁</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1323,6 +1330,54 @@ copy leo-editor-broke-abbrev.zip E:\Ana3_2015\data\
 &lt;/section&gt;
 				
 </t>
+<t tx="123.20160103201216.1"></t>
+<t tx="123.20160103201216.2">(uncached) 123.20151230204240.9
+Diff...
+  &lt;section id="hw-task-one"&gt;
+        &lt;h3&gt;筆記&lt;/h3&gt;
+  &lt;p&gt;1.至&lt;a href="http://conda.pydata.org/miniconda.html"&gt;&lt;/a&gt;安裝python3.5&lt;br&gt;
+  2.到cmd輸入指令&lt;br&gt;
+  →conda install pip&lt;br&gt;
+- →pip install pelican Markdown&lt;br&gt;
+? ^
++  →pip install pelican Markdown&lt;br&gt;
+? ^
+  →conda install pyqt&lt;br&gt;
+  →pip uninstall leo (解除原本的leo 5.0)&lt;br&gt;
+  →pip install ( github的leo檔網址 )&lt;br&gt;
+  →conda install anaconda-client&lt;br&gt;
+  →conda install jupyter&lt;br&gt;
+  &lt;/section&gt;
+  				
+</t>
+<t tx="123.20160103201216.3">&lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;筆記&lt;/h3&gt;
+&lt;p&gt;1.至&lt;a href="http://conda.pydata.org/miniconda.html"&gt;&lt;/a&gt;安裝python3.5&lt;br&gt;
+2.到cmd輸入指令&lt;br&gt;
+→conda install pip&lt;br&gt;
+ →pip install pelican Markdown&lt;br&gt;
+→conda install pyqt&lt;br&gt;
+→pip uninstall leo (解除原本的leo 5.0)&lt;br&gt;
+→pip install ( github的leo檔網址 )&lt;br&gt;
+→conda install anaconda-client&lt;br&gt;
+→conda install jupyter&lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="123.20160103201216.4">&lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;筆記&lt;/h3&gt;
+&lt;p&gt;1.至&lt;a href="http://conda.pydata.org/miniconda.html"&gt;&lt;/a&gt;安裝python3.5&lt;br&gt;
+2.到cmd輸入指令&lt;br&gt;
+→conda install pip&lt;br&gt;
+→pip install pelican Markdown&lt;br&gt;
+→conda install pyqt&lt;br&gt;
+→pip uninstall leo (解除原本的leo 5.0)&lt;br&gt;
+→pip install ( github的leo檔網址 )&lt;br&gt;
+→conda install anaconda-client&lt;br&gt;
+→conda install jupyter&lt;br&gt;
+&lt;/section&gt;
+				
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1435,7 +1490,7 @@ Diff...
   &lt;p&gt;1.至&lt;a href="http://conda.pydata.org/miniconda.html"&gt;&lt;/a&gt;安裝python3.5&lt;br&gt;
   2.到cmd輸入指令&lt;br&gt;
   →conda install pip&lt;br&gt;
-- →pip install pelican Markdown&lt;br&gt;
+-  →pip install pelican Markdown&lt;br&gt;
 ? ^
 +  →pip install pelican Markdown&lt;br&gt;
 ? ^
@@ -1466,7 +1521,7 @@ Diff...
 &lt;p&gt;1.至&lt;a href="http://conda.pydata.org/miniconda.html"&gt;&lt;/a&gt;安裝python3.5&lt;br&gt;
 2.到cmd輸入指令&lt;br&gt;
 →conda install pip&lt;br&gt;
-→pip install pelican Markdown&lt;br&gt;
+ →pip install pelican Markdown&lt;br&gt;
 →conda install pyqt&lt;br&gt;
 →pip uninstall leo (解除原本的leo 5.0)&lt;br&gt;
 →pip install ( github的leo檔網址 )&lt;br&gt;

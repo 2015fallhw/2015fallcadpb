@@ -6,5 +6,29 @@ Slug: 2015cadpb_blog_g9_w11
 Authors: G9
 Summary: 第九組第十一週工作報告<br />Nutcracker 機構
 
+組員：<br />
+吳宇堂<a href='user/40323213/'>40323213</a><br />洪子翔<a href='user/40323226/'>40323226</a><br />高郁宸<a href='user/40323229/'>40323229</a><br />郭育維<a href='user/40323237/'>40323237</a><br />陳信榮<a href='user/40323239/'>40323239</a><br />陳鉦富<a href='user/40323242/'>40323242</a>
+
+<hr/>
 以下為相關工作報告資料
+<br>
+<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>組合圖</b></span>
+<br>
+<img src="https://copy.com/F6q46W0GhtERM72z" width="500" ></img>
+<br>
+<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>HANDLE_by_40323213</b></span>
+<br>
+<img src="https://copy.com/NkKObX3viI0I0Aq8" width="500" ></img>
+<br>
+<script src="https://embed.github.com/view/3d/nashnash/group9/master/handle.stl"></script>
+<br>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/TyaWna6RzC8" frameborder="0" allowfullscreen></iframe>
+<br>
+<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>CONNECTION_by_40323213</b></span>
+<br>
+<img src="https://copy.com/m1AcijVLVOYN0CZ0" width="500" ></img>
+<br>
+<script src="https://embed.github.com/view/3d/nashnash/group9/master/connection.stl"></script>
+<br>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/_rRavIViRbw" frameborder="0" allowfullscreen></iframe>
 <br>
