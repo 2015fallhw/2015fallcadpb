@@ -265,7 +265,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229190729.1" a="E"><vh>@clean simplest11.html</vh>
+<v t="leo.20151229190729.1"><vh>@clean simplest11.html</vh>
 <v t="leo.20151229190729.2"><vh>@clean simplest11.html</vh>
 <v t="leo.20151229190729.3"><vh>檔案說明</vh></v>
 <v t="leo.20151229190729.4" a="E"><vh>html 標註</vh>
@@ -298,7 +298,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229190734.1" a="E"><vh>@clean simplest12.html</vh>
+<v t="leo.20151229190734.1"><vh>@clean simplest12.html</vh>
 <v t="leo.20151229190734.2"><vh>@clean simplest12.html</vh>
 <v t="leo.20151229190734.3"><vh>檔案說明</vh></v>
 <v t="leo.20151229190734.4" a="E"><vh>html 標註</vh>
@@ -331,7 +331,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229190741.1" a="E"><vh>@clean simplest13.html</vh>
+<v t="leo.20151229190741.1"><vh>@clean simplest13.html</vh>
 <v t="leo.20151229190741.2"><vh>@clean simplest13.html</vh>
 <v t="leo.20151229190741.3"><vh>檔案說明</vh></v>
 <v t="leo.20151229190741.4" a="E"><vh>html 標註</vh>
@@ -364,7 +364,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229190746.1" a="E"><vh>@clean simplest14.html</vh>
+<v t="leo.20151229190746.1"><vh>@clean simplest14.html</vh>
 <v t="leo.20151229190746.2"><vh>@clean simplest14.html</vh>
 <v t="leo.20151229190746.3"><vh>檔案說明</vh></v>
 <v t="leo.20151229190746.4" a="E"><vh>html 標註</vh>
@@ -1553,7 +1553,6 @@ jupyter notebook
 <t tx="leo.20151229190729.1">@language xml
 @tabwidth -4
 @others
-
 </t>
 <t tx="leo.20151229190729.10">&lt;section&gt;
     &lt;h1&gt;70&lt;/h1&gt;
@@ -1695,7 +1694,6 @@ jupyter notebook
 <t tx="leo.20151229190734.1">@language xml
 @tabwidth -4
 @others
-
 </t>
 <t tx="leo.20151229190734.10">&lt;section&gt;
     &lt;h1&gt;70&lt;/h1&gt;
@@ -1837,7 +1835,6 @@ jupyter notebook
 <t tx="leo.20151229190741.1">@language xml
 @tabwidth -4
 @others
-
 </t>
 <t tx="leo.20151229190741.10">&lt;section&gt;
     &lt;h1&gt;70&lt;/h1&gt;
