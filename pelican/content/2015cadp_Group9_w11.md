@@ -24,7 +24,11 @@ Summary: 第九組第十一週工作報告<br />Nutcracker 機構
 <br>
 <img src="https://copy.com/NkKObX3viI0I0Aq8" width="500" ></img>
 <br>
+<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>3D呈現</b></span>
+<br>
 <script src="https://embed.github.com/view/3d/nashnash/group9/master/handle.stl"></script>
+<br>
+<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>影片</b></span>
 <br>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/TyaWna6RzC8" frameborder="0" allowfullscreen></iframe>
 <br>
@@ -32,7 +36,11 @@ Summary: 第九組第十一週工作報告<br />Nutcracker 機構
 <br>
 <img src="https://copy.com/m1AcijVLVOYN0CZ0" width="500" ></img>
 <br>
+<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>3D呈現</b></span>
+<br>
 <script src="https://embed.github.com/view/3d/nashnash/group9/master/connection.stl"></script>
+<br>
+<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>影片</b></span>
 <br>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/_rRavIViRbw" frameborder="0" allowfullscreen></iframe>
 <br>
