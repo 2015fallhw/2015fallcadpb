@@ -75,7 +75,7 @@ src="https://copy.com/JG777R8KOqMhPd4E"width="300"height="300">
 <br>
 Part_6 : Handle<a href='user/40323216/'>40323216</a>
 <br>
-<p align="left"><a href="https://copy.com/7iGTmhww6bAaIxMn">Handle.prt</a>
+<p align="left"><a href="https://copy.com/7suRewJDhRmVZyPq">Handle.prt</a>
 <br>
 <img
 src="https://copy.com/CqI806YMEkNwAmBY"width="300"height="300">
