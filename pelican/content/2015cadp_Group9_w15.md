@@ -22,6 +22,10 @@ Summary: 第九組第十一週工作報告<br />Nutcracker 機構
 <br>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/euDyC0dk_lk" frameborder="0" allowfullscreen></iframe>
 <br>
+<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>心得:40323213</b></span>
+<br>
+畫零件時有很多挫折，推的時候不知道要按button pelican content所以搞了非常久，後來在同學的指教下終於用好了，組零件的時候非常的不順利，跟之前的繪圖軟體不一樣要重新適應很不一樣，而且很當，很沒有效率，但是如果這些可以改進未來可以更好。
+<br>
 <span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>零件HANDLE_by.40323213</b></span>
 <br>
 <img src="https://copy.com/BvrMUKT1eHQTqehh" width="500" ></img>
@@ -37,10 +41,6 @@ Summary: 第九組第十一週工作報告<br />Nutcracker 機構
 <script src="https://embed.github.com/view/3d/nashnash/group9/master/connection.stl"></script>
 <br>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/8uEB14GBhfk" frameborder="0" allowfullscreen></iframe>
-<br>
-<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>心得:40323213</b></span>
-<br>
-畫零件時有很多挫折，推的時候不知道要按button pelican content所以搞了非常久，後來在同學的指教下終於用好了，組零件的時候非常的不順利，跟之前的繪圖軟體不一樣要重新適應很不一樣，而且很當，很沒有效率，但是如果這些可以改進未來可以更好。
 <br>
 <span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>零件BASE_by.40323226</b></span>
 <br>
