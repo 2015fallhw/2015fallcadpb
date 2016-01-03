@@ -289,9 +289,6 @@
 <v t="leo.20151229190729.17" a="E"><vh>有關我的作業</vh>
 <v t="leo.20151229190804.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20151229190729.18" a="E"><vh>作業任務九</vh>
-<v t="leo.20151229190804.1"></v>
-</v>
 <v t="leo.20151229190729.19" a="E"><vh>第3張投影片</vh>
 <v t="leo.20151229190804.1"></v>
 </v>
@@ -324,9 +321,6 @@
 <v t="leo.20151229190734.16" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151229190734.17" a="E"><vh>有關我的作業</vh>
 <v t="leo.20151229190939.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20151229190734.18" a="E"><vh>作業任務十</vh>
-<v t="leo.20151229190939.1"></v>
 </v>
 <v t="leo.20151229190734.19" a="E"><vh>第3張投影片</vh>
 <v t="leo.20151229190939.1"></v>
@@ -361,9 +355,6 @@
 <v t="leo.20151229190741.17" a="E"><vh>有關我的作業</vh>
 <v t="leo.20151229191124.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20151229190741.18" a="E"><vh>作業任務十一</vh>
-<v t="leo.20151229191124.1"></v>
-</v>
 <v t="leo.20151229190741.19" a="E"><vh>第3張投影片</vh>
 <v t="leo.20151229191124.1"></v>
 </v>
@@ -396,9 +387,6 @@
 <v t="leo.20151229190746.16" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151229190746.17" a="E"><vh>有關我的作業</vh>
 <v t="leo.20151229191158.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20151229190746.18" a="E"><vh>作業任務十二</vh>
-<v t="leo.20151229191158.1"></v>
 </v>
 <v t="leo.20151229190746.19" a="E"><vh>第3張投影片</vh>
 <v t="leo.20151229191158.1"></v>
@@ -1630,17 +1618,10 @@ jupyter notebook
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151229190729.18">&lt;&lt; header &gt;&gt;
-    &lt;h2&gt;作業任務九&lt;/h2&gt;
-    &lt;p&gt;&lt;/p&gt;
-    &lt;p&gt; &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151229190729.19">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;70&lt;/h2&gt;
     &lt;p&gt;這一周太混了都不太知道自己在幹嗎，老師說的也有聽沒有懂。&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務四&lt;/a&gt;
+   
 &lt;/section&gt;
 				
 </t>
@@ -1777,17 +1758,10 @@ jupyter notebook
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151229190734.18">&lt;&lt; header &gt;&gt;
-    &lt;h2&gt;作業任務十&lt;/h2&gt;
-    &lt;p&gt;fix檔的學習&lt;/p&gt;
-    &lt;p&gt; &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151229190734.19">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;70&lt;/h2&gt;
     &lt;p&gt;這禮拜修改了fix檔內路徑，對於這個概念越來越清楚了。&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務四&lt;/a&gt;
+  
 &lt;/section&gt;
 				
 </t>
@@ -1925,17 +1899,9 @@ jupyter notebook
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151229190741.18">&lt;&lt; header &gt;&gt;
-    &lt;h2&gt;作業任務十一&lt;/h2&gt;
-    &lt;p&gt;&lt;/p&gt;
-    &lt;p&gt; &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151229190741.19">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;70&lt;/h2&gt;
-    &lt;p&gt;&lt;/p&gt;
-    &lt;p&gt;這星期學習怎麼將自己的東西連結到內部投影片，覺得很難但是在同學的教導下瞭解了更多。&lt;a href="#/hw-task-one"&gt;作業任務四&lt;/a&gt;
+    &lt;p&gt;這星期學習怎麼將自己的東西連結到內部投影片，覺得很難但是在同學的教導下瞭解了更多。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2072,13 +2038,6 @@ jupyter notebook
     &lt;p&gt;40323210  古丙駿  2015/11/07&lt;/p&gt;		
 &lt;/section&gt;
 	
-</t>
-<t tx="leo.20151229190746.18">&lt;&lt; header &gt;&gt;
-    &lt;h2&gt;作業任務十二&lt;/h2&gt;
-    &lt;p&gt;onshape的學習&lt;/p&gt;
-    &lt;p&gt; &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
 </t>
 <t tx="leo.20151229190746.19">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;70&lt;/h2&gt;
