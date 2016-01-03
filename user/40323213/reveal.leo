@@ -129,7 +129,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151230172710.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151230172710.1"><vh>@button open html</vh>
 <v t="leo.20151230172710.2" a="E"><vh>@clean cadp_w11_lecture.html</vh>
 <v t="leo.20151230172710.3"><vh>檔案說明</vh></v>
 <v t="leo.20151230172710.4" a="E"><vh>html 標註</vh>
@@ -155,7 +155,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103181753.1"><vh>@button open html-2</vh>
+<v t="leo.20160103181753.1" a="E"><vh>@button open html-2</vh>
 <v t="leo.20160103181753.2" a="E"><vh>@clean cadp_w15_lecture.html</vh>
 <v t="leo.20160103181753.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103181753.4" a="E"><vh>html 標註</vh>
@@ -1075,7 +1075,7 @@ content: "課程: 電腦輔助設計實習B 學號: 40323213"; }&lt;/style&gt;</
 
     &lt;h1&gt;自評與心得&lt;/h1&gt;
     &lt;p&gt;自評分數:75&lt;/p&gt;
-    &lt;p&gt;畫零件時有很多挫折，推的時候不知道要按button pelican content所以搞了非常久，後來在同學的指教下終於用好了。&lt;/p&gt;
+    &lt;p&gt;畫零件時有很多挫折，推的時候不知道要按button pelican content所以搞了非常久，後來在同學的指教下終於用好了，組零件的時候非常的不順利，跟之前的繪圖軟體不一樣要重新適應很不一樣，而且很當，很沒有效率，但是如果這些可以改進未來可以更好。&lt;/p&gt;
         
 &lt;/section&gt;
 				
@@ -1143,7 +1143,7 @@ cadp w12 講課內容投影片
 
     &lt;section&gt;
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
-    &lt;h1&gt;期末報告&lt;/h1&gt;
+    &lt;h1&gt;第十五週作業&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
     &lt;/section&gt;
     
