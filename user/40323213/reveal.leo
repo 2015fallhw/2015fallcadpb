@@ -155,7 +155,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103181753.1" a="E"><vh>@button open html-2</vh>
+<v t="leo.20160103181753.1"><vh>@button open html-2</vh>
 <v t="leo.20160103181753.2" a="E"><vh>@clean cadp_w15_lecture.html</vh>
 <v t="leo.20160103181753.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103181753.4" a="E"><vh>html 標註</vh>
