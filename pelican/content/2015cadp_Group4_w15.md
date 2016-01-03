@@ -21,7 +21,7 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323253/'>40323253-劉瑜�
 零件1
 <br />
 <img
-src="https://copy.com/Cx1Y6XFF0ZcsAcBT"width="300"height="300">
+src="https://copy.com/Cx1Y6XFF0ZcsAcBT"width="500"height="500">
 <br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/1.stl"></script>
 
@@ -32,7 +32,7 @@ src="https://copy.com/Cx1Y6XFF0ZcsAcBT"width="300"height="300">
 零件2
 <br />
 <img
-src="https://copy.com/ey9snzTFthvliODt"width="300"height="300">
+src="https://copy.com/ey9snzTFthvliODt"width="500"height="500">
 <br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/2.stl"></script>
 
@@ -48,7 +48,7 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323252/'>40323252-廖麒�
 零件3
 <br />
 <img
-src="https://copy.com/ZXWFPHeta4BeNbqI"width="300"height="300">
+src="https://copy.com/ZXWFPHeta4BeNbqI"width="500"height="500">
 <br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/3.stl"></script>
 
@@ -58,7 +58,7 @@ src="https://copy.com/ZXWFPHeta4BeNbqI"width="300"height="300">
 零件4
 <br />
 <img
-src="https://copy.com/BKrlatLIE8Uqtr4O"width="300"height="300">
+src="https://copy.com/BKrlatLIE8Uqtr4O"width="500"height="500">
 <br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/4.stl"></script>
 
@@ -73,7 +73,7 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323245/'>40323245-程偉�
 零件5
 <br />
 <img
-src="https://copy.com/mdbTLX2WM1EAzEm2"width="300"height="300">
+src="https://copy.com/mdbTLX2WM1EAzEm2"width="500"height="500">
 <br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/5.stl"></script>
 
@@ -83,7 +83,7 @@ src="https://copy.com/mdbTLX2WM1EAzEm2"width="300"height="300">
 零件6
 <br />
 <img
-src="https://copy.com/1xXcdS2hMuc9NJnz"width="300"height="300">
+src="https://copy.com/1xXcdS2hMuc9NJnz"width="500"height="500">
 <br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/6.stl"></script>
 
@@ -97,7 +97,7 @@ href='http://2015fallhw.github.io/2015fallcadpb/user/40323247/'>40323247-黃顏�
 零件7
 <br />
 <img
-src="https://copy.com/6RaKvEjhkhQkpJlC"width="300"height="300">
+src="https://copy.com/6RaKvEjhkhQkpJlC"width="500"height="500">
 <br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/7.stl"></script>
 
@@ -108,7 +108,7 @@ src="https://copy.com/6RaKvEjhkhQkpJlC"width="300"height="300">
 零件8
 <br />
 <img
-src="https://copy.com/uYG9NIrDC106xrU7"width="300"height="300">
+src="https://copy.com/uYG9NIrDC106xrU7"width="500"height="500">
 <br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/8.stl"></script>
 
