@@ -18,28 +18,36 @@ Summary: 第九組第十一週工作報告<br />Nutcracker 機構
 <br>
 <img src="https://copy.com/QOffAozDPN9B2Wr4" width="500" ></img>
 <br>
-<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>組合圖影片_by_40323213</b></span>
+<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>組合圖影片</b></span>
 <br>
+組合-40323213
 <iframe width="854" height="480" src="https://www.youtube.com/embed/euDyC0dk_lk" frameborder="0" allowfullscreen></iframe>
 <br>
-<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>心得:40323213</b></span>
+組合-40323229
+<iframe src="https://player.vimeo.com/video/150593706" width="500" height="241" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150593706">錄製_2016_01_03_23_52_57_196</a> from <a href="https://vimeo.com/user45634325">YuChen Gao</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
-畫零件時有很多挫折，推的時候不知道要按button pelican content所以搞了非常久，後來在同學的指教下終於用好了，組零件的時候非常的不順利，跟之前的繪圖軟體不一樣要重新適應很不一樣，而且很當，很沒有效率，但是如果這些可以改進未來可以更好。
-<br>
-<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>組合圖影片_by_40323239</b></span>
-<br>
+組合-40323239
 <iframe src="https://player.vimeo.com/video/150587923" width="500" height="253" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150587923">onshape</a> from <a href="https://vimeo.com/user45596208">40323239</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
-<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>心得:40323239</b></span>
-<br>
-第一次用網站來畫圖，還有組裝零件，所以有點不習慣，可是有些地方比其他繪圖軟體還要方便，就像是部用下載之類的，但是可能是不習慣，所以對組裝花了一點時間才組起來，可是這次的組裝也讓我有對這個網站有了更多的了解，可能以後也會用這個網站來畫些東西。
-<br>
-<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>組合圖影片_by_40323242</b></span>
-<br>
+組合-40323242
 <iframe src="https://player.vimeo.com/video/150589360" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150589360">40323242組合</a> from <a href="https://vimeo.com/user45617313">ChenFo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
-<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>心得:40323242</b></span>
+<span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>心得</b></span>
 <br>
+心得-40323213
+
+畫零件時有很多挫折，推的時候不知道要按button pelican content所以搞了非常久，後來在同學的指教下終於用好了，組零件的時候非常的不順利，跟之前的繪圖軟體不一樣要重新適應很不一樣，而且很當，很沒有效率，但是如果這些可以改進未來可以更好。
+<br>
+心得-40323229
+
+這次用的Onshape看似是網頁的東西但用起來卻沒有想像中的難用 而且上手難度不高不過還是有些功能不太習慣 大致上還可以
+<br>
+心得-40323239
+
+第一次用網站來畫圖，還有組裝零件，所以有點不習慣，可是有些地方比其他繪圖軟體還要方便，就像是部用下載之類的，但是可能是不習慣，所以對組裝花了一點時間才組起來，可是這次的組裝也讓我有對這個網站有了更多的了解，可能以後也會用這個網站來畫些東西。
+<br>
+心得-40323242
+
 老師教了一個新的組零件的分法-onshape,這個我覺得相當好用,雖然只有用到兩種功能,雖然有時候會忘記固定兩點,到最後滑來滑去才發現,但是還是順利完成了,也謝謝同學的教導,讓我能更快完成這次的作業。
 <br>
 <span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>零件HANDLE_by_40323213</b></span>
