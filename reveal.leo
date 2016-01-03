@@ -23,8 +23,8 @@
 <v t="40323250.20151206164449.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="40323250.20151206164449.2"><vh>@button admin pelican</vh></v>
 <v t="40323250.20151206164449.4" a="E"><vh>@path pelican</vh>
+<v t="40323250.20151206164449.6" a="E"><vh>@path content</vh>
 <v t="40323250.20151206164449.5"><vh>@edit publishconf.py</vh></v>
-<<<<<<< HEAD
 <v t="40323250.20151206164449.8"><vh>@edit 2015cadp_w12.md</vh></v>
 <v t="40323250.20151206164449.11"><vh>@edit 2015cadp_Group1_w11.md</vh></v>
 <v t="123.20151228225022.1"><vh>@edit 2015cadp_Group1_w15.md</vh></v>
@@ -45,30 +45,6 @@
 <v t="40323250.20151206164449.13"><vh>@edit 2015cphww7.md</vh></v>
 <v t="40323250.20151206164449.14"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="40323250.20151208161815.1"><vh>@edit 2015cadp_g1.md</vh></v>
-=======
-<v t="1.20151230215028.1" a="E"><vh>@path content</vh>
-<v t="1.20151230215028.2"><vh>@edit publishconf.py</vh></v>
-<v t="1.20151230215028.3"><vh>@edit 2015cadp_w12.md</vh></v>
-<v t="1.20151230215028.4"><vh>@edit 2015cadp_Group1_w11.md</vh></v>
-<v t="1.20151230215028.5"><vh>@edit 2015cadp_Group1_w15.md</vh></v>
-<v t="1.20151230215028.6"><vh>@edit 2015cadp_Group2_w11.md</vh></v>
-<v t="1.20151230215028.7"><vh>@edit 2015cadp_Group2_w15.md</vh></v>
-<v t="1.20151230215028.8"><vh>@edit 2015cadp_Group3_w11.md</vh></v>
-<v t="leo.20151231144746.1"><vh>@edit 2015cadp_Group3_w15.md</vh></v>
-<v t="1.20151230215028.9"><vh>@edit 2015cadp_Group4_w11.md</vh></v>
-<v t="1.20151230215028.10"><vh>@edit 2015cadp_Group4_w15.md</vh></v>
-<v t="1.20151230215028.11"><vh>@edit 2015cadp_Group5_w11.md</vh></v>
-<v t="1.20151230215028.12"><vh>@edit 2015cadp_Group6_w11.md</vh></v>
-<v t="1.20151230215028.13"><vh>@edit 2015cadp_Group7_w11.md</vh></v>
-<v t="1.20151230215028.14"><vh>@edit 2015cadp_Group7_w15.md</vh></v>
-<v t="1.20151230215028.15"><vh>@edit 2015cadp_Group8_w11.md</vh></v>
-<v t="1.20151230215028.16"><vh>@edit 2015cadp_Group8_w15.md</vh></v>
-<v t="1.20151230215028.17"><vh>@edit 2015cadp_Group9_w11.md</vh></v>
-<v t="1.20151230215028.18"><vh>@edit 2015cphww7-1.md</vh></v>
-<v t="1.20151230215028.19"><vh>@edit 2015cphww7.md</vh></v>
-<v t="1.20151230215028.20"><vh>@edit 2015cpnote1.md</vh></v>
-<v t="1.20151230215028.21"><vh>@edit 2015cadp_g1.md</vh></v>
->>>>>>> f556174da271379aa53fce9dff129da8a4a0353a
 </v>
 </v>
 </v>
@@ -124,13 +100,13 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="1.20151230215028.1"></t>
 <t tx="40323250.20151206164449.1"></t>
 <t tx="40323250.20151206164449.2">@language python
 import os
 os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
 g.es("admin pelican 執行完畢")</t>
 <t tx="40323250.20151206164449.4"></t>
+<t tx="40323250.20151206164449.6"></t>
 <t tx="40323250.20151206164503.1"></t>
 <t tx="40323250.20151206164503.10">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務一&lt;/h1&gt;
