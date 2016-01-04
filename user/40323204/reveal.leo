@@ -1331,9 +1331,10 @@ copy leo-editor-broke-abbrev.zip E:\Ana3_2015\data\
 &lt;p align="left"&gt;8.依照老師的語法更改後面的網址&lt;/p&gt;
 
 &lt;p align="left"&gt;語法為
-&lt;br&gt; &lt;pre lang="html"&gt;&lt;code&gt;&lt;script src="https://embed.github.com/view/3d/hsungchang/test/master/prt3.stl"&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;/script  3d後面為自己的網址&lt;/p&gt;
+&lt;br&gt; &lt;pre lang="html"&gt;&lt;code&gt;script src="https://embed.github.com/view/3d/hsungchang/test/master/prt3.stl"/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ &lt;p align="left"&gt;/script  3d後面為自己的網址
 
-&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
