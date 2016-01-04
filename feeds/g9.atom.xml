@@ -1,3 +1,146 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g9.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T10:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group9 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g9_w11.html" rel="alternate"></link><updated>2015-12-28T10:25:00+08:00</updated><author><name>G9</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g9_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g9.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T10:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group9 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g9_w11.html" rel="alternate"></link><updated>2015-12-28T10:25:00+08:00</updated><author><name>G9</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g9_w11.html</id><summary type="html">&lt;p&gt;組員：&lt;br /&gt;
+吳宇堂&lt;a href='user/40323213/'&gt;40323213&lt;/a&gt;&lt;br /&gt;洪子翔&lt;a href='user/40323226/'&gt;40323226&lt;/a&gt;&lt;br /&gt;高郁宸&lt;a href='user/40323229/'&gt;40323229&lt;/a&gt;&lt;br /&gt;郭育維&lt;a href='user/40323237/'&gt;40323237&lt;/a&gt;&lt;br /&gt;陳信榮&lt;a href='user/40323239/'&gt;40323239&lt;/a&gt;&lt;br /&gt;陳鉦富&lt;a href='user/40323242/'&gt;40323242&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;hr/&gt;
+以下為相關工作報告資料
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;組合圖&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/F6q46W0GhtERM72z" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;組合影片&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+組合-40323213
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/Bxp62cYuq1o" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+組合-40323239
+&lt;iframe src="https://player.vimeo.com/video/150592545" width="500" height="253" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150592545"&gt;CREO&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596208"&gt;40323239&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;HANDLE_by_40323213&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/NkKObX3viI0I0Aq8" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+3D呈現
+&lt;script src="https://embed.github.com/view/3d/nashnash/group9/master/handle.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
+影片
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/TyaWna6RzC8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;CONNECTION_by_40323213&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/m1AcijVLVOYN0CZ0" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+3D呈現
+&lt;script src="https://embed.github.com/view/3d/nashnash/group9/master/connection.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
+影片
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/_rRavIViRbw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;ADJUSTER_BASE_by_40323213&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/6xINj7IgxCmKCYCa" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/gh1Zo7cxttM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group9 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g9_w15.html" rel="alternate"></link><updated>2015-12-28T10:25:00+08:00</updated><author><name>G9</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g9_w15.html</id><summary type="html">&lt;p&gt;組員：&lt;br /&gt;
+吳宇堂&lt;a href='user/40323213/'&gt;40323213&lt;/a&gt;&lt;br /&gt;洪子翔&lt;a href='user/40323226/'&gt;40323226&lt;/a&gt;&lt;br /&gt;高郁宸&lt;a href='user/40323229/'&gt;40323229&lt;/a&gt;&lt;br /&gt;郭育維&lt;a href='user/40323237/'&gt;40323237&lt;/a&gt;&lt;br /&gt;陳信榮&lt;a href='user/40323239/'&gt;40323239&lt;/a&gt;&lt;br /&gt;陳鉦富&lt;a href='user/40323242/'&gt;40323242&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;hr/&gt;
+以下為相關工作報告資料
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;組合圖&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/F6q46W0GhtERM72z" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/QOffAozDPN9B2Wr4" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;組合圖影片&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+組合-40323213
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/euDyC0dk_lk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+組合-40323229
+&lt;iframe src="https://player.vimeo.com/video/150593706" width="500" height="241" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150593706"&gt;錄製_2016_01_03_23_52_57_196&lt;/a&gt; from &lt;a href="https://vimeo.com/user45634325"&gt;YuChen Gao&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+組合-40323239
+&lt;iframe src="https://player.vimeo.com/video/150587923" width="500" height="253" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150587923"&gt;onshape&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596208"&gt;40323239&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+組合-40323242
+&lt;iframe src="https://player.vimeo.com/video/150589360" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150589360"&gt;40323242組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user45617313"&gt;ChenFo&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;心得&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+心得-40323213
+&lt;br&gt;
+畫零件時有很多挫折，推的時候不知道要按button pelican content所以搞了非常久，後來在同學的指教下終於用好了，組零件的時候非常的不順利，跟之前的繪圖軟體不一樣要重新適應很不一樣，而且很當，很沒有效率，但是如果這些可以改進未來可以更好。
+&lt;br&gt;
+心得-40323229
+&lt;br&gt;
+這次用的Onshape看似是網頁的東西但用起來卻沒有想像中的難用 而且上手難度不高不過還是有些功能不太習慣 大致上還可以
+&lt;br&gt;
+心得-40323239
+&lt;br&gt;
+第一次用網站來畫圖，還有組裝零件，所以有點不習慣，可是有些地方比其他繪圖軟體還要方便，就像是部用下載之類的，但是可能是不習慣，所以對組裝花了一點時間才組起來，可是這次的組裝也讓我有對這個網站有了更多的了解，可能以後也會用這個網站來畫些東西。
+&lt;br&gt;
+心得-40323242
+&lt;br&gt;
+老師教了一個新的組零件的分法-onshape,這個我覺得相當好用,雖然只有用到兩種功能,雖然有時候會忘記固定兩點,到最後滑來滑去才發現,但是還是順利完成了,也謝謝同學的教導,讓我能更快完成這次的作業。
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件HANDLE_by_40323213&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/BvrMUKT1eHQTqehh" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;3D呈現&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/nashnash/group9/master/handle.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;影片&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/yqRH6KmjjsY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件CONNECTION_by_40323213&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/BerUUvijeclS03FQ" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;3D呈現&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/nashnash/group9/master/connection.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;影片&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/8uEB14GBhfk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件BASE_by_40323226&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/Uaqh3Gb1zkypQ8oI" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/E_0ceN_fS3o" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件CYLINDER_by_40323229&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/e4hqFkxGylbgeiM2" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/jwKQwn7SUWA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件ADJUSTER_BASE_by_40323239&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/x6zTN0NFJYKpvrO4" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/e_O-319aXNU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件ADJUSTER_by_40323242&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/0hiKdjp9jMtErqDD" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/BcdZAkXiPeA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件PISTON_by_40323237&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/4DoayXcDVt8YOhPk" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/RmsIDL-Q1kc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"&gt;&lt;b&gt;零件HINGE_by_40323226&lt;/b&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/xYEvgqQGwkEZKAZm" width="500" &gt;&lt;/img&gt;
+&lt;br&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/gr70geQDr0o" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry></feed>

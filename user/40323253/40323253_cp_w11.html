@@ -18,25 +18,45 @@
 </head>
 <body>
 <!-- 將整個投影片包在 "reveal" class 中 -->
+
+<!-- 出現在每一頁的 header 格式 -->
+
+<header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"></header>
+
 <div class="reveal">
 <!-- 將所有投影片包在 "slides" class 中 -->
 <div class="slides">
 <!-- 以下為投影片 -->
 <!-- 每一個 section 都代表一張投影片,  -->
 <!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
-<section>
+
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }</style>
+
+    <section>
     <h2>電腦輔助設計與實習</h2>
     <h3>40323253-劉瑜俊-11/23</h3>	
+    </section>
+
 </section>
 	
-<section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }</style>
+
     <h2>心得與評分</h2>
     <p>這週開始要分組進行作業,我們建立了第四組的分組名單和網誌,為了讓工作更順利,必須每個人都要會使用creo繪圖程式和leo編輯器,希望我能跟著隊友一起完成任務,一起找出問題進而解決,順利為下學期的協同課程打下紮實的基礎!!</p>
     
     <h2>評分 :80分</h2>
     
-    </a></section>
-				
+    </a>
+
+</section>
 </div>
 </div>
 <script src="lib/js/head.min.js"></script>

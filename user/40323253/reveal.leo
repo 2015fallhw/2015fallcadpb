@@ -14,7 +14,7 @@
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
@@ -33,12 +33,13 @@
 <v t="leo.20151214111816.10"><vh>@edit 40323253_cp_w8.md</vh></v>
 <v t="leo.20151219222320.1"><vh>@edit 40323253_cp_w11.md</vh></v>
 <v t="leo.20151219223729.1"><vh>@edit 40323253_cp_w12.md</vh></v>
+<v t="leo.20151228175600.1"><vh>@edit 40323253_cp_w14.md</vh></v>
 <v t="leo.20151228102725.1"><vh>@edit 40323253_cp_w15.md</vh></v>
 <v t="leo.20151228114648.1"><vh>@edit 40323253_cp_w16.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20151214111920.1"><vh>@clean 40323253_cp_w1~2.html</vh>
 <v t="leo.20151214111920.2"><vh>檔案說明</vh></v>
 <v t="leo.20151214111920.3" a="E"><vh>html 標註</vh>
@@ -118,9 +119,13 @@
 <v t="leo.20151219222329.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151219222329.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151219222329.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151219222329.6"><vh>div class="slides"</vh>
-<v t="leo.20151219222329.7"><vh>封面</vh></v>
-<v t="leo.20151219222329.16"><vh>心得與評分</vh></v>
+<v t="leo.20151219222329.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160102175932.1" a="E"><vh>封面</vh>
+<v t="leo.20160102175932.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160102180007.1" a="E"><vh>自評</vh>
+<v t="leo.20160102180007.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
 </v>
 </v>
 <v t="leo.20151219222329.17"><vh>script</vh></v>
@@ -145,6 +150,27 @@
 </v>
 </v>
 <v t="leo.20151219223824.9"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151228175624.1"><vh>@clean 40323253_cp_w14.html</vh>
+<v t="leo.20151228175624.2"><vh>檔案說明</vh></v>
+<v t="leo.20151228175624.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151228175624.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151228175624.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151228175624.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151228175624.7" a="E"><vh>封面</vh>
+<v t="leo.20151228175624.8"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151228175624.9" a="E"><vh>筆記</vh>
+<v t="leo.20151228175624.10"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151228175624.11" a="E"><vh>自評</vh>
+<v t="leo.20151228175624.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151228175624.13"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -177,9 +203,6 @@
 <v t="leo.20151228114552.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151228114552.7" a="E"><vh>封面</vh>
 <v t="leo.20151228114552.8"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="leo.20151228114552.9" a="E"><vh>筆記</vh>
-<v t="leo.20151228114552.10"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="leo.20151228114552.11" a="E"><vh>自評</vh>
 <v t="leo.20151228114552.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
@@ -758,15 +781,6 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 @others
 
 </t>
-<t tx="leo.20151219222329.16">&lt;section&gt;
-    &lt;h2&gt;心得與評分&lt;/h2&gt;
-    &lt;p&gt;這週開始要分組進行作業,我們建立了第四組的分組名單和網誌,為了讓工作更順利,必須每個人都要會使用creo繪圖程式和leo編輯器,希望我能跟著隊友一起完成任務,一起找出問題進而解決,順利為下學期的協同課程打下紮實的基礎!!&lt;/p&gt;
-    
-    &lt;h2&gt;評分 :80分&lt;/h2&gt;
-    
-    &lt;/a&gt;&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151219222329.17">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -802,6 +816,11 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 &lt;/body&gt;
 </t>
 <t tx="leo.20151219222329.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -810,15 +829,6 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
-</t>
-<t tx="leo.20151219222329.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;h3&gt;40323253-劉瑜俊-11/23&lt;/h3&gt;	
-&lt;/section&gt;
-	
 </t>
 <t tx="leo.20151219223824.1">@language xml
 @tabwidth -4
@@ -851,6 +861,11 @@ Creo Parametric的用戶界面易於瀏覽特定的主要工具，包含整個�
 &lt;/body&gt;
 </t>
 <t tx="leo.20151219223824.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -933,7 +948,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt
 
 
     &lt;h2&gt;心得與評分&lt;/h2&gt;
-    &lt;p&gt;利用Onshape在雲端上面繪圖,這個網頁使用起來非常方便,沒有安裝程式上面的問題,故只要能連上網頁即可畫圖,未來在高鐵上也可能使用平板或手機與組員溝通及設計,這週我熟悉了這個網頁的繪圖模式,繪畫出了Nutcracker 機構中的AD JUSTER及AD JUSTER_BASE兩個零件,方便在下週與組員一起完成組立工作。&lt;/p&gt;
+    &lt;p&gt;這週將組員們在Onshape畫好的零件拿來組立,作法與Creo大同小異,但能和組員們一起組裝,且有聊天室功能,覺得這個網站使用起來更人性化了,相信對未來的設計課程能夠大大提升效率。&lt;/p&gt;
     
     &lt;h2&gt;評分 :80分&lt;/h2&gt;
     
@@ -978,6 +993,11 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228102736.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -995,7 +1015,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt
 
     &lt;section&gt;
     &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;h3&gt;40323253-劉瑜俊-12/21&lt;/h3&gt;	
+    &lt;h3&gt;40323253-劉瑜俊-12/28&lt;/h3&gt;	
     &lt;/section&gt;
 
 &lt;/section&gt;
@@ -1008,11 +1028,14 @@ white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
 <t tx="leo.20151228102736.9">&lt;&lt; header &gt;&gt;
 
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;1.請各組員利用學校配發的 Gmail 帳號, 至 https://www.onshape.com 申請免費帳號.&lt;/p&gt;
-    &lt;p&gt;2.請依照 BOM 編號, 將零件分配給組員, 並分別利用 public 模式完成零件繪製, 協同 Workspace 命名: b_g1_nutcracker 表示為學號 乙班同學第1組所建立的 nutcracker 協同專案 (其餘各組依此類推各組專案名稱).&lt;/p&gt;
-    &lt;p&gt;3.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.&lt;/p&gt;
-    &lt;p&gt;4.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.&lt;/p&gt;
+    &lt;h3&gt;大學生的風度與職志&lt;/h3&gt;
+    &lt;p&gt;體魄康強, 精神活潑, 舉止端莊, 人格健全, 便是大學生的風度 .&lt;/p&gt;
+    &lt;p&gt;不倦的追求真理, 熱烈的愛護國家, 積極的造福人類, 才是大學生的職志 .&lt;/p&gt;
+    
+    &lt;h3&gt;大學教育應做好如下三個方面&lt;/h3&gt;
+    &lt;p&gt;第一，堅守人文精神。&lt;/p&gt;
+    &lt;p&gt;第二，直面生存困境。&lt;/p&gt;
+    &lt;p&gt;第三，讀好書做好人。&lt;/p&gt;
     
 &lt;/section&gt;</t>
 <t tx="leo.20151228114552.1">@language xml
@@ -1020,16 +1043,11 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt
 @others
 
 </t>
-<t tx="leo.20151228114552.10">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
 <t tx="leo.20151228114552.11">&lt;&lt; header &gt;&gt;
 
 
     &lt;h2&gt;心得與評分&lt;/h2&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;這學期的電腦輔助設計與實習課程接觸到了兩個繪圖程式和一個繪圖網站,以分組的模式讓隊友們能各自安排工作,並且互相討論及學習,在solvespace和Creo之後,我們接觸了一個Onshape的繪圖網站,操作相當方便,功能也足夠我們課程使用,這學期下來讓我們漸漸的進入協同課程,為下學期的課程做基礎,希望下學期能夠順利的進行課業,學習到更多東西。&lt;/p&gt;
     
     &lt;h2&gt;評分 :80分&lt;/h2&gt;
     
@@ -1074,6 +1092,11 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228114552.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -1091,7 +1114,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt
 
     &lt;section&gt;
     &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;h3&gt;40323253-劉瑜俊-12/28&lt;/h3&gt;	
+    &lt;h3&gt;40323253-劉瑜俊-01/04&lt;/h3&gt;	
     &lt;/section&gt;
 
 &lt;/section&gt;
@@ -1102,11 +1125,140 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
-<t tx="leo.20151228114552.9">&lt;&lt; header &gt;&gt;
+<t tx="leo.20151228175624.1">@language xml
+@tabwidth -4
+@others
 
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;123&lt;/p&gt;
+</t>
+<t tx="leo.20151228175624.10">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20151228175624.11">&lt;&lt; header &gt;&gt;
+
+
+    &lt;h2&gt;心得與評分&lt;/h2&gt;
+    &lt;p&gt;利用Onshape在雲端上面繪圖,這個網頁使用起來非常方便,沒有安裝程式上面的問題,故只要能連上網頁即可畫圖,未來在高鐵上也可能使用平板或手機與組員溝通及設計,這週我熟悉了這個網頁的繪圖模式,繪畫出了Nutcracker 機構中的AD JUSTER及AD JUSTER_BASE兩個零件,方便在下週與組員一起完成組立工作。&lt;/p&gt;
+    
+    &lt;h2&gt;評分 :80分&lt;/h2&gt;
     
 &lt;/section&gt;</t>
+<t tx="leo.20151228175624.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20151228175624.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151228175624.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151228175624.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151228175624.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151228175624.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228175624.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228175624.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;h3&gt;40323253-劉瑜俊-12/21&lt;/h3&gt;	
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151228175624.8">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20151228175624.9">&lt;&lt; header &gt;&gt;
+
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;1.請各組員利用學校配發的 Gmail 帳號, 至 https://www.onshape.com 申請免費帳號.&lt;/p&gt;
+    &lt;p&gt;2.請依照 BOM 編號, 將零件分配給組員, 並分別利用 public 模式完成零件繪製, 協同 Workspace 命名: b_g1_nutcracker 表示為學號 乙班同學第1組所建立的 nutcracker 協同專案 (其餘各組依此類推各組專案名稱).&lt;/p&gt;
+    &lt;p&gt;3.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.&lt;/p&gt;
+    &lt;p&gt;4.完成後, 請利用 Share 功能將組員納為協同人員, 各組員依照分配完成各零件繪圖與 Nutcracker 機構組立.&lt;/p&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160102175932.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;h3&gt;40323253-劉瑜俊-11/23&lt;/h3&gt;	
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160102175932.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
+<t tx="leo.20160102180007.1">&lt;&lt; header &gt;&gt;
+
+    &lt;h2&gt;心得與評分&lt;/h2&gt;
+    &lt;p&gt;這週開始要分組進行作業,我們建立了第四組的分組名單和網誌,為了讓工作更順利,必須每個人都要會使用creo繪圖程式和leo編輯器,希望我能跟著隊友一起完成任務,一起找出問題進而解決,順利為下學期的協同課程打下紮實的基礎!!&lt;/p&gt;
+    
+    &lt;h2&gt;評分 :80分&lt;/h2&gt;
+    
+    &lt;/a&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20160102180007.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323253"; }&lt;/style&gt;</t>
 </tnodes>
 </leo_file>

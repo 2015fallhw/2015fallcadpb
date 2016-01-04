@@ -18,26 +18,50 @@
 </head>
 <body>
 <!-- 將整個投影片包在 "reveal" class 中 -->
+
+<!-- 出現在每一頁的 header 格式 -->
+
+<header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"></header>
+
 <div class="reveal">
 <!-- 將所有投影片包在 "slides" class 中 -->
 <div class="slides">
 <!-- 以下為投影片 -->
 <!-- 每一個 section 都代表一張投影片,  -->
 <!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
-<section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323230"; }</style>
+    <section>
     <h1>電腦輔助設計與實習</h1>
     <hr>
-    <p>40323230-張元-11/15</p>		
+    <p>40323230-張元-11/15</p>
+    </section>
+    
 </section>
-<section id="hw-task-one">
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323230"; }</style>
+
     <h1>摘要與心得</h1>
     <p>透過Creo繪製專案任務是一件繁瑣的工作，因為以前比較習慣的軟體和作業環境不一樣了，使得作業時較以往更為緩慢。以前沒用過SoildWork或是Pro-E，完全不知道與Inventor或AutoCAD相對應的功能位置在哪，但是多摸索或是上網觀看講解影片可以上手更快。</p>
+    
 </section>
-<section>
-    <h1>自評</h1>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323230"; }</style>
+
+    <h2>自評</h2>
     <p>在作業上沒什麼進步，不過多花點時間學習不同的繪製環境，還是有所成果，給自己70分。</p>
     <hr>
     <a href="https://wordpress-2015course.rhcloud.com/">課程資料</a>
+
 </section>
 				
 </div>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323204 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/w4.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-18T15:41:00+08:00</updated><entry><title>2015 CADP 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-18T15:41:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-10-18:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
+&lt;p&gt;完成 &lt;a href="http://solvespace.com/index.pl"&gt;Solvespace&lt;/a&gt; ( &lt;a href="http://solvespace.com/ref.pl"&gt;Reference Manual&lt;/a&gt;) 所提供的 Tutorial, 學會使用基本操作&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;[作業二投影片](simplest2.html){:target="_blank"}&lt;/p&gt;
+
+&lt;h1&gt;關於繪圖解說&lt;/h1&gt;
+&lt;p&gt;&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;步驟一:繪出一個非垂直的L型&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://copy.com/yYVEvtJi3yHn1Ofy" width="400" height="200" alt="L圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;步驟二:利用左邊視窗中的T繪出圓角&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://copy.com/XJ0d1wqxcYPGniQS" width="400" height="200" alt="圓角圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;步驟三:擠出圖型&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://copy.com/4IzclRMfkApqQti2" width="400" height="200" alt="擠出圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;步驟四:繪出一個三角形並定義位置，擠出成為肋&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://copy.com/s1WUHqF4YIqFrPkX" width="400" height="200" alt="肋圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;步驟五:繪製兩個圓並擠出，按下右邊視窗的different變為除料，挖出兩個孔&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://copy.com/AHqohmzfYTsvOlUn" width="400" height="200" alt="孔圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;h1&gt;關於繪圖工具列解說&lt;/h1&gt;
+&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;
+
+&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;此工具為畫草圖平面&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://copy.com/1HFJxgpBsujzWBHM" width="200" height="200" alt="孔圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;此為擠出&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://copy.com/8Jn3otqHA2if10nv" width="200" height="200" alt="孔圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;這些為限條定義&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://copy.com/iuOrWTXvo6PRZWH4" width="200" height="400" alt="孔圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;此為畫相切圓&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://copy.com/Yc219gSakwLPSqRY" width="200" height="200" alt="孔圖"&gt;&lt;/img&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
