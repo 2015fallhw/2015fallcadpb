@@ -103,7 +103,7 @@ Summary: 第二組第十一週工作報告<br />Nutcracker 機構
 
 <a href="https://copy.com/y217HNo9NV8OkNSk">零件NO.6檔案位置</a>
 
-<img src="https://copy.com/Ty3MxZTLeZrqpllf"width="450"height="350">
+<img src="https://copy.com/V8A0t9ySlWG8Dfpa"width="450"height="350">
 
 <p>
 <iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
