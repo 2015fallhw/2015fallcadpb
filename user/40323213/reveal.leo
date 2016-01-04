@@ -181,9 +181,9 @@
 </v>
 </v>
 <v t="leo.20160104163501.1"><vh>@button open html-2</vh>
-<v t="leo.20160104163501.2"><vh>@clean cadp_w14_lecture.html</vh>
+<v t="leo.20160104163501.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
 <v t="leo.20160104163501.3"><vh>檔案說明</vh></v>
-<v t="leo.20160104163501.4"><vh>html 標註</vh>
+<v t="leo.20160104163501.4" a="E"><vh>html 標註</vh>
 <v t="leo.20160104163501.5" a="E"><vh>body 標註</vh>
 <v t="leo.20160104163501.6" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160104163501.7" a="E"><vh>div class="slides"</vh>
@@ -1218,7 +1218,7 @@ content: "課程: 電腦輔助設計實習B 學號: 40323213"; }&lt;/style&gt;</
 <t tx="leo.20160104163447.14">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;自評與心得&lt;/h1&gt;
-    &lt;p&gt;自評分數:70&lt;/p&gt;
+    &lt;p&gt;自評分數:80&lt;/p&gt;
     &lt;p&gt;在學校時沒leo所以求救同學，看同學幫我弄時，速度超快感覺很厲害，後來看了別人的影片，學習完之後發現我自己也可以這樣，覺得不錯玩。&lt;/p&gt;
         
 &lt;/section&gt;
@@ -1287,7 +1287,7 @@ cadp w12 講課內容投影片
 
     &lt;section&gt;
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
-    &lt;h1&gt;第 11 週開始的規劃&lt;/h1&gt;
+    &lt;h1&gt;第 12週開始的規劃&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
     &lt;/section&gt;
     
