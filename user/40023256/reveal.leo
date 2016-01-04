@@ -31,6 +31,11 @@
 <v t="12.20151229181509.8"><vh>@edit 2015cphww6.md</vh></v>
 <v t="12.20151229181509.5"><vh>@edit 2015cphww7.md</vh></v>
 <v t="12.20151229181509.6"><vh>@edit 2015cphww8.md</vh></v>
+<v t="4123.20160104103112.1"><vh>@edit 2015cphww10.md</vh></v>
+<v t="4123.20160104103120.1"><vh>@edit 2015cphww11.md</vh></v>
+<v t="4123.20160104103121.1"><vh>@edit 2015cphww12.md</vh></v>
+<v t="4123.20160104103126.1"><vh>@edit 2015cphww14.md</vh></v>
+<v t="4123.20160104103127.1"><vh>@edit 2015cphww15.md</vh></v>
 </v>
 </v>
 </v>
@@ -130,6 +135,92 @@
 </v>
 </v>
 <v t="12.20151229181447.56"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="4123.20160104103420.1" a="E"><vh>@clean 40023256_cp_w9.html</vh>
+<v t="4123.20160104103420.2"><vh>檔案說明</vh></v>
+<v t="4123.20160104103420.3" a="E"><vh>html 標註</vh>
+<v t="4123.20160104103420.4" a="E"><vh>body 標註</vh>
+<v t="4123.20160104103420.5" a="E"><vh>div class="reveal"</vh>
+<v t="4123.20160104103420.6" a="E"><vh>div class="slides"</vh>
+<v t="4123.20160104103420.7"><vh>有關我的作業</vh></v>
+<v t="4123.20160104103420.8"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="4123.20160104103420.9"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="4123.20160104103421.1" a="E"><vh>@clean 40023256_cp_w10.html</vh>
+<v t="4123.20160104103421.2"><vh>檔案說明</vh></v>
+<v t="4123.20160104103421.3" a="E"><vh>html 標註</vh>
+<v t="4123.20160104103421.4" a="E"><vh>body 標註</vh>
+<v t="4123.20160104103421.5" a="E"><vh>div class="reveal"</vh>
+<v t="4123.20160104103421.6" a="E"><vh>div class="slides"</vh>
+<v t="4123.20160104103421.7" a="E"><vh>有關我的作業</vh>
+<v t="4123.20160104103719.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="4123.20160104103421.8" a="E"><vh>第3張投影片</vh>
+<v t="4123.20160104103719.1"></v>
+</v>
+</v>
+</v>
+<v t="4123.20160104103421.9"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="4123.20160104103423.1" a="E"><vh>@clean 40023256_cp_w11.html</vh>
+<v t="4123.20160104103423.2"><vh>檔案說明</vh></v>
+<v t="4123.20160104103423.3" a="E"><vh>html 標註</vh>
+<v t="4123.20160104103423.4" a="E"><vh>body 標註</vh>
+<v t="4123.20160104103423.5" a="E"><vh>div class="reveal"</vh>
+<v t="4123.20160104103423.6" a="E"><vh>div class="slides"</vh>
+<v t="4123.20160104103423.7" a="E"><vh>有關我的作業</vh>
+<v t="4123.20160104103732.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="4123.20160104103423.8" a="EM"><vh>第3張投影片</vh>
+<v t="4123.20160104103732.1"></v>
+</v>
+</v>
+</v>
+<v t="4123.20160104103423.9"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="4123.20160104103424.1" a="E"><vh>@clean 40023256_cp_w12.html</vh>
+<v t="4123.20160104103424.2"><vh>檔案說明</vh></v>
+<v t="4123.20160104103424.3" a="E"><vh>html 標註</vh>
+<v t="4123.20160104103424.4" a="E"><vh>body 標註</vh>
+<v t="4123.20160104103424.5" a="E"><vh>div class="reveal"</vh>
+<v t="4123.20160104103424.6" a="E"><vh>div class="slides"</vh>
+<v t="4123.20160104103424.7" a="E"><vh>有關我的作業</vh>
+<v t="4123.20160104104024.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="4123.20160104103424.8" a="E"><vh>第3張投影片</vh>
+<v t="4123.20160104104024.1"></v>
+</v>
+</v>
+</v>
+<v t="4123.20160104103424.9"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="4123.20160104103427.1" a="E"><vh>@clean 40023256_cp_w13.html</vh>
+<v t="4123.20160104103427.2"><vh>檔案說明</vh></v>
+<v t="4123.20160104103427.3" a="E"><vh>html 標註</vh>
+<v t="4123.20160104103427.4" a="E"><vh>body 標註</vh>
+<v t="4123.20160104103427.5" a="E"><vh>div class="reveal"</vh>
+<v t="4123.20160104103427.6" a="E"><vh>div class="slides"</vh>
+<v t="4123.20160104103427.7" a="E"><vh>有關我的作業</vh>
+<v t="4123.20160104104032.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="4123.20160104103427.8" a="E"><vh>第3張投影片</vh>
+<v t="4123.20160104104032.1"></v>
+</v>
+</v>
+</v>
+<v t="4123.20160104103427.9"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -602,6 +693,367 @@ g.es("user pelican 執行完畢")</t>
     });
 &lt;/script&gt;
 	
+</t>
+<t tx="4123.20160104103420.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="4123.20160104103420.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="4123.20160104103420.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="4123.20160104103420.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="4123.20160104103420.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="4123.20160104103420.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="4123.20160104103420.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設五乙&lt;/h2&gt;
+    &lt;p&gt;40023256 蕭閔鍵&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="4123.20160104103420.8">&lt;section&gt; 
+    &lt;h2&gt;心得與自評&lt;/h2&gt;
+    &lt;p&gt;粗略的實物測繪電動自行車的尺寸草圖，利用creo分工繪製零件&lt;/p&gt;
+    &lt;p&gt;自評分數 :  70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="4123.20160104103420.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="4123.20160104103421.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="4123.20160104103421.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="4123.20160104103421.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="4123.20160104103421.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="4123.20160104103421.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="4123.20160104103421.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="4123.20160104103421.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+    &lt;h2&gt;四設五乙&lt;/h2&gt;
+    &lt;p&gt;40023256 蕭閔鍵&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="4123.20160104103421.8">&lt;&lt; header &gt;&gt;
+    &lt;h2&gt;心得與自評&lt;/h2&gt;
+    &lt;p&gt;這週要在投影片裡面建立自己的學號證明，透過同學的教導才能順利完成，比較需要注意的地方是要在div class="reveal"裡面 新增屬性&lt;/p&gt;
+    &lt;p&gt;自評分數 :  65分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="4123.20160104103421.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="4123.20160104103423.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="4123.20160104103423.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="4123.20160104103423.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="4123.20160104103423.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="4123.20160104103423.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="4123.20160104103423.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="4123.20160104103423.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+    &lt;h2&gt;四設五乙&lt;/h2&gt;
+    &lt;p&gt;40023256 蕭閔鍵&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="4123.20160104103423.8">&lt;&lt; header &gt;&gt;
+    &lt;h2&gt;心得與自評&lt;/h2&gt;
+    &lt;p&gt;建立個人學號的leo檔案，在nutcracker專案中我負責的是件號7.Hinge、8.Piston &lt;/p&gt;
+    &lt;p&gt;自評分數 :  70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="4123.20160104103423.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="4123.20160104103424.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="4123.20160104103424.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="4123.20160104103424.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="4123.20160104103424.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="4123.20160104103424.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="4123.20160104103424.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="4123.20160104103424.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+    &lt;h2&gt;四設五乙&lt;/h2&gt;
+    &lt;p&gt;40023256 蕭閔鍵&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="4123.20160104103424.8">&lt;&lt; header &gt;&gt;
+    &lt;h2&gt;心得與自評&lt;/h2&gt;
+    &lt;p&gt;建立Onshape帳號，並繪製nutcracker零件，並熟悉操作介面，此程式有版次管理，以往apple無法相容的軟體，找到了解決的辦法&lt;/p&gt;
+    &lt;p&gt;自評分數 :  70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="4123.20160104103424.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="4123.20160104103427.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="4123.20160104103427.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="4123.20160104103427.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="4123.20160104103427.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="4123.20160104103427.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="4123.20160104103427.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="4123.20160104103427.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+    &lt;h2&gt;四設五乙&lt;/h2&gt;
+    &lt;p&gt;40023256 蕭閔鍵&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="4123.20160104103427.8">&lt;&lt; header &gt;&gt;
+    &lt;h2&gt;心得與自評&lt;/h2&gt;
+    &lt;p&gt;這週要開始和組員分配onshape零件，每個人都要拍一個組立影片，對於計算運動範圍還不太熟悉&lt;/p&gt;
+    &lt;p&gt;自評分數 :  70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="4123.20160104103427.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="4123.20160104103719.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40023256"; }&lt;/style&gt;
+</t>
+<t tx="4123.20160104103732.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40023256"; }&lt;/style&gt;
+</t>
+<t tx="4123.20160104104024.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40023256"; }&lt;/style&gt;
+</t>
+<t tx="4123.20160104104032.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40023256"; }&lt;/style&gt;
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {

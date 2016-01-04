@@ -88,6 +88,10 @@ Onshape practice video(40323246)
 <br>
 <hr>
 <br>
+Onshape practice video(40023256)
+<br>
+<iframe src="https://player.vimeo.com/video/150625381" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/150625381">核桃機組立</a> from <a href="https://vimeo.com/user41117372">40023256</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 

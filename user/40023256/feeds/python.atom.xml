@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015 40023256 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-15T21:16:00+08:00</updated><entry><title>2015 計算機程式 第八週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-11-15T21:16:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-11-15:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015 40023256 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-04T10:35:00+08:00</updated><entry><title>2015 計算機程式 第十五週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2016-01-04T10:35:00+08:00</updated><author><name>40023256</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="40023256_cp_w13.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40023256_cp_w13.html" target="_blank"&gt;作業一投影片&lt;/a&gt;
+&lt;br&gt;
+&lt;h2&gt;nutcracker 組立&lt;/h2&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150625381" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/150625381"&gt;核桃機組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user41117372"&gt;40023256&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第八週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w14.html" rel="alternate"></link><updated>2016-01-04T10:33:00+08:00</updated><author><name>40023256</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cp_hw_w14.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="40023256_cp_w12.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40023256_cp_w12.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十二週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2016-01-04T10:32:00+08:00</updated><author><name>40023256</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="40023256_cp_w11.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40023256_cp_w11.html" target="_blank"&gt;作業一投影片&lt;/a&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(3)Nutcracker - Hinge      &lt;br /&gt;
+&lt;br&gt;
+Author:40023256
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/alyBS1Sl01tIkz1R"&gt;Component-Hinge&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/BNPXny1MNthP7XUL"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40023256/part/hinge.stl"width="300"height="300"&gt;&lt;/script&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(4)Nutcracker - Piston      &lt;br /&gt;
+&lt;br&gt;
+Author:40023256
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/B1JtIoyQMn2VDggA"&gt;Component-Piston&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/yFwlXHYmDYWucs6V"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40023256/part/piston.stl"width="300"height="300"&gt;&lt;/script&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十一週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2016-01-04T10:31:00+08:00</updated><author><name>40023256</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="40023256_cp_w10.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40023256_cp_w10.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w10.html" rel="alternate"></link><updated>2016-01-04T10:30:00+08:00</updated><author><name>40023256</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="40023256_cp_w9.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40023256_cp_w9.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第八週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-11-15T21:16:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-11-15:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="40023256_cp_w8.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="40023256_cp_w8.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第七週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-11-15T21:14:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-11-15:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
