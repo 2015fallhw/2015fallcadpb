@@ -180,7 +180,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160104232037.1" a="E"><vh>@clean cadp_w15_lecture.html</vh>
+<v t="leo.20160104232037.1"><vh>@clean cadp_w15_lecture.html</vh>
 <v t="leo.20160104232037.2"><vh>檔案說明</vh></v>
 <v t="leo.20160104232037.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160104232037.4" a="E"><vh>body 標註</vh>
