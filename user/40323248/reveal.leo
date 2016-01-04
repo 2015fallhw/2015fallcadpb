@@ -183,7 +183,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151230182156.1"><vh>@clean 40323248_cp_w16.html</vh>
+<v t="leo.20151230182156.1" a="E"><vh>@clean 40323248_cp_w16.html</vh>
 <v t="leo.20151230182156.2"><vh>檔案說明</vh></v>
 <v t="leo.20151230182156.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151230182156.4" a="E"><vh>body 標註</vh>
@@ -1113,7 +1113,7 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323248 楊承儒 &lt;br&gt;12月21日&lt;/p&gt;		
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;1月4日&lt;/p&gt;		
 &lt;/section&gt;
 	
     </t>
@@ -1126,8 +1126,8 @@ jupyter notebook
 	
 </t>
 <t tx="leo.20151230182156.9">&lt;section&gt;
-    &lt;h2&gt;自評75分&lt;/h2&gt;
-    &lt;p&gt;，&lt;/p&gt;
+    &lt;h2&gt;自評80分&lt;/h2&gt;
+    &lt;p&gt;電腦輔助設計與實習課程讓我們接觸到了二個繪圖程式(solvespace和Creo)還有一個繪圖網站(Onshape),並且以分組的模式讓隊友們能各自安排各自的任務,而且互相討論及學習,操作較方便,但容易受到網路影響，這學期下來讓我們漸漸的進入協同課程,替下學期的產品協同課程做基礎,希望下學期能夠充分學習到。&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 
