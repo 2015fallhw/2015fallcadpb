@@ -183,7 +183,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151230182156.1" a="E"><vh>@clean 40323248_cp_w16.html</vh>
+<v t="leo.20151230182156.1"><vh>@clean 40323248_cp_w16.html</vh>
 <v t="leo.20151230182156.2"><vh>檔案說明</vh></v>
 <v t="leo.20151230182156.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151230182156.4" a="E"><vh>body 標註</vh>
@@ -1119,8 +1119,8 @@ jupyter notebook
     </t>
 <t tx="leo.20151230182156.8">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;，
-      &lt;/p&gt;
+    &lt;p&gt;建立一個共同介面，名稱為b_g*_nutcracker(*為組別)，零件分工畫出，並且放入公用見面分享給組員，import所有零件，建一個組合圖 ，引入八個零件組合，並設定參數。
+&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w16.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
 	
