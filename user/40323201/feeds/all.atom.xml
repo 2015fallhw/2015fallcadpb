@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323201 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-19T11:41:00+08:00</updated><entry><title>2015 計算機程式 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-19T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-19:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323201 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-23T11:41:00+08:00</updated><entry><title>2015 計算機程式 W_ 15</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-23T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-23:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="cadp_w15_lecture.html" width="750" height="450"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w15_lecture.html" target="_blank"&gt;作業W15投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============&lt;/p&gt;
+&lt;h2&gt;作業W15  Onshape 零件組合&lt;/h2&gt;
+&lt;p&gt;!! 一定要有資料夾共同使用權才能在其中建立組裝 !!
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uKpKm-ziWMY?list=PL6na4qQvaKVLf6RwFlDugeniFGoOILa_8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W_ 14</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w14.html" rel="alternate"></link><updated>2015-12-22T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-22:reveal/2015cp_hw_w14.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="cadp_w14_lecture.html" width="750" height="450"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w14_lecture.html" target="_blank"&gt;作業W14投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============&lt;/p&gt;
+&lt;h2&gt;作業W14  Onshape 零件繪製&lt;/h2&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/miW4PDc8NA8?list=PL6na4qQvaKVLf6RwFlDugeniFGoOILa_8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;
+(其他零件由其他組員繪製)&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W_ 13</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w13.html" rel="alternate"></link><updated>2015-12-21T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/2015cp_hw_w13.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="cadp_w13_lecture.html" width="750" height="450"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w13_lecture.html" target="_blank"&gt;作業W13投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============&lt;/p&gt;
+&lt;h2&gt;作業W13  放置 W11 之 stl 檔&lt;/h2&gt;
+&lt;p&gt;!! 注意不要複製到 blob !!
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Y3miCQSjFAM?list=PL6na4qQvaKVLf6RwFlDugeniFGoOILa_8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/baconLEE/group3/master/Adjuster%20Base.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/baconLEE/group3/master/cylinder.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/baconLEE/group3/master/asm0001.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
+(其他零件由其他組員繪製)&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W_ 12</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-19T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-19:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="cadp_w12_lecture.html" width="750" height="450"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="cadp_w12_lecture.html" target="_blank"&gt;作業五投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="cadp_w12_lecture.html" target="_blank"&gt;作業W12投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;============&lt;/p&gt;
-&lt;h2&gt;作業五  左上角之課程學號顯示 / 建立可攜系統&lt;/h2&gt;
+&lt;h2&gt;作業W12  左上角之課程學號顯示 / 建立可攜系統&lt;/h2&gt;
 &lt;p&gt;左上角之課程學號顯示
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wzFP0zOmNWQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;建立可攜系統
@@ -25,24 +57,47 @@
 &lt;p&gt;6. pip uninstall leo&lt;/p&gt;
 
 &lt;p&gt;7. pip install https://github.com/leo-editor/leo-editor/archive/broke-abbrev.zip
-&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-10T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
+&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W_ 11</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-10T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="cadp_w11_lecture.html" width="750" height="450"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="cadp_w11_lecture.html" target="_blank"&gt;作業四投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="cadp_w11_lecture.html" target="_blank"&gt;作業W11投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;============&lt;/p&gt;
-&lt;h2&gt;作業四  零件繪製 / 組裝&lt;/h2&gt;
+&lt;h2&gt;作業W11  零件繪製 / 組裝&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/N3UMXC3w61FmhNu2"&gt;Download Adjuster_base.prt&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/wZhq9RcZ7gcwGNp4"width="400"height="300"&gt;
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/CMiQHlyVkUHlhzHA"&gt;Download Cylinder.prt&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/GR7K12E3zwu6sFgf"width="400"height="300"&gt;
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/Z3yommjZLpwCLrAL"&gt;Download 組合圖.asm&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/eC612yaacprCmB7H"width="400"height="300"&gt;
+&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Creo- HW 零件1&amp;amp;5Adjuster base Cylinder 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/E2CLu567Dhw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;(其他零件由其他組員繪製)&lt;/p&gt;
 &lt;p&gt;Creo- HW 組合圖
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kZWhu-zZcP0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-20T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-10-20:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kZWhu-zZcP0?list=PL6na4qQvaKVLf6RwFlDugeniFGoOILa_8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W_ 7</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-10-21T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-10-21:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;作業W7投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============&lt;/p&gt;
+&lt;h2&gt;作業W7  推至班上共同倉儲&lt;/h2&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DxqWrPSCz5A?list=PL6na4qQvaKVLf6RwFlDugeniFGoOILa_8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W_ 5</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-20T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-10-20:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業三投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業W5投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;============&lt;/p&gt;
-&lt;h2&gt;作業三  Creo&lt;/h2&gt;
+&lt;h2&gt;作業W5  Creo&lt;/h2&gt;
 &lt;p&gt;Creo- HW 1-1 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FHr9FXWwJSw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;
 Creo- HW 1-2
@@ -50,23 +105,23 @@ Creo- HW 1-2
 Creo- HW 1-3
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/F7Tm_cgC99c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;
 &lt;a href="https://youtu.be/FHr9FXWwJSw"&gt;Creo- HW 1-1 ~3 &lt;/a&gt;&lt;a href="https://www.youtube.com/"&gt;Youtube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;(http://www.google.com){:target="_blank"}, 也可以連到同目錄下的檔案 &lt;a href="cadpbw1.html" target="_blank"&gt;cadpbw1.html&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-15T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-10-15:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
+&lt;p&gt;(http://www.google.com){:target="_blank"}, 也可以連到同目錄下的檔案 &lt;a href="cadpbw1.html" target="_blank"&gt;cadpbw1.html&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W_ 3</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-15T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-10-15:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;作業二投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;作業W3投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;============&lt;/p&gt;
-&lt;h2&gt;作業二  Solvespace&lt;/h2&gt;
+&lt;h2&gt;作業W3  Solvespace&lt;/h2&gt;
 &lt;p&gt;&lt;img src="https://copy.com/DIj69TmVNTtZeLtJ" width="500" &gt;&lt;/img&gt;
 &lt;img src="https://copy.com/aatBlQqpXY9O1sQH" width="500" &gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;(http://www.google.com){:target="_blank"}, 也可以連到同目錄下的檔案 &lt;a href="cadpbw1.html" target="_blank"&gt;cadpbw1.html&lt;/a&gt;&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YogTkNqoLCg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=YogTkNqoLCg&amp;feature=youtu.be"&gt;2015 計算機程式HW1 &lt;/a&gt;&lt;a href="https://www.youtube.com/"&gt;Youtube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-25T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-09-25:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;心得與討論之投影片&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=YogTkNqoLCg&amp;feature=youtu.be"&gt;2015 計算機程式HW1 &lt;/a&gt;&lt;a href="https://www.youtube.com/"&gt;Youtube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W_ 1</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-25T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-09-25:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;心得與討論之投影片&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業W1投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;使用 H1 標題&lt;/h1&gt;
 &lt;p&gt;文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視連續的資料&lt;/p&gt;
 &lt;p&gt;使用. &lt;em&gt;斜體文字&lt;/em&gt;, &lt;strong&gt;黑體文字&lt;/strong&gt;, 以及 &lt;code&gt;單線文字&lt;/code&gt;. 表列資料可以寫為:&lt;/p&gt;
