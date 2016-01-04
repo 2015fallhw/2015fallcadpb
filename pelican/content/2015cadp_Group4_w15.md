@@ -130,7 +130,7 @@ src="https://copy.com/uYG9NIrDC106xrU7"width="500"height="500">
 <br /><h2>(5)負責人:</h2><a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323240/'>40323240-陳建中</a>
 <br />組合影片
-
+<iframe src="https://player.vimeo.com/video/150652766" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150652766">Onshape 組合</a> from <a href="https://vimeo.com/user47023306">louis</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br /><h2>(6)負責人:</h2><a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323225/'>40323225-姜智翔</a>
 <br />組合影片
