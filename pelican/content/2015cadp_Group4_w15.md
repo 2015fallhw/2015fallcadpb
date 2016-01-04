@@ -25,7 +25,7 @@ src="https://copy.com/Cx1Y6XFF0ZcsAcBT"width="500"height="500">
 <br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/1.stl"></script>
 
-<br />零件1影片
+<h2>零件1影片</h2>
 <iframe src="https://player.vimeo.com/video/150092381" width="500" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150092381">W14-零件1</a> from <a href="https://vimeo.com/user44939680">40323253</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <br />
@@ -36,11 +36,22 @@ src="https://copy.com/ey9snzTFthvliODt"width="500"height="500">
 <br />
 <script src="https://embed.github.com/view/3d/40323253/cadp/gh-pages/2.stl"></script>
 
-<br />零件2影片
+<h2>零件2影片</h2>
 <iframe src="https://player.vimeo.com/video/150467531" width="500" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150467531">W14-零件2</a> from <a href="https://vimeo.com/user45426766">40323253two</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<br />組合影片
+<h2>組合影片</h2>
 <iframe src="https://player.vimeo.com/video/150514988" width="500" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150514988">組立</a> from <a href="https://vimeo.com/user44939680">40323253</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<h2>設定限制</h2>
+<iframe src="https://player.vimeo.com/video/150632151" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150632151">設定限制</a> from <a href="https://vimeo.com/user44939680">40323253</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<h2>最大範圍</h2>
+<img
+src="https://copy.com/W3bSw9hDUSlW8okH"width="450"height="500">
+<br />
+<h2>最小範圍</h2>
+<img
+src="https://copy.com/0Skd6OlFnTZjuATh"width="450"height="500">
+<br />
 
 <br /><h2>(2)負責人:</h2><a
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323252/'>40323252-廖麒源</a>
