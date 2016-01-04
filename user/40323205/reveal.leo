@@ -752,7 +752,7 @@ cadp w12 講課內容投影片
 
     &lt;section&gt;
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
-    &lt;h1&gt;第 11 週開始的規劃&lt;/h1&gt;
+    &lt;h1&gt;第 10 . 11 週開始的規劃&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
     &lt;/section&gt;
     
