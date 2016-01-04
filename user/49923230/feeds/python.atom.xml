@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 49923230 電腦輔助設計實習 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-27T20:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第10週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;Slides of Installing Miniconda and Fix&lt;/p&gt;
-&lt;p&gt;Using iframe to insert slides:&lt;/p&gt;
-&lt;iframe src="2015cadpslidesw10.html" width="500" height="300"&gt;&lt;/iframe&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 49923230 電腦輔助設計實習 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-21T20:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第15週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-21T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;Using iframe to insert slides:&lt;/p&gt;
+&lt;iframe src="2015cadpslidesw15.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="2015cadpslidesw10.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
+&lt;p&gt;&lt;a href="2015cadpslidesw15.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
 &lt;br&gt;
 &lt;hr&gt;
 &lt;html&gt;
@@ -18,59 +17,8 @@
 &lt;/html&gt;
 &lt;hr&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;What's the contents in the sides?&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Videos of &lt;strong&gt;Install Miniconda&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Reviews of &lt;strong&gt;Install Miniconda&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Reviews of installing miniconda and other portable tools.&lt;/h2&gt;
-&lt;p&gt;Anaconda is the full package portable tools, which may take too much storage from the disk. Miniconda is for solving thiese problems. Which you just need to install the tools that you want to use.Which became even more convenient for people to make a persoanl portable tools.&lt;/p&gt;
-&lt;h2&gt;Videos of installing miniconda&lt;/h2&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147218972" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147218972"&gt;install miniconda&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h2&gt;Videos of installing fix in miniconda&lt;/h2&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/148002251" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148002251"&gt;install fix&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第11週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
-&lt;hr&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;title&gt;one of us.mp3&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;audio controls pause loop&gt;
-        &lt;source src="https://copy.com/ITOl2LH73BzCm32f"&gt;
-    &lt;/audio&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-&lt;hr&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;Drawing Cylinder and Handle by Creo&lt;/h1&gt;
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-(1)Nutcracker - Cylindr 
-&lt;br&gt;       &lt;br /&gt;
-Author: 49923230
-&lt;br&gt;
-&lt;p align="left"&gt;&lt;a href="https://copy.com/3BJJzoa2AqV6ZuuC"&gt;Cylinder component&lt;/a&gt;
-&lt;br&gt;
-&lt;img
-src="https://copy.com/0Zu3snYRujEz40YZ"width="300"height="300"&gt;
-&lt;br&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/49923230/componentstl/cylinder.stl"width="300"height="300"&gt;&lt;/script&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;(2)Nutcracker - Handle        &lt;br /&gt;
-&lt;br&gt;
-Author:49923230
-&lt;br&gt;
-&lt;p align="left"&gt;&lt;a href="https://copy.com/r1FdiwWNxnT4AOj1"&gt;Handle component&lt;/a&gt;
-&lt;br&gt;
-&lt;img
-src="https://copy.com/6svYtsWJip8AA9G6"width="300"height="300"&gt;
-&lt;br&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/49923230/componentstl/handle.stl"width="300"height="300"&gt;&lt;/script&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;Reviews of using Creo and Github with team&lt;/h2&gt;
-&lt;p&gt;Actually, I think it's very convinient that github can help us to save all the history which have pushed up to the github page. But since Onshape has been on the market recently. There is the other way can collaborate with the team. But still, github is not only for CAD design. It's for programming designer who can writing the program by collaboration. So I think github is still irreplaceable.  &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第14週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w14.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w14.html</id><summary type="html">&lt;p&gt;Drawing Nutcracker by Onshape&lt;/p&gt;
+&lt;h2&gt;Semester reviews&lt;/h2&gt;
+&lt;p&gt;It's really cool that professor taught us not only CAD, but also a lot of value system and growing trend of technology of the world. I didn't know anything about github before, cuz I didn't have that much interested in programming. But I realize that it's also a trend in the world. It's almost becoming a basic knowledge for every single person. It's a awsome couse I can ever have. And also professor always mention about how important of english skill. So that's why I tried to do most of the assignments in english instead of chinese. In the future, we will face all the competitor from all over the world. And english will be the basic skill for us to compete with them. &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第14週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w14.html" rel="alternate"></link><updated>2015-12-14T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/2015cp_hw_w14.html</id><summary type="html">&lt;p&gt;Drawing Nutcracker by Onshape&lt;/p&gt;
 &lt;p&gt;Using iframe to insert slides:&lt;/p&gt;
 &lt;iframe src="2015cadpslidesw14.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -120,11 +68,7 @@ Close - minimum space between piston and adjuster
 &lt;p&gt;&lt;br&gt;
 &lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/49923230/componentstl/nutcracker.stl"width="300"height="300"&gt;&lt;/script&gt;
 &lt;br&gt;
-&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第15週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;Using iframe to insert slides:&lt;/p&gt;
-&lt;iframe src="2015cadpslidesw15.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="2015cadpslidesw15.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
-&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第11週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-11-23T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-11-23:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
 &lt;hr&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -138,12 +82,39 @@ Close - minimum space between piston and adjuster
 &lt;/html&gt;
 &lt;hr&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;Semester reviews&lt;/h2&gt;
-&lt;p&gt;It's really cool that professor taught us not only CAD, but also a lot of value system and growing trend of technology of the world. I didn't know anything about github before, cuz I didn't have that much interested in programming. But I realize that it's also a trend in the world. It's almost becoming a basic knowledge for every single person. It's a awsome couse I can ever have. And also professor always mention about how important of english skill. So that's why I tried to do most of the assignments in english instead of chinese. In the future, we will face all the competitor from all over the world. And english will be the basic skill for us to compete with them. &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第2週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;Bellow is the 2nd week slide&lt;/p&gt;
+&lt;h1&gt;Drawing Cylinder and Handle by Creo&lt;/h1&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+(1)Nutcracker - Cylindr 
+&lt;br&gt;       &lt;br /&gt;
+Author: 49923230
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/3BJJzoa2AqV6ZuuC"&gt;Cylinder component&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/0Zu3snYRujEz40YZ"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/49923230/componentstl/cylinder.stl"width="300"height="300"&gt;&lt;/script&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;(2)Nutcracker - Handle        &lt;br /&gt;
+&lt;br&gt;
+Author:49923230
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/r1FdiwWNxnT4AOj1"&gt;Handle component&lt;/a&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/6svYtsWJip8AA9G6"width="300"height="300"&gt;
+&lt;br&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/49923230/componentstl/handle.stl"width="300"height="300"&gt;&lt;/script&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;Reviews of using Creo and Github with team&lt;/h2&gt;
+&lt;p&gt;Actually, I think it's very convinient that github can help us to save all the history which have pushed up to the github page. But since Onshape has been on the market recently. There is the other way can collaborate with the team. But still, github is not only for CAD design. It's for programming designer who can writing the program by collaboration. So I think github is still irreplaceable.  &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第10週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-11-16T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-11-16:reveal/2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;Slides of Installing Miniconda and Fix&lt;/p&gt;
 &lt;p&gt;Using iframe to insert slides:&lt;/p&gt;
-&lt;iframe src="2015cadpslidesw1.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;iframe src="2015cadpslidesw10.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="2015cadpslidesw1.html" target="_blank"&gt;Fullscreen slides&lt;/a&gt;
+&lt;p&gt;&lt;a href="2015cadpslidesw10.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
 &lt;br&gt;
 &lt;hr&gt;
 &lt;html&gt;
@@ -158,42 +129,21 @@ Close - minimum space between piston and adjuster
 &lt;/html&gt;
 &lt;hr&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;What's the contents of the slides?&lt;/h1&gt;
-&lt;p&gt;The 1st uploading slide included a few items below:&lt;/p&gt;
+&lt;h1&gt;What's the contents in the sides?&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Reading and reviews of &lt;strong&gt;What engineers do?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Reading and reviews of &lt;strong&gt;Computer in Engineering&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Studying &lt;strong&gt;LeoEditor tutorials&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;1st uploading learning video from Vimeo&lt;/li&gt;
+&lt;li&gt;Videos of &lt;strong&gt;Install Miniconda&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Reviews of &lt;strong&gt;Install Miniconda&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Convert pdf file to html file and push up to github pages&lt;/h2&gt;
-&lt;p&gt;&lt;p&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?m=20151012" target="_blank"&gt;Professor's web&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://49923230.github.io/creo2primer/" target="_blank"&gt;My Creo2primer Github Page&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Operation detail: convert creo tutorials pdf file to himl file. And push the html file to the new repositories that you created. Then name the new repositories "Creo2primer".&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1.Go to "Professor's web" and link it to the web that professor offered.&lt;/li&gt;
-&lt;li&gt;2.Download the file converter and creo pdf file from professor's web.&lt;/li&gt;
-&lt;li&gt;3.Open a new repositories and name it "creo2primer.&lt;/li&gt;
-&lt;li&gt;4.Open cmd and type in "cd tmp" then type "git clone" to sync the github and local folder.&lt;/li&gt;
-&lt;li&gt;5.After you did you step 4 you will see a folder name creo2primer will show up in the y disk/tmp.&lt;/li&gt;
-&lt;li&gt;6.Copy the creo tutorials html file and paste them into the folder called creo2primer in disk y/tmp.&lt;/li&gt;
-&lt;li&gt;7.Open cmd and type in "cd creo2primer" and type in "git branch gh-pages" for creating a new web branch.&lt;/li&gt;
-&lt;li&gt;8.For switching the branch to gh-pages must type in "git checkout gh-pages".&lt;/li&gt;
-&lt;li&gt;9.Then type in "git add -A" then "git commit -m"initial add" then "git origin push gh-pages" then type in the account and password for pushing files.&lt;/li&gt;
-&lt;li&gt;10.After pushing all the files to the github then it's able to open the file from the link " http://49923230.github.io/creo2primer/".&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;My 1st learning record video:&lt;/h2&gt;
-&lt;iframe src="https://player.vimeo.com/video/144497585" width="500" height="276" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/144497585"&gt;w1hm&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第4週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;Below is the 4th week slides&lt;/p&gt;
+&lt;h2&gt;Reviews of installing miniconda and other portable tools.&lt;/h2&gt;
+&lt;p&gt;Anaconda is the full package portable tools, which may take too much storage from the disk. Miniconda is for solving thiese problems. Which you just need to install the tools that you want to use.Which became even more convenient for people to make a persoanl portable tools.&lt;/p&gt;
+&lt;h2&gt;Videos of installing miniconda&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147218972" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147218972"&gt;install miniconda&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h2&gt;Videos of installing fix in miniconda&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/148002251" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148002251"&gt;install fix&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第7週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-10-26T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-10-26:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;Below is the 7th week slides&lt;/p&gt;
 &lt;p&gt;Using iframe insert slides:&lt;/p&gt;
-&lt;iframe src="2015cadpslidesw4.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;iframe src="2015cadpslidesw7.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="2015cadpslidesw4.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
+&lt;p&gt;&lt;a href="2015cadpslidesw7.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
 &lt;br&gt;
 &lt;hr&gt;
 &lt;html&gt;
@@ -209,33 +159,31 @@ Close - minimum space between piston and adjuster
 &lt;hr&gt;
 &lt;br&gt;&lt;/p&gt;
 &lt;h1&gt;What's the contents of the sides?&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Videos of &lt;strong&gt;Learning Splvespace&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Reviews of &lt;strong&gt;Learning Solvespace&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Solvespace practice pics&lt;/h2&gt;
 &lt;p&gt;&lt;br&gt;
+  * Course reviews
+&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第6週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-10-19T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-10-19:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;p&gt;Below is the 6th week slides&lt;/p&gt;
+&lt;p&gt;Using iframe insert slides:&lt;/p&gt;
+&lt;iframe src="2015cadpslidesw6.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="2015cadpslidesw6.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
 &lt;br&gt;
-&lt;img src="https://copy.com/O27sA0aQIv7gPfIf"width="450"height="450"&gt;
-&lt;br&gt;
+&lt;hr&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;one of us.mp3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;audio controls pause loop&gt;
+        &lt;source src="https://copy.com/ITOl2LH73BzCm32f"&gt;
+    &lt;/audio&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;hr&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;Videos&lt;/h2&gt;
+&lt;h1&gt;What's the contents of the sides?&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt;
-Video 1
-&lt;br&gt;
-&lt;iframe src="https://player.vimeo.com/video/144497586" width="500" height="277" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144497586"&gt;bracket1&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;br&gt;
-&lt;br&gt;
-Video 2
-&lt;br&gt;
-&lt;iframe src="https://player.vimeo.com/video/144746169" width="500" height="277" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144746169"&gt;bracket2&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-Reviews&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Solvespace is a convenient 3D design software which you can save the exe file in the usb and bring it around. And if I came up with any ideas, I can simply use it to design my first 3D drawing. Then I can show my teammate or other people how does it looks like. &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第5週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;Below is the 5th week slides&lt;/p&gt;
+  * Course reviews
+&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第5週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-12T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-10-12:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;Below is the 5th week slides&lt;/p&gt;
 &lt;p&gt;Using iframe insert slides:&lt;/p&gt;
 &lt;iframe src="2015cadpslidesw5.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -301,11 +249,11 @@ Video 3
 &lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;Reviews&lt;/h2&gt;
 &lt;p&gt;Solidworks is the first 3D design software I learned when I first get into this university. Which I think the interface is very easy to get use to it. And now I try to learn Creo by the tutorials withour taking any class. It's a bit hard to get use to it but didn't take too much time. Even the interface are quite different between Solidworks and Creo, but they are quite similar. I'm still learning how to use more function with Creo then I can realize how powerful it is as professor said. 
-&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第6週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;p&gt;Below is the 6th week slides&lt;/p&gt;
+&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第4週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-05T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-10-05:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;Below is the 4th week slides&lt;/p&gt;
 &lt;p&gt;Using iframe insert slides:&lt;/p&gt;
-&lt;iframe src="2015cadpslidesw6.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;iframe src="2015cadpslidesw4.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="2015cadpslidesw6.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
+&lt;p&gt;&lt;a href="2015cadpslidesw4.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
 &lt;br&gt;
 &lt;hr&gt;
 &lt;html&gt;
@@ -321,13 +269,37 @@ Video 3
 &lt;hr&gt;
 &lt;br&gt;&lt;/p&gt;
 &lt;h1&gt;What's the contents of the sides?&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Videos of &lt;strong&gt;Learning Splvespace&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Reviews of &lt;strong&gt;Learning Solvespace&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Solvespace practice pics&lt;/h2&gt;
 &lt;p&gt;&lt;br&gt;
-  * Course reviews
-&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第7週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;Below is the 7th week slides&lt;/p&gt;
-&lt;p&gt;Using iframe insert slides:&lt;/p&gt;
-&lt;iframe src="2015cadpslidesw7.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/O27sA0aQIv7gPfIf"width="450"height="450"&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;Videos&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt;
+Video 1
+&lt;br&gt;
+&lt;iframe src="https://player.vimeo.com/video/144497586" width="500" height="277" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144497586"&gt;bracket1&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+Video 2
+&lt;br&gt;
+&lt;iframe src="https://player.vimeo.com/video/144746169" width="500" height="277" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144746169"&gt;bracket2&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+Reviews&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Solvespace is a convenient 3D design software which you can save the exe file in the usb and bring it around. And if I came up with any ideas, I can simply use it to design my first 3D drawing. Then I can show my teammate or other people how does it looks like. &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第2週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-21T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-21:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;Bellow is the 2nd week slide&lt;/p&gt;
+&lt;p&gt;Using iframe to insert slides:&lt;/p&gt;
+&lt;iframe src="2015cadpslidesw1.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="2015cadpslidesw7.html" target="_blank"&gt;Fullscreen slide&lt;/a&gt;
+&lt;p&gt;&lt;a href="2015cadpslidesw1.html" target="_blank"&gt;Fullscreen slides&lt;/a&gt;
 &lt;br&gt;
 &lt;hr&gt;
 &lt;html&gt;
@@ -342,9 +314,37 @@ Video 3
 &lt;/html&gt;
 &lt;hr&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;What's the contents of the sides?&lt;/h1&gt;
-&lt;p&gt;&lt;br&gt;
-  * Course reviews
+&lt;h1&gt;What's the contents of the slides?&lt;/h1&gt;
+&lt;p&gt;The 1st uploading slide included a few items below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reading and reviews of &lt;strong&gt;What engineers do?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Reading and reviews of &lt;strong&gt;Computer in Engineering&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Studying &lt;strong&gt;LeoEditor tutorials&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;1st uploading learning video from Vimeo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Convert pdf file to html file and push up to github pages&lt;/h2&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?m=20151012" target="_blank"&gt;Professor's web&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://49923230.github.io/creo2primer/" target="_blank"&gt;My Creo2primer Github Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Operation detail: convert creo tutorials pdf file to himl file. And push the html file to the new repositories that you created. Then name the new repositories "Creo2primer".&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1.Go to "Professor's web" and link it to the web that professor offered.&lt;/li&gt;
+&lt;li&gt;2.Download the file converter and creo pdf file from professor's web.&lt;/li&gt;
+&lt;li&gt;3.Open a new repositories and name it "creo2primer.&lt;/li&gt;
+&lt;li&gt;4.Open cmd and type in "cd tmp" then type "git clone" to sync the github and local folder.&lt;/li&gt;
+&lt;li&gt;5.After you did you step 4 you will see a folder name creo2primer will show up in the y disk/tmp.&lt;/li&gt;
+&lt;li&gt;6.Copy the creo tutorials html file and paste them into the folder called creo2primer in disk y/tmp.&lt;/li&gt;
+&lt;li&gt;7.Open cmd and type in "cd creo2primer" and type in "git branch gh-pages" for creating a new web branch.&lt;/li&gt;
+&lt;li&gt;8.For switching the branch to gh-pages must type in "git checkout gh-pages".&lt;/li&gt;
+&lt;li&gt;9.Then type in "git add -A" then "git commit -m"initial add" then "git origin push gh-pages" then type in the account and password for pushing files.&lt;/li&gt;
+&lt;li&gt;10.After pushing all the files to the github then it's able to open the file from the link " http://49923230.github.io/creo2primer/".&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;My 1st learning record video:&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/144497585" width="500" height="276" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/144497585"&gt;w1hm&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
 &lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
 &lt;p&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
