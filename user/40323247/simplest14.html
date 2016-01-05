@@ -1,0 +1,62 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+<h3>電腦輔助設計實習CADP</h3>
+    <p>40323247-黃顏維辰</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h3>課堂筆記</h3 >
+    <p>1.請各組組員利用學校配發的 Gmail 帳號，至 https://www.onshape.com 申請免費帳號</br>
+2.到onshape網頁建立自組共同空間→按create→share</br>
+3.按完後輸入自組組員的帳號→即可完成分享共同空間</br>
+5.先新建一個組合檔案→40323247_nc_XXXX</br>
+4.再來就可以使用共同空間，開始把零件叫進來然後組裝</br>
+
+6.慢慢就完成了組裝的組合圖 </p>
+
+</section>
+    
+				
+<section>
+    <h3>心得和評分</h3>
+    <p>這個程式是既上次Parametric零件與組合圖畫完之後，老師教的下一個繪圖軟體，心裡總想又要麻煩同學了，沒想到它是網頁版的繪圖軟體，當天在課堂上用學校的帳號辦會員，辦好的時候想說畫畫看，結果一畫，跟上次畫的Parametric有那麼一點點的相似，所以學起來比較快，但因為是英文所以我學得有些吃力，而且很多功能不太會使用，但在慢慢的摸索下，把零件與組合圖繪畫完，在這次的合作下發現到，為什麼零件7的洞沒辦法跟板子密合，原來是當初給的圖的尺寸是錯的，想說都畫對怎麼可能組不起來，在這次的合作，我們一步一步的完成最後Onshape的組合圖。<h3>自評分數:75。</h3></p>
+    
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
