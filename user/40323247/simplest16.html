@@ -1,0 +1,62 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+<h3>電腦輔助設計實習CADP</h3>
+    <p>40323247-黃顏維辰</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h3>Creo繪圖心得</h3 >
+    <p>  在學習這程式的過程中，有些不愉快與困擾，在畫這程式的時候，因為我電腦不知道為什麼用這程式回出現殘影，原本剛開始的座標都可以轉得跟球一樣，所以導致需要跟同學借電腦，都要等對方報告做換或是要忙的時候借電腦，一借就是很久，畫圖錄影就花了不好時間，借久都會覺得不好意思，總是麻煩到別人，但在這短短的畫圖期間，好好的研究程式，如何畫圖，換許還是許多功能不太會使用，但多多少少一些基本的畫得出來，這次的課程作業，讓我學習到一個新的3D繪圖軟體，可能時間不多，但卻認真的完成這次畫圖的作業，還一組分開畫零件，可以互相研究，一起合作讓我們把最好的Parametric組合圖畫出來，這都是大家一起努力的成果。</p>
+
+</section>
+    
+				
+<section>
+    <h3>Onshape繪圖心得</h3>
+    <p>這個程式是既上次Parametric零件與組合圖畫完之後，老師教的下一個繪圖軟體，心裡總想又要麻煩同學了，沒想到它是網頁版的繪圖軟體，當天在課堂上用學校的帳號辦會員，辦好的時候想說畫畫看，結果一畫，跟上次畫的Parametric有那麼一點點的相似，所以學起來比較快，但因為是英文所以我學得有些吃力，而且很多功能不太會使用，但在慢慢的摸索下，把零件與組合圖繪畫完，在這次的合作下發現到，為什麼零件7的洞沒辦法跟板子密合，原來是當初給的圖的尺寸是錯的，想說都畫對怎麼可能組不起來，在這次的合作，我們一步一步的完成最後Onshape的組合圖。</p>
+    
+</section>
+				
+<section>
+    <h2>自評分數:75</h2>
+    
+    
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
