@@ -25,11 +25,10 @@ src="https://copy.com/8oeZ6aSa42joGWaq"width="300"height="300">
 
  =================================================
  
- <font face="標楷體" color="#FF0000" size="5">Part_6
-: Handle </font>- <a href='user/40328245/'>40328245</a>
+ <font face="Arial" color="#FF0000" size="5">Part_6 :Handle </font>- <a href='user/40328245/'>40328245</a>
    
-   <img
-src="https://copy.com/XozVkYBMTyHqvRyg"width="300" height="300">
+ <img
+src="https://copy.com/XozVkYBMTyHqvRyg"width="600" height="600">
 
   <p align="left"><a href="https://copy.com/XozVkYBMTyHqvRyg">handle.prt</a>
   
