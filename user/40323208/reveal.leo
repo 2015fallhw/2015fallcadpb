@@ -250,7 +250,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160104105231.1" a="E"><vh>@button open htm1</vh>
+<v t="leo.20160104105231.1"><vh>@button open htm1</vh>
 <v t="leo.20160104105231.2" a="E"><vh>@clean cadp_w17_lecture.html</vh>
 <v t="leo.20160104105231.3"><vh>檔案說明</vh></v>
 <v t="leo.20160104105231.4" a="E"><vh>html 標註</vh>
