@@ -26,7 +26,6 @@
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="40323250.20151124123658.1"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="40323250.20151124123705.1"><vh>@edit 60_1.md</vh></v>
-<v t="123.20160102170744.1"><vh>@edit 60_2.md</vh></v>
 </v>
 </v>
 </v>
@@ -46,102 +45,9 @@
 </v>
 </v>
 </v>
-<v t="123.20160102170811.1"><vh>@clean 2.html</vh>
-<v t="123.20160102170811.2"><vh>檔案說明</vh></v>
-<v t="123.20160102170811.3" a="E"><vh>html 標註</vh>
-<v t="123.20160102170811.4" a="E"><vh>body 標註</vh>
-<v t="123.20160102170811.5" a="E"><vh>div class="reveal"</vh>
-<v t="123.20160102170811.6" a="E"><vh>div class="slides"</vh>
-<v t="123.20160102170811.7"><vh>投影頁面1 封面</vh></v>
-<v t="123.20160102170811.8"><vh>投影頁面2 筆記</vh></v>
-<v t="123.20160102170811.9"><vh>投影頁面 自評與心得</vh></v>
-</v>
-</v>
-<v t="123.20160102170811.10"><vh>script</vh></v>
-</v>
-</v>
-</v>
 </v>
 </vnodes>
 <tnodes>
-<t tx="123.20160102170811.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="123.20160102170811.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="123.20160102170811.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="123.20160102170811.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="123.20160102170811.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="123.20160102170811.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="123.20160102170811.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="123.20160102170811.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    
-    
-    &lt;h3&gt;四設計二乙&lt;/h3&gt;
-    &lt;h3&gt;40323260 詹偉志&lt;/h3&gt;
-	
-&lt;/section&gt;
-	
-</t>
-<t tx="123.20160102170811.8">&lt;section&gt;
-&lt;h2&gt;我是題目&lt;/h2&gt;
-
-
-
-
-&lt;/section&gt;
-				
-</t>
-<t tx="123.20160102170811.9">&lt;section&gt;
-    &lt;h3&gt;自評&lt;/h3&gt;
-    &lt;br&gt;
-    &lt;p&gt;123&lt;/p&gt;
-    &lt;p&gt;評分 :  0 &lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="40323250.20151124123610.1">@language xml
 @tabwidth -4
 @others

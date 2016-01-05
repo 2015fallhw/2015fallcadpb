@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323260 example</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-27T20:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第二週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>60</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="1.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="1.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第二週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>60</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="2.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="2.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323260 example</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-27T20:41:00+08:00</updated><entry><title>2015 Example</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>60</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;h2&gt;重頭開始&lt;/h2&gt;
+&lt;p align="left"&gt;&lt;a href="https://mega.nz/#!mF8jQIaT!-YlPUVuVF5LnFUEsoIY1wXyX4PI9a-vHhX6nES8N3_w"&gt;Ana3_2015壓縮檔 - 透過瀏覽器下載，leo檔案已安裝，請記得更改使用者名稱&lt;/a&gt;
+&lt;br&gt;
+&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;step.1&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;iframe src="https://player.vimeo.com/video/150516929" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;step.2&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;iframe src="https://player.vimeo.com/video/150517128" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;step.3&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;iframe src="https://player.vimeo.com/video/150517129" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;step.4&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;iframe src="https://player.vimeo.com/video/150517455" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;投影片屬性&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;br&gt;
+&lt;iframe src="https://player.vimeo.com/video/150515504" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
 &lt;p&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;

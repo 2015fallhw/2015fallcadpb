@@ -4,7 +4,7 @@ Category: G9
 Tags: mechanism
 Slug: 2015cadpb_blog_g9_w15
 Authors: G9
-Summary: 第九組第十一週工作報告<br />Nutcracker 機構
+Summary: 第九組第十五週工作報告<br />Nutcracker 機構
 
 組員：<br />
 吳宇堂<a href='user/40323213/'>40323213</a><br />洪子翔<a href='user/40323226/'>40323226</a><br />高郁宸<a href='user/40323229/'>40323229</a><br />郭育維<a href='user/40323237/'>40323237</a><br />陳信榮<a href='user/40323239/'>40323239</a><br />陳鉦富<a href='user/40323242/'>40323242</a>
@@ -22,6 +22,9 @@ Summary: 第九組第十一週工作報告<br />Nutcracker 機構
 <br>
 組合-40323213
 <iframe width="854" height="480" src="https://www.youtube.com/embed/euDyC0dk_lk" frameborder="0" allowfullscreen></iframe>
+<br>
+組合-40323226
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U8LkNzGb-uc" frameborder="0" allowfullscreen></iframe>
 <br>
 組合-40323229
 <iframe src="https://player.vimeo.com/video/150593706" width="500" height="241" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150593706">錄製_2016_01_03_23_52_57_196</a> from <a href="https://vimeo.com/user45634325">YuChen Gao</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
