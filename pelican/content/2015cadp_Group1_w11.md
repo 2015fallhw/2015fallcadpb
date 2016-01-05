@@ -39,6 +39,7 @@ Part_2 : Adjuster - <a href='user/40323218/'>40323218</a>
 <br>
 <img
 src="https://copy.com/fFe3IQaAiwkMWQrh"width="300"height="300">
+<script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323218/adjuster.stl"width="300"height="300"></script>
 <iframe src="https://player.vimeo.com/video/148774367" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148774367">adjuster</a> from <a href="https://vimeo.com/user44943624">Li Steven</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
@@ -98,6 +99,7 @@ Part_8 : Piston - <a href='user/40323218/'>40323218</a>
 <img
 src="https://copy.com/AY9rFUigwdVx12Td"width="300"height="300">
 <br>
+<script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323218/piston.stl"width="300"height="300"></script>
 <iframe src="https://player.vimeo.com/video/148773361" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148773361">piston</a> from <a href="https://vimeo.com/user44943624">Li Steven</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
