@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323247 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-21T11:41:00+08:00</updated><entry><title>2015 計算機程式 W15作業 Onshape組合繪圖</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-01-28T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;以下為作業Week15內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323247 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-04T11:41:00+08:00</updated><entry><title>2016 計算機程式 W16作業 期末心得</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2016-01-04T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;p&gt;以下為作業Week16內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest16.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p target="_blank"&gt;&lt;a href="simplest16.html"&gt;作業Week16投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/144636339" width="500" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144636339"&gt;bandicam 2015-11-04 23-29-20-090&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h1&gt;初學Creo組合影片&lt;/h1&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/148491335" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/148491335"&gt;bandicam 2015-12-10 21-41-46-467&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h1&gt;Creo組合Nutcracker機構影片&lt;/h1&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/150522783" width="500" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150522783"&gt;bandicam 2016-01-02 20-23-37-234&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h1&gt;Onshape組合Nutcracker機構影片&lt;/h1&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/150766853" width="500" height="294" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150766853"&gt;bandicam 2016-01-05 17-32-43-611&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h1&gt;Onshape限制範圍影片&lt;/h1&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W15作業 Onshape組合繪圖</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-01-28T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;以下為作業Week15內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest15.html" width="500" height="300"&gt;&lt;/iframe&gt;
 

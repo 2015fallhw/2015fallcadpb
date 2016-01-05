@@ -32,6 +32,7 @@
 <v t="leo.20160105212622.1"><vh>@edit 2015cphww12.md</vh></v>
 <v t="leo.20160105212629.1"><vh>@edit 2015cphww14.md</vh></v>
 <v t="leo.20160105212636.1"><vh>@edit 2015cphww15.md</vh></v>
+<v t="leo.20160105220338.1"><vh>@edit 2016cphww16.md</vh></v>
 <v t="123.20151208183519.5"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -43,9 +44,9 @@
 <v t="leo.20160105212729.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212729.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212729.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212729.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160105212729.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105212729.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105212729.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212729.8"><vh>課堂筆記</vh></v>
+<v t="leo.20160105212729.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105212729.10"><vh>script</vh></v>
@@ -58,9 +59,9 @@
 <v t="leo.20160105212736.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212736.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212736.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212736.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160105212736.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105212736.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105212736.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212736.8"><vh>課堂筆記</vh></v>
+<v t="leo.20160105212736.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105212736.10"><vh>script</vh></v>
@@ -73,9 +74,9 @@
 <v t="leo.20160105212742.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212742.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212742.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212742.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160105212742.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105212742.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105212742.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212742.8"><vh>課堂筆記</vh></v>
+<v t="leo.20160105212742.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105212742.10"><vh>script</vh></v>
@@ -88,9 +89,9 @@
 <v t="leo.20160105212749.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212749.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212749.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212749.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160105212749.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105212749.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105212749.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212749.8"><vh>課堂筆記</vh></v>
+<v t="leo.20160105212749.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105212749.10"><vh>script</vh></v>
@@ -103,9 +104,9 @@
 <v t="leo.20160105212757.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212757.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212757.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212757.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160105212757.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105212757.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105212757.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212757.8"><vh>課堂筆記</vh></v>
+<v t="leo.20160105212757.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105212757.10"><vh>script</vh></v>
@@ -118,9 +119,9 @@
 <v t="leo.20160105212804.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212804.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212804.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212804.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160105212804.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105212804.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105212804.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212804.8"><vh>課堂筆記</vh></v>
+<v t="leo.20160105212804.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105212804.10"><vh>script</vh></v>
@@ -133,9 +134,9 @@
 <v t="leo.20160105212811.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212811.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212811.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212811.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160105212811.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105212811.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105212811.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212811.8"><vh>課堂筆記</vh></v>
+<v t="leo.20160105212811.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105212811.10"><vh>script</vh></v>
@@ -148,12 +149,28 @@
 <v t="leo.20160105212819.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212819.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212819.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212819.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160105212819.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105212819.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105212819.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212819.8"><vh>課堂筆記</vh></v>
+<v t="leo.20160105212819.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105212819.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160105220352.1"><vh>@clean simplest16.html</vh>
+<v t="leo.20160105220352.2"><vh>檔案說明</vh></v>
+<v t="leo.20160105220352.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160105220352.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160105220352.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160105220352.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160105220352.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105220352.8"><vh>Creo繪圖心得</vh></v>
+<v t="leo.20160105220352.9"><vh>Onshape繪圖心得</vh></v>
+<v t="leo.20160105220352.10"><vh>自評分數</vh></v>
+</v>
+</v>
+<v t="leo.20160105220352.11"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -571,7 +588,7 @@ git config user.name "信箱"
 	
 </t>
 <t tx="leo.20160105212749.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;筆記&lt;/h1 &gt;
+    &lt;h1&gt;課堂筆記&lt;/h1 &gt;
     &lt;p&gt;
 1.將原本舊版的leo獨立修改成自己的檔案&lt;/br&gt;
 2.修改完後放在user內自己學號的資料夾中&lt;/br&gt;
@@ -901,6 +918,86 @@ git config user.name "信箱"
 <t tx="leo.20160105212819.9">&lt;section&gt;
     &lt;h3&gt;心得和評分&lt;/h3&gt;
     &lt;p&gt;這個程式是既上次Parametric零件與組合圖畫完之後，老師教的下一個繪圖軟體，心裡總想又要麻煩同學了，沒想到它是網頁版的繪圖軟體，當天在課堂上用學校的帳號辦會員，辦好的時候想說畫畫看，結果一畫，跟上次畫的Parametric有那麼一點點的相似，所以學起來比較快，但因為是英文所以我學得有些吃力，而且很多功能不太會使用，但在慢慢的摸索下，把零件與組合圖繪畫完，在這次的合作下發現到，為什麼零件7的洞沒辦法跟板子密合，原來是當初給的圖的尺寸是錯的，想說都畫對怎麼可能組不起來，在這次的合作，我們一步一步的完成最後Onshape的組合圖。&lt;h3&gt;自評分數:75。&lt;/h3&gt;&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160105220352.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160105220352.10">&lt;section&gt;
+    &lt;h2&gt;自評分數:75&lt;/h2&gt;
+    
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160105220352.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160105220352.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160105220352.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160105220352.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160105220352.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160105220352.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160105220352.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160105220352.8">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;Creo繪圖心得&lt;/h3 &gt;
+    &lt;p&gt;  在學習這程式的過程中，有些不愉快與困擾，在畫這程式的時候，因為我電腦不知道為什麼用這程式回出現殘影，原本剛開始的座標都可以轉得跟球一樣，所以導致需要跟同學借電腦，都要等對方報告做換或是要忙的時候借電腦，一借就是很久，畫圖錄影就花了不好時間，借久都會覺得不好意思，總是麻煩到別人，但在這短短的畫圖期間，好好的研究程式，如何畫圖，換許還是許多功能不太會使用，但多多少少一些基本的畫得出來，這次的課程作業，讓我學習到一個新的3D繪圖軟體，可能時間不多，但卻認真的完成這次畫圖的作業，還一組分開畫零件，可以互相研究，一起合作讓我們把最好的Parametric組合圖畫出來，這都是大家一起努力的成果。&lt;/p&gt;
+
+&lt;/section&gt;
+    
+				
+</t>
+<t tx="leo.20160105220352.9">&lt;section&gt;
+    &lt;h3&gt;Onshape繪圖心得&lt;/h3&gt;
+    &lt;p&gt;這個程式是既上次Parametric零件與組合圖畫完之後，老師教的下一個繪圖軟體，心裡總想又要麻煩同學了，沒想到它是網頁版的繪圖軟體，當天在課堂上用學校的帳號辦會員，辦好的時候想說畫畫看，結果一畫，跟上次畫的Parametric有那麼一點點的相似，所以學起來比較快，但因為是英文所以我學得有些吃力，而且很多功能不太會使用，但在慢慢的摸索下，把零件與組合圖繪畫完，在這次的合作下發現到，為什麼零件7的洞沒辦法跟板子密合，原來是當初給的圖的尺寸是錯的，想說都畫對怎麼可能組不起來，在這次的合作，我們一步一步的完成最後Onshape的組合圖。&lt;/p&gt;
     
 &lt;/section&gt;
 				
