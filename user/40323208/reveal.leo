@@ -250,7 +250,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160104105231.1"><vh>@button open htm1</vh>
+<v t="leo.20160104105231.1" a="E"><vh>@button open htm1</vh>
 <v t="leo.20160104105231.2" a="E"><vh>@clean cadp_w17_lecture.html</vh>
 <v t="leo.20160104105231.3"><vh>檔案說明</vh></v>
 <v t="leo.20160104105231.4" a="E"><vh>html 標註</vh>
@@ -1384,7 +1384,7 @@ for ch in p.children():
 
 &lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業說明&lt;/h1&gt;
-    &lt;p&gt;目的:。&lt;/p&gt;
+    &lt;p&gt;目的:利用solvespace劃出機構圖，然後找出實體操作時的限制，例如哪裡會卡住或是無法轉動，然後在onshape輸入的數值進行模擬。&lt;/p&gt;
     
 &lt;/section&gt;
     </t>
@@ -1395,8 +1395,8 @@ white-space: pre;
 content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
 <t tx="leo.20160104105231.12">&lt;&lt; header &gt;&gt;
     &lt;h1&gt;自評及感想&lt;/h1&gt;
-    &lt;p&gt;自評分數: 
-    &lt;br&gt;感想:。&lt;/p&gt;
+    &lt;p&gt;自評分數: 70
+    &lt;br&gt;感想:這周算是總結了，把組合後的機構做總整理，也加入限制條件，再利用之前學過的solvespace輔助，所以之前學的也是很重要的，要多加練習，完成整個學期的作業覺得很開心也覺得自己多了更多學習的東西。&lt;/p&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;		
 </t>
