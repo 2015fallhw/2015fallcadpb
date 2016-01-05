@@ -40,17 +40,25 @@
 <v t="123.20151208171423.1"><vh>以下為 reveal 投影片</vh>
 <v t="123.20151229213900.3"><vh>@clean 2015cadpslidesw1.html</vh>
 <v t="123.20151229213900.4"><vh>檔案說明</vh></v>
-<v t="123.20151229213900.5"><vh>html 標註</vh>
-<v t="123.20151229213900.6"><vh>body 標註</vh>
-<v t="123.20151229213900.7"><vh>div class="reveal"</vh>
-<v t="123.20151229213900.8"><vh>div class="slides"</vh>
-<v t="123.20151229213900.9"><vh>有關我的作業</vh></v>
-<v t="123.20151229213900.10"><vh>作業任務一</vh></v>
-<v t="123.20151229213900.11"><vh>自我評分</vh></v>
+<v t="123.20151229213900.5" a="E"><vh>html 標註</vh>
+<v t="123.20151229213900.6" a="E"><vh>body 標註</vh>
+<v t="123.20151229213900.7" a="E"><vh>div class="reveal"</vh>
+<v t="123.20151229213900.8" a="E"><vh>div class="slides"</vh>
+<v t="123.20151229213900.9" a="E"><vh>有關我的作業</vh>
+<v t="49923230.20160105095349.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="123.20151229213900.10" a="E"><vh>作業任務一</vh>
+<v t="49923230.20160105095349.1"></v>
+</v>
+<v t="123.20151229213900.11" a="E"><vh>自我評分</vh>
+<v t="49923230.20160105095349.1"></v>
+</v>
 <v t="123.20151229213900.12"><vh>What engineers do?</vh></v>
 <v t="123.20151229213900.13"><vh>Computer in Engineering.</vh></v>
 <v t="123.20151229213900.14"><vh>About Leo Editor</vh></v>
-<v t="123.20151229213900.15"><vh>Vimeo videos</vh></v>
+<v t="123.20151229213900.15" a="E"><vh>Vimeo videos</vh>
+<v t="49923230.20160105095349.1"></v>
+</v>
 </v>
 </v>
 <v t="123.20151229213900.16"><vh>script</vh></v>
@@ -59,13 +67,19 @@
 </v>
 <v t="123.20151229213900.17"><vh>@clean 2015cadpslidesw4.html</vh>
 <v t="123.20151229213900.18"><vh>檔案說明</vh></v>
-<v t="123.20151229213900.19"><vh>html 標註</vh>
-<v t="123.20151229213900.20"><vh>body 標註</vh>
-<v t="123.20151229213900.21"><vh>div class="reveal"</vh>
-<v t="123.20151229213900.22"><vh>div class="slides"</vh>
-<v t="123.20151229213900.23"><vh>有關我的作業</vh></v>
-<v t="123.20151229213900.24"><vh>作業任務一</vh></v>
-<v t="123.20151229213900.25"><vh>自我評分</vh></v>
+<v t="123.20151229213900.19" a="E"><vh>html 標註</vh>
+<v t="123.20151229213900.20" a="E"><vh>body 標註</vh>
+<v t="123.20151229213900.21" a="E"><vh>div class="reveal"</vh>
+<v t="123.20151229213900.22" a="E"><vh>div class="slides"</vh>
+<v t="123.20151229213900.23" a="E"><vh>有關我的作業</vh>
+<v t="49923230.20160105101307.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="123.20151229213900.24" a="E"><vh>作業任務一</vh>
+<v t="49923230.20160105101307.1"></v>
+</v>
+<v t="123.20151229213900.25" a="E"><vh>自我評分</vh>
+<v t="49923230.20160105101307.1"></v>
+</v>
 <v t="123.20151229213900.26"><vh>Learning Solvespace</vh></v>
 <v t="123.20151229213900.28"><vh>Review</vh></v>
 </v>
@@ -76,13 +90,19 @@
 </v>
 <v t="49923230.20160104160834.1"><vh>@clean 2015cadpslidesw5.html</vh>
 <v t="49923230.20160104160834.2"><vh>檔案說明</vh></v>
-<v t="49923230.20160104160834.3"><vh>html 標註</vh>
-<v t="49923230.20160104160834.4"><vh>body 標註</vh>
-<v t="49923230.20160104160834.5"><vh>div class="reveal"</vh>
-<v t="49923230.20160104160834.6"><vh>div class="slides"</vh>
-<v t="49923230.20160104160834.7"><vh>有關我的作業</vh></v>
-<v t="49923230.20160104160834.8"><vh>作業任務一</vh></v>
-<v t="49923230.20160104160834.9"><vh>自我評分</vh></v>
+<v t="49923230.20160104160834.3" a="E"><vh>html 標註</vh>
+<v t="49923230.20160104160834.4" a="E"><vh>body 標註</vh>
+<v t="49923230.20160104160834.5" a="E"><vh>div class="reveal"</vh>
+<v t="49923230.20160104160834.6" a="E"><vh>div class="slides"</vh>
+<v t="49923230.20160104160834.7" a="E"><vh>有關我的作業</vh>
+<v t="49923230.20160105101749.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="49923230.20160104160834.8" a="E"><vh>作業任務一</vh>
+<v t="49923230.20160105101749.1"></v>
+</v>
+<v t="49923230.20160104160834.9" a="E"><vh>自我評分</vh>
+<v t="49923230.20160105101749.1"></v>
+</v>
 <v t="49923230.20160104160834.11"><vh>Learning Creo</vh></v>
 <v t="49923230.20160104160834.12"><vh>Review</vh></v>
 </v>
@@ -93,13 +113,19 @@
 </v>
 <v t="49923230.20160104164833.1"><vh>@clean 2015cadpslidesw6.html</vh>
 <v t="49923230.20160104164833.2"><vh>檔案說明</vh></v>
-<v t="49923230.20160104164833.3"><vh>html 標註</vh>
-<v t="49923230.20160104164833.4"><vh>body 標註</vh>
-<v t="49923230.20160104164833.5"><vh>div class="reveal"</vh>
-<v t="49923230.20160104164833.6"><vh>div class="slides"</vh>
-<v t="49923230.20160104164833.7"><vh>有關我的作業</vh></v>
-<v t="49923230.20160104164833.8"><vh>作業任務一</vh></v>
-<v t="49923230.20160104164833.9"><vh>自我評分</vh></v>
+<v t="49923230.20160104164833.3" a="E"><vh>html 標註</vh>
+<v t="49923230.20160104164833.4" a="E"><vh>body 標註</vh>
+<v t="49923230.20160104164833.5" a="E"><vh>div class="reveal"</vh>
+<v t="49923230.20160104164833.6" a="E"><vh>div class="slides"</vh>
+<v t="49923230.20160104164833.7" a="E"><vh>有關我的作業</vh>
+<v t="49923230.20160105101925.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="49923230.20160104164833.8" a="E"><vh>作業任務一</vh>
+<v t="49923230.20160105101925.1"></v>
+</v>
+<v t="49923230.20160104164833.9" a="E"><vh>自我評分</vh>
+<v t="49923230.20160105101925.1"></v>
+</v>
 <v t="49923230.20160104164833.11"><vh>Review</vh></v>
 </v>
 </v>
@@ -109,13 +135,19 @@
 </v>
 <v t="49923230.20160104165929.1"><vh>@clean 2015cadpslidesw7.html</vh>
 <v t="49923230.20160104165929.2"><vh>檔案說明</vh></v>
-<v t="49923230.20160104165929.3"><vh>html 標註</vh>
-<v t="49923230.20160104165929.4"><vh>body 標註</vh>
-<v t="49923230.20160104165929.5"><vh>div class="reveal"</vh>
-<v t="49923230.20160104165929.6"><vh>div class="slides"</vh>
-<v t="49923230.20160104165929.7"><vh>有關我的作業</vh></v>
-<v t="49923230.20160104165929.8"><vh>作業任務一</vh></v>
-<v t="49923230.20160104165929.9"><vh>自我評分</vh></v>
+<v t="49923230.20160104165929.3" a="E"><vh>html 標註</vh>
+<v t="49923230.20160104165929.4" a="E"><vh>body 標註</vh>
+<v t="49923230.20160104165929.5" a="E"><vh>div class="reveal"</vh>
+<v t="49923230.20160104165929.6" a="E"><vh>div class="slides"</vh>
+<v t="49923230.20160104165929.7" a="E"><vh>有關我的作業</vh>
+<v t="49923230.20160105102059.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="49923230.20160104165929.8" a="E"><vh>作業任務一</vh>
+<v t="49923230.20160105102059.1"></v>
+</v>
+<v t="49923230.20160104165929.9" a="E"><vh>自我評分</vh>
+<v t="49923230.20160105102059.1"></v>
+</v>
 <v t="49923230.20160104165929.10"><vh>Review</vh></v>
 </v>
 </v>
@@ -125,13 +157,19 @@
 </v>
 <v t="49923230.20160101141658.1"><vh>@clean 2015cadpslidesw10.html</vh>
 <v t="49923230.20160101141658.2"><vh>檔案說明</vh></v>
-<v t="49923230.20160101141658.3"><vh>html 標註</vh>
-<v t="49923230.20160101141658.4"><vh>body 標註</vh>
-<v t="49923230.20160101141658.5"><vh>div class="reveal"</vh>
-<v t="49923230.20160101141658.6"><vh>div class="slides"</vh>
-<v t="49923230.20160101141658.7"><vh>About my homework</vh></v>
-<v t="49923230.20160101141658.8"><vh>Homework reference</vh></v>
-<v t="49923230.20160101141658.9"><vh>自我評分</vh></v>
+<v t="49923230.20160101141658.3" a="E"><vh>html 標註</vh>
+<v t="49923230.20160101141658.4" a="E"><vh>body 標註</vh>
+<v t="49923230.20160101141658.5" a="E"><vh>div class="reveal"</vh>
+<v t="49923230.20160101141658.6" a="E"><vh>div class="slides"</vh>
+<v t="49923230.20160101141658.7" a="E"><vh>About my homework</vh>
+<v t="49923230.20160105102243.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="49923230.20160101141658.8" a="E"><vh>Homework reference</vh>
+<v t="49923230.20160105102243.1"></v>
+</v>
+<v t="49923230.20160101141658.9" a="E"><vh>自我評分</vh>
+<v t="49923230.20160105102243.1"></v>
+</v>
 <v t="49923230.20160101141658.10"><vh>Install miniconda</vh></v>
 <v t="49923230.20160101141658.11"><vh>Review</vh></v>
 </v>
@@ -142,13 +180,19 @@
 </v>
 <v t="49923230.20160103115226.1"><vh>@clean 2015cadpslidesw14.html</vh>
 <v t="49923230.20160103115226.2"><vh>檔案說明</vh></v>
-<v t="49923230.20160103115226.3"><vh>html 標註</vh>
-<v t="49923230.20160103115226.4"><vh>body 標註</vh>
-<v t="49923230.20160103115226.5"><vh>div class="reveal"</vh>
-<v t="49923230.20160103115226.6"><vh>div class="slides"</vh>
-<v t="49923230.20160103115226.7"><vh>About my homework</vh></v>
-<v t="49923230.20160103115226.8"><vh>Homework reference</vh></v>
-<v t="49923230.20160103115226.9"><vh>自我評分</vh></v>
+<v t="49923230.20160103115226.3" a="E"><vh>html 標註</vh>
+<v t="49923230.20160103115226.4" a="E"><vh>body 標註</vh>
+<v t="49923230.20160103115226.5" a="E"><vh>div class="reveal"</vh>
+<v t="49923230.20160103115226.6" a="E"><vh>div class="slides"</vh>
+<v t="49923230.20160103115226.7" a="E"><vh>About my homework</vh>
+<v t="49923230.20160105102421.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="49923230.20160103115226.8" a="E"><vh>Homework reference</vh>
+<v t="49923230.20160105102421.1"></v>
+</v>
+<v t="49923230.20160103115226.9" a="E"><vh>自我評分</vh>
+<v t="49923230.20160105102421.1"></v>
+</v>
 <v t="49923230.20160103115226.10"><vh>assemble nutcracker</vh></v>
 <v t="49923230.20160103115226.11"><vh>Review</vh></v>
 </v>
@@ -159,13 +203,19 @@
 </v>
 <v t="49923230.20160103141143.1"><vh>@clean 2015cadpslidesw15.html</vh>
 <v t="49923230.20160103141143.2"><vh>檔案說明</vh></v>
-<v t="49923230.20160103141143.3"><vh>html 標註</vh>
-<v t="49923230.20160103141143.4"><vh>body 標註</vh>
-<v t="49923230.20160103141143.5"><vh>div class="reveal"</vh>
-<v t="49923230.20160103141143.6"><vh>div class="slides"</vh>
-<v t="49923230.20160103141143.7"><vh>About my homework</vh></v>
-<v t="49923230.20160103141143.8"><vh>Homework reference</vh></v>
-<v t="49923230.20160103141143.9"><vh>自我評分</vh></v>
+<v t="49923230.20160103141143.3" a="E"><vh>html 標註</vh>
+<v t="49923230.20160103141143.4" a="E"><vh>body 標註</vh>
+<v t="49923230.20160103141143.5" a="E"><vh>div class="reveal"</vh>
+<v t="49923230.20160103141143.6" a="E"><vh>div class="slides"</vh>
+<v t="49923230.20160103141143.7" a="E"><vh>About my homework</vh>
+<v t="49923230.20160105102543.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="49923230.20160103141143.8" a="E"><vh>Homework reference</vh>
+<v t="49923230.20160105102543.1"></v>
+</v>
+<v t="49923230.20160103141143.9" a="E"><vh>自我評分</vh>
+<v t="49923230.20160105102543.1"></v>
+</v>
 <v t="49923230.20160103141143.11"><vh>Review</vh></v>
 </v>
 </v>
@@ -183,25 +233,35 @@ os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../them
 g.es("user pelican 執行完畢")</t>
 <t tx="123.20151208171418.3"></t>
 <t tx="123.20151208171423.1"></t>
-<t tx="123.20151229213900.10">&lt;section id="hw-task-one"&gt;
+<t tx="123.20151229213900.10">&lt;&lt;header&gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;Homework reference&lt;/h1&gt;
     &lt;p&gt;Homework details&lt;/p&gt;
     &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
     &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
 &lt;/section&gt;
-				
+
+&lt;/section&gt;				
 </t>
-<t tx="123.20151229213900.11">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+<t tx="123.20151229213900.11">&lt;&lt;header&gt;&gt;
+
+&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h1&gt;自我評分&lt;/h1&gt;
     &lt;p&gt;自我評分成績:80&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;
+
 &lt;/section&gt;</t>
 <t tx="123.20151229213900.12">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+
 
 &lt;section&gt;
     &lt;h2&gt;What engineers do?&lt;/h2&gt;
     &lt;p&gt;studying highlight and reviews&lt;/p&gt;
 &lt;/section&gt;
+
+
 
 &lt;section&gt;
     &lt;h3&gt;Introduction&lt;/h3&gt;
@@ -209,6 +269,7 @@ g.es("user pelican 執行完畢")</t>
     &lt;p&gt;2.Engineers must slove difficult problems within the time and cost limitations.&lt;/p&gt;
     &lt;p&gt;3.Engineers are professionally responsible for the safety and performance of their designs.&lt;/p&gt;
 &lt;/section&gt;
+
 
 &lt;section&gt;
     &lt;h4&gt;Engineering Education&lt;/h4&gt;
@@ -219,19 +280,25 @@ g.es("user pelican 執行完畢")</t>
        &lt;p&gt;d. Humanities and Social Sciences&lt;/p&gt;
 &lt;/section&gt;
 
+
+
 &lt;section&gt;
     &lt;h5&gt;Engineering problem solving: A classical perspective&lt;/h5&gt;
 &lt;/section&gt;
+
 
 &lt;section&gt;
     &lt;p&gt;1. Science&lt;/p&gt; 
     &lt;p&gt;An engineering science subject presents the principles of science in a form well-suited for the solution of a particular class of engineering problem.&lt;/p&gt;
 &lt;/section&gt;
 
+
+
 &lt;section&gt;
     &lt;p&gt;2. Applied Engineering&lt;/p&gt;
     &lt;p&gt;The applied engineering subjects are concerned with the art of engineering. A typical applied engineering subject is engineering design.&lt;/p&gt;
 &lt;/section&gt;
+
 
 &lt;section&gt;
     &lt;p&gt;3. Humanities and social sciences&lt;/p&gt;
@@ -239,9 +306,11 @@ g.es("user pelican 執行完畢")</t>
 &lt;/section&gt;
 
 
+
 &lt;section&gt;
    &lt;p&gt;If someone ask me what engineers do, I'd say creating things. No matter you are creating a product, a component or even a process. It's still a kind of creation. What's we have learned in the university is learning communication skills and teamwork. That's what I think. According to study "what engineers do".It tells us that there are 3 important things, which are science, applied engineering and humanities and social sciences. As I said what we have learned in the university is the third one, which is Humanities and social sciences.&lt;/p&gt;
 &lt;/section&gt;
+
 
 &lt;/section&gt;
 </t>
@@ -269,7 +338,8 @@ g.es("user pelican 執行完畢")</t>
     &lt;h2&gt;Go to right page&lt;/h2&gt;
     &lt;p&gt;That's all, please go back up or to the next page&lt;/p&gt;
 &lt;/section&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="123.20151229213900.14">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
 
 &lt;section&gt;
@@ -303,13 +373,16 @@ g.es("user pelican 執行完畢")</t>
 &lt;/section&gt;
 
 &lt;/section&gt;
+
 </t>
-<t tx="123.20151229213900.15">&lt;section&gt;
+<t tx="123.20151229213900.15">&lt;&lt;header&gt;&gt;
+
+&lt;section&gt;
 &lt;h1&gt;1st homework recording videos&lt;/h1&gt;
 &lt;iframe src="https://player.vimeo.com/video/144497585" width="500" height="276" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144497585"&gt;w1hm&lt;/a&gt; from &lt;a href="https://vimeo.com/user44760923"&gt;Felix&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;/section&gt;
 
-</t>
+&lt;/section&gt;</t>
 <t tx="123.20151229213900.16">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -350,6 +423,10 @@ g.es("user pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="123.20151229213900.21">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 10px; left: 10px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -362,26 +439,34 @@ g.es("user pelican 執行完畢")</t>
 <t tx="123.20151229213900.23">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt;header&gt;&gt;
+
 &lt;section&gt;
     &lt;h1&gt;Learning Solvespace with Tutorial&lt;/h1&gt;
     &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
     &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
     &lt;p class ="fragment"&gt;Date: 2015/10/12&lt;/p&gt;	
 &lt;/section&gt;
+
+&lt;/section&gt;
 	
 </t>
-<t tx="123.20151229213900.24">&lt;section id="hw-task-one"&gt;
+<t tx="123.20151229213900.24">&lt;&lt;header&gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;Homework reference&lt;/h1&gt;
     &lt;p&gt;Homework details&lt;/p&gt;
     &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
     &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
 &lt;/section&gt;
+&lt;/section&gt;
 				
 </t>
-<t tx="123.20151229213900.25">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+<t tx="123.20151229213900.25">&lt;&lt;header&gt;&gt;
+&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h1&gt;自我評分&lt;/h1&gt;
     &lt;p&gt;自我評分成績:80&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;
 &lt;/section&gt;</t>
 <t tx="123.20151229213900.26">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
 
@@ -457,6 +542,11 @@ g.es("user pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="123.20151229213900.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+
+&lt;header style="position: absolute;top: 10px; left: 10px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -469,11 +559,15 @@ g.es("user pelican 執行完畢")</t>
 <t tx="123.20151229213900.9">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt;header&gt;&gt;
+
 &lt;section&gt;
     &lt;h1&gt;My 2nd week homework slides&lt;/h1&gt;
     &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
     &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
     &lt;p class ="fragment"&gt;Date: 2015/10/01&lt;/p&gt;	
+&lt;/section&gt;
+
 &lt;/section&gt;
 	
 </t>
@@ -553,6 +647,10 @@ g.es("user pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="49923230.20160101141658.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 10px; left: 10px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -562,26 +660,30 @@ g.es("user pelican 執行完畢")</t>
 @others
 &lt;/div&gt;
 </t>
-<t tx="49923230.20160101141658.7">&lt;section&gt;
+<t tx="49923230.20160101141658.7">&lt;&lt;header&gt;&gt;
+&lt;section&gt;
     &lt;h1&gt;Installing Miniconda&lt;/h1&gt;
     &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
     &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
     &lt;p class ="fragment"&gt;Date: 2015/11/29&lt;/p&gt;	
 &lt;/section&gt;
-	
+&lt;/section&gt;	
 </t>
-<t tx="49923230.20160101141658.8">&lt;section id="hw-task-one"&gt;
+<t tx="49923230.20160101141658.8">&lt;&lt;header&gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;Homework reference&lt;/h1&gt;
     &lt;p&gt;Homework details&lt;/p&gt;
     &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
     &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
 &lt;/section&gt;
-				
+&lt;/section&gt;				
 </t>
-<t tx="49923230.20160101141658.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+<t tx="49923230.20160101141658.9">&lt;&lt;header&gt;&gt;
+&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h1&gt;自我評分&lt;/h1&gt;
     &lt;p&gt;自我評分成績:80&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;
 &lt;/section&gt;</t>
 <t tx="49923230.20160103115226.1">@language xml
 @tabwidth -4
@@ -661,6 +763,10 @@ g.es("user pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="49923230.20160103115226.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 10px; left: 10px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -670,26 +776,30 @@ g.es("user pelican 執行完畢")</t>
 @others
 &lt;/div&gt;
 </t>
-<t tx="49923230.20160103115226.7">&lt;section&gt;
+<t tx="49923230.20160103115226.7">&lt;&lt;header&gt;&gt;
+&lt;section&gt;
     &lt;h1&gt;Onshape Practice&lt;/h1&gt;
     &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
     &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
     &lt;p class ="fragment"&gt;Date: 2015/12/30&lt;/p&gt;	
 &lt;/section&gt;
-	
+&lt;/section&gt;	
 </t>
-<t tx="49923230.20160103115226.8">&lt;section id="hw-task-one"&gt;
+<t tx="49923230.20160103115226.8">&lt;&lt;header&gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;Homework reference&lt;/h1&gt;
     &lt;p&gt;Homework details&lt;/p&gt;
     &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
     &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
 &lt;/section&gt;
-				
+&lt;/section&gt;				
 </t>
-<t tx="49923230.20160103115226.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+<t tx="49923230.20160103115226.9">&lt;&lt;header&gt;&gt;
+&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h1&gt;自我評分&lt;/h1&gt;
     &lt;p&gt;自我評分成績:80&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;
 &lt;/section&gt;</t>
 <t tx="49923230.20160103141143.1">@language xml
 @tabwidth -4
@@ -743,6 +853,10 @@ g.es("user pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="49923230.20160103141143.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 10px; left: 10px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -752,26 +866,32 @@ g.es("user pelican 執行完畢")</t>
 @others
 &lt;/div&gt;
 </t>
-<t tx="49923230.20160103141143.7">&lt;section&gt;
+<t tx="49923230.20160103141143.7">&lt;&lt;header&gt;&gt;
+&lt;section&gt;
     &lt;h1&gt;Semester Reviews&lt;/h1&gt;
     &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
     &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
     &lt;p class ="fragment"&gt;Date: 2016/01/02&lt;/p&gt;	
 &lt;/section&gt;
+&lt;/section&gt;
 	
 </t>
-<t tx="49923230.20160103141143.8">&lt;section id="hw-task-one"&gt;
+<t tx="49923230.20160103141143.8">&lt;&lt;header&gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;Homework reference&lt;/h1&gt;
     &lt;p&gt;Homework details&lt;/p&gt;
     &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
     &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
 &lt;/section&gt;
+&lt;/section&gt;
 				
 </t>
-<t tx="49923230.20160103141143.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+<t tx="49923230.20160103141143.9">&lt;&lt;header&gt;&gt;
+&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h1&gt;自我評分&lt;/h1&gt;
     &lt;p&gt;自我評分成績:80&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;
 &lt;/section&gt;</t>
 <t tx="49923230.20160104160834.1">@language xml
 @tabwidth -4
@@ -850,6 +970,10 @@ g.es("user pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="49923230.20160104160834.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 10px; left: 10px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -862,26 +986,32 @@ g.es("user pelican 執行完畢")</t>
 <t tx="49923230.20160104160834.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt;header&gt;&gt;
 &lt;section&gt;
     &lt;h1&gt;Learning Creo with Tutorial&lt;/h1&gt;
     &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
     &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
     &lt;p class ="fragment"&gt;Date: 2015/10/12&lt;/p&gt;	
 &lt;/section&gt;
+&lt;/section&gt;
 	
 </t>
-<t tx="49923230.20160104160834.8">&lt;section id="hw-task-one"&gt;
+<t tx="49923230.20160104160834.8">&lt;&lt;header&gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;Homework reference&lt;/h1&gt;
     &lt;p&gt;Homework details&lt;/p&gt;
     &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
     &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
 &lt;/section&gt;
+&lt;/section&gt;
 				
 </t>
-<t tx="49923230.20160104160834.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104160834.9">&lt;&lt;header&gt;&gt;
+&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h1&gt;自我評分&lt;/h1&gt;
     &lt;p&gt;自我評分成績:80&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;
 &lt;/section&gt;</t>
 <t tx="49923230.20160104164833.1">@language xml
 @tabwidth -4
@@ -938,6 +1068,10 @@ g.es("user pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="49923230.20160104164833.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 10px; left: 10px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -950,26 +1084,31 @@ g.es("user pelican 執行完畢")</t>
 <t tx="49923230.20160104164833.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt;header&gt;&gt;
 &lt;section&gt;
     &lt;h1&gt;6th week reviews&lt;/h1&gt;
     &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
     &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
     &lt;p class ="fragment"&gt;Date: 2015/10/12&lt;/p&gt;	
 &lt;/section&gt;
-	
+&lt;/section&gt;	
 </t>
-<t tx="49923230.20160104164833.8">&lt;section id="hw-task-one"&gt;
+<t tx="49923230.20160104164833.8">&lt;&lt;header&gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;Homework reference&lt;/h1&gt;
     &lt;p&gt;Homework details&lt;/p&gt;
     &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
     &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
 &lt;/section&gt;
+&lt;/section&gt;
 				
 </t>
-<t tx="49923230.20160104164833.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104164833.9">&lt;&lt;header&gt;&gt;
+&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h1&gt;自我評分&lt;/h1&gt;
     &lt;p&gt;自我評分成績:70&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;
 &lt;/section&gt;</t>
 <t tx="49923230.20160104165929.1">@language xml
 @tabwidth -4
@@ -1036,6 +1175,10 @@ g.es("user pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="49923230.20160104165929.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 10px; left: 10px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -1048,27 +1191,71 @@ g.es("user pelican 執行完畢")</t>
 <t tx="49923230.20160104165929.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt;header&gt;&gt;
 &lt;section&gt;
     &lt;h1&gt;7th week reviews&lt;/h1&gt;
     &lt;p class ="fragment"&gt;Student ID: 49923230&lt;/p&gt;
     &lt;p class ="fragment"&gt;Name: 陳柏村&lt;/p&gt;
     &lt;p class ="fragment"&gt;Date: 2015/10/12&lt;/p&gt;	
 &lt;/section&gt;
-	
+&lt;/section&gt;	
 </t>
-<t tx="49923230.20160104165929.8">&lt;section id="hw-task-one"&gt;
+<t tx="49923230.20160104165929.8">&lt;&lt;header&gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;Homework reference&lt;/h1&gt;
     &lt;p&gt;Homework details&lt;/p&gt;
     &lt;p&gt;Please refer to the following web&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3631#more-3631"&gt;Koml course blog&lt;/a&gt;
     &lt;p&gt;For watching the course videos&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo professor's record&lt;/a&gt;
 &lt;/section&gt;
-				
+&lt;/section&gt;				
 </t>
-<t tx="49923230.20160104165929.9">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+<t tx="49923230.20160104165929.9">&lt;&lt;header&gt;&gt;
+&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h1&gt;自我評分&lt;/h1&gt;
     &lt;p&gt;自我評分成績:70&lt;/p&gt;
     &lt;p&gt;Connecting to my recording videos&lt;a href="https://vimeo.com/user44760923/albums"&gt;My vimeo homework list&lt;/a&gt;
+&lt;/section&gt;
 &lt;/section&gt;</t>
+<t tx="49923230.20160105095349.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "CADPB ID: 49923230"; }&lt;/style&gt;</t>
+<t tx="49923230.20160105101307.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "CADPB ID: 49923230"; }&lt;/style&gt;</t>
+<t tx="49923230.20160105101749.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "CADPB ID: 49923230"; }&lt;/style&gt;</t>
+<t tx="49923230.20160105101925.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "CADPB ID: 49923230"; }&lt;/style&gt;</t>
+<t tx="49923230.20160105102059.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "CADPB ID: 49923230"; }&lt;/style&gt;</t>
+<t tx="49923230.20160105102243.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "CADPB ID: 49923230"; }&lt;/style&gt;</t>
+<t tx="49923230.20160105102421.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "CADPB ID: 49923230"; }&lt;/style&gt;</t>
+<t tx="49923230.20160105102543.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "CADPB ID: 49923230"; }&lt;/style&gt;</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
