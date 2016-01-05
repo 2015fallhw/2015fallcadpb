@@ -32,7 +32,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20151204210010.1" a="E"><vh>@button open html</vh>
 <v t="leo.20151204210010.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151204210010.3"><vh>檔案說明</vh></v>
@@ -129,7 +129,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151218155813.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20151218155813.2"><vh>Recovered Nodes</vh>
 <v t="leo.20151218155813.3"><vh>Recovered node "1" from @clean simplest2.html</vh>
 <v t="leo.20151218155813.4"><vh>old:1</vh></v>
 <v t="leo.20151218155813.5"><vh>new:1</vh></v>
