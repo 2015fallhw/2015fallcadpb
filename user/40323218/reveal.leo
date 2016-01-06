@@ -24,7 +24,7 @@
 <v t="leo.20151214110149.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151214110149.2"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151214110149.3"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151214110149.4" a="E"><vh>@path content</vh>
+<v t="leo.20151214110149.4"><vh>@path content</vh>
 <v t="leo.20151214110149.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151214110149.6"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="leo.20151214110149.7"><vh>@edit 40323218_cp_w2.md</vh></v>
@@ -42,7 +42,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20151214110209.1"><vh>@clean 40323218_cp_w2.html</vh>
 <v t="leo.20151214110209.2"><vh>檔案說明</vh></v>
 <v t="leo.20151214110209.3"><vh>html 標註</vh>
@@ -131,7 +131,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151221105126.1"><vh>@clean 40323218_cp_w11.html</vh>
+<v t="leo.20151221105126.1" a="E"><vh>@clean 40323218_cp_w11.html</vh>
 <v t="leo.20151221105126.2"><vh>檔案說明</vh></v>
 <v t="leo.20151221105126.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151221105126.4" a="E"><vh>body 標註</vh>
@@ -874,13 +874,13 @@ git config --global user.email 自己的信箱&lt;br&gt;
 </t>
 <t tx="leo.20160106235523.1">&lt;section id="hw-task-one"&gt;
     &lt;h5&gt;筆記和步驟&lt;/h5&gt;
-    &lt;p&gt;1. 重新git clone 2015fallcadpb&lt;/br&gt;
-    2. 到gh-pages上的commit找尋復原檔&lt;/br&gt;
-    3. 找到復原檔後在cmd上打上&lt;/br&gt;
-        "git reset --hard 復原檔 "&lt;/br&gt;
-    4. 進到資料夾打開reveal.leo檔&lt;/br&gt;
-    5. 修改reveal.leo檔&lt;/br&gt;
-    6. 修改完save as到tmp/2015fallcadpb/user/自己學號&lt;/br&gt;
+    &lt;p&gt;1. 重新git clone 2015fallcadpb&lt;/br&gt;&lt;/br&gt;
+    2. 到gh-pages上的commit找尋復原檔&lt;/br&gt;&lt;/br&gt;
+    3. 找到復原檔後在cmd上打上&lt;/br&gt;&lt;/br&gt;
+        "git reset --hard 復原檔 "&lt;/br&gt;&lt;/br&gt;
+    4. 進到資料夾打開reveal.leo檔&lt;/br&gt;&lt;/br&gt;
+    5. 修改reveal.leo檔&lt;/br&gt;&lt;/br&gt;
+    6. 修改完save as到tmp/2015fallcadpb/user/自己學號&lt;/br&gt;&lt;/br&gt;
         &lt;/p&gt;
 &lt;/section&gt;
 				
