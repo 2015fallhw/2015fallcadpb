@@ -1,0 +1,66 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+<h3>電腦輔助設計實習CADPB</h3>
+    <p>40323247-黃顏維辰</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h3>課堂筆記</h3 >
+    <p>1.至 Leo-editor GitHub</br>
+2.點選 releases 下載zip檔 </br>
+3.將載下來的檔案拉到 Ana3_2015 的 data</br>
+4.下載老師的fix資料夾並拉到Ana3_2015</br>
+5.開啟SciTE </br>
+6.將fix資料夾內的fix.bat及start.bat拉入SciTE </br>
+7.fix.bat需新增 copy leo-editor-broke-abbrev.zip F:\Ana3_2015\data\ (自的己隨身碟F:) </br>
+8.start.bat把第25行改成 pip install leo-editor-broke-abbrev.zip </br>
+9.儲存完之後點兩下fix.bat </br>
+10.再啟動 start 就安裝成功~~ </br>
+</p>
+
+</section>
+    
+				
+<section>
+    <h3>心得和評分</h3>
+    <p>下載fix是為了讓我們在隨身硬碟上使用python可以更快 ，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。<h3>自評分數:70。</h3></p>
+    
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
