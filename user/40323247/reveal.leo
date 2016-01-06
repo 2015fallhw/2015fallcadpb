@@ -756,6 +756,7 @@ git config user.name "信箱"
 8.start.bat把第25行改成 pip install leo-editor-broke-abbrev.zip &lt;/br&gt;
 9.儲存完之後點兩下fix.bat &lt;/br&gt;
 10.再啟動 start 就安裝成功~~ &lt;/br&gt;
+&lt;/p&gt;
 
 &lt;/section&gt;
     
