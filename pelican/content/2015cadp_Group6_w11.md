@@ -10,7 +10,7 @@ Summary: 第六組第十一週工作報告<br />
 以下為相關工作報告資料:
 <br>
 <br>
-<font face="標楷體" color="#FF0000" size="5">Part_1 : Adjuster_Base </font>- <a href='user/40328245/'>40328245</a>
+<font face="標楷體" color="#FF0000" size="5">Part_1 : Adjuster_Base </font>- by<a href='user/40328245/'>40328245</a>
 
  <p align="left"><a href="https://copy.com/Wz2TmjKPDdFialIV">Adjust_Base.prt</a>
 
@@ -22,47 +22,65 @@ Summary: 第六組第十一週工作報告<br />
  <iframe src="https://player.vimeo.com/video/150786186" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/150786186">ADJUSTER_BASE</a> from <a href="https://vimeo.com/user45396653">40328245@gm.nfu.edu.tw</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
  =================================================
- <font face="標楷體" color="#FF0000" size="5">Part_2 : Aduster </font>- <a href='user/40223212/'>40223212</a>
- 
+ <br>
+<br>
+ <font face="標楷體" color="#FF0000" size="5">Part_2 : Aduster </font>- by<a href='user/40223212/'>40223212</a>
+ <br>
  <p align="left"><a href="https://copy.com/TBPV8wX40HmDgVnF">Aduster.prt</a>
-
+<br>
  <imgsrc="https://copy.com/Wyq4KTtqpuU2Cvf8"width="300"height="300">
+ <br>
+ <script src="https://embed.github.com/view/3d//2015fallhw/2015fallcadpb/gh-pages/user/40223212/project/adjuster.stl"width="300"height="300"></script>
+ <br>
+ <iframe src="https://player.vimeo.com/video/150897691" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150897691">adjuster</a> from <a href="https://vimeo.com/user45258346">何師誠</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
  
  
  
   =================================================
-<font face="標楷體" color="#FF0000" size="5">Part_3 : Base </font>- <a href='user/40323254/'>40323254</a>
+  <br>
+<br>
+<font face="標楷體" color="#FF0000" size="5">Part_3 : Base </font>- by<a href='user/40323254/'>40323254</a>
 <br>
 <br>
  <iframe src="https://player.vimeo.com/video/150163127" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150163127">bandicam 2015-12-28 17-05-37-299</a> from <a href="https://vimeo.com/user44554199">Tsai Bo Feng</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
- 
+ <br>
 =================================================
-<font face="標楷體" color="#FF0000" size="5">Part_4 : connection</font>- <a href='user/40223212/'>40223212</a>
-
+<br>
+<br>
+<font face="標楷體" color="#FF0000" size="5">Part_4 : connection</font>- by<a href='user/40223212/'>40223212</a>
+<br>
 <p align="left"><a href="https://copy.com/Y7SlWmU3MQfrLeI9">connection.prt</a>
 
  <imgsrc="https://copy.com/kIrYmKZDa8m94yEq"width="300"height="300">
-  
+ <br>
+ <script src="https://embed.github.com/view/3d//2015fallhw/2015fallcadpb/gh-pages/user/40223212/project/connection.stl"width="300"height="300"></script>
+ <br>
+ <iframe src="https://player.vimeo.com/video/147283357" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/147283357">connection.prt</a> from <a href="https://vimeo.com/user45258346">何師誠</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+ onshape畫法跟core一樣~
   
   
 =================================================
-<font face="標楷體" color="#FF0000" size="5">Part_5 : Cylinder </font>- <a href='user/40323254/'>40323254</a>
 <br>
 <br>
+<font face="標楷體" color="#FF0000" size="5">Part_5 : Cylinder </font>- by<a href='user/40323254/'>40323254</a>
  <iframe src="https://player.vimeo.com/video/150164367" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150164367">bandicam 2015-12-28 20-17-36-604</a> from <a href="https://vimeo.com/user44554199">Tsai Bo Feng</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
  =================================================
- 
- <font face="Arial" color="#FF0000" size="5">Part_6 :Handle </font>- <a href='user/40328245/'>40328245</a>
+ <br>
+<br>
+ <font face="Arial" color="#FF0000" size="5">Part_6 :Handle </font>- by<a href='user/40328245/'>40328245</a>
  
  <imgsrc="https://copy.com/XozVkYBMTyHqvRyg"width="600" height="600">
  
   <p align="left"><a href="https://copy.com/XozVkYBMTyHqvRyg">handle.prt</a>
   
    <script src="https://embed.github.com/view/3d/40328245/project/gh-pages/handle.stl"width="300"height="300"></script>
+   
  <iframe src="https://player.vimeo.com/video/150789785" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/150789785">handle</a> from <a href="https://vimeo.com/user45396653">40328245@gm.nfu.edu.tw</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 =================================================
-<font face="標楷體" color="#FF0000" size="5"> Part_7 : Hinge </font>- <a href='user/40323254/'>40323254</a>
+<br>
+<br>
+<font face="標楷體" color="#FF0000" size="5"> Part_7 : Hinge </font>- by<a href='user/40323254/'>40323254</a>
 <br>
 <br>
 <p align="left"><a href="https://copy.com/cFzAwElrq7q1uf1N">Hinge.prt</a>
@@ -85,5 +103,8 @@ src="https://copy.com/LqL49YKs7QplisTr"width="300"height="300">
 <br>
 <br>
 <iframe src="https://player.vimeo.com/video/150516312" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150516312">nutcracker on onshape</a> from <a href="https://vimeo.com/user46488280">40328242</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
+<iframe src="https://player.vimeo.com/video/150890146" width="500" height="259" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150890146">clip0011</a> from <a href="https://vimeo.com/user45258346">何師誠</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
   =================================================
