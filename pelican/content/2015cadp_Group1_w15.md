@@ -24,6 +24,7 @@ Summary: 第一組第十五週工作報告<br />Nutcracker 機構 _ Onshape
 <br>
 <hr>
 <br>
+<p>created by 40323250</p>
 <script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323250/part/nutcracker.stl"width="300"height="300"></script>
 <br>
 組合影片 - <a href='user/40323250/'>40323250</a>
