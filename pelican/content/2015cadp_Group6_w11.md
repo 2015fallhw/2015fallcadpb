@@ -80,7 +80,7 @@ Summary: 第六組第十一週工作報告<br />
 =================================================
 <br>
 <br>
-<font face="標楷體" color="#FF0000" size="5"> Part_7 : Hinge </font>- by<a href='user/40323254/'>40323254</a>
+<font face="標楷體" color="#FF0000" size="5"> Part_7 : Hinge </font>- by<a href='user/40328242/'>40328242</a>
 <br>
 <br>
 <p align="left"><a href="https://copy.com/cFzAwElrq7q1uf1N">Hinge.prt</a>
