@@ -14,34 +14,55 @@ Summary: 第六組第十一週工作報告<br />
 
  <p align="left"><a href="https://copy.com/Wz2TmjKPDdFialIV">Adjust_Base.prt</a>
 
- <img
-src="https://copy.com/8oeZ6aSa42joGWaq"width="300"height="300">
+ <imgsrc="https://copy.com/8oeZ6aSa42joGWaq"width="300"height="300">
 
 
  <script src="https://embed.github.com/view/3d/40328245/project/gh-pages/adjuster_base.stl"width="300"height="300"></script>
  
  <iframe src="https://player.vimeo.com/video/150786186" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/150786186">ADJUSTER_BASE</a> from <a href="https://vimeo.com/user45396653">40328245@gm.nfu.edu.tw</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+ =================================================
+ <font face="標楷體" color="#FF0000" size="5">Part_2 : Aduster </font>- <a href='user/40223212/'>40223212</a>
+ 
+ <p align="left"><a href="https://copy.com/TBPV8wX40HmDgVnF">Aduster.prt</a>
 
+ <imgsrc="https://copy.com/Wyq4KTtqpuU2Cvf8"width="300"height="300">
+ 
+ 
+ 
+  =================================================
+<font face="標楷體" color="#FF0000" size="5">Part_3 : Base </font>- <a href='user/40323254/'>40323254</a>
+<br>
+<br>
+ <iframe src="https://player.vimeo.com/video/150163127" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150163127">bandicam 2015-12-28 17-05-37-299</a> from <a href="https://vimeo.com/user44554199">Tsai Bo Feng</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+ 
+=================================================
+<font face="標楷體" color="#FF0000" size="5">Part_4 : connection</font>- <a href='user/40223212/'>40223212</a>
+
+<p align="left"><a href="https://copy.com/Y7SlWmU3MQfrLeI9">connection.prt</a>
+
+ <imgsrc="https://copy.com/kIrYmKZDa8m94yEq"width="300"height="300">
+  
+  
+  
+=================================================
+<font face="標楷體" color="#FF0000" size="5">Part_5 : Cylinder </font>- <a href='user/40323254/'>40323254</a>
+<br>
+<br>
+ <iframe src="https://player.vimeo.com/video/150164367" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150164367">bandicam 2015-12-28 20-17-36-604</a> from <a href="https://vimeo.com/user44554199">Tsai Bo Feng</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
  =================================================
  
  <font face="Arial" color="#FF0000" size="5">Part_6 :Handle </font>- <a href='user/40328245/'>40328245</a>
-   
- <img
-src="https://copy.com/XozVkYBMTyHqvRyg"width="600" height="600">
-
+ 
+ <imgsrc="https://copy.com/XozVkYBMTyHqvRyg"width="600" height="600">
+ 
   <p align="left"><a href="https://copy.com/XozVkYBMTyHqvRyg">handle.prt</a>
   
    <script src="https://embed.github.com/view/3d/40328245/project/gh-pages/handle.stl"width="300"height="300"></script>
-
  <iframe src="https://player.vimeo.com/video/150789785" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/150789785">handle</a> from <a href="https://vimeo.com/user45396653">40328245@gm.nfu.edu.tw</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
- 
- 
-  
-  =================================================
- 
- Part_7 : Hinge - <a href='user/40328242/'>40328242</a>
+=================================================
+<font face="標楷體" color="#FF0000" size="5"> Part_7 : Hinge </font>- <a href='user/40323254/'>40323254</a>
 <br>
 <br>
 <p align="left"><a href="https://copy.com/cFzAwElrq7q1uf1N">Hinge.prt</a>
@@ -66,15 +87,3 @@ src="https://copy.com/LqL49YKs7QplisTr"width="300"height="300">
 <iframe src="https://player.vimeo.com/video/150516312" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150516312">nutcracker on onshape</a> from <a href="https://vimeo.com/user46488280">40328242</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
   =================================================
- 
-  Part_3 : Base - <a href='user/40323254/'>40323254</a>
-<br>
-<br>
- <iframe src="https://player.vimeo.com/video/150163127" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150163127">bandicam 2015-12-28 17-05-37-299</a> from <a href="https://vimeo.com/user44554199">Tsai Bo Feng</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
- 
-  =================================================
-   
- Part_5 : Cylinder - <a href='user/40323254/'>40323254</a>
-<br>
-<br>
- <iframe src="https://player.vimeo.com/video/150164367" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150164367">bandicam 2015-12-28 20-17-36-604</a> from <a href="https://vimeo.com/user44554199">Tsai Bo Feng</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
