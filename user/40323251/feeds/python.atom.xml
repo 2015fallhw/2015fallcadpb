@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323251 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T10:03:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第十六週作業</title><link href="http://coursemdetw.github.io/reveal/40323251_cp_w16.html" rel="alternate"></link><updated>2015-12-28T10:03:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/40323251_cp_w16.html</id><summary type="html">&lt;p&gt;以下為作業內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest16.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="simplest16.html" target="_blank"&gt;投影片連結&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第十五週作業</title><link href="http://coursemdetw.github.io/reveal/40323251_cp_w15.html" rel="alternate"></link><updated>2015-12-21T10:03:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/40323251_cp_w15.html</id><summary type="html">&lt;p&gt;以下為作業內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323251 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-21T10:03:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第十五週作業</title><link href="http://coursemdetw.github.io/reveal/40323251_cp_w15.html" rel="alternate"></link><updated>2015-12-21T10:03:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/40323251_cp_w15.html</id><summary type="html">&lt;p&gt;以下為作業內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest15.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -1937,4 +1933,12 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;p&gt;註腳會連結到這裡.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第十六週作業</title><link href="http://coursemdetw.github.io/reveal/40323251_cp_w16.html" rel="alternate"></link><updated>2015-01-04T10:03:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-01-04:reveal/40323251_cp_w16.html</id><summary type="html">&lt;p&gt;以下為作業內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest16.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest16.html" target="_blank"&gt;投影片連結&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/fdh0EFiSrP7TuD4E"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/FYurFvLPxNYE0cpz"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/wRcnoo4EGnQFc0ET"width="450"height="350"&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150637211" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>

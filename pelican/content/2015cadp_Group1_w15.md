@@ -24,6 +24,7 @@ Summary: 第一組第十五週工作報告<br />Nutcracker 機構 _ Onshape
 <br>
 <hr>
 <br>
+<p>created by 40323250</p>
 <script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323250/part/nutcracker.stl"width="300"height="300"></script>
 <br>
 組合影片 - <a href='user/40323250/'>40323250</a>
@@ -33,3 +34,11 @@ Summary: 第一組第十五週工作報告<br />Nutcracker 機構 _ Onshape
 組合影片 - <a href='user/40323212/'>40323212</a>
 <br>
 <iframe src="https://player.vimeo.com/video/150401077" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150401077">onshape_nutcracker</a> from <a href="https://vimeo.com/user33034021">何昶熠</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
+組合影片 - <a href='user/40323218/'>40323218</a>
+<br>
+<script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/user/40323218/assemble.stl"width="300"height="300"></script>
+<br>
+<br>
+<iframe src="https://player.vimeo.com/video/150885854" width="500" height="271" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150885854">Assemble</a> from <a href="https://vimeo.com/user44943624">Li Steven</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
