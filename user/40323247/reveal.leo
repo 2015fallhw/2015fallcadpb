@@ -44,7 +44,7 @@
 <v t="leo.20160105212729.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212729.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212729.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212729.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212729.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105212729.8"><vh>課堂筆記</vh></v>
 <v t="leo.20160105212729.9"><vh>心得和評分</vh></v>
 </v>
@@ -59,7 +59,7 @@
 <v t="leo.20160105212736.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212736.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212736.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212736.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212736.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105212736.8"><vh>課堂筆記</vh></v>
 <v t="leo.20160105212736.9"><vh>心得和評分</vh></v>
 </v>
@@ -74,7 +74,7 @@
 <v t="leo.20160105212742.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212742.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212742.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212742.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212742.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105212742.8"><vh>課堂筆記</vh></v>
 <v t="leo.20160105212742.9"><vh>心得和評分</vh></v>
 </v>
@@ -89,7 +89,7 @@
 <v t="leo.20160105212749.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212749.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212749.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212749.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212749.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105212749.8"><vh>課堂筆記</vh></v>
 <v t="leo.20160105212749.9"><vh>心得和評分</vh></v>
 </v>
@@ -104,7 +104,7 @@
 <v t="leo.20160105212757.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212757.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212757.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212757.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212757.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105212757.8"><vh>課堂筆記</vh></v>
 <v t="leo.20160105212757.9"><vh>心得和評分</vh></v>
 </v>
@@ -119,7 +119,7 @@
 <v t="leo.20160105212804.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212804.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212804.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212804.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212804.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105212804.8"><vh>課堂筆記</vh></v>
 <v t="leo.20160105212804.9"><vh>心得和評分</vh></v>
 </v>
@@ -134,7 +134,7 @@
 <v t="leo.20160105212811.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212811.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212811.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212811.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212811.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105212811.8"><vh>課堂筆記</vh></v>
 <v t="leo.20160105212811.9"><vh>心得和評分</vh></v>
 </v>
@@ -149,7 +149,7 @@
 <v t="leo.20160105212819.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105212819.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105212819.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105212819.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105212819.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105212819.8"><vh>課堂筆記</vh></v>
 <v t="leo.20160105212819.9"><vh>心得和評分</vh></v>
 </v>
@@ -164,7 +164,7 @@
 <v t="leo.20160105220352.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105220352.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105220352.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105220352.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105220352.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105220352.8"><vh>Creo繪圖心得</vh></v>
 <v t="leo.20160105220352.9"><vh>Onshape繪圖心得</vh></v>
 <v t="leo.20160105220352.10"><vh>自評分數</vh></v>
@@ -341,7 +341,7 @@ jupyter notebook
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;	
 &lt;/section&gt;
 	
@@ -427,7 +427,7 @@ git config user.name "信箱"
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;	
 &lt;/section&gt;
 	
@@ -503,7 +503,7 @@ git config user.name "信箱"
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -582,7 +582,7 @@ git config user.name "信箱"
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;
 &lt;/section&gt;
 	
@@ -658,7 +658,7 @@ git config user.name "信箱"
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;	
 &lt;/section&gt;
 	
@@ -739,7 +739,7 @@ git config user.name "信箱"
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -821,7 +821,7 @@ git config user.name "信箱"
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -900,7 +900,7 @@ git config user.name "信箱"
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -982,7 +982,7 @@ git config user.name "信箱"
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
