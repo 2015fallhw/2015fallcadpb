@@ -94,7 +94,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103215244.1"><vh>@clean simplest12.html</vh>
+<v t="leo.20160103215244.1" a="E"><vh>@clean simplest12.html</vh>
 <v t="leo.20160103215244.2"><vh>檔案說明</vh></v>
 <v t="leo.20160103215244.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160103215244.4" a="E"><vh>body 標註</vh>
@@ -112,7 +112,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103215758.1"><vh>@clean simplest14.html</vh>
+<v t="leo.20160103215758.1" a="E"><vh>@clean simplest14.html</vh>
 <v t="leo.20160103215758.14"><vh>檔案說明</vh></v>
 <v t="leo.20160103215758.15" a="E"><vh>html 標註</vh>
 <v t="leo.20160103215758.16" a="E"><vh>body 標註</vh>
@@ -583,10 +583,14 @@ jupyter notebook
 &lt;/body&gt;
 </t>
 <t tx="leo.20160103215244.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
-&lt;/div&gt;
-</t>
+&lt;/div&gt;</t>
 <t tx="leo.20160103215244.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
@@ -628,10 +632,14 @@ jupyter notebook
 &lt;/body&gt;
 </t>
 <t tx="leo.20160103215758.17">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
-&lt;/div&gt;
-</t>
+&lt;/div&gt;</t>
 <t tx="leo.20160103215758.18">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
