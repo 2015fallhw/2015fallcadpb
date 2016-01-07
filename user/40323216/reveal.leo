@@ -130,7 +130,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107215204.1"><vh>@clean simplest16.html</vh>
+<v t="leo.20160107215204.1" a="E"><vh>@clean simplest16.html</vh>
 <v t="leo.20160107215204.2"><vh>檔案說明</vh></v>
 <v t="leo.20160107215204.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160107215204.4" a="E"><vh>body 標註</vh>
@@ -723,10 +723,14 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323216"; }&lt;/style&gt
 &lt;/body&gt;
 </t>
 <t tx="leo.20160107215204.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
-&lt;/div&gt;
-</t>
+&lt;/div&gt;</t>
 <t tx="leo.20160107215204.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
