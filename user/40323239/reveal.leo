@@ -334,9 +334,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/div&gt;
 </t>
 <t tx="leo.20160106230753.7">&lt;&lt; header &gt;&gt;
-&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
 &lt;section&gt;
     &lt;h1&gt;四設計二乙&lt;/h1&gt;
     &lt;p&gt;40323239陳信榮&lt;/p&gt;		
@@ -344,7 +342,7 @@ g.es("admin pelican 執行完畢")</t>
 	
 </t>
 <t tx="leo.20160106230753.8">&lt;&lt; header &gt;&gt;
-&lt;section id="hw-task-one"&gt;
+
     &lt;h1&gt;筆記&lt;/h1&gt;
     &lt;p&gt;1.先開啟slovesplace然後先畫出圖形的大概樣子
     2.水平線跟垂直線要約束
@@ -356,7 +354,7 @@ g.es("admin pelican 執行完畢")</t>
 				
 </t>
 <t tx="leo.20160106230753.9">&lt;&lt; header &gt;&gt;
-&lt;section&gt;
+
     &lt;h1&gt;心得與自評&lt;/h1&gt;
     &lt;p&gt;心得:我這次有先參考別人的畫法，然後再做出我自己覺得最快的畫法，可能會比較隨意但東西還是正確的，而且這次沒有想像真的難所以我覺得我自己做的還不錯
     自評分數:75&lt;/p&gt;
@@ -419,9 +417,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/div&gt;
 </t>
 <t tx="leo.20160106230804.7">&lt;&lt; header &gt;&gt;
-&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
 &lt;section&gt;
     &lt;h1&gt;四設計二乙&lt;/h1&gt;
     &lt;p&gt;40323239陳信榮&lt;/p&gt;		
@@ -429,7 +425,7 @@ g.es("admin pelican 執行完畢")</t>
 	
 </t>
 <t tx="leo.20160106230804.8">&lt;&lt; header &gt;&gt;
-&lt;section id="hw-task-one"&gt;
+
     &lt;h1&gt;筆記&lt;/h1&gt;
     &lt;p&gt;1.把學校電腦裡的Ana3_2015帶回家
 
@@ -444,7 +440,7 @@ g.es("admin pelican 執行完畢")</t>
 				
 </t>
 <t tx="leo.20160106230804.9">&lt;&lt; header &gt;&gt;
-&lt;section&gt;
+
     &lt;h1&gt;心得與自評&lt;/h1&gt;
     &lt;p&gt;心得:我其實做了很多次了，但是不知道為啥東西都傳不上去，所以時間才會拖到這麼晚，可是我還是把它做完了，所以我也花了許多時間來做這個作業，多做了幾次發現比較熟練了。
     自評分數:70&lt;/p&gt;
@@ -506,9 +502,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/div&gt;
 </t>
 <t tx="leo.20160106230809.7">&lt;&lt; header &gt;&gt;
-&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
 &lt;section&gt;
     &lt;h1&gt;四設計二乙&lt;/h1&gt;
     &lt;p&gt;40323239陳信榮&lt;/p&gt;		
@@ -516,7 +510,7 @@ g.es("admin pelican 執行完畢")</t>
 	
 </t>
 <t tx="leo.20160106230809.8">&lt;&lt; header &gt;&gt;
-&lt;section id="hw-task-one"&gt;
+
     &lt;h1&gt;筆記&lt;/h1&gt;
     &lt;p&gt;1有一個CREO的PDF檔
     2.裡面有零件的尺寸
@@ -527,7 +521,7 @@ g.es("admin pelican 執行完畢")</t>
 				
 </t>
 <t tx="leo.20160106230809.9">&lt;&lt; header &gt;&gt;
-&lt;section&gt;
+
     &lt;h1&gt;心得與自評&lt;/h1&gt;
     &lt;p&gt;心得:CREO比起有先繪圖軟體比較好用，因為我常常懶得把視圖縮放，但是她會自己縮放所以我覺得比起其他的方便了那一些些，但是有先地方也是比較麻煩的。
     自評分數:75&lt;/p&gt;
@@ -593,9 +587,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/div&gt;
 </t>
 <t tx="leo.20160106232106.7">&lt;&lt; header &gt;&gt;
-&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
 &lt;section&gt;
     &lt;h1&gt;四設計二乙&lt;/h1&gt;
     &lt;p&gt;40323239陳信榮&lt;/p&gt;		
@@ -603,7 +595,7 @@ g.es("admin pelican 執行完畢")</t>
 	
 </t>
 <t tx="leo.20160106232106.8">&lt;&lt; header &gt;&gt;
-&lt;section id="hw-task-one"&gt;
+
     &lt;h1&gt;筆記&lt;/h1&gt;
     &lt;p&gt;這次作業是到處各地都能用資料
     下載FIX
@@ -614,7 +606,7 @@ g.es("admin pelican 執行完畢")</t>
 				
 </t>
 <t tx="leo.20160106232106.9">&lt;&lt; header &gt;&gt;
-&lt;section&gt;
+
     &lt;h1&gt;心得與自評&lt;/h1&gt;
     &lt;p&gt;心得:這樣就可以用隨身碟來做隨身的個人倉儲，這會很方便，因為那台電腦不用有檔案就可以隨時工作，這也讓我對倉儲的便利性更加地確定了。
     自評分數:60&lt;/p&gt;
@@ -676,9 +668,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/div&gt;
 </t>
 <t tx="leo.20160107000445.7">&lt;&lt; header &gt;&gt;
-&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
 &lt;section&gt;
     &lt;h1&gt;四設計二乙&lt;/h1&gt;
     &lt;p&gt;40323239陳信榮&lt;/p&gt;		
@@ -686,7 +676,7 @@ g.es("admin pelican 執行完畢")</t>
 	
 </t>
 <t tx="leo.20160107000445.8">&lt;&lt; header &gt;&gt;
-&lt;section id="hw-task-one"&gt;
+
     &lt;h1&gt;筆記&lt;/h1&gt;
     &lt;p&gt;這次是組別的畫圖作業
     creo一個
@@ -697,7 +687,7 @@ g.es("admin pelican 執行完畢")</t>
 				
 </t>
 <t tx="leo.20160107000445.9">&lt;&lt; header &gt;&gt;
-&lt;section&gt;
+
     &lt;h1&gt;心得與自評&lt;/h1&gt;
     &lt;p&gt;心得:可能是我軟體不熟的關係吧，不然這兩個軟體都還不錯，不然拍攝時間應該可以再縮短許多，可以的話，我也花多點時間去練習這兩個繪圖工具。
     自評分數:60&lt;/p&gt;
@@ -759,9 +749,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;/div&gt;
 </t>
 <t tx="leo.20160107104159.7">&lt;&lt; header &gt;&gt;
-&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
 &lt;section&gt;
     &lt;h1&gt;四設計二乙&lt;/h1&gt;
     &lt;p&gt;40323239陳信榮&lt;/p&gt;		
@@ -769,7 +757,7 @@ g.es("admin pelican 執行完畢")</t>
 	
 </t>
 <t tx="leo.20160107104159.8">&lt;&lt; header &gt;&gt;
-&lt;section id="hw-task-one"&gt;
+
     &lt;h1&gt;筆記&lt;/h1&gt;
     &lt;p&gt;這次作業是修復REVEAL檔
     先git clone2015fallcadpb的檔案
@@ -781,7 +769,7 @@ g.es("admin pelican 執行完畢")</t>
 				
 </t>
 <t tx="leo.20160107104159.9">&lt;&lt; header &gt;&gt;
-&lt;section&gt;
+
     &lt;h1&gt;心得與自評&lt;/h1&gt;
     &lt;p&gt;心得:把reveal恢復這個一開始對我有些難度，但靠著影片的教學，我也成功地恢復了自己的檔案，這也讓我感覺到了之前學到的東西，在這也是有用的。
     自評分數:60&lt;/p&gt;
