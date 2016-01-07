@@ -31,12 +31,6 @@
 <v t="1.20151231114016.6"><vh>@edit 40323255_cp_w6.md</vh></v>
 <v t="1.20151231114016.7"><vh>@edit 40323255_cp_w7.md</vh></v>
 <v t="40323255.20151231163622.1"><vh>@edit 40323255_cp_w11.md</vh></v>
-<<<<<<< HEAD
-<v t="40323255.20160107001307.1"><vh>@edit 40323255_cp_w12.md</vh></v>
-=======
-<v t="leo.20160104103823.1"><vh>@edit 40323255_cp_w12.md</vh></v>
->>>>>>> 0baca4a3a1acb791ad0e386edbc3631e1236f0da
-<v t="40323255.20160104081224.1"><vh>@edit 40323255_cp_w14.md</vh></v>
 <v t="40323255.20151231163640.1"><vh>@edit 40323255_cp_w15.md</vh></v>
 </v>
 </v>
@@ -126,9 +120,9 @@
 <v t="40323255.20151231163703.1"><vh>@clean 40323255_cp_w11.html</vh>
 <v t="40323255.20151231163703.2"><vh>檔案說明</vh></v>
 <v t="40323255.20151231163703.3" a="E"><vh>html 標註</vh>
-<v t="40323255.20151231163703.4" a="E"><vh>body 標註</vh>
-<v t="40323255.20151231163703.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323255.20151231163703.6" a="E"><vh>div class="slides"</vh>
+<v t="40323255.20151231163703.4"><vh>body 標註</vh>
+<v t="40323255.20151231163703.5"><vh>div class="reveal"</vh>
+<v t="40323255.20151231163703.6"><vh>div class="slides"</vh>
 <v t="40323255.20151231163703.7"><vh>有關我的作業</vh></v>
 <v t="40323255.20151231163703.8"><vh>2</vh></v>
 <v t="40323255.20151231163703.9"><vh>3</vh></v>
@@ -140,75 +134,17 @@
 </v>
 </v>
 </v>
-<<<<<<< HEAD
-<v t="40323255.20160107001535.1" a="E"><vh>@clean 40323255_cp_w12.html</vh>
-<v t="40323255.20160107001535.2"><vh>檔案說明</vh></v>
-<v t="40323255.20160107001535.3" a="E"><vh>html 標註</vh>
-<v t="40323255.20160107001535.4" a="E"><vh>body 標註</vh>
-<v t="40323255.20160107001535.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323255.20160107001535.6" a="E"><vh>div class="slides"</vh>
-<v t="40323255.20160107001535.7"><vh>有關我的作業</vh></v>
-<v t="40323255.20160107001535.8"><vh>2</vh></v>
-<v t="40323255.20160107001535.10"><vh>4</vh></v>
-<v t="40323255.20160107001702.1"><vh>5</vh></v>
-<v t="40323255.20160107001535.11"><vh>6</vh></v>
-</v>
-</v>
-<v t="40323255.20160107001535.12"><vh>script</vh></v>
-=======
-<v t="leo.20160104103843.1" a="E"><vh>@clean 40323255_cp_w12.html</vh>
-<v t="leo.20160104103843.2"><vh>檔案說明</vh></v>
-<v t="leo.20160104103843.3" a="E"><vh>html 標註</vh>
-<v t="leo.20160104103843.4" a="E"><vh>body 標註</vh>
-<v t="leo.20160104103843.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20160104103843.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160104103843.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160104103843.8"><vh>2</vh></v>
-<v t="leo.20160104103843.9"><vh>3</vh></v>
-<v t="leo.20160104103843.10"><vh>4</vh></v>
-<v t="leo.20160104103843.11"><vh>5</vh></v>
-</v>
-</v>
-<v t="leo.20160104103843.12"><vh>script</vh></v>
->>>>>>> 0baca4a3a1acb791ad0e386edbc3631e1236f0da
-</v>
-</v>
-</v>
-<v t="40323255.20160104081247.1"><vh>@clean 40323255_cp_w14.html</vh>
-<v t="40323255.20160104081247.2"><vh>檔案說明</vh></v>
-<v t="40323255.20160104081247.3" a="E"><vh>html 標註</vh>
-<v t="40323255.20160104081247.4" a="E"><vh>body 標註</vh>
-<v t="40323255.20160104081247.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323255.20160104081247.6" a="E"><vh>div class="slides"</vh>
-<v t="40323255.20160104081247.7"><vh>有關我的作業</vh></v>
-<v t="40323255.20160104081321.1"><vh>簡介</vh></v>
-<v t="40323255.20160104081247.8"><vh>1</vh></v>
-<v t="40323255.20160104081247.9"><vh>2</vh></v>
-<v t="40323255.20160104081247.10"><vh>3</vh></v>
-<v t="40323255.20160104081346.1"><vh>4</vh></v>
-<v t="40323255.20160104081348.1"><vh>5</vh></v>
-<v t="40323255.20160104081349.1"><vh>6</vh></v>
-<v t="40323255.20160104081350.1"><vh>7</vh></v>
-<v t="40323255.20160104081352.1"><vh>8</vh></v>
-<v t="40323255.20160104081247.11"><vh>心得</vh></v>
-</v>
-</v>
-<v t="40323255.20160104081247.12"><vh>script</vh></v>
-</v>
-</v>
-</v>
 <v t="40323255.20151231163723.1"><vh>@clean 40323255_cp_w15.html</vh>
 <v t="40323255.20151231163723.2"><vh>檔案說明</vh></v>
-<v t="40323255.20151231163723.3" a="E"><vh>html 標註</vh>
-<v t="40323255.20151231163723.4" a="E"><vh>body 標註</vh>
-<v t="40323255.20151231163723.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323255.20151231163723.6" a="E"><vh>div class="slides"</vh>
+<v t="40323255.20151231163723.3"><vh>html 標註</vh>
+<v t="40323255.20151231163723.4"><vh>body 標註</vh>
+<v t="40323255.20151231163723.5"><vh>div class="reveal"</vh>
+<v t="40323255.20151231163723.6"><vh>div class="slides"</vh>
 <v t="40323255.20151231163723.7"><vh>有關我的作業</vh></v>
 <v t="40323255.20151231163723.8"><vh>2</vh></v>
 <v t="40323255.20151231163723.9"><vh>3</vh></v>
 <v t="40323255.20151231163723.10"><vh>4</vh></v>
-<v t="40323255.20160104074446.1"><vh>5</vh></v>
-<v t="40323255.20151231163723.11"><vh>6</vh></v>
+<v t="40323255.20151231163723.11"><vh>5</vh></v>
 </v>
 </v>
 <v t="40323255.20151231163723.12"><vh>script</vh></v>
@@ -643,8 +579,9 @@ g.es("user pelican 執行完畢")</t>
 
 </t>
 <t tx="40323255.20151231163703.10">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Hinge&lt;/h2&gt;
-    &lt;p&gt;Hinge是用來固定我們Handle的零件。我們可以先畫出一個矩形(1.4mmx1.5mmx0.75mm)，做去做剩下除料的動作，就完成了。&lt;/p&gt;
+    &lt;h2&gt;Creo Parametric操作流程(3)&lt;/h2&gt;
+    &lt;p&gt;第二種畫法：旋轉&lt;/p&gt;
+    &lt;p&gt;首先，我們點選旋轉，選擇前視圖，依照它軸的形狀，畫完之後，旋轉長料，軸就完成了；再點選旋轉，一樣在前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -705,22 +642,22 @@ g.es("user pelican 執行完畢")</t>
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;p&gt;Creo組合核桃機&lt;/p&gt;
     &lt;p&gt;四設計二乙&lt;/p&gt;	
     &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="40323255.20151231163703.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Adjuster&lt;/h2&gt;
-    &lt;p&gt;Adjuster是拿來夾持核桃用的零件。我們可以先從前視圖，畫出一半的圖案，然後做旋轉長料就會有我們需要的形狀囉。&lt;/p&gt;
+    &lt;h2&gt;Creo Parametric操作流程(1)&lt;/h2&gt;
+    &lt;p&gt;我們第二個零件，是一根全長90mm的軸，這零件有兩種畫法；第一種是用引伸長料的方式，另一種方式則是使用旋轉長料的方式，而中間凹陷的地方，方法都是使用旋轉除料的方式，這零件值得注意的地方，它也是有倒角的哦，在實際零件上，導角的功用是方便配置哦。&lt;/p&gt;
     
 &lt;/section&gt;
 				
 </t>
 <t tx="40323255.20151231163703.9">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Handle&lt;/h2&gt;
-    &lt;p&gt;Handle是負責操控的零件。畫法很簡單，我們可以直接畫一個圓長料(直徑0.5mm、長度7.5mm)，再長出矩形的形狀，之後再做孔除料的動作就完成了。&lt;/p&gt;
+    &lt;h2&gt;Creo Parametric操作流程(2)&lt;/h2&gt;
+    &lt;p&gt;第一種畫法：引伸&lt;/p&gt;
+    &lt;p&gt;首先，我們點選引伸，選擇右側視圖，畫一個圓直徑8mm，長料90mm，再用引伸的方式，一樣在右側視圖，畫一個圓直徑12mm，伸長70mm；點選旋轉，轉至前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -730,14 +667,15 @@ g.es("user pelican 執行完畢")</t>
 
 </t>
 <t tx="40323255.20151231163723.10">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Handle&lt;/h2&gt;
-    &lt;p&gt;Handle是負責操控的零件。畫法很簡單，我們可以直接畫一個圓長料(直徑0.5mm、長度7.5mm)，再長出矩形的形狀，之後再做孔除料的動作就完成了。&lt;/p&gt;
+    &lt;h2&gt;Creo Parametric操作流程(3)&lt;/h2&gt;
+    &lt;p&gt;第二種畫法：旋轉&lt;/p&gt;
+    &lt;p&gt;首先，我們點選旋轉，選擇前視圖，依照它軸的形狀，畫完之後，旋轉長料，軸就完成了；再點選旋轉，一樣在前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="40323255.20151231163723.11">&lt;section&gt;
     &lt;h2&gt;心得及自評分數&lt;/h2&gt;
-    &lt;p&gt;Onshape用完之後，覺得它的實用性很高以及相當方便，我們在外沒有任何繪圖軟體的時候就很需要它了，又可以讓我們跟組員們做統整的動作，又可以做共同協同零件的工作。&lt;/p&gt;
+    &lt;p&gt;Creo這套軟體越畫越有心得，同一種零件，我們不一定要使用同一種方式才畫得出來，就看我們怎麼利用它的功能而已，尤其對於有學過其他繪圖軟體的人，很容易就上手了。 &lt;/p&gt;
     &lt;p&gt;自評分數：80 &lt;/p&gt;
 
 &lt;/section&gt;
@@ -792,253 +730,23 @@ g.es("user pelican 執行完畢")</t>
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;p&gt;ONSHAPE組核桃機&lt;/p&gt;
     &lt;p&gt;四設計二乙&lt;/p&gt;	
     &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="40323255.20151231163723.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Onshape簡介&lt;/h2&gt;
-    &lt;p&gt;onshape，是一個由SoildWorks跟遠端做建立的網頁，簡單的來說就是[簡易的線上SoildWorks]，它可以不用再經過繁雜的下載程序，目前我們只需要申請帳號就可使用了；它最大的特點，就是可以跟別人共同開發零件、共同組立產品，是一個相當有實用價值的網頁。&lt;/p&gt;
+    &lt;h2&gt;Creo Parametric操作流程(1)&lt;/h2&gt;
+    &lt;p&gt;我們第二個零件，是一根全長90mm的軸，這零件有兩種畫法；第一種是用引伸長料的方式，另一種方式則是使用旋轉長料的方式，而中間凹陷的地方，方法都是使用旋轉除料的方式，這零件值得注意的地方，它也是有倒角的哦，在實際零件上，導角的功用是方便配置哦。&lt;/p&gt;
     
 &lt;/section&gt;
 				
 </t>
 <t tx="40323255.20151231163723.9">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Adjuster&lt;/h2&gt;
-    &lt;p&gt;Adjuster是拿來夾持核桃用的零件。我們可以先從前視圖，畫出一半的圖案，然後做旋轉長料就會有我們需要的形狀囉。&lt;/p&gt;
+    &lt;h2&gt;Creo Parametric操作流程(2)&lt;/h2&gt;
+    &lt;p&gt;第一種畫法：引伸&lt;/p&gt;
+    &lt;p&gt;首先，我們點選引伸，選擇右側視圖，畫一個圓直徑8mm，長料90mm，再用引伸的方式，一樣在右側視圖，畫一個圓直徑12mm，伸長70mm；點選旋轉，轉至前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
 &lt;/section&gt;
-				
-</t>
-<t tx="40323255.20160104074446.1">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Hinge&lt;/h2&gt;
-    &lt;p&gt;Hinge是用來固定我們Handle的零件。我們可以先畫出一個矩形(1.4mmx1.5mmx0.75mm)，做去做剩下除料的動作，就完成了。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20160104081247.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="40323255.20160104081247.10">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Hinge&lt;/h2&gt;
-    &lt;p&gt;Hinge是用來固定我們Handle的零件。我們可以先畫出一個矩形(1.4mmx1.5mmx0.75mm)，做去做剩下除料的動作，就完成了。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20160104081247.11">&lt;section&gt;
-    &lt;h2&gt;心得及自評分數&lt;/h2&gt;
-    &lt;p&gt;Onshape用完之後，覺得它的實用性很高以及相當方便，我們在外沒有任何繪圖軟體的時候就很需要它了，又可以讓我們跟組員們做統整的動作，又可以做共同協同零件的工作。&lt;/p&gt;
-    &lt;p&gt;自評分數：80 &lt;/p&gt;
-
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20160104081247.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="40323255.20160104081247.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="40323255.20160104081247.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="40323255.20160104081247.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="40323255.20160104081247.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323255.20160104081247.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323255.20160104081247.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;p&gt;ONSHAPE組核桃機&lt;/p&gt;
-    &lt;p&gt;四設計二乙&lt;/p&gt;	
-    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="40323255.20160104081247.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Adjuster&lt;/h2&gt;
-    &lt;p&gt;Adjuster是拿來夾持核桃用的零件。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20160104081247.9">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Handle&lt;/h2&gt;
-    &lt;p&gt;Handle是負責操控的零件。畫法很簡單，我們可以直接畫一個圓長料(直徑0.5mm、長度7.5mm)，再長出矩形的形狀，之後再做孔除料的動作就完成了。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20160104081321.1">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Onshape簡介&lt;/h2&gt;
-    &lt;p&gt;onshape，是一個由SoildWorks跟遠端做建立的網頁，簡單的來說就是[簡易的線上SoildWorks]，它可以不用再經過繁雜的下載程序，目前我們只需要申請帳號就可使用了；它最大的特點，就是可以跟別人共同開發零件、共同組立產品，是一個相當有實用價值的網頁。&lt;/p&gt;
-    
-&lt;/section&gt;
-			</t>
-<t tx="40323255.20160104081346.1">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Base&lt;/h2&gt;
-    &lt;p&gt;Base是核桃機的機座。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20160104081348.1">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Connection&lt;/h2&gt;
-    &lt;p&gt;Connection是連接桿，用來連接handle及piston用的。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20160104081349.1">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Piston&lt;/h2&gt;
-    &lt;p&gt;Piston是拿來夾持核桃用的零件。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20160104081350.1">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Cylinder&lt;/h2&gt;
-    &lt;p&gt;Cylinder是用來固定piston的基座。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20160104081352.1">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Adjuster_base&lt;/h2&gt;
-    &lt;p&gt;Adjuster_base是用來固定Adjuster的基座。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20160107001535.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="40323255.20160107001535.10">&lt;&lt; header &gt;&gt;
-&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;下載可攜環境 (Leo-Editor)&lt;/h2&gt;
-    &lt;p&gt;到Google搜尋leo-editor github，下載leo-editor-broke-abbrev的壓縮檔，下載完之後不必解壓縮，直接複製到Ana3_2015裡面的data。&lt;/p&gt;
-&lt;/section&gt;
-	
-&lt;/section&gt;				
-				
-</t>
-<t tx="40323255.20160107001535.11">&lt;&lt; header &gt;&gt;
-&lt;section&gt;
-    &lt;h2&gt;心得及自評分數&lt;/h2&gt;
-    &lt;p&gt;一開始覺得copy所有檔案，檔案太大所以很懶得去複製，之後發現只要複製一部份，再加上可攜環境，只要上課前花個幾分鐘，就可以跟正常一樣運行了。&lt;/p&gt;
-    &lt;p&gt;自評分數：80 &lt;/p&gt;
-
-&lt;/section&gt;
-	
-&lt;/section&gt;				
-				
-</t>
-<t tx="40323255.20160107001535.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="40323255.20160107001535.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="40323255.20160107001535.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="40323255.20160107001535.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="40323255.20160107001535.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323255.20160107001535.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323255.20160107001535.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-
-&lt;&lt; header &gt;&gt;
-
-
-&lt;section&gt;
-    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;p&gt;Leo可攜環境&lt;/p&gt;
-    &lt;p&gt;四設計二乙&lt;/p&gt;	
-    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
-&lt;/section&gt;
-	
-&lt;/section&gt;				
-	
-</t>
-<t tx="40323255.20160107001535.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;下載可攜環境 (FIX)&lt;/h2&gt;
-    &lt;p&gt;必須到2015fall課程下載，然後解壓縮，將fix整個資料夾，複製到Ana3_2015裡面的data。&lt;/p&gt;
-&lt;/section&gt;
-	
-&lt;/section&gt;				
-		</t>
-<t tx="40323255.20160107001702.1">&lt;&lt; header &gt;&gt;
-&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;改變可攜環境 (SciTE)&lt;/h2&gt;
-    &lt;p&gt;打開SciTE，把fix資料夾裡面的fix.bat及start.bat丟進去SciTE，然後進去改變的步驟，就可以開啟Leo Editor。&lt;/p&gt;
-&lt;/section&gt;
-	
-&lt;/section&gt;				
 				
 </t>
 <t tx="amd.20150913232631.1"></t>
@@ -1144,92 +852,6 @@ sudo pip3 install jupyter
 執行
 
 jupyter notebook
-</t>
-<t tx="leo.20160104103843.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="leo.20160104103843.10">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;改變可攜環境 (SciTE)&lt;/h2&gt;
-    &lt;p&gt;打開SciTE，把fix資料夾裡面的fix.bat及start.bat丟進去SciTE，然後進去改變的步驟，就可以開啟Leo Editor。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160104103843.11">&lt;section&gt;
-    &lt;h2&gt;心得及自評分數&lt;/h2&gt;
-    &lt;p&gt;一開始覺得copy所有檔案，檔案太大所以很懶得去複製，之後發現只要複製一部份，再加上可攜環境，只要上課前花個幾分鐘，就可以跟正常一樣運行了。&lt;/p&gt;
-    &lt;p&gt;自評分數：80 &lt;/p&gt;
-
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160104103843.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="leo.20160104103843.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="leo.20160104103843.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="leo.20160104103843.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="leo.20160104103843.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20160104103843.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20160104103843.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;p&gt;Leo可攜環境&lt;/p&gt;
-    &lt;p&gt;四設計二乙&lt;/p&gt;	
-    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20160104103843.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;下載可攜環境 (FIX)&lt;/h2&gt;
-    &lt;p&gt;必須到2015fall課程下載，然後解壓縮，將fix整個資料夾，複製到Ana3_2015裡面的data。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160104103843.9">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;下載可攜環境 (Leo-Editor)&lt;/h2&gt;
-    &lt;p&gt;到Google搜尋leo-editor github，下載leo-editor-broke-abbrev的壓縮檔，下載完之後不必解壓縮，直接複製到Ana3_2015裡面的data。&lt;/p&gt;
-&lt;/section&gt;
-				
 </t>
 </tnodes>
 </leo_file>
