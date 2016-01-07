@@ -1510,7 +1510,8 @@ for ch in p.children():
 
 &lt;section id="hw-task-one"&gt;
     &lt;h50&gt;自評&lt;/h50&gt;
-    &lt;p&gt;自評分數:72&lt;/p&gt;
+    &lt;p&gt;自評分數:72
+    &lt;br&gt;這學期對倉儲的觀念更清楚，也更知道要幹嘛，還有使用其他軟體繪圖和組立，看著作業一周一周在自己的努力和同學幫助下漸漸完成，就覺得好開心和成就，會更激發自己完成作業的動力。&lt;/p&gt;
     
 &lt;/section&gt;
     </t>
