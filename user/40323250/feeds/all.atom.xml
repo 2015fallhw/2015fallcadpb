@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323250 電腦輔助設計實習 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-03T18:30:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第十六週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2016-01-03T18:30:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2016-01-03:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323250 電腦輔助設計實習 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-04T23:10:00+08:00</updated><entry><title>2015 電腦輔助設計實習 畫布測試</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w17.html" rel="alternate"></link><updated>2016-01-04T23:10:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cp_hw_w17.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
 &lt;hr&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -13,6 +13,101 @@
 &lt;/html&gt;
 &lt;hr&gt;
 &lt;br&gt;&lt;/p&gt;
+&lt;!-- 導入 brython_dist.js --&gt;
+
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 brython() --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+
+&lt;canvas id="plotarea" width="300" height="600"&gt;&lt;/canvas&gt;
+
+&lt;script type="text/python3"&gt;
+# 導入 doc
+from browser import document as doc
+import math
+
+# 準備繪圖畫布
+canvas = doc["plotarea"]
+ctx = canvas.getContext("2d")
+# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
+# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
+# 以下採用 canvas 原始座標繪圖
+flag_w = canvas.width
+flag_h = canvas.height
+circle_x = flag_w/4
+circle_y = flag_h/4
+# 先畫滿地紅
+ctx.fillStyle='rgb(255, 0, 0)'
+ctx.fillRect(0,0,flag_w,flag_h)
+# 再畫青天
+ctx.fillStyle='rgb(0, 0, 150)'
+ctx.fillRect(0,0,flag_w/2,flag_h/2)
+# 畫十二道光芒白日
+ctx.beginPath()
+star_radius = flag_w/8
+angle = 0
+for i in range(24):
+    angle += 5*math.pi*2/12
+    toX = circle_x + math.cos(angle)*star_radius
+    toY = circle_y + math.sin(angle)*star_radius
+    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
+    if (i):
+        ctx.lineTo(toX, toY)
+    else:
+        ctx.moveTo(toX, toY)
+ctx.closePath()
+# 將填色設為白色
+ctx.fillStyle = '#fff'
+ctx.fill()
+# 白日:藍圈
+ctx.beginPath()
+ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
+ctx.closePath()
+# 填色設為藍色
+ctx.fillStyle = 'rgb(0, 0, 149)'
+ctx.fill()
+# 白日:白心
+ctx.beginPath()
+ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
+ctx.closePath()
+# 填色設為白色
+ctx.fillStyle = '#fff'
+ctx.fill()
+&lt;/script&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第十六週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2016-01-03T18:30:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2016-01-03:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;Time After Time - Cyndi Lauper &lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;audio controls pause loop&gt;
+        &lt;source src="https://copy.com/pmHNSuUAMYca0IdT"&gt;
+    &lt;/audio&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;h2&gt;Solvespace計算作動範圍&lt;/h2&gt;
+&lt;img src="https://copy.com/nhN8oKQogaLbKrpd"width="400"height="400"&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/BeHpYlHOuW3PRqn2"width="400"height="400"&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/GYYlEqBgrOvvfZPL"width="400"height="400"&gt;
+&lt;br&gt;
+&lt;p&gt;經由Solvespace求得0.5in與2.23in，將其加入限制條件即可&lt;/p&gt;
+&lt;br&gt;
+&lt;img src="https://copy.com/esT2Cxc92WvkmAJ6"width="400"height="400"&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
 &lt;h3&gt;第10~11週&lt;/h3&gt;
 &lt;p&gt;目標:學會建立Miniconda簡易的可攜環境，以及使用批次檔安裝leo模組、Pelican及Markdown模組，班上user節點分割為個人節點&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;注意事項&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; 
@@ -31,8 +126,14 @@
 &lt;p&gt;目標:學會Creo繪製零件之後，使用Onshape網路版CAD繪製零件，熟悉操作介面以及等待同學跟上腳步&lt;/p&gt;
 &lt;h3&gt;第15週&lt;/h3&gt;
 &lt;p&gt;目標:Onshape由組長建立一個共通檔案，並加入組員協同繪圖，並且每個組員都要完成組立成品，機構運動範圍的運算也是一個重點，可經由Solvespace運算求得&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;Onshape可以將零件或是組合件直接轉為stl或是solidwork的格式檔案，也可以依照個人所需輸出工程圖
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第十五週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-28T23:20:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;Onshape可以將零件或是組合件直接轉為stl或是solidwork的格式檔案，也可以依照個人所需輸出工程圖，
+若Onshape左側特徵列出現紅色字體，且計算無誤，可試著將限制條件或者數值先調成其他後，再調回來即可
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;
+&lt;p&gt;使用Creo畫的nutcracker所有零件檔我有放在班級內我的user資料夾內的ptc內，歡迎自行取用參考&lt;/p&gt;
+&lt;p&gt;ps : 我的尺寸有放大，如果單一拿我的零件會無法配合&lt;p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第十五週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-28T23:20:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
 &lt;iframe src="40323250_cp_w15.html" width="550" height="350"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="40323250_cp_w15.html" target="_blank"&gt;投影片放大&lt;/a&gt;
 &lt;br&gt;

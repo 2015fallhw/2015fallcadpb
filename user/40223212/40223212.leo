@@ -10,150 +10,40 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20151125165726.1" a="E"><vh>@settings</vh>
-<v t="leo.20151125165726.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
-<v t="leo.20151125165726.3"><vh>@string initial_split_orientation = horizontal</vh></v>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
+<v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
+<v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20151125165331.1"><vh>個人專案系統</vh>
-<v t="leo.20151125165331.2"><vh>設置步驟</vh></v>
-<v t="leo.20151125165331.3"><vh>以下為參考用的 batch 檔案</vh>
-<v t="leo.20151125165331.4"><vh>特別注意</vh></v>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
+<v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
+<v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="leo.20151125165331.5"><vh>start.bat</vh></v>
-<v t="leo.20151125165331.6"><vh>stop.bat</vh></v>
+<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
+<v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
+<v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
+<v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
+<v t="40323250.20151124123658.1"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="harry.20160106223051.1"><vh>@edit 2015cp_hw_w1.md</vh></v>
+<v t="harry.20160106223057.1"><vh>@edit 2015cp_hw_w4.md</vh></v>
+<v t="harry.20160106223104.1"><vh>@edit 2015cp_hw_w5.md</vh></v>
+<v t="harry.20160106223109.1"><vh>@edit 2015cp_hw_w12.md</vh></v>
+<v t="harry.20160107153425.1"><vh>@edit 2015cp_hw_w17.md</vh></v>
 </v>
-<v t="leo.20151125165302.1"><vh>@button user pelican</vh></v>
-<v t="leo.20151123153622.1"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20151123154754.1"><vh>@edit 40223212_cp_w4_p.html</vh></v>
-<v t="leo.20151123153607.1"><vh>@edit 40223212_cp_w1_p.html</vh></v>
-<v t="leo.20151123154804.1"><vh>@edit 40223212_cp_w5_p.html</vh></v>
-<v t="leo.20151123153542.1" a="E"><vh>@path pelican</vh>
-<v t="leo.20151123153542.2"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20151123153542.3"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151123153542.4" a="E"><vh>@path content</vh>
-<v t="leo.20151123153542.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151125170023.1"><vh>@edit 2015cp_hw_w1.md</vh></v>
-<v t="leo.20151125170028.1"><vh>@edit 2015cp_hw_w4.md</vh></v>
-<v t="leo.20151125170028.2"><vh>@edit 2015cp_hw_w5.md</vh></v>
-<v t="harry.20151204202939.1"><vh>@edit 2015cp_hw_w12.md</vh></v>
 </v>
+</v>
+<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="harry.20160106223117.1"><vh>@edit 2015cp_hw_w12.md</vh></v>
+<v t="harry.20160106223206.1"><vh>@edit 40223212_cp_w1_p.html</vh></v>
+<v t="harry.20160106223127.1"><vh>@edit 40223212_cp_w4_p.html</vh></v>
+<v t="harry.20160106223216.1"><vh>@edit 40223212_cp_w5_p.html</vh></v>
+<v t="harry.20160107154157.1"><vh>@edit 40223212_cp_w17_p.html</vh></v>
 </v>
 </vnodes>
 <tnodes>
-<t tx="leo.20151123153542.1"></t>
-<t tx="leo.20151123153542.2"></t>
-<t tx="leo.20151123153542.4"></t>
-<t tx="leo.20151123153542.5"></t>
-<t tx="leo.20151123153622.1"></t>
-<t tx="leo.20151125165302.1">@language python
-import os
-os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
-g.es("user pelican 執行完畢")</t>
-<t tx="leo.20151125165331.1"></t>
-<t tx="leo.20151125165331.2">copy pelican button outline
-
-copy 投影片節點
-
-copy pelican 節點
-
-refresh 各資料節點內容, 確定可以進行編輯存檔
-
-測試 user-pelican 按鈕是否可以正確將 .md 檔案轉為靜態網頁</t>
-<t tx="leo.20151125165331.3"></t>
-<t tx="leo.20151125165331.4">若在 Leo Editor 以 @edit 編輯 .bat 檔案, 必須將 @language batch 刪除, 否則 .bat 無法正確執行
-
-發生此一錯誤的原因不明</t>
-<t tx="leo.20151125165331.5">@echo off
-REM 設定 V 硬碟代號與 data 目錄對應
-set Disk=y
-subst %Disk%: "data"
-REM 設定 leo 相關對應 Home 位置
-set HomePath=%Disk%:\home
-set HomeDrive=%Disk%:\home
-set Home=%Disk%:\home
-REM 設定 Leo 所用的編輯器
-set LEO_EDITOR=%Disk%:\SciTE\SciTE.exe
-REM 將後續的指令執行, 以 %Disk% 為主
-%Disk%:
-REM 設定 PYTHONPATH
-set PYTHONPATH=%Disk%:\Anaconda3
-REM Jupyter 設定
-set JUPYTER_CONFIG_DIR=%Disk%:\home\.jupyter\profile_nbserver
-REM 設定 Jre 路徑, 特別注意 CLASSPATH 後的分號, 一定要有
-set JAVA_HOME=%Disk%:\Java\jre1.8.0_51
-set CLASSPATH=.;
-REM 設定 node.js 相關路徑
-set NODE_PATH=%Disk%:\nodejs\node_modules\npm\node_modules;%Disk%:\nodejs\node_modules\npm
-set path1=%PATH%;%Disk%:\Anaconda3;%Disk%:\Anaconda3\Scripts;%JAVA_HOME%\bin;%Disk%:\nodejs;
-set path2=%Disk%:\apps\Git\bin;%Disk%:\apps\pandoc;%Disk%:\apps\portableLatex\MiKTeX\texmf\miktex\bin;
-path=%path1%;%path2%;
-REM 啟動  SciTE
-start /MIN %Disk%:\SciTE\SciTE.exe
-REM 取 IPV4 IP address
-for /f "delims=[] tokens=2" %%a in ('ping -4 %computername% -n 1 ^| findstr "["') do (set thisip=%%a)
-REM echo %thisip%
-REM 取 IPV6 IP address
-REM for /f "delims=[] tokens=2" %%a in ('ping %computername% -n 1 ^| findstr "["') do (set thisip=%%a)
-REM echo %thisip%
-REM 啟動 Jupyter
-cd %Disk%:\tmp\2015fallcadpa-1.0\user\9999\content\notebook
-start %Disk%:\Anaconda3\python.exe "%Disk%:\Anaconda3\Scripts\jupyter-script.py" notebook --ip=%thisip% --certfile=%Disk%:\home\ssl_cert.pem --profile=nbserver
-cd ..
-REM 啟動 VMEmulator
-REM start %Disk%:\apps\nand2tetris\tools\VMEmulator.bat
-REM 啟動 Assembler
-REM start %Disk%:\apps\nand2tetris\tools\Assembler.bat
-REM 啟動 CPUEmulator
-REM start %Disk%:\apps\nand2tetris\tools\CPUEmulator.bat
-REM 啟動 HardwareSimulator
-REM start %Disk%:\apps\nand2tetris\tools\HardwareSimulator.bat
-REM 啟動 JackCompiler
-REM start %Disk%:\apps\nand2tetris\tools\JackCompiler.bat
-REM 啟動 TextComparer
-REM start %Disk%:\apps\nand2tetris\tools\TextComparer.bat
-REM 啟動 node.js
-REM 啟動 node.js
-REM start /MIN cmd.exe /k "%Disk%:\nodejs\nodejsvars.bat"
-REM start %Disk%:\nodejs\node.exe
-start /MIN cmd.exe
-start /MIN cmd.exe
-start /MIN cmd.exe
-REM 啟動 node.js
-REM start %Disk%:\IDE\nodejs\node.exe
-REM C:\WINDOWS\system32\cmd.exe /k %Disk%:\IDE\nodejs\nodejsvars.bat
-REM 啟動 Leo 編輯器
-REM %Disk%:\IDE\Python33\python.exe %Disk%:\commands\launchLeo.py
-python.exe %Disk%:\apps\launchLeo.py
-Exit
-</t>
-<t tx="leo.20151125165331.6">@echo off
-set Disk=y
-REM 關閉 mongoose
-REM taskkill /IM mongoose.exe /F
-REM 關閉 nginx
-REM taskkill /IM nginx.exe /F
-REM 關閉 SciTE
-taskkill /IM SciTE.exe /F
-REM 關閉 python
-taskkill /IM python.exe /F
-REM 清除 log 資料
-REM 清除 log 資料
-path=%PATH%;
-REM del /Q /F  V:\wwwServers\logs\*.*
-REM del /Q /F V:\wwwServers\nginx-1.2.3\logs\*.*
-REM del /Q /F V:\www\cmsimplexh_20130809\cmsimple\log.txt
-del /Q /F  V:\tmp\*.*
-REM copy V:\www\cmsimplexh_20130809\cmsimple\log_clean.txt V:\www\cmsimpleSpring2013\cmsimple\log.txt
-path=%PATH%;
-del /Q /F  V:\tmp\*.*
-REM 終止虛擬硬碟與目錄的對應
-subst %Disk%: /D
-REM 關閉 cmd 指令視窗
-taskkill /IM cmd.exe /F
-EXIT
-</t>
-<t tx="leo.20151125165726.1"></t>
-<t tx="leo.20151125165726.2">QTreeWidget {
+<t tx="amd.20150913232631.1"></t>
+<t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
     background-color: #ffffec; /* Leo's traditional tree color */
     selection-color: black; /* was white */
@@ -226,7 +116,43 @@ QLineEdit#editorLabel {
     border: 2px;
     margin: 2px;
 }</t>
-<t tx="leo.20151125165726.3">horizontal: body pane to the left
+<t tx="amd.20150913232631.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="amd.20150919102739.1">主要為 reveal.js 的簡報目錄架構, 其他子目錄為
+
+images - 存放簡報與 pelican 網誌所需要的影像檔案
+
+pelican - 存放 pelican 專案資料檔, 並且設法讓 pelican 所產生的 output 檔案直接存放到上層 reveal.js 根目錄
+
+content/notebook - 存放 Jupyter 的 IPython notebook 檔案, 然後再由 pelican 設定, 將內容放入 blog 文章中
+
+</t>
+<t tx="amd.20150919103357.1">打算利用
+
+pelican pelican -o ./../ -s publishconf.py
+
+-o 指定 ouput 所在目錄, 這裡使用上一層目錄, 
+
+-s 則指定 setting, 這裡採用 publishconf.py 中的設定
+
+將位於專案中 pelican 目錄內的 .md 檔案, 轉為 html 網誌格式, 然後存在 reveal.js 的架構目錄中
+
+也就是 index.html 是由 pelican 控制</t>
+<t tx="amd.20150919113957.1"></t>
+<t tx="amd.20150919114010.1"></t>
+<t tx="amd.20150919120205.1"></t>
+<t tx="amd.20150919124128.1">@language python
+import os
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
+g.es("user pelican 執行完畢")</t>
+<t tx="amd.20151006113136.1"></t>
+<t tx="amd.20151007224830.1">安裝
+
+sudo pip3 install jupyter
+
+執行
+
+jupyter notebook
+</t>
 </tnodes>
 </leo_file>

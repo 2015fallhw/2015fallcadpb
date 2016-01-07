@@ -113,7 +113,7 @@
 </v>
 </v>
 <v t="leo.20151214182620.1"><vh>@button open html</vh>
-<v t="leo.20151214182620.2"><vh>@clean cadp_w12_lecture.html</vh>
+<v t="leo.20151214182620.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151214182620.3"><vh>檔案說明</vh></v>
 <v t="leo.20151214182620.4" a="E"><vh>html 標註</vh>
 <v t="leo.20151214182620.5" a="E"><vh>body 標註</vh>
@@ -958,7 +958,7 @@ for ch in p.children():
 &lt;section&gt;
     &lt;h1&gt;操作步驟說明1&lt;/h1&gt;
     &lt;ol&gt;
-    &lt;li&gt;先把CREO軟體打→新建組合圖&lt;/le&gt;
+    &lt;li&gt;先把CREO軟體打開→新建組合圖&lt;/le&gt;
     &lt;li&gt;再將組員畫好的八個零件圖一個一個叫進來&lt;/li&gt;
     &lt;li&gt;之後即可完成組合圖&lt;/li&gt;
     &lt;li&gt;可將組合圖檔上傳至copy.com防止檔案不見&lt;/li&gt;    
@@ -1211,6 +1211,9 @@ for ch in p.children():
     &lt;li&gt;到網站搜尋onshape→創立新帳號&lt;/le&gt;
     &lt;li&gt;到onshape網頁建立自組共同空間→按create→share&lt;/li&gt;
     &lt;li&gt;按完後輸入自組組員的帳號→即可完成分享共同空間&lt;/li&gt;
+    &lt;li&gt;有了共同空間後就可以開始把零件叫進來然後組裝&lt;/li&gt;
+    &lt;li&gt;首先一樣要先新建一個組合檔案→檔名為自己的學號&lt;/li&gt;
+    &lt;li&gt;之後就完成了一個在網站上組裝的組合圖&lt;/li&gt;
     &lt;/ol&gt;		
     &lt;/section&gt;
     
