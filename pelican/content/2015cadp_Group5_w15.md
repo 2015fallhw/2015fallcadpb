@@ -24,7 +24,7 @@ Summary: 第五組第十五週工作報告<br />Nutcracker 機構
 <br>
 
 
-Onshape Practice Videos and Pics(40323222)
+Onshape Practice Video and Pics(40323222)
 <br>
 <img
 src="https://copy.com/Ba0Y8bIm383x0eW4"width="300"height="300">
@@ -46,12 +46,13 @@ Video
 <iframe src="https://player.vimeo.com/video/150465841" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/150465841">onshape組合40323222</a> from <a href="https://vimeo.com/user44993170">40323222</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
+<br>
 <hr>
 <br>
 
 
 
-Onshape Practice Videos and Pics(49923230)
+Onshape Practice Video and Pics(49923230)
 <br>
 <img
 src="https://copy.com/6qoNYlfm4d0tf6wg"width="300"height="300">
@@ -72,9 +73,19 @@ Video
 <br>
 <iframe src="https://player.vimeo.com/video/150560454" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150560454">Nutcracker assembly</a> from <a href="https://vimeo.com/user44760923">Felix</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
+<br>
 <hr>
 <br>
 
+
+Onshape practice video(40323246)
+<br>
+<iframe src="https://player.vimeo.com/video/150580744" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/150580744">40323246</a> from <a href="https://vimeo.com/user47236406">40323246</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
+<hr>
+<br>
 
 
 

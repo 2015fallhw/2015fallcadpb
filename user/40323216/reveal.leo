@@ -99,8 +99,12 @@
 <v t="leo.20160103215244.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160103215244.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160103215244.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160103215244.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160103215244.11"><vh>心得</vh></v>
+<v t="leo.20160103215244.7" a="E"><vh>有關我的作業</vh>
+<v t="leo.20160107212749.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160103215244.11" a="E"><vh>心得</vh>
+<v t="leo.20160107212749.1"></v>
+</v>
 </v>
 </v>
 <v t="leo.20160103215244.12"><vh>script</vh></v>
@@ -113,8 +117,12 @@
 <v t="leo.20160103215758.16" a="E"><vh>body 標註</vh>
 <v t="leo.20160103215758.17" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160103215758.18" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160103215758.19"><vh>有關我的作業</vh></v>
-<v t="leo.20160103215758.20"><vh>心得</vh></v>
+<v t="leo.20160103215758.19" a="E"><vh>有關我的作業</vh>
+<v t="leo.20160107212710.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160103215758.20" a="E"><vh>心得</vh>
+<v t="leo.20160107212710.1"></v>
+</v>
 </v>
 </v>
 <v t="leo.20160103215758.21"><vh>script</vh></v>
@@ -512,7 +520,8 @@ jupyter notebook
 @others
 
 </t>
-<t tx="leo.20160103215244.11">&lt;section&gt;
+<t tx="leo.20160103215244.11">&lt;&lt; header &gt;&gt;
+
     &lt;h2&gt;第十二周&lt;/h2&gt;
     &lt;p&gt;用FIX調整為完全設定的檔案很方便 不用一再重複同一個動作 這也可以運用在其他的東西上&lt;/p&gt;
     &lt;p&gt;之後的重點要放在小組的零件配合上&lt;/p&gt;
@@ -564,10 +573,7 @@ jupyter notebook
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20160103215244.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
+<t tx="leo.20160103215244.7">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;作業五(11~12)&lt;/h2&gt;
     &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
 &lt;/section&gt;
@@ -612,15 +618,13 @@ jupyter notebook
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20160103215758.19">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
+<t tx="leo.20160103215758.19">&lt;&lt; header &gt;&gt;
+
     &lt;h2&gt;作業六(13~14)&lt;/h2&gt;
     &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
 &lt;/section&gt;
 	</t>
-<t tx="leo.20160103215758.20">&lt;section&gt;
+<t tx="leo.20160103215758.20">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;第十四周&lt;/h2&gt;
     &lt;p&gt;這周要把零件畫出來 並運用小組的空間去組裝零件 每個人都要有拍組合零件的影片&lt;/p&gt;
     &lt;p&gt;初步接觸ONSHAPE 感覺還不錯 會是未來的趨勢&lt;/p&gt;
@@ -637,5 +641,15 @@ jupyter notebook
 &lt;/script&gt;
 	
 </t>
+<t tx="leo.20160107212710.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323216"; }&lt;/style&gt;</t>
+<t tx="leo.20160107212749.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323216"; }&lt;/style&gt;</t>
 </tnodes>
 </leo_file>
