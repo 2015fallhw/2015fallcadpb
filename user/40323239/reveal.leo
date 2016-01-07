@@ -31,12 +31,13 @@
 <v t="leo.20160106230933.7"><vh>@edit 2015cphww2.md</vh></v>
 <v t="leo.20160106230933.8"><vh>@edit 2015cphww3.md</vh></v>
 <v t="leo.20160106232140.1"><vh>@edit 2015cphww11.md</vh></v>
+<v t="leo.20160107104213.1"><vh>@edit 2015cphww12.md</vh></v>
 <v t="leo.20160107000257.1"><vh>@edit 2015cphww15.md</vh></v>
 </v>
 </v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="leo.20160106230804.1" a="E"><vh>@clean simplest.html</vh>
+<v t="leo.20160106230804.1"><vh>@clean simplest.html</vh>
 <v t="leo.20160106230804.2"><vh>檔案說明</vh></v>
 <v t="leo.20160106230804.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160106230804.4" a="E"><vh>body 標註</vh>
@@ -51,7 +52,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160106230753.1" a="E"><vh>@clean simplest2.html</vh>
+<v t="leo.20160106230753.1"><vh>@clean simplest2.html</vh>
 <v t="leo.20160106230753.2"><vh>檔案說明</vh></v>
 <v t="leo.20160106230753.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160106230753.4" a="E"><vh>body 標註</vh>
@@ -81,7 +82,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160106232106.1"><vh>@clean simplest11.html</vh>
+<v t="leo.20160106232106.1" a="E"><vh>@clean simplest11.html</vh>
 <v t="leo.20160106232106.2"><vh>檔案說明</vh></v>
 <v t="leo.20160106232106.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160106232106.4" a="E"><vh>body 標註</vh>
@@ -96,7 +97,22 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107000445.1" a="E"><vh>@clean simplest15.html</vh>
+<v t="leo.20160107104159.1" a="E"><vh>@clean simplest12.html</vh>
+<v t="leo.20160107104159.2"><vh>檔案說明</vh></v>
+<v t="leo.20160107104159.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160107104159.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160107104159.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160107104159.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160107104159.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160107104159.8"><vh>作業任務十二</vh></v>
+<v t="leo.20160107104159.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20160107104159.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160107000445.1"><vh>@clean simplest15.html</vh>
 <v t="leo.20160107000445.2"><vh>檔案說明</vh></v>
 <v t="leo.20160107000445.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160107000445.4" a="E"><vh>body 標註</vh>
@@ -525,18 +541,17 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20160106232106.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;筆記&lt;/h1&gt;
-    &lt;p&gt;這次作業是修復REVEAL檔
-    先git clone2015fallcadpb的檔案
-    然後找到舊版裡最新的版本
-    弄下來
-    git reset 接下來就完成了&lt;/p&gt;
+    &lt;p&gt;這次作業是到處各地都能用資料
+    下載FIX
+    下載LEO-EDITOR
+    打上文字&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160106232106.9">&lt;section&gt;
     &lt;h1&gt;心得與自評&lt;/h1&gt;
-    &lt;p&gt;心得:把reveal恢復這個一開始對我有些難度，但靠著影片的教學，我也成功地恢復了自己的檔案，這也讓我感覺到了之前學到的東西，在這也是有用的。
+    &lt;p&gt;心得:這樣就可以用隨身碟來做隨身的個人倉儲，這會很方便，因為那台電腦不用有檔案就可以隨時工作，這也讓我對倉儲的便利性更加地確定了。
     自評分數:60&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務十一&lt;/a&gt;
 &lt;/section&gt;
@@ -615,6 +630,83 @@ g.es("admin pelican 執行完畢")</t>
     &lt;p&gt;心得:可能是我軟體不熟的關係吧，不然這兩個軟體都還不錯，不然拍攝時間應該可以再縮短許多，可以的話，我也花多點時間去練習這兩個繪圖工具。
     自評分數:60&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務十五&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160107104159.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160107104159.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160107104159.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160107104159.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160107104159.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160107104159.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160107104159.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160107104159.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323239陳信榮&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160107104159.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;筆記&lt;/h1&gt;
+    &lt;p&gt;這次作業是修復REVEAL檔
+    先git clone2015fallcadpb的檔案
+    然後找到舊版裡最新的版本
+    弄下來
+    git reset 接下來就完成了&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160107104159.9">&lt;section&gt;
+    &lt;h1&gt;心得與自評&lt;/h1&gt;
+    &lt;p&gt;心得:把reveal恢復這個一開始對我有些難度，但靠著影片的教學，我也成功地恢復了自己的檔案，這也讓我感覺到了之前學到的東西，在這也是有用的。
+    自評分數:60&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務十二&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
