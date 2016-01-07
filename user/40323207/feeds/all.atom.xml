@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323207 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-03T17:28:00+08:00</updated><entry><title>2015 電腦輔助設計實習 作業十</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w15.html" rel="alternate"></link><updated>2016-01-03T17:28:00+08:00</updated><author><name>40323207</name></author><id>tag:coursemdetw.github.io,2016-01-03:reveal/2015cadpb_blog_w15.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323207 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-07T02:09:00+08:00</updated><entry><title>2015 電腦輔助設計實習 總自評</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w17.html" rel="alternate"></link><updated>2016-01-07T02:09:00+08:00</updated><author><name>40323207</name></author><id>tag:coursemdetw.github.io,2016-01-07:reveal/2015cadpb_blog_w17.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
+&lt;p&gt;包括簡報檔, vimeo 影片, copy.com 零件檔案與其他相關資料連結&lt;/p&gt;
+&lt;iframe src="cadp_w17_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w17_lecture.html" target="_blank"&gt;總自評投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 作業十一</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w16.html" rel="alternate"></link><updated>2016-01-07T01:39:00+08:00</updated><author><name>40323207</name></author><id>tag:coursemdetw.github.io,2016-01-07:reveal/2015cadpb_blog_w16.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
+&lt;p&gt;包括簡報檔, vimeo 影片, copy.com 零件檔案與其他相關資料連結&lt;/p&gt;
+&lt;iframe src="cadp_w16_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w16_lecture.html" target="_blank"&gt;作業十一投影片&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1&gt;作業十一&lt;/h1&gt;
+&lt;p&gt;調整尺寸&lt;/p&gt;
+&lt;p&gt;另用Solvespace計算&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/XRfUbEApvINDGjGC" width="500" alt="Solvesapce"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;正方形的標注要用REF，表示是會變化的值，利用這裡的標註測量桿件的最大及最小距離(兩邊所圈的部分，為分別的點及線的相接並測量大小位置)&lt;/p&gt;
+&lt;p&gt;在Onshape上更改數據&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/2pCmQVIoKFKDoNQF" width="500" alt="Solvesapce"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;在圈起的紅色空格中打入數據&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 作業十</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w15.html" rel="alternate"></link><updated>2016-01-03T17:28:00+08:00</updated><author><name>40323207</name></author><id>tag:coursemdetw.github.io,2016-01-03:reveal/2015cadpb_blog_w15.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
 &lt;p&gt;包括簡報檔, vimeo 影片, copy.com 零件檔案與其他相關資料連結&lt;/p&gt;
 &lt;iframe src="cadp_w15_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
