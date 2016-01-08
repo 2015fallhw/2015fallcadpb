@@ -379,7 +379,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160105220934.1"><vh>@clean simplest15.html</vh>
+<v t="leo.20160105220934.1" a="E"><vh>@clean simplest15.html</vh>
 <v t="leo.20160105220934.2"><vh>檔案說明</vh></v>
 <v t="leo.20160105220934.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160105220934.4" a="E"><vh>body 標註</vh>
@@ -584,6 +584,16 @@
 <v t="amd.20150915170743.149"><vh>script</vh></v>
 <v t="amd.20150915170743.150"><vh>script</vh></v>
 </v>
+</v>
+</v>
+<v t="leo.20160108214129.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20160108214129.3"><vh>Recovered node "有關我的作業" from @clean simplest.html</vh>
+<v t="leo.20160108214129.4"><vh>old:有關我的作業</vh></v>
+<v t="leo.20160108214129.5"><vh>new:有關我的作業</vh></v>
+</v>
+<v t="leo.20160108214129.6"><vh>Recovered node "第3張投影片" from @clean simplest.html</vh>
+<v t="leo.20160108214129.7"><vh>old:第3張投影片</vh></v>
+<v t="leo.20160108214129.8"><vh>new:第3張投影片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -2083,12 +2093,17 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h2&gt;心得與自評分數&lt;/h2&gt;
-    &lt;p&gt;需然我對這課沒有很大的熱忱
-但是老師交代的作業我都會盡力去完成
-在求助各方同學後 終於完成了這份作業
-所以我給自己65分&lt;/p&gt;
-  
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;p&gt;這次的作業跟大一所學的Github有所連結，所以省去了不少麻煩，但是軟體上的更新容量太大，所以在從學校電腦取得時不太方便，我有試著先壓縮再拉進隨身碟，可是電腦卻跑出錯誤，上傳到雲端再下載，時間又不夠，結果反而軟體才是最大的阻礙...有點本末倒置，後來還是靠同學協助才完成，再來就是將近端推送到遠端還不是很熟練，還需再加強。&lt;/p&gt;
+
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;p&gt;這次學習的內容雖有了解，但在實做方面並不完美，自評分數80&lt;/p&gt;
+
 &lt;/section&gt;
 				
 </t>
@@ -2120,9 +2135,41 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323241 陳政憲&lt;/p&gt;		
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
 &lt;/section&gt;
 	
+&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;上課筆記&lt;/h2&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;1. git  clone 網址  ( Github個人帳號網址)&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;2. cd  資料夾名稱 ( cd - 進入資料夾)&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;3. git  config  user.name  "名字" &lt;/p&gt;
+     &lt;p align="left"&gt;git  config  user.name    信箱  &lt;/p&gt;
+     &lt;p align="left"&gt;有--global表示之後都默認&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;4. git  add 檔名 (檔案在近端展開)&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;5. git  commit  -m  "檔案註解" &lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section id="hw-task-two"&gt;
+     &lt;p align="left"&gt;6. git  remote  -v ( V - View )&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;7. git push origin 分支名稱 (有分支的話 --&gt; 需指定分支) , 之後輸入帳號密碼&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;8.  git branch 查看分支&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;9. git branch gh-pages ( 建立分支 , 名稱為 gh-pages
+     ) &lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;10. git checkout gh-pages ( 切換分支 )
+    &lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;11. git add -A ( 將所有檔案展開 : A = All )&lt;/p&gt;
+&lt;/section&gt;
+				
 </t>
 <t tx="amd.20150917085040.1">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
@@ -2382,21 +2429,38 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323241 陳政憲&lt;/p&gt;		
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20160105220034.8">&lt;section&gt;
-    &lt;h2&gt;心得&lt;/h2&gt;
-    &lt;p&gt;這次的作業相較上次來的簡單 尤其畫3D圖的部分感覺蠻有趣的 但是有些操作還不是很熟悉 需要多多練習&lt;/p&gt;
-  
+<t tx="leo.20160105220034.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;作業執行過程&lt;/h2&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;1. 到上課網頁2015Fall CADPB 第4週&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;2. 第三個選項Solvespace 基本操作&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;3. 資料夾 Ana3_2015→data→apps 有solvespace的軟體可直接使用 &lt;/p&gt;
+     &lt;p align="left"&gt;4.solvespace基本介紹  &lt;/p&gt;
+     &lt;p align="left"&gt;a.右手邊的工具欄分成四部分，主要會用到的是上面兩個&lt;/p&gt;
+     &lt;p align="left"&gt;b.第一部分是形狀的繪製 (2D)&lt;/p&gt;
+     &lt;p align="left"&gt;c.第二部分是線條的定義 &lt;/p&gt;
+       &lt;p align="left"&gt;d.第三部分左上角的符號是長料、除料；右上角則是產生一個新的基準面&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160105220034.9">&lt;section&gt;
-    &lt;h2&gt;自評&lt;/h2&gt;
-    &lt;p&gt;70分&lt;/p&gt;
-  
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;p&gt;第四週的作業主要是要使用solvespace畫出操作說明示範的立體圖，接著比照第二週的作業用Leo編輯上課筆記、心得、自評，產生遠端網頁並上傳Github，所以我把這次學習的重點放在solvespace的使用上，由於不是製圖科出生，接觸過的立體繪圖軟體只有Solidwork，所以照著網路上的操作說明進行繪圖時除了要克服英文上的閱讀問題，還有繪圖上的反應能力偏弱，前後花了約3小時在完成繪製的部分，了解後發現solvespace的使用並不困難，只是面對英文面板多少卻步，實際操作並不複雜，檔案儲存的種類也不少，算是自學也容易上手的軟體，我也google了網路上的其他教學，內容都非常完善，是會讓人願意繼續使用的軟體。&lt;/p&gt;
+
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;p&gt;對於這次從作業中學習到的東西，覺得還可以再更完整，但過程還算滿意，對於軟體的使用及指令也都有用心去記，不過因之前的怠惰遲交作業這點，覺得學習態度還須改善，自評分數80分。&lt;/p&gt;
+
 &lt;/section&gt;
 				
 </t>
@@ -2454,21 +2518,36 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323241 陳政憲&lt;/p&gt;		
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20160105220040.8">&lt;section&gt;
-    &lt;h2&gt;心得&lt;/h2&gt;
-    &lt;p&gt;這次我獲得最大的收穫就是Creo是個3D繪圖軟體，他跟Inventor有一些相似之處，雖然處理的一些方式不太一樣，但學習起來比較沒有甚麼太大的問題。&lt;/p&gt;
+<t tx="leo.20160105220040.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;作業項目&lt;/h2&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;1.繪製講義的兩個零件 &lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;2. 把零件組起來&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;3.拍製教學影片並上傳 &lt;/p&gt;
+     &lt;br&gt;
+     &lt;p align="left"&gt;4.編輯投影片&lt;/p&gt;
   
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160105220040.9">&lt;section&gt;
-    &lt;h2&gt;自評&lt;/h2&gt;
-    &lt;p&gt;65分&lt;/p&gt;
-  
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;p&gt;第五週的作業是要使用Creo畫出兩個零件進行組合，網站上老師提供的過程是英文，但軟體的介面是可以改成中文的，操作的時候覺得立體的製圖軟體似乎都大同小異，沒有遇到甚麼特別的困難，只有在畫零件2時的法向自動標註的地方剛好不是自己要的，所以要另外標註。&lt;/p&gt;
+
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;p&gt;作業還是遲交了...對我而言難的並不是倉儲上的管理及推送，而是製圖軟體的學習，沒有甚麼製圖基礎只好完全看網站上的步驟一步一步做，費時又費力，但我想至少還是有收穫的，自評分數80分。&lt;/p&gt;
+
 &lt;/section&gt;
 				
 </t>
@@ -2512,6 +2591,11 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/body&gt;
 </t>
 <t tx="leo.20160105220929.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 15px; left: 15px; z-index:300; font-size:20px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -2524,25 +2608,87 @@ sudo pip3 install IPython[notebook]==3.2.1
 <t tx="leo.20160105220929.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323206"; }&lt;/style&gt;
+
 &lt;section&gt;
+  
+    &lt;p&gt;&lt;font size="6" face="Comic Sans MS"&gt;&lt;marquee border="0"&gt;體魄康強，精神活潑，舉止端莊，人格健全，便是大學生的風度。
+
+不倦的追求真理，熱烈的愛護國家，積極的造福人類，才是大學生的職志。
+
+— 羅家倫&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+   
+    &lt;br&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323241 陳政憲&lt;/p&gt;		
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
+    &lt;/section&gt;
 &lt;/section&gt;
-	
+   &lt;section data-state="header1"&gt;
+   &lt;style&gt;.header1 header:after { 
+   display: block;
+   white-space: pre;
+   content: "課程: 電腦輔助設計實習B \A 學號: 40323206"; }&lt;/style&gt;
+   &lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;上課筆記&lt;/h2&gt;
+    &lt;br&gt;
+     
+      &lt;p align="left"&gt;1.由組長建立一個工作空間 &lt;br&gt;命名為 cadpb_g組別_nutcracker &lt;/p&gt;
+      &lt;p align="left"&gt;2.點選右上角的Share加入組員 &lt;br&gt; 輸入組員e-mail及設定權限 &lt;/p&gt;
+      &lt;p align="left"&gt;3.組員進入工作空間後要先執行兩個步驟&lt;br&gt; ◎點選左下角的 "+" import 匯入自己負責的零件並命名 &lt;br&gt; ◎再點選 "+" Create assembly 新增自己的組裝空間&lt;/p&gt;
+      &lt;p align="left"&gt;4.由組員個別進行組裝作業 &lt;/p&gt;
+      
+    
+  
+&lt;/section&gt;
+&lt;/section&gt;
+&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323206"; }&lt;/style&gt;
 </t>
 <t tx="leo.20160105220929.8">&lt;section&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
-    &lt;p&gt;這次接觸接新的軟體有點陌生,不過原理都是一樣的經過反覆的練習，很快就上手了，還有錄影的環境要很安靜，不然會有很多雜音。&lt;/p&gt;
-  
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;這週的作業又是團體作業，一開始大家都急於把自己負責的零件傳到共享的頁面，導致網路有些負荷不了，所最後我們統一由一個組員將零件一次上傳，後續的組裝是每個人自己創一個組裝分頁獨自作業，所以互不干涉，比起Creo真的方便許多，而且又是免費的，所以我認為Onshape是設計產業及人員合作上很大的進步。&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+&lt;/section&gt;				
+&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323206"; }&lt;/style&gt;
+&lt;section&gt;
+    &lt;h2&gt;W15自評&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;這次是老師直接操作給我們看，約束的地方我還沒弄清楚，但機構已經組裝起來，比起Creo我覺得Onshape的組裝彈性很多，可是約束的設定也比較多，組裝不難，但需要思考才能讓完整度更高，然後我要來複習Solvespace了，自評85分。&lt;/p&gt;
+    &lt;br&gt;
 &lt;/section&gt;
 				
+&lt;/section&gt;
+&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323206"; }&lt;/style&gt;
 </t>
 <t tx="leo.20160105220929.9">&lt;section&gt;
-    &lt;h2&gt;自評&lt;/h2&gt;
-    &lt;p&gt;70分&lt;/p&gt;
-  
+    &lt;h2&gt;W16自評&lt;/h2&gt;
+    &lt;br&gt;
+   
+      &lt;p align="left"&gt;Solvespace的分析很簡易，所以有部分數值還是需要自己計算，還要配合自己在Onshape組合時所訂定的基準面，所以雖然我在Solvespace找到了最短及最長距離，仍不能直接套用，所以自評75分。&lt;/p&gt;
+    &lt;br&gt;
 &lt;/section&gt;
 				
+&lt;/section&gt;
 </t>
 <t tx="leo.20160105220930.1">@language xml
 @tabwidth -4
@@ -2757,6 +2903,152 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;h2&gt;自評&lt;/h2&gt;
     &lt;p&gt;70分&lt;/p&gt;
   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108214129.2"></t>
+<t tx="leo.20160108214129.3">(uncached) amd.20150915211351.7
+Diff...
+  &lt;!-- 以下為投影片 --&gt;
+  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+  &lt;section&gt;
+      &lt;h2&gt;四設計二乙&lt;/h2&gt;
+-     &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
+?              ^^ ^^^
++     &lt;p&gt;40323241 陳政憲&lt;/p&gt;		
+?              ^^ ^^^
+  &lt;/section&gt;
+  	
+- &lt;section id="hw-task-one"&gt;
+-     &lt;h2&gt;上課筆記&lt;/h2&gt;
+-     &lt;br&gt;
+-      &lt;p align="left"&gt;1. git  clone 網址  ( Github個人帳號網址)&lt;/p&gt;
+-     &lt;br&gt;
+-      &lt;p align="left"&gt;2. cd  資料夾名稱 ( cd - 進入資料夾)&lt;/p&gt;
+-     &lt;br&gt;
+-      &lt;p align="left"&gt;3. git  config  user.name  "名字" &lt;/p&gt;
+-      &lt;p align="left"&gt;git  config  user.name    信箱  &lt;/p&gt;
+-      &lt;p align="left"&gt;有--global表示之後都默認&lt;/p&gt;
+-     &lt;br&gt;
+-      &lt;p align="left"&gt;4. git  add 檔名 (檔案在近端展開)&lt;/p&gt;
+-     &lt;br&gt;
+-      &lt;p align="left"&gt;5. git  commit  -m  "檔案註解" &lt;/p&gt;
+- &lt;/section&gt;
+- 				
+- &lt;section id="hw-task-two"&gt;
+-      &lt;p align="left"&gt;6. git  remote  -v ( V - View )&lt;/p&gt;
+-     &lt;br&gt;
+-      &lt;p align="left"&gt;7. git push origin 分支名稱 (有分支的話 --&gt; 需指定分支) , 之後輸入帳號密碼&lt;/p&gt;
+-     &lt;br&gt;
+-      &lt;p align="left"&gt;8.  git branch 查看分支&lt;/p&gt;
+-     &lt;br&gt;
+-      &lt;p align="left"&gt;9. git branch gh-pages ( 建立分支 , 名稱為 gh-pages
+-      ) &lt;/p&gt;
+-     &lt;br&gt;
+-      &lt;p align="left"&gt;10. git checkout gh-pages ( 切換分支 )
+-     &lt;/p&gt;
+-     &lt;br&gt;
+-      &lt;p align="left"&gt;11. git add -A ( 將所有檔案展開 : A = All )&lt;/p&gt;
+- &lt;/section&gt;
+- 				
+</t>
+<t tx="leo.20160108214129.4">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323241 陳政憲&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108214129.5">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323206 黃婉菁&lt;/p&gt;		
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;上課筆記&lt;/h2&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;1. git  clone 網址  ( Github個人帳號網址)&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;2. cd  資料夾名稱 ( cd - 進入資料夾)&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;3. git  config  user.name  "名字" &lt;/p&gt;
+     &lt;p align="left"&gt;git  config  user.name    信箱  &lt;/p&gt;
+     &lt;p align="left"&gt;有--global表示之後都默認&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;4. git  add 檔名 (檔案在近端展開)&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;5. git  commit  -m  "檔案註解" &lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section id="hw-task-two"&gt;
+     &lt;p align="left"&gt;6. git  remote  -v ( V - View )&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;7. git push origin 分支名稱 (有分支的話 --&gt; 需指定分支) , 之後輸入帳號密碼&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;8.  git branch 查看分支&lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;9. git branch gh-pages ( 建立分支 , 名稱為 gh-pages
+     ) &lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;10. git checkout gh-pages ( 切換分支 )
+    &lt;/p&gt;
+    &lt;br&gt;
+     &lt;p align="left"&gt;11. git add -A ( 將所有檔案展開 : A = All )&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108214129.6">(uncached) amd.20150915211351.12
+Diff...
+  &lt;section&gt;
+-     &lt;h2&gt;心得&lt;/h2&gt;
++     &lt;h2&gt;心得與自評分數&lt;/h2&gt;
+?           +++++
+-     &lt;br&gt;
+-     &lt;p&gt;這次的作業跟大一所學的Github有所連結，所以省去了不少麻煩，但是軟體上的更新容量太大，所以在從學校電腦取得時不太方便，我有試著先壓縮再拉進隨身碟，可是電腦卻跑出錯誤，上傳到雲端再下載，時間又不夠，結果反而軟體才是最大的阻礙...有點本末倒置，後來還是靠同學協助才完成，再來就是將近端推送到遠端還不是很熟練，還需再加強。&lt;/p&gt;
+- 
++     &lt;p&gt;需然我對這課沒有很大的熱忱
++ 但是老師交代的作業我都會盡力去完成
++ 在求助各方同學後 終於完成了這份作業
++ 所以我給自己65分&lt;/p&gt;
++   
+  &lt;/section&gt;
+  				
+- &lt;section&gt;
+-     &lt;h2&gt;自評分數&lt;/h2&gt;
+-     &lt;br&gt;
+-     &lt;p&gt;這次學習的內容雖有了解，但在實做方面並不完美，自評分數80&lt;/p&gt;
+- 
+- &lt;/section&gt;
+- 				
+</t>
+<t tx="leo.20160108214129.7">&lt;section&gt;
+    &lt;h2&gt;心得與自評分數&lt;/h2&gt;
+    &lt;p&gt;需然我對這課沒有很大的熱忱
+但是老師交代的作業我都會盡力去完成
+在求助各方同學後 終於完成了這份作業
+所以我給自己65分&lt;/p&gt;
+  
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108214129.8">&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;p&gt;這次的作業跟大一所學的Github有所連結，所以省去了不少麻煩，但是軟體上的更新容量太大，所以在從學校電腦取得時不太方便，我有試著先壓縮再拉進隨身碟，可是電腦卻跑出錯誤，上傳到雲端再下載，時間又不夠，結果反而軟體才是最大的阻礙...有點本末倒置，後來還是靠同學協助才完成，再來就是將近端推送到遠端還不是很熟練，還需再加強。&lt;/p&gt;
+
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;p&gt;這次學習的內容雖有了解，但在實做方面並不完美，自評分數80&lt;/p&gt;
+
 &lt;/section&gt;
 				
 </t>
