@@ -35,6 +35,8 @@
 <v t="leo.20160104230352.1"><vh>@edit 2015cphww15.md</vh></v>
 <v t="leo.20160104231824.1"><vh>@edit 2015cphww16.md</vh></v>
 <v t="leo.20160107161420.1"><vh>@edit 2015cphww17.md</vh></v>
+<v t="leo.20160108174427.1"><vh>@edit 2015cphww18.md</vh></v>
+<v t="leo.20160108180626.1"><vh>@edit 2015cphww19.md</vh></v>
 <v t="leo.20151207113432.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
