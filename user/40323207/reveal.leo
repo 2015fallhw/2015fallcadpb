@@ -120,16 +120,16 @@
 <v t="leo.20151214100723.5" a="E"><vh>body 標註</vh>
 <v t="leo.20151214100723.6" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151214100723.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151214100723.8" a="E"><vh>第 12 週開始的規劃</vh>
+<v t="leo.20151214100723.8"><vh>第 12 週開始的規劃</vh>
 <v t="leo.20151214100723.15"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20151220183119.1" a="E"><vh>header 測試</vh>
+<v t="leo.20151220183119.1"><vh>header 測試</vh>
 <v t="leo.20151220183119.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="leo.20151214100723.10"><vh>header 測試</vh>
 <v t="leo.20151214100723.15"></v>
 </v>
-<v t="leo.20151214103009.1" a="E"><vh>第12週自評與心得</vh>
+<v t="leo.20151214103009.1"><vh>第12週自評與心得</vh>
 <v t="leo.20151214103009.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 </v>
@@ -146,13 +146,13 @@
 <v t="leo.20151220184011.5" a="E"><vh>body 標註</vh>
 <v t="leo.20151220184011.6" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151220184011.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151220184011.8" a="E"><vh>第 13 週開始的規劃</vh>
+<v t="leo.20151220184011.8"><vh>第 13 週開始的規劃</vh>
 <v t="leo.20151220184011.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20151220184011.10" a="E"><vh>header 測試</vh>
+<v t="leo.20151220184011.10"><vh>header 測試</vh>
 <v t="leo.20151220184011.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20151220184011.14" a="E"><vh>第13週自評與心得</vh>
+<v t="leo.20151220184011.14"><vh>第13週自評與心得</vh>
 <v t="leo.20151220184011.15"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 </v>
@@ -169,7 +169,7 @@
 <v t="leo.20151221105924.5" a="E"><vh>body 標註</vh>
 <v t="leo.20151221105924.6" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151221105924.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151221105924.8" a="E"><vh>第 14 週開始的規劃</vh>
+<v t="leo.20151221105924.8"><vh>第 14 週開始的規劃</vh>
 <v t="leo.20151221105924.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="leo.20151221105924.10"><vh>header 測試</vh>
@@ -194,11 +194,11 @@
 <v t="leo.20160103172721.1"><vh>@button open htm1</vh>
 <v t="leo.20160103172721.2" a="E"><vh>@clean cadp_w15_lecture.html</vh>
 <v t="leo.20160103172721.3"><vh>檔案說明</vh></v>
-<v t="leo.20160103172721.4"><vh>html 標註</vh>
+<v t="leo.20160103172721.4" a="E"><vh>html 標註</vh>
 <v t="leo.20160103172721.5" a="E"><vh>body 標註</vh>
 <v t="leo.20160103172721.6" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160103172721.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160103172721.8" a="E"><vh>第 15 週開始的規劃</vh>
+<v t="leo.20160103172721.8"><vh>第 15 週開始的規劃</vh>
 <v t="leo.20160103172721.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="leo.20160103172721.10"><vh>header 測試</vh>
@@ -214,17 +214,17 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107133841.1" a="E"><vh>@button open htm1</vh>
+<v t="leo.20160107133841.1"><vh>@button open htm1</vh>
 <v t="leo.20160107133841.2" a="E"><vh>@clean cadp_w16_lecture.html</vh>
 <v t="leo.20160107133841.3"><vh>檔案說明</vh></v>
 <v t="leo.20160107133841.4" a="E"><vh>html 標註</vh>
 <v t="leo.20160107133841.5" a="E"><vh>body 標註</vh>
 <v t="leo.20160107133841.6" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160107133841.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160107133841.8" a="E"><vh>第 16 週開始的規劃</vh>
+<v t="leo.20160107133841.8"><vh>第 16 週開始的規劃</vh>
 <v t="leo.20160107133841.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20160107133841.10" a="E"><vh>header 測試</vh>
+<v t="leo.20160107133841.10"><vh>header 測試</vh>
 <v t="leo.20160107133841.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="leo.20160107133841.12"><vh>第16週自評與心得</vh>
@@ -244,10 +244,79 @@
 <v t="leo.20160107140748.5" a="E"><vh>body 標註</vh>
 <v t="leo.20160107140748.6" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160107140748.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160107140748.8" a="E"><vh>第 17 週開始的規劃</vh>
+<v t="leo.20160108172932.1"><vh>第 11 週開始的規劃</vh>
+<v t="leo.20160108172932.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108172948.1"><vh>header 測試</vh>
+<v t="leo.20160108172948.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108172957.1"><vh>header 測試</vh>
+<v t="leo.20160108172957.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173006.1"><vh>header 測試</vh>
+<v t="leo.20160108173006.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173014.1"><vh>第11週自評與心得</vh>
+<v t="leo.20160108173014.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173031.1"><vh>第 12 週開始的規劃</vh>
+<v t="leo.20160108173031.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173039.1"><vh>header 測試</vh>
+<v t="leo.20160108173039.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173049.1"><vh>header 測試</vh>
+<v t="leo.20160108173049.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173103.1"><vh>第12週自評與心得</vh>
+<v t="leo.20160108173103.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173133.1"><vh>第 13 週開始的規劃</vh>
+<v t="leo.20160108173133.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173141.1"><vh>header 測試</vh>
+<v t="leo.20160108173141.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173150.1"><vh>第13週自評與心得</vh>
+<v t="leo.20160108173150.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173205.1"><vh>第 14 週開始的規劃</vh>
+<v t="leo.20160108173205.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173224.1"><vh>header 測試</vh>
+<v t="leo.20160108173224.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173233.1"><vh>header 測試</vh>
+<v t="leo.20160108173233.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173240.1"><vh>header 測試</vh>
+<v t="leo.20160108173240.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173248.1"><vh>第14週自評與心得</vh>
+<v t="leo.20160108173248.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173311.1"><vh>第 15 週開始的規劃</vh>
+<v t="leo.20160108173311.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173320.1"><vh>header 測試</vh>
+<v t="leo.20160108173320.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173337.1"><vh>第15週自評與心得</vh>
+<v t="leo.20160108173337.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173354.1"><vh>第 16 週開始的規劃</vh>
+<v t="leo.20160108173354.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173402.1"><vh>header 測試</vh>
+<v t="leo.20160108173402.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108173412.1"><vh>第16週自評與心得</vh>
+<v t="leo.20160108173412.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160107140748.8"><vh>第 17 週開始的規劃</vh>
 <v t="leo.20160107140748.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20160107140748.12" a="E"><vh>第17週自評與心得</vh>
+<v t="leo.20160107140748.12"><vh>第17週自評與心得</vh>
 <v t="leo.20160107140748.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 </v>
@@ -1465,5 +1534,417 @@ cadp w12 講課內容投影片
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108172932.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 11 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108172932.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108172948.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;零件一 步驟&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;開啟creo新建零件檔&lt;/li&gt;
+    &lt;li&gt;繪製出一長方體並更改其尺寸長料&lt;/li&gt;
+    &lt;li&gt;再畫出8個孔標註並除料&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160108172948.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108172957.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;零件二 步驟&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;開啟creo新建零件檔&lt;/li&gt;
+    &lt;li&gt;繪製出一長方體並更改其尺寸&lt;/li&gt;
+    &lt;li&gt;在長方體旁繪製出兩圓更改其尺寸&lt;/li&gt;
+    &lt;li&gt;長料&lt;/li&gt;
+    &lt;li&gt;再畫出8個孔標註並除料&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160108172957.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173006.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;組合圖 步驟&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;開啟creo新建組件檔&lt;/li&gt;
+    &lt;li&gt;叫出第一，二個零件，孔對孔面對面連接&lt;/li&gt;
+    &lt;li&gt;同上步驟至完成&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160108173006.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173014.1">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
+    &lt;p&gt;在繪製零件的時後比較沒什麼問題，為一的問題是它的尺寸可能會自己亂跑。組合圖比較困難，因為它要對得孔比較多，要比較注意，還有，有時候也會有衝突出現要小心(有衝突時會出現紅字要注意)其他的就沒太大的問題，經過這次的練習，讓我能更理解creo的操作。&lt;/p&gt;
+        
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108173014.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173031.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 12 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108173031.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173039.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;開啟Leo 步驟1&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;到https://copy.com/zpYyuIcuB3fHAdr0 (fix.zip)下載&lt;/li&gt;
+    &lt;li&gt;開啟Ana3_lite2→data→SciTE→SciTE.exe&lt;/li&gt;
+    &lt;li&gt;用SciTE.exe打開下載的fix資料夾裡的fix.bat和start.bat&lt;/li&gt;
+    &lt;li&gt;輸入leo-editor github→點進去後按releases→下載broke-abbrev&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160108173039.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173049.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;開啟Leo 步驟2&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;將此資料夾下載到fix資料夾中&lt;/li&gt;
+    &lt;li&gt;回到SciTE.exe&lt;/li&gt;
+    &lt;li&gt;將fix.bat裡面多一行copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\→儲存&lt;/li&gt;
+    &lt;li&gt;將start.bat裡面第35行改為pip install leo-editor-broke-abbrev.zip→儲存&lt;/li&gt;
+    &lt;li&gt;全部修改完回去點start後就成功了&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160108173049.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173103.1">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;自評分數:65&lt;/p&gt;
+    &lt;p&gt;跟著老師的步驟一項一項做，最後開啟Leo，過程不會很複雜，但是中間還是有一些部份比較不容易懂(如:更改python的東西)要經過老師的講解才比較了解。而製作投影片的過程，則是對照班上同學的投影片製作出來的，再加上之前的步驟，讓我更上手。&lt;/p&gt;
+        
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108173103.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173133.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 13 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108173133.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173141.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;把creo改成stl&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;開啟creo並把要改的零件叫出&lt;/li&gt;
+    &lt;li&gt;另存新檔&lt;/li&gt;
+    &lt;li&gt;存檔時把類型改成stl檔&lt;/li&gt;
+    &lt;li&gt;之後會跳出一個小框框，要做更改&lt;/li&gt;
+    &lt;li&gt;點選ASCII，Allow negative values要打勾，下面有數字的改成零，點選OK即完成&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160108173141.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173150.1">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;自評分數:75&lt;/p&gt;
+    &lt;p&gt;更改的過程不會很難，只要小心確定該點選的有點選到就好，特別是ASCII要確定有選到，這樣很快就能完成。&lt;/p&gt;
+        
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108173150.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173205.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 14 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108173205.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173224.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;利用onshape繪製零件&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;新創一個帳號&lt;/li&gt;
+    &lt;li&gt;進入後選擇create&lt;/li&gt;
+    &lt;li&gt;更改檔名選擇public確定&lt;/li&gt;
+    &lt;li&gt;繪製出圖後再part 1上點右鍵&lt;/li&gt;
+    &lt;li&gt;選擇Export，把Format改成Stl，再把STL Format改成Text&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160108173224.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173233.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;零件一 步驟&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;繪製出一長方體並更改其尺寸長料&lt;/li&gt;
+    &lt;li&gt;再畫出8個孔標註&lt;/li&gt;
+    &lt;li&gt;點選長料，並選擇要長料的部分，再除料&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160108173233.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173240.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;零件二 步驟&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;繪製出一長方體並更改其尺寸&lt;/li&gt;
+    &lt;li&gt;在長方體旁繪製出兩圓更改其尺寸並修剪不要的部分&lt;/li&gt;
+    &lt;li&gt;繪製出裡面的兩個圓並標註&lt;/li&gt;
+    &lt;li&gt;點選長料，並選擇要長料的部分，再除料&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160108173240.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173248.1">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;自評分數:75&lt;/p&gt;
+    &lt;p&gt;第一次使用，感覺比較不習慣，但慢慢熟悉繪製的過程就沒有那麼困難了，感覺比creo更容易上手，不過有點當當，但大致上沒什麼問題，多練幾次就能更上手。&lt;/p&gt;
+        
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108173248.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173311.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 15 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108173311.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173320.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;利用onshape繪製組合圖&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;進入共同組員的檔案中&lt;/li&gt;
+    &lt;li&gt;點選左下角的加號，建立組件檔，更改名稱&lt;/li&gt;
+    &lt;li&gt;把零件叫出&lt;/li&gt;
+    &lt;li&gt;把零件互相對應到的點和面分別對應好值到完成&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160108173320.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173337.1">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;自評分數:75&lt;/p&gt;
+    &lt;p&gt;onshape的畫法跟creo差不多，但onshape有優點也有缺點，他的優點是可以直接跟大家分享，或者可以在上面作修改組合，不過他的網站有點卡卡的，在繪製方面多少有點影響。&lt;/p&gt;
+        
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108173337.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173354.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 16 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108173354.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173402.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;更改onshape數據&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;在solvespace畫出要計算的距離&lt;/li&gt;
+    &lt;li&gt;算出距離後，在onshape上打上算出的數據&lt;/li&gt;
+    &lt;li&gt;移動看有沒有成功&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20160108173402.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108173412.1">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
+    &lt;p&gt;如果沒有在onshape上打出最大或最小距離，零件就可以在畫面上自由移動，這樣不符合真實的狀況，所以必須算出其最大及最小變化。但需特別注意，因為每個人在組裝上可能會不一樣(有些人會裝在中心點，有些人會裝在旁邊)這樣在計算過程中就會有所不同，這要特別注意。&lt;/p&gt;
+        
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108173412.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323207"; }&lt;/style&gt;</t>
 </tnodes>
 </leo_file>
