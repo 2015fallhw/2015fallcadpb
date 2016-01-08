@@ -25,7 +25,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
+LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),('班級github倉儲', 'https://github.com/2015fallhw/2015fallcadpb/tree/master'),
          ('Python', 'http://python.org/'),('個人倉儲網站', 'http://40323218.github.io/40323218cphw/user/40323218/'),('個人github倉儲網站', 'https://github.com/40323218/40323218cphw/tree/gh-pages'),('2015作業主頁', '../../'))
 
 # Social widget
