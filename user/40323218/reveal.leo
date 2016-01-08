@@ -42,7 +42,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20151214110209.1"><vh>@clean 40323218_cp_w2.html</vh>
 <v t="leo.20151214110209.2"><vh>檔案說明</vh></v>
 <v t="leo.20151214110209.3"><vh>html 標註</vh>
@@ -945,7 +945,13 @@ git config --global user.email 自己的信箱&lt;br&gt;
 </t>
 <t tx="leo.20160107000628.8">&lt;section id="hw-task-one"&gt;
     &lt;h5&gt;筆記和步驟&lt;/h5&gt;
-    &lt;p&gt;
+    &lt;p&gt;1. 在copy.com下載 fix 壓縮檔.&lt;/br&gt;&lt;/br&gt;
+    2. 在 github 搜尋 leo-editor.&lt;/br&gt;&lt;/br&gt;
+    3. 在 release 找到最新的版本並下載.&lt;/br&gt;&lt;/br&gt;
+    4. 解壓縮 fix 到 USB 並編輯 fix.bat&lt;/br&gt;&lt;/br&gt;
+    5. 再來編輯 start.bat &lt;/br&gt;&lt;/br&gt;
+    End. 到學校插上 USB 點 fix.bat 在打開start , 就會自動安裝leo&lt;/br&gt;&lt;/br&gt;
+    補充：記得把leo的壓縮檔也放到隨身碟中
         &lt;/p&gt;
 &lt;/section&gt;
 				
@@ -953,7 +959,8 @@ git config --global user.email 自己的信箱&lt;br&gt;
 <t tx="leo.20160107000628.9">&lt;section&gt;
     &lt;h2&gt;心得和自評分數&lt;/h2&gt;
     &lt;p&gt;我給自己80分。  &lt;/br&gt;  
-   
+   這禮拜作業是讓我們更方便在學校編輯leo,
+   不需要每次到了還要在慢慢安裝，節省許多時間。
     &lt;/p&gt;
 
 &lt;/section&gt;
