@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323202 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-30T11:41:00+08:00</updated><entry><title>2015 期末投影片整理</title><link href="http://coursemdetw.github.io/reveal/2015cadp_final.html" rel="alternate"></link><updated>2015-12-30T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-30:reveal/2015cadp_final.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323202 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-30T11:41:00+08:00</updated><entry><title>2015 期末投影片整理</title><link href="http://coursemdetw.github.io/reveal/2015cadp_final.html" rel="alternate"></link><updated>2015-12-30T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2016-01-05:reveal/2015cadp_final.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
 &lt;p&gt;&lt;br&gt;
 &lt;iframe src="cadp_final_lecture.html" width="700" height="500"&gt;&lt;/iframe&gt;
 &lt;a href="cadp_final_lecture.html" target="_blank"&gt;期末心得自評&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;iframe src="cadp_w17_lecture.html" width="700" height="500"&gt;&lt;/iframe&gt;
+&lt;a href="cadp_w17_lecture.html" target="_blank"&gt;作業W17投影片&lt;/a&gt;&lt;/p&gt;
 &lt;iframe src="cadp_w14_lecture.html" width="700" height="500"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="cadp_w14_lecture.html" target="_blank"&gt;作業W14投影片&lt;/a&gt;
