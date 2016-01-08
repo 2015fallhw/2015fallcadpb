@@ -39,7 +39,10 @@ Summary: 第一組第十五週工作報告<br />Nutcracker 機構 _ Onshape
 <br>
 組合影片 - <a href='user/40323218/'>40323218</a>
 <br>
+<script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpb/gh-pages/user/40323218/Assemble.stl"width="300"height="300"></script>
+<br>
 <iframe src="https://player.vimeo.com/video/150885854" width="500" height="271" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150885854">Assemble</a> from <a href="https://vimeo.com/user44943624">Li Steven</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
 組合影片 - <a href='user/40323216/'>40323216</a>
 <br>
 <iframe src="https://player.vimeo.com/video/151013132" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/151013132">ice_video_20160107-204126</a> from <a href="https://vimeo.com/user45183410">呂紹新</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
