@@ -64,7 +64,7 @@
 <v t="leo.20160108220322.5" a="E"><vh>body 標註</vh>
 <v t="leo.20160108220322.6" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160108220322.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160108220322.8" a="E"><vh>第 16 週開始的規劃</vh>
+<v t="leo.20160108220322.8" a="E"><vh>期末心得自評</vh>
 <v t="leo.20160108220322.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="leo.20160108220322.10" a="E"><vh>期末心得自評</vh>
@@ -77,7 +77,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103212658.1" a="E"><vh>@button open html</vh>
+<v t="leo.20160103212658.1"><vh>@button open html</vh>
 <v t="leo.20160103212658.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
 <v t="leo.20160103212658.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103212658.4" a="E"><vh>html 標註</vh>
