@@ -237,15 +237,18 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107140748.1"><vh>@button open htm1</vh>
+<v t="leo.20160107140748.1" a="E"><vh>@button open htm1</vh>
 <v t="leo.20160107140748.2" a="E"><vh>@clean cadp_w17_lecture.html</vh>
 <v t="leo.20160107140748.3"><vh>檔案說明</vh></v>
 <v t="leo.20160107140748.4" a="E"><vh>html 標註</vh>
 <v t="leo.20160107140748.5" a="E"><vh>body 標註</vh>
 <v t="leo.20160107140748.6" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160107140748.7" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160108172932.1"><vh>第 11 週開始的規劃</vh>
+<v t="leo.20160108172932.1"><vh>第 11 ~17週開始的規劃</vh>
 <v t="leo.20160108172932.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108175035.1"><vh>第 11 週開始的規劃</vh>
+<v t="leo.20160108175035.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 <v t="leo.20160108172948.1"><vh>header 測試</vh>
 <v t="leo.20160108172948.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
@@ -1540,7 +1543,7 @@ content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;<
 &lt;&lt; header &gt;&gt;
 
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
-    &lt;h1&gt;第 11 週開始的規劃&lt;/h1&gt;
+    &lt;h1&gt;第 11 ~17週開始的規劃&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
     &lt;/section&gt;
     
@@ -1946,5 +1949,23 @@ content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;<
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習B 學號: 40323207"; }&lt;/style&gt;</t>
+<t tx="leo.20160108175035.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 11 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108175035.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323207"; }&lt;/style&gt;</t>
 </tnodes>
 </leo_file>
