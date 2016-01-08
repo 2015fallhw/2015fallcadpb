@@ -176,7 +176,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107000646.1" a="E"><vh>@clean 40323218_cp_w14.html</vh>
+<v t="leo.20160107000646.1"><vh>@clean 40323218_cp_w14.html</vh>
 <v t="leo.20160107000646.2"><vh>檔案說明</vh></v>
 <v t="leo.20160107000646.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160107000646.4" a="E"><vh>body 標註</vh>
@@ -191,7 +191,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107000650.1"><vh>@clean 40323218_cp_w15.html</vh>
+<v t="leo.20160107000650.1" a="E"><vh>@clean 40323218_cp_w15.html</vh>
 <v t="leo.20160107000650.2"><vh>檔案說明</vh></v>
 <v t="leo.20160107000650.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160107000650.4" a="E"><vh>body 標註</vh>
@@ -1025,7 +1025,7 @@ git config --global user.email 自己的信箱&lt;br&gt;
 	
 </t>
 <t tx="leo.20160107000645.8">&lt;section id="hw-task-one"&gt;
-    &lt;h5&gt;功課&lt;/h5&gt;
+    &lt;h10&gt;功課&lt;/h10&gt;
     &lt;p&gt; 利用 creo 繪製小組分配到的零件&lt;/br&gt;&lt;/br&gt;
     與同組組員互相交換零件圖並嘗試組立 
         &lt;/p&gt;
@@ -1101,8 +1101,13 @@ git config --global user.email 自己的信箱&lt;br&gt;
 	
 </t>
 <t tx="leo.20160107000646.8">&lt;section id="hw-task-one"&gt;
-    &lt;h5&gt;功課&lt;/h5&gt;
-    &lt;p&gt;
+    &lt;h10&gt;功課&lt;/h10&gt;
+    &lt;p&gt;利用 creo 組立體圖 + 拍攝影片&lt;/br&gt;
+    &lt;/br&gt;
+    轉檔成 stl 上傳到 github 可在網站中呈現
+    &lt;/br&gt;
+    &lt;/br&gt;
+    嘗試利用 onshape 重新繪製零件圖
         &lt;/p&gt;
 &lt;/section&gt;
 				
@@ -1110,7 +1115,9 @@ git config --global user.email 自己的信箱&lt;br&gt;
 <t tx="leo.20160107000646.9">&lt;section&gt;
     &lt;h2&gt;心得和自評分數&lt;/h2&gt;
     &lt;p&gt;我給自己85分。  &lt;/br&gt;  
-  
+  剛開始利用 onshape 繪圖有許多不習慣&lt;/br&gt;&lt;/br&gt;使用久了跟 Inventor 有相似處&lt;/br&gt;&lt;/br&gt;自動存檔 + 雲端協同感覺不錯用
+  諸多功能有待開發&lt;/br&gt;&lt;/br&gt;
+  creo組立由於電腦問題有瑕疵正努力補救中&lt;/br&gt;&lt;/br&gt;
     &lt;/p&gt;
 
 &lt;/section&gt;
@@ -1175,8 +1182,14 @@ git config --global user.email 自己的信箱&lt;br&gt;
 	
 </t>
 <t tx="leo.20160107000650.8">&lt;section id="hw-task-one"&gt;
-    &lt;h5&gt;筆記和步驟&lt;/h5&gt;
-    &lt;p&gt;
+    &lt;h10&gt;功課&lt;/h10&gt;
+    &lt;p&gt;利用 onshape 繪製零件 + 影片
+    &lt;/br&gt;&lt;/br&gt;
+    利用 onshape 組立體圖 + 影片
+    &lt;/br&gt;&lt;/br&gt;
+    用solvespace算出機構的移動限制
+    &lt;/br&gt;&lt;/br&gt;
+    接近評分和期末考需趕進度和複習功課  加油!!
         &lt;/p&gt;
 &lt;/section&gt;
 				
@@ -1184,7 +1197,8 @@ git config --global user.email 自己的信箱&lt;br&gt;
 <t tx="leo.20160107000650.9">&lt;section&gt;
     &lt;h2&gt;心得和自評分數&lt;/h2&gt;
     &lt;p&gt;我給自己85分。  &lt;/br&gt;  
-   
+   onshape 用起來已經很順手了，在組立部分小卡了一下(已解決)&lt;/br&gt;&lt;/br&gt;小組網頁部分已修改好上傳，等待其他組員上傳。&lt;/br&gt;&lt;/br&gt;
+   修改前幾周的瑕疵處和複習工數!
     &lt;/p&gt;
 
 &lt;/section&gt;
