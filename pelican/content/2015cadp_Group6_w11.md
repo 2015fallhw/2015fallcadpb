@@ -5,7 +5,7 @@ Tags: mechanism
 Slug: 2015cadpb_blog_g6_w11
 Authors: G6
 Summary: 第六組第十一週工作報告<br />
- Nutcracker 機構
+ Nutcracker 機構 from Creo Parametric
 
 以下為相關工作報告資料:
 <br>
@@ -96,13 +96,31 @@ src="https://copy.com/LqL49YKs7QplisTr"width="300"height="300">
 <iframe src="https://player.vimeo.com/video/150476142" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150476142">hinge</a> from <a href="https://vimeo.com/user46488280">40328242</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
  
  =================================================
-  
-  機構組立影片
+<br>
+<br>
+<font face="標楷體" color="#FF0000" size="5"> Part_8 : Piston </font>- by<a href='user/40328242/'>40328242</a>
+<br>
+<br>
+<p align="left"><a href="https://copy.com/PfEPbTFYA9TY6sW8">Piston.prt</a>
+<br>
+<br>
+<img
+src="https://copy.com/oFpCBHm09KB1UhbQ"width="300"height="300">
+<br>
+<br>
+<script src="https://embed.github.com/view/3d/40328242/cadp/gh-pages/parts/piston.stl"width="300"height="300"></script>
+<br>
+<br>
+<iframe src="https://player.vimeo.com/video/151137344" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/151137344">piston</a> from <a href="https://vimeo.com/user46488280">40328242</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
  
+ =================================================
+<br>
+<br>
+  機構組立影片
+<br>
+<br>
+ <font face="標楷體" color="#FF0000" size="5"> Nutcracker </font>- by<a href='user/40328242/'>40328242</a>
  <iframe src="https://player.vimeo.com/video/150475173" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150475173">nutcracker</a> from <a href="https://vimeo.com/user46488280">40328242</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<br>
-<br>
-<iframe src="https://player.vimeo.com/video/150516312" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150516312">nutcracker on onshape</a> from <a href="https://vimeo.com/user46488280">40328242</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
 <iframe src="https://player.vimeo.com/video/150890146" width="500" height="259" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150890146">clip0011</a> from <a href="https://vimeo.com/user45258346">何師誠</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
