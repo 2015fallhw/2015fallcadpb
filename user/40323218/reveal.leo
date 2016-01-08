@@ -133,7 +133,7 @@
 </v>
 <v t="leo.20151221105126.1"><vh>@clean 40323218_cp_w11.html</vh>
 <v t="leo.20151221105126.2"><vh>檔案說明</vh></v>
-<v t="leo.20151221105126.3"><vh>html 標註</vh>
+<v t="leo.20151221105126.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151221105126.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151221105126.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151221105126.6" a="E"><vh>div class="slides"</vh>
@@ -176,9 +176,9 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107000646.1"><vh>@clean 40323218_cp_w14.html</vh>
+<v t="leo.20160107000646.1" a="E"><vh>@clean 40323218_cp_w14.html</vh>
 <v t="leo.20160107000646.2"><vh>檔案說明</vh></v>
-<v t="leo.20160107000646.3"><vh>html 標註</vh>
+<v t="leo.20160107000646.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160107000646.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160107000646.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160107000646.6" a="E"><vh>div class="slides"</vh>
@@ -1025,8 +1025,9 @@ git config --global user.email 自己的信箱&lt;br&gt;
 	
 </t>
 <t tx="leo.20160107000645.8">&lt;section id="hw-task-one"&gt;
-    &lt;h5&gt;筆記和步驟&lt;/h5&gt;
-    &lt;p&gt;
+    &lt;h5&gt;功課&lt;/h5&gt;
+    &lt;p&gt; 利用 creo 繪製小組分配到的零件&lt;/br&gt;&lt;/br&gt;
+    與同組組員互相交換零件圖並嘗試組立 
         &lt;/p&gt;
 &lt;/section&gt;
 				
@@ -1034,7 +1035,8 @@ git config --global user.email 自己的信箱&lt;br&gt;
 <t tx="leo.20160107000645.9">&lt;section&gt;
     &lt;h2&gt;心得和自評分數&lt;/h2&gt;
     &lt;p&gt;我給自己80分。  &lt;/br&gt;  
-   
+   零件圖被分配到 2.adjuster 和 8. piston&lt;/br&gt;
+   有開始嘗試組立，但碰到些許小麻煩有待確定
     &lt;/p&gt;
 
 &lt;/section&gt;
@@ -1099,7 +1101,7 @@ git config --global user.email 自己的信箱&lt;br&gt;
 	
 </t>
 <t tx="leo.20160107000646.8">&lt;section id="hw-task-one"&gt;
-    &lt;h5&gt;筆記和步驟&lt;/h5&gt;
+    &lt;h5&gt;功課&lt;/h5&gt;
     &lt;p&gt;
         &lt;/p&gt;
 &lt;/section&gt;
