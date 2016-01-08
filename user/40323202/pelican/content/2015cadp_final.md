@@ -2,8 +2,8 @@ Title: 2015 期末投影片整理
 Date: 2015-12-30 11:41
 Modified: 2015-12-30 11:41
 Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w18
+Tags: mechanism
+Slug: 2015cadp_final
 Authors: baconLEE
 Summary: 2015 期末投影片整理
 心得與討論之投影片
