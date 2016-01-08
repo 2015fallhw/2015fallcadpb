@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323201 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-23T11:41:00+08:00</updated><entry><title>2015 計算機程式 W_ 15</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-23T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-23:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323201 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-27T11:41:00+08:00</updated><entry><title>2015 計算機程式 W_ 17</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w17.html" rel="alternate"></link><updated>2015-12-27T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-27:reveal/2015cp_hw_w17.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="cadp_w17_lecture.html" width="750" height="450"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w17_lecture.html" target="_blank"&gt;作業W17投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============&lt;/p&gt;
+&lt;h2&gt;作業W17  Onshape 組合之桿件距離限制&lt;/h2&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LiFACze8oUs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/rFBrOjMv1lbFlfvt"width="600"height="449"&gt;
+&lt;br&gt;
+&lt;img
+src="https://copy.com/AudatdXuO8YUXZ2i"width="600"height="449"&gt;
+&lt;br&gt;
+!!切記,要注意零件所擺放的位置!!&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W_ 16</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2015-12-24T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-24:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="cadp_w16_lecture.html" width="750" height="450"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w16_lecture.html" target="_blank"&gt;作業W16投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============&lt;/p&gt;
+&lt;h2&gt;作業W16  Onshape 零件組合&lt;/h2&gt;
+&lt;p&gt;!! 一定要有資料夾共同使用權才能在其中建立組裝 !!
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uKpKm-ziWMY?list=PL6na4qQvaKVLf6RwFlDugeniFGoOILa_8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W_ 15</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-23T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-23:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="cadp_w15_lecture.html" width="750" height="450"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="cadp_w15_lecture.html" target="_blank"&gt;作業W15投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;============&lt;/p&gt;
-&lt;h2&gt;作業W15  Onshape 零件組合&lt;/h2&gt;
+&lt;h2&gt;作業W15  Onshape 零件繪製&lt;/h2&gt;
 &lt;p&gt;!! 一定要有資料夾共同使用權才能在其中建立組裝 !!
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uKpKm-ziWMY?list=PL6na4qQvaKVLf6RwFlDugeniFGoOILa_8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W_ 14</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w14.html" rel="alternate"></link><updated>2015-12-22T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-22:reveal/2015cp_hw_w14.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/miW4PDc8NA8?list=PL6na4qQvaKVLf6RwFlDugeniFGoOILa_8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W_ 14</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w14.html" rel="alternate"></link><updated>2015-12-22T11:41:00+08:00</updated><author><name>baconLEE</name></author><id>tag:coursemdetw.github.io,2015-12-22:reveal/2015cp_hw_w14.html</id><summary type="html">&lt;h2&gt;心得與討論之投影片&lt;/h2&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="cadp_w14_lecture.html" width="750" height="450"&gt;&lt;/iframe&gt;
 
@@ -25,9 +48,15 @@
 &lt;p&gt;!! 注意不要複製到 blob !!
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Y3miCQSjFAM?list=PL6na4qQvaKVLf6RwFlDugeniFGoOILa_8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;
 &lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/N3UMXC3w61FmhNu2"&gt;Download Adjuster_base.prt&lt;/a&gt;
+&lt;br&gt;
 &lt;script src="https://embed.github.com/view/3d/baconLEE/group3/master/Adjuster%20Base.stl"&gt;&lt;/script&gt;
 &lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/CMiQHlyVkUHlhzHA"&gt;Download Cylinder.prt&lt;/a&gt;
+&lt;br&gt;
 &lt;script src="https://embed.github.com/view/3d/baconLEE/group3/master/cylinder.stl"&gt;&lt;/script&gt;
+&lt;br&gt;
+&lt;p align="left"&gt;&lt;a href="https://copy.com/Z3yommjZLpwCLrAL"&gt;Download 組合圖.prt&lt;/a&gt;
 &lt;br&gt;
 &lt;script src="https://embed.github.com/view/3d/baconLEE/group3/master/asm0001.stl"&gt;&lt;/script&gt;
 &lt;br&gt;

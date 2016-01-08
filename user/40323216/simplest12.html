@@ -18,18 +18,29 @@
 </head>
 <body>
 <!-- 將整個投影片包在 "reveal" class 中 -->
+
+<!-- 出現在每一頁的 header 格式 -->
+
+<header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"></header>
+
 <div class="reveal">
 <!-- 將所有投影片包在 "slides" class 中 -->
 <div class="slides">
-<!-- 以下為投影片 -->
-<!-- 每一個 section 都代表一張投影片,  -->
-<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
-<section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323216"; }</style>
     <h2>作業五(11~12)</h2>
     <p>呂紹新 40323216</p>		
 </section>
 	
-<section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323216"; }</style>
+
     <h2>第十二周</h2>
     <p>用FIX調整為完全設定的檔案很方便 不用一再重複同一個動作 這也可以運用在其他的東西上</p>
     <p>之後的重點要放在小組的零件配合上</p>

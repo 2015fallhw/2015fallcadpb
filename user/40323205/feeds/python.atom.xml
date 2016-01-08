@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323205 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-01T11:41:00+08:00</updated><entry><title>2015 計算機程式 W5作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2015-11-01:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323205 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-04T11:00:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB 期末自評</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_final.html" rel="alternate"></link><updated>2016-01-04T11:00:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cadpb_blog_final.html</id><summary type="html">&lt;iframe src="cadp_final_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_final_lecture.html" target="_blank"&gt;期末自評 投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB w16 作業</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w16.html" rel="alternate"></link><updated>2016-01-04T11:00:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cadpb_blog_w16.html</id><summary type="html">&lt;iframe src="cadp_w16_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w16_lecture.html" target="_blank"&gt;w16作業投影片&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;
+&lt;/br&gt;
+&lt;b&gt;利用 Solvespace 算出有效運動範圍&lt;/b&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;img src="https://copy.com/meedBKkFMMbkH9AE" width="800" &gt;&lt;/img&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;
+將算出的有效運動範圍值，輸入於Onshape的組合件當中
+&lt;/br&gt;
+就會得到以下的樣子。&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;
+&lt;font color="#FF3333"&gt;piston 最大運動範圍&lt;/font&gt;
+&lt;img src="https://copy.com/Pk8jtEQ6vteHCZjv" width="800" &gt;&lt;/img&gt;&lt;/br&gt;&lt;/br&gt;
+&lt;font color="#FF3333"&gt;piston 最小運動範圍&lt;/font&gt;
+&lt;img src="https://copy.com/f0z82dINAESHf7g3" width="800" &gt;&lt;/img&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 計算機程式 W5作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323205</name></author><id>tag:coursemdetw.github.io,2015-11-01:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業二投影片&lt;/a&gt;&lt;/p&gt;
