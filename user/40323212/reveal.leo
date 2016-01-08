@@ -110,7 +110,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160108225700.1" a="E"><vh>@clean 40323212_cp_w14.html</vh>
+<v t="leo.20160108225700.1"><vh>@clean 40323212_cp_w14.html</vh>
 <v t="leo.20160108225700.2"><vh>檔案說明</vh></v>
 <v t="leo.20160108225700.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160108225700.4" a="E"><vh>body 標註</vh>
@@ -879,7 +879,7 @@ jupyter notebook
 <t tx="leo.20160108225700.9">&lt;section&gt;
     &lt;h3&gt;自評&lt;/h3&gt;
     &lt;br&gt;
-   &lt;p&gt;onshape能直接在網路上繪圖,不用還要去購買軟體而且只要有平板或比電就隨處可以使用,現在雖然功能還不齊全,相信在不久得將來是一個趨勢。&lt;/p&gt;
+   &lt;p&gt;onshape能直接在網路上繪圖,不用還要去購買軟體而且只要有平板或比電就隨處可以使用,現在雖然功能還不齊全,相信在不久的將來是一個趨勢。&lt;/p&gt;
     &lt;p&gt;評分 :  80&lt;/p&gt;
 &lt;/section&gt;
 				
