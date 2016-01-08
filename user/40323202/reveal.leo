@@ -25,7 +25,8 @@
 <v t="leo.20151207111914.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="leo.20151203165806.1"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20160108215242.1"><vh>@edit 2015cadp_final.md</vh></v>
+<v t="leo.20160109004348.1"><vh>@edit 2015cadp_final.md</vh></v>
+<v t="leo.20160109004330.1"><vh>@edit 2015cadp_w17.md</vh></v>
 <v t="leo.20160103213000.1"><vh>@edit 2015cadp_w14.md</vh></v>
 <v t="leo.20160103211749.1"><vh>@edit 2015cadp_w13.md</vh></v>
 <v t="leo.20160103203921.1"><vh>@edit 2015cadp_w12.md</vh></v>
@@ -37,6 +38,29 @@
 </v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="leo.20160109004406.1" a="E"><vh>@button open html</vh>
+<v t="leo.20160109004406.2" a="E"><vh>@clean cadp_w17_lecture.html</vh>
+<v t="leo.20160109004406.3"><vh>檔案說明</vh></v>
+<v t="leo.20160109004406.4" a="E"><vh>html 標註</vh>
+<v t="leo.20160109004406.5" a="E"><vh>body 標註</vh>
+<v t="leo.20160109004406.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160109004406.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160109004406.8" a="E"><vh>班級</vh>
+<v t="leo.20160109004406.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160109004406.10" a="E"><vh>作業步驟</vh>
+<v t="leo.20160109004406.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160109004406.12" a="E"><vh>心得評分</vh>
+<v t="leo.20160109004406.13"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160109004406.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+</v>
 <v t="leo.20160108220322.1"><vh>@button open html</vh>
 <v t="leo.20160108220322.2" a="E"><vh>@clean cadp_final_lecture.html</vh>
 <v t="leo.20160108220322.3"><vh>檔案說明</vh></v>
@@ -1150,5 +1174,121 @@ Diff...
 &lt;/section&gt;
 				
 </t>
+<t tx="leo.20160109004406.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20160109004406.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;步驟說明&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;利用solvwspace計算出機構的最大運動範圍和最小運動範圍&lt;/li&gt;    
+    
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+</t>
+<t tx="leo.20160109004406.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323202"; }&lt;/style&gt;</t>
+<t tx="leo.20160109004406.12">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;心得評分&lt;/h1&gt;
+    &lt;p&gt;自評分數:75&lt;/p&gt;
+    &lt;p&gt;這週的作業是這學期最後一週的作業了，利用了之前學的solvwspace來計算出機構的運動範圍。完成了這週的作業也代表這學期告一個段落了，很高興自己這學期學會了許多許多東西，所以要繼續加油。
+
+&lt;/p&gt;
+        
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160109004406.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323202"; }&lt;/style&gt;</t>
+<t tx="leo.20160109004406.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160109004406.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160109004406.3">&lt;!--
+cadp w17 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160109004406.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W17 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160109004406.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160109004406.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160109004406.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160109004406.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323202 林姿馨&lt;/p&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+
+
+
+
+
+
+    
+    
+  </t>
 </tnodes>
 </leo_file>
