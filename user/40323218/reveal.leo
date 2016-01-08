@@ -206,13 +206,14 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107000815.1"><vh>@clean 40323218_cp_w16.html</vh>
+<v t="leo.20160107000815.1" a="E"><vh>@clean 40323218_cp_w16.html</vh>
 <v t="leo.20160107000815.2"><vh>檔案說明</vh></v>
 <v t="leo.20160107000815.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160107000815.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160107000815.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160107000815.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160107000815.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160109033650.1"><vh>作業三</vh></v>
 <v t="leo.20160107000815.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -1268,6 +1269,13 @@ git config --global user.email 自己的信箱&lt;br&gt;
    
     &lt;/p&gt;
 
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160109033650.1">&lt;section id="hw-task-one"&gt;
+    &lt;h10&gt;期末&lt;/h10&gt;
+    &lt;p&gt;
+        &lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
