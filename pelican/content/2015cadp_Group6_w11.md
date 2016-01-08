@@ -24,6 +24,8 @@ Summary: 第六組第十一週工作報告<br />
 <br>
  <iframe src="https://player.vimeo.com/video/150786186" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/150786186">ADJUSTER_BASE</a> from <a href="https://vimeo.com/user45396653">40328245</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
  =================================================
 <br>
 <br>
@@ -70,8 +72,8 @@ Summary: 第六組第十一週工作報告<br />
 <br>
 <br>
  <script src="https://embed.github.com/view/3d//2015fallhw/2015fallcadpb/gh-pages/user/40223212/project/connection.stl"width="300"height="300"></script>
- <br>
- <br>
+<br>
+<br>
   <iframe src="https://player.vimeo.com/video/147283357" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/147283357">connection.prt</a> from <a href="https://vimeo.com/user45258346">何師誠</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>  
@@ -161,5 +163,6 @@ src="https://copy.com/oFpCBHm09KB1UhbQ"width="300"height="300">
 <br>
 <br>
  <iframe src="https://player.vimeo.com/video/147283357" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/147283357">connection.prt</a> from <a href="https://vimeo.com/user45258346">何師誠</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+<br>
+<br>
   =================================================
