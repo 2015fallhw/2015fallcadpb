@@ -914,7 +914,7 @@ for ch in p.children():
 
 &lt;section&gt;
     &lt;h1&gt;期末心得自評&lt;/h1&gt;
-    &lt;ol&gt;
+    
      &lt;p&gt;自評分數:85&lt;/p&gt;
     &lt;li&gt;這個學期學會了如何使用creo和Onshape把零件畫出來並將其所有的零件組裝出來。一開始用creo和Onshape畫零件和組裝的過程中並不是很熟練，但是一下子就可以熟練地使用，並將小組所分配的零件畫出來和把所有的零件組裝起來。並對倉儲的觀念有更進一步的了解，當做完每次的作業，會充滿成就感和充滿信心。&lt;/li&gt;    
     
