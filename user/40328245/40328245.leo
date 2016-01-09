@@ -23,7 +23,7 @@
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
-<v t="amd.20151006113136.1"><vh>@path content</vh>
+<v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="leo.20151204180707.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151204180715.1"><vh>@edit 2015cphww2.md</vh></v>
@@ -37,7 +37,7 @@
 </v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
-<v t="leo.20151204210010.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151204210010.1"><vh>@button open html</vh>
 <v t="leo.20151204210010.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151204210010.3"><vh>檔案說明</vh></v>
 <v t="leo.20151204210010.4" a="E"><vh>html 標註</vh>
