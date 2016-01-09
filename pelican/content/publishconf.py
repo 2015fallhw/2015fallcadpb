@@ -30,7 +30,7 @@ LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
-          ('github', 'http://github.com/ametaireau'),)
+          ('github', 'http://github.com/ametaireau'),('Onshape', 'https://www.onshape.com/'),)
           
 DEFAULT_PAGINATION = 10
 
