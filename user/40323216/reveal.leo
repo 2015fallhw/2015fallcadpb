@@ -30,7 +30,7 @@
 <v t="leo.20160103212135.1"><vh>@edit 40323216_cp_w5.md</vh></v>
 <v t="leo.20160103212234.1"><vh>@edit 40323216_cp_w7.md</vh></v>
 <v t="leo.20160103212309.1"><vh>@edit 40323216_cp_w8.md</vh></v>
-<v t="leo.20160103215221.1"><vh>@edit 40323216_cp_w12.md</vh></v>
+<v t="leo.20160103215221.1"><vh>@edit 40323216_cp_w13.md</vh></v>
 <v t="leo.20160103215734.1"><vh>@edit 40323216_cp_w14.md</vh></v>
 <v t="leo.20160107215101.1"><vh>@edit 40323216_cp_w16.md</vh></v>
 </v>
@@ -94,7 +94,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103215244.1" a="E"><vh>@clean simplest12.html</vh>
+<v t="leo.20160103215244.1" a="E"><vh>@clean simplest13.html</vh>
 <v t="leo.20160103215244.2"><vh>檔案說明</vh></v>
 <v t="leo.20160103215244.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160103215244.4" a="E"><vh>body 標註</vh>
@@ -541,8 +541,14 @@ jupyter notebook
 </t>
 <t tx="leo.20160103215244.11">&lt;&lt; header &gt;&gt;
 
-    &lt;h2&gt;第十二周&lt;/h2&gt;
+    &lt;h2&gt;第十三周&lt;/h2&gt;
     &lt;p&gt;用FIX調整為完全設定的檔案很方便 不用一再重複同一個動作 這也可以運用在其他的東西上&lt;/p&gt;
+    &lt;p&gt;步驟:&lt;p&gt;
+    &lt;p&gt;1.先將FIX壓縮檔下載&lt;/p&gt;
+    &lt;p&gt;2.將LEO從GITHUB下載&lt;/p&gt;
+    &lt;p&gt;3.修改FIX內部的LEO路徑&lt;/p&gt;
+    &lt;p&gt;4.執行FIX 將LEO載入學校電腦&lt;/p&gt;
+    &lt;p&gt;繪製零件&lt;/p&gt;
     &lt;p&gt;之後的重點要放在小組的零件配合上&lt;/p&gt;
     &lt;p&gt;我給自己70分&lt;/p&gt;
 
@@ -597,7 +603,7 @@ jupyter notebook
 &lt;/div&gt;
 </t>
 <t tx="leo.20160103215244.7">&lt;&lt; header &gt;&gt;
-    &lt;h2&gt;作業五(11~12)&lt;/h2&gt;
+    &lt;h2&gt;作業五(11~13)&lt;/h2&gt;
     &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
 &lt;/section&gt;
 	</t>
@@ -647,7 +653,7 @@ jupyter notebook
 </t>
 <t tx="leo.20160103215758.19">&lt;&lt; header &gt;&gt;
 
-    &lt;h2&gt;作業六(13~14)&lt;/h2&gt;
+    &lt;h2&gt;作業六(14~15)&lt;/h2&gt;
     &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
 &lt;/section&gt;
 	</t>
@@ -738,7 +744,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323216"; }&lt;/style&gt
 </t>
 <t tx="leo.20160107215204.7">&lt;&lt; header &gt;&gt;
 
-    &lt;h2&gt;作業六(15~16)&lt;/h2&gt;
+    &lt;h2&gt;作業六(16~)&lt;/h2&gt;
     &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
 &lt;/section&gt;
 	</t>
