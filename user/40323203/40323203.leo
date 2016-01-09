@@ -25,6 +25,8 @@
 <v t="leo.20151203165920.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="leo.20151203165806.1"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160110013053.1"><vh>@edit 2015cadp_w17.md</vh></v>
+<v t="leo.20160110013044.1"><vh>@edit 2015cadp_w16.md</vh></v>
 <v t="leo.20160103190854.1"><vh>@edit 2015cadp_w15.md</vh></v>
 <v t="leo.20160103184400.1"><vh>@edit 2015cadp_w14.md</vh></v>
 <v t="leo.20160103182550.1"><vh>@edit 2015cadp_w13.md</vh></v>
@@ -40,6 +42,29 @@
 </v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="leo.20160110013109.1"><vh>@button open html</vh>
+<v t="leo.20160110013109.2" a="E"><vh>@clean cadp_w16_lecture.html</vh>
+<v t="leo.20160110013109.3"><vh>檔案說明</vh></v>
+<v t="leo.20160110013109.4" a="E"><vh>html 標註</vh>
+<v t="leo.20160110013109.5" a="E"><vh>body 標註</vh>
+<v t="leo.20160110013109.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160110013109.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160110013109.8" a="E"><vh>班級</vh>
+<v t="leo.20160110013109.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160110013109.10" a="E"><vh>上課筆記</vh>
+<v t="leo.20160110013109.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160110013109.12" a="E"><vh>第16週自評與心得</vh>
+<v t="leo.20160110013109.13"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160110013109.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+</v>
 <v t="leo.20160103190956.1"><vh>@button open html</vh>
 <v t="leo.20160103190956.2" a="E"><vh>@clean cadp_w15_lecture.html</vh>
 <v t="leo.20160103190956.3"><vh>檔案說明</vh></v>
@@ -725,7 +750,7 @@ content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;</
 <t tx="leo.20151214182615.14">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;自評與心得&lt;/h1&gt;
-    &lt;p&gt;自評分數:65&lt;/p&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
     &lt;p&gt;第11週的課程是教學如何創自己的個人leo，創個人leo最主要是當老師教了新的課程時，而你要將作業放到班上的個人網站，這時候就可以很方面的將班上資料夾git clone 下來然後直接按user資料夾開啟我學號資料夾，並將我的leo叫出來修改，因此讓我更迅速的完成我的作業。&lt;/p&gt;
         
 &lt;/section&gt;
@@ -859,7 +884,7 @@ content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;</
 <t tx="leo.20151214182620.14">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;自評與心得&lt;/h1&gt;
-    &lt;p&gt;自評分數:65&lt;/p&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
     &lt;p&gt;第12週的課程是教學如何將leo-editor變成5.1版本的，剛開始的步驟比較繁雜，不過在上課的同時我有寫筆記，一方面讓我更快將軟體升級，也可以讓我學習上課時要認真聽才能一字不漏得把老師的操作步驟一一寫下來，經過期中考前的作業，讓我更加順利上手12週的作業。&lt;/p&gt;
         
 &lt;/section&gt;
@@ -975,7 +1000,7 @@ content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;</
 <t tx="leo.20160103182713.14">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;自評與心得&lt;/h1&gt;
-    &lt;p&gt;自評分數:65&lt;/p&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
     &lt;p&gt;第13週的課程是將組員繪製完的零件圖至CREOL軟體組裝完成，因為之前就有接觸過軟體，所以更容易上手，雖然我還是很不喜歡軟體的投影方向，不過這一次組裝我有找到如何設定投影的方向，讓我更加順利上手。&lt;/p&gt;
         
 &lt;/section&gt;
@@ -1108,7 +1133,7 @@ content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;</
 <t tx="leo.20160103184444.14">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;自評與心得&lt;/h1&gt;
-    &lt;p&gt;自評分數:65&lt;/p&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
     &lt;p&gt;第14週的課程是教學如何將STL檔推回去遠端並且用3D的方式呈現，剛開始要先將畫好的CREOL檔轉存為STL檔，並且新創小組倉儲，完成後主要是可以將零件圖用3D的方式呈現在網站上，一方面可以將圖翻旋360度觀看，也可以將組合圖呈現更完整，所以這一週讓我有所大開眼原來可以這樣呈現3D
 圖。&lt;/p&gt;
         
@@ -1227,7 +1252,7 @@ content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;</
 <t tx="leo.20160103190956.12">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;自評與心得&lt;/h1&gt;
-    &lt;p&gt;自評分數:65&lt;/p&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
     &lt;p&gt;第15週的課程是新創onshape的帳號，而這個網站讓我覺得更神奇了，他可以將我所畫好的CREOL檔匯入進去然後組裝，同時也可以建立小組共同空間，而且組員在上面操作的過程都可以看到，讓我更加了解原來某些網站有些功能。&lt;/p&gt;
         
 &lt;/section&gt;
@@ -1290,6 +1315,121 @@ cadp w12 講課內容投影片
 &lt;/div&gt;
 </t>
 <t tx="leo.20160103190956.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323203 施郁琪&lt;/p&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+
+
+
+
+
+
+    
+    
+  </t>
+<t tx="leo.20160110013109.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20160110013109.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;上課筆記&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;將nutcracker機構裡作動的Piston零件限制移動距離&lt;/le&gt;
+    &lt;li&gt;利用solvespace軟體繪製 2D限制移動距離的圖&lt;/li&gt;
+    &lt;li&gt;計算兩零件能夠移動的距離&lt;/li&gt;  
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+</t>
+<t tx="leo.20160110013109.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;</t>
+<t tx="leo.20160110013109.12">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
+    &lt;p&gt;第16週的課程是教學如何約束nutcracker機構作動時的移動距離，在接觸onshape軟體之後，剛開始本來不知道軟體可以使機構限制移動距離，後來在課程上老師利用Solvespace軟體，讓我更加了解軟體功能是很強大的。&lt;/p&gt;
+        
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160110013109.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323203"; }&lt;/style&gt;</t>
+<t tx="leo.20160110013109.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160110013109.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160110013109.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160110013109.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160110013109.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160110013109.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160110013109.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160110013109.8">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
