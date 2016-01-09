@@ -256,7 +256,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107153655.1"><vh>@button open html</vh>
+<v t="leo.20160107153655.1" a="E"><vh>@button open html</vh>
 <v t="leo.20160107153655.2" a="E"><vh>@clean cadp_final_lecture.html</vh>
 <v t="leo.20160107153655.3"><vh>檔案說明</vh></v>
 <v t="leo.20160107153655.4" a="E"><vh>html 標註</vh>
@@ -1501,14 +1501,14 @@ content: "課程: 電腦輔助設計實習B\A 學號: 40323205"; }&lt;/style&gt;
 
 </t>
 <t tx="leo.20160107153655.3">&lt;!--
-cadp w12 講課內容投影片
+cadp final 講課內容投影片
 --&gt;
 </t>
 <t tx="leo.20160107153655.4">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
-&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;title&gt;CADP final 課程內容&lt;/title&gt;
 &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
 	&lt;!--增加對於 IE 早期版本的支援 --&gt;

@@ -29,11 +29,12 @@
 <v t="40323250.20151124123710.1"><vh>@edit 40323212_cp_w4.md</vh></v>
 <v t="40323250.20151124123717.1"><vh>@edit 40323212_cp_w5.md</vh></v>
 <v t="123.20151212234114.1"><vh>@edit 40323212_cp_w13.md</vh></v>
+<v t="leo.20160108225642.1"><vh>@edit 40323212_cp_w14.md</vh></v>
 <v t="123.20151228231853.1"><vh>@edit 40323212_cp_w15.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="40323250.20151124123610.1"><vh>@clean 40323212_cp_w2.html</vh>
 <v t="40323250.20151124123610.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151124123610.3" a="E"><vh>html 標註</vh>
@@ -101,16 +102,26 @@
 <v t="leo.20160107174445.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160107174445.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160107174445.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160107174445.8"><vh>作業任務一</vh>
-<v t="leo.20160107174445.9"><vh>1</vh></v>
-<v t="leo.20160107174445.10"><vh>2</vh></v>
-<v t="leo.20160107174445.11"><vh>3</vh></v>
-<v t="leo.20160107174445.12"><vh>4</vh></v>
-</v>
+<v t="leo.20160107174445.8"><vh>作業任務一</vh></v>
 <v t="leo.20160107174445.13"><vh>第三張投影片 自評與心得</vh></v>
 </v>
 </v>
 <v t="leo.20160107174445.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160108225700.1"><vh>@clean 40323212_cp_w14.html</vh>
+<v t="leo.20160108225700.2"><vh>檔案說明</vh></v>
+<v t="leo.20160108225700.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160108225700.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160108225700.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160108225700.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160108225700.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160108225700.8"><vh>作業任務一</vh></v>
+<v t="leo.20160108225700.9"><vh>第三張投影片 自評與心得</vh></v>
+</v>
+</v>
+<v t="leo.20160108225700.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -121,12 +132,7 @@
 <v t="leo.20160107174447.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160107174447.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160107174447.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160107174447.8"><vh>作業任務一</vh>
-<v t="leo.20160107174447.9"><vh>1</vh></v>
-<v t="leo.20160107174447.10"><vh>2</vh></v>
-<v t="leo.20160107174447.11"><vh>3</vh></v>
-<v t="leo.20160107174447.12"><vh>4</vh></v>
-</v>
+<v t="leo.20160107174447.8"><vh>作業任務一</vh></v>
 <v t="leo.20160107174447.13"><vh>第三張投影片 自評與心得</vh></v>
 </v>
 </v>
@@ -655,44 +661,6 @@ jupyter notebook
 @others
 
 </t>
-<t tx="leo.20160107174445.10">&lt;section&gt;
-    &lt;p align="left"&gt;6. dir  : 檢察所屬分支的檔案數量和狀況&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;7. git config (--global) user.name  .... , 括弧內若省略 , 此次僅為單
-    一1次 , 若沒有省略 , 則以後皆為默認 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;8. REM = REMARK  ,  .bat 檔 = batch 批次檔  ,  -s = set 設定&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;9.  reveal.leo 存檔之後所產生的simplest.html檔案 , 可以很方便的檢查近端leo的編輯狀況&lt;/p&gt;
-    &lt;br&gt;
-        &lt;p align="left"&gt;10. github 產生的倉儲可以依造自己所需 , 產生 https 或者 ssh 的clone  URL&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;11. leo 檔案不正當的關閉 , 將導致 leo editor 出現錯誤而無法正常開啟&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160107174445.11">&lt;section&gt;
-    &lt;p align="left"&gt;12. 如果leo出現問題無法開啟 , 試著將 home 底下的 .leo 資料夾刪除
-    &lt;br&gt;
-    &lt;p align="left"&gt;13. 如果推回遠端有問題 , 可能和 .git 檔 、  路徑錯誤 或 者其他問題
-    &lt;br&gt;
-    &lt;p align="left"&gt;14. 無法正常出現分頁頁面( io ) 網址的原因 : github 尚未進行 信箱認證 、 抓錯檔案等原因 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;15. 如果將老師的檔案推到自己倉儲的 master , 遠端頁面顯示404  File not found , 但是推到 gh-pages 卻會顯示網頁 , 代表 github 的 gh-pages  能支援靜態網站 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;16. 如果分支有新增資料，要先展開、提交之後才能再切換分支&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;17. git rm 檔案名稱.副檔名 ( 移除檔案在近端動作即可 ) &lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160107174445.12">&lt;section&gt;
-    &lt;p align="left"&gt;18. git rm 資料夾名稱 -r 可刪除資料夾( 含內部文件 ) &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;19. git push origin :分支名稱 ( 刪除github 分支 )&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20160107174445.13">&lt;section&gt;
     &lt;h3&gt;自評&lt;/h3&gt;
     &lt;br&gt;
@@ -766,65 +734,10 @@ jupyter notebook
 &lt;p&gt;solvespace指令:Ctrl+Z復原、Ctrl+y下一步、W畫面回正&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20160107174445.9">&lt;section&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;hr size="1" align="center" noshade width="100%" color=YELLOW&gt;
-    &lt;p align="left"&gt;1. 如果從學校電腦抓12G的檔案 , leo 套件要自己下載 ,安裝到 site- package 裡面。 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;2. launchLeo.py 和 start 可以從老師提供的壓縮檔中找到 , 複製到相同路徑即可 ( start 多個啟動程序 )。&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3. 檢查分支 : git bramch  &lt;/p&gt;
-    &lt;p align="left"&gt; 新建分支 : git branch (分支名稱)  &lt;/p&gt;
-    &lt;p align="left"&gt; 切換分支 : git checkout (分支名稱)&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;4. 因所在的分支不同 , 資料夾所顯示的檔案也有所不同 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;5. 新建的分支會複製原有的分支檔案&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20160107174447.1">@language xml
 @tabwidth -4
 @others
 
-</t>
-<t tx="leo.20160107174447.10">&lt;section&gt;
-    &lt;p align="left"&gt;6. dir  : 檢察所屬分支的檔案數量和狀況&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;7. git config (--global) user.name  .... , 括弧內若省略 , 此次僅為單
-    一1次 , 若沒有省略 , 則以後皆為默認 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;8. REM = REMARK  ,  .bat 檔 = batch 批次檔  ,  -s = set 設定&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;9.  reveal.leo 存檔之後所產生的simplest.html檔案 , 可以很方便的檢查近端leo的編輯狀況&lt;/p&gt;
-    &lt;br&gt;
-        &lt;p align="left"&gt;10. github 產生的倉儲可以依造自己所需 , 產生 https 或者 ssh 的clone  URL&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;11. leo 檔案不正當的關閉 , 將導致 leo editor 出現錯誤而無法正常開啟&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160107174447.11">&lt;section&gt;
-    &lt;p align="left"&gt;12. 如果leo出現問題無法開啟 , 試著將 home 底下的 .leo 資料夾刪除
-    &lt;br&gt;
-    &lt;p align="left"&gt;13. 如果推回遠端有問題 , 可能和 .git 檔 、  路徑錯誤 或 者其他問題
-    &lt;br&gt;
-    &lt;p align="left"&gt;14. 無法正常出現分頁頁面( io ) 網址的原因 : github 尚未進行 信箱認證 、 抓錯檔案等原因 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;15. 如果將老師的檔案推到自己倉儲的 master , 遠端頁面顯示404  File not found , 但是推到 gh-pages 卻會顯示網頁 , 代表 github 的 gh-pages  能支援靜態網站 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;16. 如果分支有新增資料，要先展開、提交之後才能再切換分支&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;17. git rm 檔案名稱.副檔名 ( 移除檔案在近端動作即可 ) &lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160107174447.12">&lt;section&gt;
-    &lt;p align="left"&gt;18. git rm 資料夾名稱 -r 可刪除資料夾( 含內部文件 ) &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;19. git push origin :分支名稱 ( 刪除github 分支 )&lt;/p&gt;
-&lt;/section&gt;
-				
 </t>
 <t tx="leo.20160107174447.13">&lt;section&gt;
     &lt;h3&gt;自評&lt;/h3&gt;
@@ -899,20 +812,75 @@ jupyter notebook
 &lt;p&gt;solvespace指令:Ctrl+Z復原、Ctrl+y下一步、W畫面回正&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20160107174447.9">&lt;section&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;hr size="1" align="center" noshade width="100%" color=YELLOW&gt;
-    &lt;p align="left"&gt;1. 如果從學校電腦抓12G的檔案 , leo 套件要自己下載 ,安裝到 site- package 裡面。 &lt;/p&gt;
+<t tx="leo.20160108225700.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160108225700.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160108225700.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160108225700.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160108225700.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160108225700.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108225700.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108225700.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323212何昶熠&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108225700.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;筆記&lt;/h1&gt;
+    
+&lt;/section&gt;
+</t>
+<t tx="leo.20160108225700.9">&lt;section&gt;
+    &lt;h3&gt;自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;2. launchLeo.py 和 start 可以從老師提供的壓縮檔中找到 , 複製到相同路徑即可 ( start 多個啟動程序 )。&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3. 檢查分支 : git bramch  &lt;/p&gt;
-    &lt;p align="left"&gt; 新建分支 : git branch (分支名稱)  &lt;/p&gt;
-    &lt;p align="left"&gt; 切換分支 : git checkout (分支名稱)&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;4. 因所在的分支不同 , 資料夾所顯示的檔案也有所不同 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;5. 新建的分支會複製原有的分支檔案&lt;/p&gt;
+   &lt;p&gt;onshape能直接在網路上繪圖,不用還要去購買軟體而且只要有平板或比電就隨處可以使用,現在雖然功能還不齊全,相信在不久的將來是一個趨勢。&lt;/p&gt;
+    &lt;p&gt;評分 :  80&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>

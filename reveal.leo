@@ -37,6 +37,7 @@
 <v t="49923230.20151207191509.1"><vh>@edit 2015cadp_Group5_w11.md</vh></v>
 <v t="49923230.20160101173748.1"><vh>@edit 2015cadp_Group5_w15.md</vh></v>
 <v t="123.20151220213339.1"><vh>@edit 2015cadp_Group6_w11.md</vh></v>
+<v t="leo.20160108213952.1"><vh>@edit 2015cadp_Group6_w15.md</vh></v>
 <v t="123.20151220213348.1"><vh>@edit 2015cadp_Group7_w11.md</vh></v>
 <v t="leo.20151229220905.1"><vh>@edit 2015cadp_Group7_w15.md</vh></v>
 <v t="123.20151228110748.1"><vh>@edit 2015cadp_Group8_w11.md</vh></v>
@@ -551,7 +552,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323204"; }&lt;/style&gt
 <t tx="leo40323206.20160104121100.13">&lt;&lt; header &gt;&gt;
 
       &lt;section id="hw-task-one"&gt;
-      &lt;h3&gt;成績自評分數80分&lt;/h3&gt;
+      &lt;h3&gt;成績自評分數90分&lt;/h3&gt;
       &lt;p&gt;這次對於新增一個自己的leo覺得蠻有困難的，最後是請同學幫忙教我的，在分組作業中畫的圖我覺得不難，難再組合，需要各種約束而且零件不是出自一人之手，所以有人畫錯就會組不起來，真不愧是小組作業，需要大家的努力及合作。
     &lt;/p&gt;
       
