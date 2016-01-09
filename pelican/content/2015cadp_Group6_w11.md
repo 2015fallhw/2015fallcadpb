@@ -35,7 +35,7 @@ Summary: 第六組第十一週工作報告<br />
  <p align="left"><a href="https://copy.com/TBPV8wX40HmDgVnF">Aduster.prt</a>
 <br>
 <br>
- <img src="https://copy.com/Wyq4KTtqpuU2Cvf8"width="300"height="300">
+ <img src="https://copy.com/Wyq4KTtqpuU2Cvf8"width="600"height="600">
 <br>
 <br>
  <script src="https://embed.github.com/view/3d//2015fallhw/2015fallcadpb/gh-pages/user/40223212/project/adjuster.stl"width="600"height="600"></script>
@@ -137,7 +137,7 @@ src="https://copy.com/LqL49YKs7QplisTr"width="300"height="300">
 <br>
 <br>
  <img
-src="https://copy.com/oFpCBHm09KB1UhbQ"width="300"height="300">
+src="https://copy.com/oFpCBHm09KB1UhbQ"width="500"height="500">
 <br>
 <br>
  <script src="https://embed.github.com/view/3d/40328242/cadp/gh-pages/parts/piston.stl"width="300"height="300"></script>
