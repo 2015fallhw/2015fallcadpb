@@ -2,7 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323236 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-30T22:15:00+08:00</updated><entry><title>2015 計算機程式 第十六週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2015-12-30T22:15:00+08:00</updated><author><name>40323236</name></author><id>tag:coursemdetw.github.io,2015-12-30:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest12.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest12.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十五週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-30T22:14:00+08:00</updated><author><name>40323236</name></author><id>tag:coursemdetw.github.io,2015-12-30:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;p&gt;&lt;a href="simplest12.html" target="_blank"&gt;作業一投影片&lt;/a&gt;
+&lt;br&gt;
+&lt;h2&gt;onshape組合影片&lt;/h2&gt;
+By &lt;a href='http://2015fallhw.github.io/2015fallcadpb/user/40323236/'&gt;40323236 許紘瑜
+&lt;iframe src="https://player.vimeo.com/video/150255693" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150255693"&gt;1229&lt;/a&gt; from &lt;a href="https://vimeo.com/user45556148"&gt;40323236&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十五週作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-30T22:14:00+08:00</updated><author><name>40323236</name></author><id>tag:coursemdetw.github.io,2015-12-30:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest11.html" target="_blank"&gt;作業一投影片&lt;/a&gt;

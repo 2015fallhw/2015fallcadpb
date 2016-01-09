@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323229 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-12T12:00:00+08:00</updated><entry><title>2015 計算機程式 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-12T12:00:00+08:00</updated><author><name>40323229@gm.nfu.edu.tw</name></author><id>tag:coursemdetw.github.io,2015-10-12:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323229 CADPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-09T12:00:00+08:00</updated><entry><title>2016 計算機程式 w15</title><link href="http://coursemdetw.github.io/reveal/2016cp_hw_w15.html" rel="alternate"></link><updated>2016-01-09T12:00:00+08:00</updated><author><name>40323229@gm.nfu.edu.tw</name></author><id>tag:coursemdetw.github.io,2016-01-09:reveal/2016cp_hw_w15.html</id><summary type="html">&lt;p&gt;以下為w15內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest15.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest15.html" target="_blank"&gt;w15投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;影片:&lt;/p&gt;
+&lt;p&gt;用Onshape做零件組合
+&lt;iframe src="https://player.vimeo.com/video/150593706" width="500" height="241" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150593706"&gt;錄製_2016_01_03_23_52_57_196&lt;/a&gt; from &lt;a href="https://vimeo.com/user45634325"&gt;YuChen  Gao&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 計算機程式 w14</title><link href="http://coursemdetw.github.io/reveal/2016cp_hw_w14.html" rel="alternate"></link><updated>2016-01-08T12:00:00+08:00</updated><author><name>40323229@gm.nfu.edu.tw</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2016cp_hw_w14.html</id><summary type="html">&lt;p&gt;以下為w14內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest14.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest14.html" target="_blank"&gt;w14投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;影片:&lt;/p&gt;
+&lt;p&gt;所有零件組合 組合到後面有些問題
+&lt;iframe src="https://player.vimeo.com/video/150598486" width="500" height="265" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150598486"&gt;錄製_2016_01_04_01_35_42_318&lt;/a&gt; from &lt;a href="https://vimeo.com/user45634325"&gt;YuChen  Gao&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 計算機程式 w13</title><link href="http://coursemdetw.github.io/reveal/2016cp_hw_w13.html" rel="alternate"></link><updated>2016-01-07T12:00:00+08:00</updated><author><name>40323229@gm.nfu.edu.tw</name></author><id>tag:coursemdetw.github.io,2016-01-07:reveal/2016cp_hw_w13.html</id><summary type="html">&lt;p&gt;以下為w13內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest13.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest13.html" target="_blank"&gt;w13投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;影片:&lt;/p&gt;
+&lt;p&gt;零件adjuster繪製
+&lt;iframe src="https://player.vimeo.com/video/151219726" width="500" height="264" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/151219726"&gt;零件adjuster&lt;/a&gt; from &lt;a href="https://vimeo.com/user45634325"&gt;YuChen  Gao&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件connection繪製
+&lt;iframe src="https://player.vimeo.com/video/151219870" width="500" height="265" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/151219870"&gt;零件connection&lt;/a&gt; from &lt;a href="https://vimeo.com/user45634325"&gt;YuChen  Gao&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 計算機程式 w12</title><link href="http://coursemdetw.github.io/reveal/2016cp_hw_w12.html" rel="alternate"></link><updated>2016-01-06T12:00:00+08:00</updated><author><name>40323229@gm.nfu.edu.tw</name></author><id>tag:coursemdetw.github.io,2016-01-06:reveal/2016cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為w12內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest12.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest12.html" target="_blank"&gt;w12投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;影片:&lt;/p&gt;
+&lt;p&gt;用fix讓學校電腦能夠在按Start的時候同時開啟Leo&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/151217566" width="500" height="265" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/151217566"&gt;fix安裝leo&lt;/a&gt; from &lt;a href="https://vimeo.com/user45634325"&gt;YuChen  Gao&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 計算機程式 w11</title><link href="http://coursemdetw.github.io/reveal/2016cp_hw_w11.html" rel="alternate"></link><updated>2016-01-05T12:00:00+08:00</updated><author><name>40323229@gm.nfu.edu.tw</name></author><id>tag:coursemdetw.github.io,2016-01-05:reveal/2016cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為w11內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest11.html" target="_blank"&gt;w11投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;影片:&lt;/p&gt;
+&lt;p&gt;user版本回復&lt;/p&gt;
+&lt;p&gt;1:11秒前麥克風出現問題有很大的雜音
+請先靜音到1:11秒後再開聲音&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/151216362" width="500" height="265" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/151216362"&gt;user版本回歸&lt;/a&gt; from &lt;a href="https://vimeo.com/user45634325"&gt;YuChen  Gao&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-12T12:00:00+08:00</updated><author><name>40323229@gm.nfu.edu.tw</name></author><id>tag:coursemdetw.github.io,2015-10-12:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
