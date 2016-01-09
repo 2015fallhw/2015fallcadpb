@@ -120,3 +120,8 @@ By <a href='http://2015fallhw.github.io/2015fallcadpb/user/40323231/'>40323231�
 <p><a href="https://vimeo.com/150225214">onshape40323231組合</a> from <a href="https://vimeo.com/user45497999">張立昇</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Assembly File Download link：</br><a href='https://copy.com/1XwlTVCacO00ZWIG'>Download Link</a>
+
+<br>
+<h2>onshape組合影片</h2>
+<iframe src="https://player.vimeo.com/video/150255693" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/150255693">1229</a> from <a href="https://vimeo.com/user45556148">40323236</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
