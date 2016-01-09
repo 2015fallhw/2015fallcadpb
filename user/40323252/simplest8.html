@@ -1,0 +1,51 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>電腦輔助設計與實習</h2>
+    <p>40323252-廖麒源-1/6</p>		
+</section>
+	
+<section>
+    <h2>心得</h2>
+    <p>一學期又要過了 這學期從一開始的個人作業到後來的分組作業 轉換個學習方式 對我來說這方式有助於我學習 讓同學來叮嚀你要做作業 拍影片 這整體來說我覺得是比較有效果的 所以後來這幾週的作業 我都會盡快把零件畫出來 然後組合 拍影片 交給我們組長 讓他可以順利的把組別的網頁弄好 學了幾個繪圖程式 其中我覺得組合完成後可以模擬它的做動情形這點能讓我們清楚了解一個機構它的使用方式 擺動幅度之類的 不用再去憑空想像 
+ </p>
+     <p>評分 :70分</p>
+    
+</a></section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
