@@ -37,14 +37,6 @@
 <v t="leo.20160109171206.1"><vh>@edit 2015cphww15.md</vh></v>
 </v>
 </v>
-<v t="amd.20150919114010.1"><vh>@path pelican</vh>
-<v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
-<v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
-<v t="40323250.20151102200201.1"><vh>@edit 2015cphww7.md</vh></v>
-<v t="amd.20151030003041.1"><vh>@edit 2015cphww7-1.md</vh></v>
-<v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
-</v>
-</v>
 </v>
 <v t="leo.20160109112637.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20160109112637.2"><vh>以下為投影片 ------------</vh></v>
@@ -153,9 +145,9 @@
 </v>
 </v>
 </v>
-<v t="leo.20160109171419.1" a="E"><vh>@clean simplest15.html</vh>
+<v t="leo.20160109171419.1"><vh>@clean simplest15.html</vh>
 <v t="leo.20160109171419.2"><vh>檔案說明</vh></v>
-<v t="leo.20160109171419.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160109171419.3"><vh>html 標註</vh>
 <v t="leo.20160109171419.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160109171419.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160109171419.6" a="E"><vh>div class="slides"</vh>
@@ -268,12 +260,10 @@ pelican pelican -o ./../ -s publishconf.py
 
 也就是 index.html 是由 pelican 控制</t>
 <t tx="amd.20150919113957.1"></t>
-<t tx="amd.20150919114010.1"></t>
 <t tx="amd.20150919124128.1">@language python
 import os
 os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
 g.es("user pelican 執行完畢")</t>
-<t tx="amd.20151006113136.1"></t>
 <t tx="amd.20151007224830.1">安裝
 
 sudo pip3 install jupyter
