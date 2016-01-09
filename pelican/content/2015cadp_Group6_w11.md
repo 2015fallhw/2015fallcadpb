@@ -50,10 +50,10 @@ Summary: 第六組第十一週工作報告<br />
  <font face="標楷體" color="#FF0000" size="5">Part_3 : Base </font>- by<a href='user/40323254/'>40323254</a>
 <br>
 <br>
- <img src="https://copy.com/T7VYLM0MVBWgyfO1"width="600"height="600">
-<br>
-<br>
  <p align="left"><a href="https://copy.com/dexQEV6UZ2tZl3dW">Base.prt</a>
+<br>
+<br>
+ <img src="https://copy.com/T7VYLM0MVBWgyfO1"width="600"height="600">
 <br>
 <br>
  <iframe src="https://player.vimeo.com/video/150163127" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150163127">bandicam 2015-12-28 17-05-37-299</a> from <a href="https://vimeo.com/user44554199">Tsai Bo Feng</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -83,6 +83,9 @@ Summary: 第六組第十一週工作報告<br />
  <font face="標楷體" color="#FF0000" size="5">Part_5 : Cylinder </font>- by<a href='user/40323254/'>40323254</a>
 <br>
 <br>
+ <p align="left"><a href="https://copy.com/zTF3r2VWSsZHzIVe">Cylinder.prt</a>
+<br>
+<br>
  <img src="https://copy.com/1h46GJjTrhXocQnN"width="300"height="300">
 <br>
 <br>
@@ -95,10 +98,10 @@ Summary: 第六組第十一週工作報告<br />
  <font face="Arial" color="#FF0000" size="5">Part_6 :Handle </font>- by<a href='user/40328245/'>40328245</a>
 <br>
 <br>
+  <p align="left"><a href="https://copy.com/jaJg7euSF2qM6scu">handle.prt</a>
+<br>
+<br>
  <img src="https://copy.com/XozVkYBMTyHqvRyg"width="600" height="600">
-<br>
-<br>
- <p align="left"><a href="https://copy.com/jaJg7euSF2qM6scu">handle.prt</a>
 <br>
 <br>  
  <script src="https://embed.github.com/view/3d/40328245/project/gh-pages/handle.stl"width="300"height="300"></script>
