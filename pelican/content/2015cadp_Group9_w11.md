@@ -33,6 +33,9 @@ Summary: 第九組第十一週工作報告<br />Nutcracker 機構
 組合-40323239
 <iframe src="https://player.vimeo.com/video/150592545" width="500" height="253" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150592545">CREO</a> from <a href="https://vimeo.com/user45596208">40323239</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
+組合-40323242
+<iframe src="https://player.vimeo.com/video/150978660" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150978660">42</a> from <a href="https://vimeo.com/user45617313">ChenFo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
 <span style="font-size:20pt;font-family:'Microsoft JhengHei';color:#0000ff"><b>HANDLE_by_40323213</b></span>
 <br>
 <img src="https://copy.com/NkKObX3viI0I0Aq8" width="500" ></img>

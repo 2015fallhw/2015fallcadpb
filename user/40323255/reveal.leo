@@ -31,11 +31,7 @@
 <v t="1.20151231114016.6"><vh>@edit 40323255_cp_w6.md</vh></v>
 <v t="1.20151231114016.7"><vh>@edit 40323255_cp_w7.md</vh></v>
 <v t="40323255.20151231163622.1"><vh>@edit 40323255_cp_w11.md</vh></v>
-<<<<<<< HEAD
-<v t="40323255.20160107001307.1"><vh>@edit 40323255_cp_w12.md</vh></v>
-=======
 <v t="leo.20160104103823.1"><vh>@edit 40323255_cp_w12.md</vh></v>
->>>>>>> 0baca4a3a1acb791ad0e386edbc3631e1236f0da
 <v t="40323255.20160104081224.1"><vh>@edit 40323255_cp_w14.md</vh></v>
 <v t="40323255.20151231163640.1"><vh>@edit 40323255_cp_w15.md</vh></v>
 </v>
@@ -140,22 +136,6 @@
 </v>
 </v>
 </v>
-<<<<<<< HEAD
-<v t="40323255.20160107001535.1" a="E"><vh>@clean 40323255_cp_w12.html</vh>
-<v t="40323255.20160107001535.2"><vh>檔案說明</vh></v>
-<v t="40323255.20160107001535.3" a="E"><vh>html 標註</vh>
-<v t="40323255.20160107001535.4" a="E"><vh>body 標註</vh>
-<v t="40323255.20160107001535.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323255.20160107001535.6" a="E"><vh>div class="slides"</vh>
-<v t="40323255.20160107001535.7"><vh>有關我的作業</vh></v>
-<v t="40323255.20160107001535.8"><vh>2</vh></v>
-<v t="40323255.20160107001535.10"><vh>4</vh></v>
-<v t="40323255.20160107001702.1"><vh>5</vh></v>
-<v t="40323255.20160107001535.11"><vh>6</vh></v>
-</v>
-</v>
-<v t="40323255.20160107001535.12"><vh>script</vh></v>
-=======
 <v t="leo.20160104103843.1" a="E"><vh>@clean 40323255_cp_w12.html</vh>
 <v t="leo.20160104103843.2"><vh>檔案說明</vh></v>
 <v t="leo.20160104103843.3" a="E"><vh>html 標註</vh>
@@ -170,7 +150,6 @@
 </v>
 </v>
 <v t="leo.20160104103843.12"><vh>script</vh></v>
->>>>>>> 0baca4a3a1acb791ad0e386edbc3631e1236f0da
 </v>
 </v>
 </v>
@@ -214,6 +193,24 @@
 <v t="40323255.20151231163723.12"><vh>script</vh></v>
 </v>
 </v>
+</v>
+</v>
+<v t="40323255.20160107115152.2" a="E"><vh>Recovered Nodes</vh>
+<v t="40323255.20160107115152.3"><vh>Recovered node "2" from @clean 40323255_cp_w6.html</vh>
+<v t="40323255.20160107115152.4"><vh>old:2</vh></v>
+<v t="40323255.20160107115152.5"><vh>new:2</vh></v>
+</v>
+<v t="40323255.20160107115152.6"><vh>Recovered node "3" from @clean 40323255_cp_w6.html</vh>
+<v t="40323255.20160107115152.7"><vh>old:3</vh></v>
+<v t="40323255.20160107115152.8"><vh>new:3</vh></v>
+</v>
+<v t="40323255.20160107115152.9"><vh>Recovered node "4" from @clean 40323255_cp_w6.html</vh>
+<v t="40323255.20160107115152.10"><vh>old:4</vh></v>
+<v t="40323255.20160107115152.11"><vh>new:4</vh></v>
+</v>
+<v t="40323255.20160107115152.12"><vh>Recovered node "5" from @clean 40323255_cp_w6.html</vh>
+<v t="40323255.20160107115152.13"><vh>old:5</vh></v>
+<v t="40323255.20160107115152.14"><vh>new:5</vh></v>
 </v>
 </v>
 </vnodes>
@@ -469,27 +466,28 @@
 </t>
 <t tx="1.20151231113932.42">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Creo Parametric操作流程(1)&lt;/h2&gt;
-    &lt;p&gt;我們第一個零件，是一個邊長都是30mm的正立方體，並且在六面的中間都給它去除直徑8mm的孔，在給邊長做圓角半徑5mm，再給孔一個導角0.5mmX0.5mm。&lt;/p&gt;
+    &lt;p&gt;我們第二個零件，是一根全長90mm的軸，這零件有兩種畫法；第一種是用引伸長料的方式，另一種方式則是使用旋轉長料的方式，而中間凹陷的地方，方法都是使用旋轉除料的方式，這零件值得注意的地方，它也是有倒角的哦，在實際零件上，導角的功用是方便配置哦。&lt;/p&gt;
     
 &lt;/section&gt;
 				
 </t>
 <t tx="1.20151231113932.43">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Creo Parametric操作流程(2)&lt;/h2&gt;
-    &lt;p&gt;我們先按下引伸，在前視圖建立草圖；在creo這套軟體，我們在繪製草圖我們必須先給草圖參照線，它才能定義在我們要的地方；在給草圖水平以及垂直的中心線，這樣等等畫矩形才能給它定義尺寸，給它一個矩形30mmX30mm，尺寸給好後按確認，給它深長30mm。&lt;/p&gt;
-    
+    &lt;p&gt;第一種畫法：引伸&lt;/p&gt;
+    &lt;p&gt;首先，我們點選引伸，選擇右側視圖，畫一個圓直徑8mm，長料90mm，再用引伸的方式，一樣在右側視圖，畫一個圓直徑12mm，伸長70mm；點選旋轉，轉至前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="1.20151231113932.44">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Creo Parametric操作流程(3)&lt;/h2&gt;
-    &lt;p&gt;在一次做引伸，不過這次是引伸除料，再矩形中心畫直徑8mm的圓孔，選擇貫穿除料，同樣的動作在其他面進行，完成後，就會有六個圓孔；在選擇導圓角，尺寸5mm在每個邊線進行，最後要在圓孔上進行導角，尺寸為0.5mmX0.5mm，第一個零件就完成了。&lt;/p&gt;
+    &lt;p&gt;第二種畫法：旋轉&lt;/p&gt;
+    &lt;p&gt;首先，我們點選旋轉，選擇前視圖，依照它軸的形狀，畫完之後，旋轉長料，軸就完成了；再點選旋轉，一樣在前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="1.20151231113932.45">&lt;section&gt;
     &lt;h2&gt;心得及自評分數&lt;/h2&gt;
-    &lt;p&gt;剛接觸Creo，對於它的界面有點不熟悉，因為我平常都是使用SoildWorks，但是視角的觀念、畫圖的觀念，基本上都是一樣的，所以在畫一段時間，一定可以使用Creo畫出其他的東西的。 &lt;/p&gt;
+    &lt;p&gt;Creo這套軟體越畫越有心得，同一種零件，我們不一定要使用同一種方式才畫得出來，就看我們怎麼利用它的功能而已，尤其對於有學過其他繪圖軟體的人，很容易就上手了。 &lt;/p&gt;
     &lt;p&gt;自評分數：80 &lt;/p&gt;
 
 &lt;/section&gt;
@@ -939,107 +937,105 @@ g.es("user pelican 執行完畢")</t>
 &lt;/section&gt;
 				
 </t>
-<t tx="40323255.20160107001535.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="40323255.20160107001535.10">&lt;&lt; header &gt;&gt;
-&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;下載可攜環境 (Leo-Editor)&lt;/h2&gt;
-    &lt;p&gt;到Google搜尋leo-editor github，下載leo-editor-broke-abbrev的壓縮檔，下載完之後不必解壓縮，直接複製到Ana3_2015裡面的data。&lt;/p&gt;
+<t tx="40323255.20160107115152.10">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(3)&lt;/h2&gt;
+    &lt;p&gt;在一次做引伸，不過這次是引伸除料，再矩形中心畫直徑8mm的圓孔，選擇貫穿除料，同樣的動作在其他面進行，完成後，就會有六個圓孔；在選擇導圓角，尺寸5mm在每個邊線進行，最後要在圓孔上進行導角，尺寸為0.5mmX0.5mm，第一個零件就完成了。&lt;/p&gt;
 &lt;/section&gt;
-	
-&lt;/section&gt;				
 				
 </t>
-<t tx="40323255.20160107001535.11">&lt;&lt; header &gt;&gt;
-&lt;section&gt;
+<t tx="40323255.20160107115152.11">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(3)&lt;/h2&gt;
+    &lt;p&gt;第二種畫法：旋轉&lt;/p&gt;
+    &lt;p&gt;首先，我們點選旋轉，選擇前視圖，依照它軸的形狀，畫完之後，旋轉長料，軸就完成了；再點選旋轉，一樣在前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20160107115152.12">(uncached) 1.20151231113932.45
+Diff...
+  &lt;section&gt;
+      &lt;h2&gt;心得及自評分數&lt;/h2&gt;
+-     &lt;p&gt;Creo這套軟體越畫越有心得，同一種零件，我們不一定要使用同一種方式才畫得出來，就看我們怎麼利用它的功能而已，尤其對於有學過其他繪圖軟體的人，很容易就上手了。 &lt;/p&gt;
++     &lt;p&gt;剛接觸Creo，對於它的界面有點不熟悉，因為我平常都是使用SoildWorks，但是視角的觀念、畫圖的觀念，基本上都是一樣的，所以在畫一段時間，一定可以使用Creo畫出其他的東西的。 &lt;/p&gt;
+      &lt;p&gt;自評分數：80 &lt;/p&gt;
+  
+  &lt;/section&gt;
+  				
+</t>
+<t tx="40323255.20160107115152.13">&lt;section&gt;
     &lt;h2&gt;心得及自評分數&lt;/h2&gt;
-    &lt;p&gt;一開始覺得copy所有檔案，檔案太大所以很懶得去複製，之後發現只要複製一部份，再加上可攜環境，只要上課前花個幾分鐘，就可以跟正常一樣運行了。&lt;/p&gt;
+    &lt;p&gt;剛接觸Creo，對於它的界面有點不熟悉，因為我平常都是使用SoildWorks，但是視角的觀念、畫圖的觀念，基本上都是一樣的，所以在畫一段時間，一定可以使用Creo畫出其他的東西的。 &lt;/p&gt;
     &lt;p&gt;自評分數：80 &lt;/p&gt;
 
 &lt;/section&gt;
-	
-&lt;/section&gt;				
 				
 </t>
-<t tx="40323255.20160107001535.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="40323255.20160107001535.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="40323255.20160107001535.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="40323255.20160107001535.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="40323255.20160107001535.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323255.20160107001535.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="40323255.20160107001535.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+<t tx="40323255.20160107115152.14">&lt;section&gt;
+    &lt;h2&gt;心得及自評分數&lt;/h2&gt;
+    &lt;p&gt;Creo這套軟體越畫越有心得，同一種零件，我們不一定要使用同一種方式才畫得出來，就看我們怎麼利用它的功能而已，尤其對於有學過其他繪圖軟體的人，很容易就上手了。 &lt;/p&gt;
+    &lt;p&gt;自評分數：80 &lt;/p&gt;
 
-&lt;&lt; header &gt;&gt;
-
-
-&lt;section&gt;
-    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;p&gt;Leo可攜環境&lt;/p&gt;
-    &lt;p&gt;四設計二乙&lt;/p&gt;	
-    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
 &lt;/section&gt;
-	
-&lt;/section&gt;				
-	
-</t>
-<t tx="40323255.20160107001535.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;下載可攜環境 (FIX)&lt;/h2&gt;
-    &lt;p&gt;必須到2015fall課程下載，然後解壓縮，將fix整個資料夾，複製到Ana3_2015裡面的data。&lt;/p&gt;
-&lt;/section&gt;
-	
-&lt;/section&gt;				
-		</t>
-<t tx="40323255.20160107001702.1">&lt;&lt; header &gt;&gt;
-&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;改變可攜環境 (SciTE)&lt;/h2&gt;
-    &lt;p&gt;打開SciTE，把fix資料夾裡面的fix.bat及start.bat丟進去SciTE，然後進去改變的步驟，就可以開啟Leo Editor。&lt;/p&gt;
-&lt;/section&gt;
-	
-&lt;/section&gt;				
 				
+</t>
+<t tx="40323255.20160107115152.2"></t>
+<t tx="40323255.20160107115152.3">(uncached) 1.20151231113932.42
+Diff...
+  &lt;section id="hw-task-one"&gt;
+      &lt;h2&gt;Creo Parametric操作流程(1)&lt;/h2&gt;
+-     &lt;p&gt;我們第二個零件，是一根全長90mm的軸，這零件有兩種畫法；第一種是用引伸長料的方式，另一種方式則是使用旋轉長料的方式，而中間凹陷的地方，方法都是使用旋轉除料的方式，這零件值得注意的地方，它也是有倒角的哦，在實際零件上，導角的功用是方便配置哦。&lt;/p&gt;
++     &lt;p&gt;我們第一個零件，是一個邊長都是30mm的正立方體，並且在六面的中間都給它去除直徑8mm的孔，在給邊長做圓角半徑5mm，再給孔一個導角0.5mmX0.5mm。&lt;/p&gt;
+      
+  &lt;/section&gt;
+  				
+</t>
+<t tx="40323255.20160107115152.4">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(1)&lt;/h2&gt;
+    &lt;p&gt;我們第一個零件，是一個邊長都是30mm的正立方體，並且在六面的中間都給它去除直徑8mm的孔，在給邊長做圓角半徑5mm，再給孔一個導角0.5mmX0.5mm。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20160107115152.5">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(1)&lt;/h2&gt;
+    &lt;p&gt;我們第二個零件，是一根全長90mm的軸，這零件有兩種畫法；第一種是用引伸長料的方式，另一種方式則是使用旋轉長料的方式，而中間凹陷的地方，方法都是使用旋轉除料的方式，這零件值得注意的地方，它也是有倒角的哦，在實際零件上，導角的功用是方便配置哦。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20160107115152.6">(uncached) 1.20151231113932.43
+Diff...
+  &lt;section id="hw-task-one"&gt;
+      &lt;h2&gt;Creo Parametric操作流程(2)&lt;/h2&gt;
+-     &lt;p&gt;第一種畫法：引伸&lt;/p&gt;
+-     &lt;p&gt;首先，我們點選引伸，選擇右側視圖，畫一個圓直徑8mm，長料90mm，再用引伸的方式，一樣在右側視圖，畫一個圓直徑12mm，伸長70mm；點選旋轉，轉至前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
++     &lt;p&gt;我們先按下引伸，在前視圖建立草圖；在creo這套軟體，我們在繪製草圖我們必須先給草圖參照線，它才能定義在我們要的地方；在給草圖水平以及垂直的中心線，這樣等等畫矩形才能給它定義尺寸，給它一個矩形30mmX30mm，尺寸給好後按確認，給它深長30mm。&lt;/p&gt;
++     
+  &lt;/section&gt;
+  				
+</t>
+<t tx="40323255.20160107115152.7">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(2)&lt;/h2&gt;
+    &lt;p&gt;我們先按下引伸，在前視圖建立草圖；在creo這套軟體，我們在繪製草圖我們必須先給草圖參照線，它才能定義在我們要的地方；在給草圖水平以及垂直的中心線，這樣等等畫矩形才能給它定義尺寸，給它一個矩形30mmX30mm，尺寸給好後按確認，給它深長30mm。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20160107115152.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;Creo Parametric操作流程(2)&lt;/h2&gt;
+    &lt;p&gt;第一種畫法：引伸&lt;/p&gt;
+    &lt;p&gt;首先，我們點選引伸，選擇右側視圖，畫一個圓直徑8mm，長料90mm，再用引伸的方式，一樣在右側視圖，畫一個圓直徑12mm，伸長70mm；點選旋轉，轉至前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20160107115152.9">(uncached) 1.20151231113932.44
+Diff...
+  &lt;section id="hw-task-one"&gt;
+      &lt;h2&gt;Creo Parametric操作流程(3)&lt;/h2&gt;
++     &lt;p&gt;在一次做引伸，不過這次是引伸除料，再矩形中心畫直徑8mm的圓孔，選擇貫穿除料，同樣的動作在其他面進行，完成後，就會有六個圓孔；在選擇導圓角，尺寸5mm在每個邊線進行，最後要在圓孔上進行導角，尺寸為0.5mmX0.5mm，第一個零件就完成了。&lt;/p&gt;
+-     &lt;p&gt;第二種畫法：旋轉&lt;/p&gt;
+-     &lt;p&gt;首先，我們點選旋轉，選擇前視圖，依照它軸的形狀，畫完之後，旋轉長料，軸就完成了；再點選旋轉，一樣在前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
+  &lt;/section&gt;
+  				
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {

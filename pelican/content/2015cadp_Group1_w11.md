@@ -76,7 +76,7 @@ src="https://copy.com/JG777R8KOqMhPd4E"width="300"height="300">
 <br>
 Part_6 : Handle<a href='user/40323216/'>40323216</a>
 <br>
-<p align="left"><a href="https://copy.com/7iGTmhww6bAaIxMn">Handle.prt</a>
+<p align="left"><a href="https://copy.com/7suRewJDhRmVZyPq">Handle.prt</a>
 <br>
 <img
 src="https://copy.com/CqI806YMEkNwAmBY"width="300"height="300">
@@ -114,4 +114,8 @@ src="https://copy.com/AY9rFUigwdVx12Td"width="300"height="300">
 <p align="left"><a href="https://copy.com/Oa3thHDTurevYCMA">
 Assemble.asm</a>
 <br>
-<iframe src="https://player.vimeo.com/video/150879408" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150879408">Assemble</a> from <a href="https://vimeo.com/user44943624">Li Steven</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/150879408" width="500" height="271" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150879408">Assemble - creo</a> from <a href="https://vimeo.com/user44943624">Li Steven</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+組合影片 - <a href='user/40323216/'>40323216</a>
+<br>
+<iframe src="https://player.vimeo.com/video/151013131" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/151013131">ice_video_20160107-205946</a> from <a href="https://vimeo.com/user45183410">呂紹新</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

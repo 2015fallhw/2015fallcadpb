@@ -18,18 +18,31 @@
 </head>
 <body>
 <!-- 將整個投影片包在 "reveal" class 中 -->
+
+<!-- 出現在每一頁的 header 格式 -->
+
+<header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"></header>
+
 <div class="reveal">
 <!-- 將所有投影片包在 "slides" class 中 -->
 <div class="slides">
-<!-- 以下為投影片 -->
-<!-- 每一個 section 都代表一張投影片,  -->
-<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323239"; }</style>
+
 <section>
     <h1>四設計二乙</h1>
     <p>40323239陳信榮</p>		
 </section>
 	
-<section id="hw-task-one">
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323239"; }</style>
+
     <h1>筆記</h1>
     <p>1有一個CREO的PDF檔
     2.裡面有零件的尺寸
@@ -38,7 +51,12 @@
     <p>請參考 <a href="http://www.google.com">Google</a>
 </section>
 				
-<section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323239"; }</style>
+
     <h1>心得與自評</h1>
     <p>心得:CREO比起有先繪圖軟體比較好用，因為我常常懶得把視圖縮放，但是她會自己縮放所以我覺得比起其他的方便了那一些些，但是有先地方也是比較麻煩的。
     自評分數:75</p>

@@ -29,14 +29,16 @@
 <v t="harry.20160106223057.1"><vh>@edit 2015cp_hw_w4.md</vh></v>
 <v t="harry.20160106223104.1"><vh>@edit 2015cp_hw_w5.md</vh></v>
 <v t="harry.20160106223109.1"><vh>@edit 2015cp_hw_w12.md</vh></v>
+<v t="harry.20160107153425.1"><vh>@edit 2015cp_hw_w17.md</vh></v>
 </v>
 </v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="harry.20160106223117.1"><vh>@edit 2015cp_hw_w12.md</vh></v>
-<v t="harry.20160106223127.1"><vh>@edit 40223212_cp_w4_p.html</vh></v>
 <v t="harry.20160106223206.1"><vh>@edit 40223212_cp_w1_p.html</vh></v>
+<v t="harry.20160106223127.1"><vh>@edit 40223212_cp_w4_p.html</vh></v>
 <v t="harry.20160106223216.1"><vh>@edit 40223212_cp_w5_p.html</vh></v>
+<v t="harry.20160107154157.1"><vh>@edit 40223212_cp_w17_p.html</vh></v>
 </v>
 </vnodes>
 <tnodes>

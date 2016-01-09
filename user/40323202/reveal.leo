@@ -25,6 +25,8 @@
 <v t="leo.20151207111914.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="leo.20151203165806.1"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160109004348.1"><vh>@edit 2015cadp_final.md</vh></v>
+<v t="leo.20160109004330.1"><vh>@edit 2015cadp_w17.md</vh></v>
 <v t="leo.20160103213000.1"><vh>@edit 2015cadp_w14.md</vh></v>
 <v t="leo.20160103211749.1"><vh>@edit 2015cadp_w13.md</vh></v>
 <v t="leo.20160103203921.1"><vh>@edit 2015cadp_w12.md</vh></v>
@@ -36,7 +38,50 @@
 </v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="leo.20160103212658.1" a="E"><vh>@button open html</vh>
+<v t="leo.20160109004406.1" a="E"><vh>@button open html</vh>
+<v t="leo.20160109004406.2" a="E"><vh>@clean cadp_w17_lecture.html</vh>
+<v t="leo.20160109004406.3"><vh>檔案說明</vh></v>
+<v t="leo.20160109004406.4" a="E"><vh>html 標註</vh>
+<v t="leo.20160109004406.5" a="E"><vh>body 標註</vh>
+<v t="leo.20160109004406.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160109004406.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160109004406.8" a="E"><vh>班級</vh>
+<v t="leo.20160109004406.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160109004406.10" a="E"><vh>作業步驟</vh>
+<v t="leo.20160109004406.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160109004406.12" a="E"><vh>心得評分</vh>
+<v t="leo.20160109004406.13"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160109004406.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="leo.20160108220322.1"><vh>@button open html</vh>
+<v t="leo.20160108220322.2" a="E"><vh>@clean cadp_final_lecture.html</vh>
+<v t="leo.20160108220322.3"><vh>檔案說明</vh></v>
+<v t="leo.20160108220322.4" a="E"><vh>html 標註</vh>
+<v t="leo.20160108220322.5" a="E"><vh>body 標註</vh>
+<v t="leo.20160108220322.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160108220322.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160108220322.8" a="E"><vh>期末心得自評</vh>
+<v t="leo.20160108220322.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108220322.10" a="E"><vh>期末心得自評</vh>
+<v t="leo.20160108220322.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160108220322.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="leo.20160103212658.1"><vh>@button open html</vh>
 <v t="leo.20160103212658.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
 <v t="leo.20160103212658.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103212658.4" a="E"><vh>html 標註</vh>
@@ -59,7 +104,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103211250.1" a="E"><vh>@button open html</vh>
+<v t="leo.20160103211250.1"><vh>@button open html</vh>
 <v t="leo.20160103211250.2" a="E"><vh>@clean cadp_w13_lecture.html</vh>
 <v t="leo.20160103211250.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103211250.4" a="E"><vh>html 標註</vh>
@@ -82,7 +127,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103203745.1" a="E"><vh>@button open html</vh>
+<v t="leo.20160103203745.1"><vh>@button open html</vh>
 <v t="leo.20160103203745.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20160103203745.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103203745.4" a="E"><vh>html 標註</vh>
@@ -152,6 +197,20 @@
 <v t="leo.20151207111943.10"><vh>script</vh></v>
 </v>
 </v>
+</v>
+</v>
+<v t="leo.20160108232604.1"><vh>Recovered Nodes</vh>
+<v t="leo.20160108232604.2"><vh>Recovered node "第 16 週開始的規劃" from @clean cadp_final_lecture.html</vh>
+<v t="leo.20160108232604.3"><vh>old:第 16 週開始的規劃</vh></v>
+<v t="leo.20160108232604.4"><vh>new:第 16 週開始的規劃</vh></v>
+</v>
+<v t="leo.20160108232604.5"><vh>Recovered node "&lt;&lt; header &gt;&gt;" from @clean cadp_final_lecture.html</vh>
+<v t="leo.20160108232604.6"><vh>old:&lt;&lt; header &gt;&gt;</vh></v>
+<v t="leo.20160108232604.7"><vh>new:&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160108232604.8"><vh>Recovered node "自評 心得-" from @clean cadp_final_lecture.html</vh>
+<v t="leo.20160108232604.9"><vh>old:自評 心得-</vh></v>
+<v t="leo.20160108232604.10"><vh>new:自評 心得-</vh></v>
 </v>
 </v>
 </vnodes>
@@ -857,6 +916,360 @@ cadp w14 講課內容投影片
 &lt;/div&gt;
 </t>
 <t tx="leo.20160103212658.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323202 林姿馨&lt;/p&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+
+
+
+
+
+
+    
+    
+  </t>
+<t tx="leo.20160108220322.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20160108220322.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;期末心得自評&lt;/h1&gt;
+    
+     &lt;p&gt;自評分數:85&lt;/p&gt;
+    &lt;li&gt;這個學期學會了如何使用creo和Onshape把零件畫出來並將其所有的零件組裝出來。一開始用creo和Onshape畫零件和組裝的過程中並不是很熟練，但是一下子就可以熟練地使用，並將小組所分配的零件畫出來和把所有的零件組裝起來。並對倉儲的觀念有更進一步的了解，當做完每次的作業，會充滿成就感和充滿信心。&lt;/li&gt;    
+    
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+</t>
+<t tx="leo.20160108220322.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323202"; }&lt;/style&gt;</t>
+<t tx="leo.20160108220322.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323202"; }&lt;/style&gt;</t>
+<t tx="leo.20160108220322.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160108220322.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160108220322.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160108220322.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160108220322.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160108220322.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108220322.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108220322.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;期末心得自評&lt;/h1&gt;
+    &lt;p&gt;40323202 林姿馨&lt;/p&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+
+
+
+
+
+
+    
+    
+  </t>
+<t tx="leo.20160108232604.1"></t>
+<t tx="leo.20160108232604.10">&lt;&lt; header &gt;&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;期末心得自評&lt;/h1&gt;
+    
+     &lt;p&gt;自評分數:85&lt;/p&gt;
+    &lt;li&gt;這個學期學會了如何使用creo和Onshape把零件畫出來並將其所有的零件組裝出來。一開始用creo和Onshape畫零件和組裝的過程中並不是很熟練，但是一下子就可以熟練地使用，並將小組所分配的零件畫出來和把所有的零件組裝起來。並對倉儲的觀念有更進一步的了解，當做完每次的作業，會充滿成就感和充滿信心。&lt;/li&gt;    
+    
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+</t>
+<t tx="leo.20160108232604.2">(uncached) leo.20160108224748.8
+Diff...
+  &lt;!-- 以下為投影片 --&gt;
+  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+  &lt;&lt; header &gt;&gt;
+  
+      &lt;section&gt;
+      &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+-     &lt;h1&gt;期末心得自評&lt;/h1&gt;
+?           --
++     &lt;h1&gt;期末自評&lt;/h1&gt;
+-     &lt;p&gt;40323202 林姿馨&lt;/p&gt;
++     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+      &lt;/section&gt;
+      
+- &lt;/section&gt;
+?           -
++  &lt;/section&gt;? +
+- 
+- 
+- 
+- 
+- 
+- 
+-     
+-     
+-   
+- &lt;!-- 以下為投影片 --&gt;
+- &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+- &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+</t>
+<t tx="leo.20160108232604.3">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;期末自評&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+    
+ &lt;/section&gt;</t>
+<t tx="leo.20160108232604.4">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;期末心得自評&lt;/h1&gt;
+    &lt;p&gt;40323202 林姿馨&lt;/p&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+
+
+
+
+
+
+    
+    
+  
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+</t>
+<t tx="leo.20160108232604.5">(uncached) leo.20160108224748.11
+Diff...
+  &lt;section data-state="header1"&gt;
+  &lt;style&gt;.header1 header:after { 
+  display: block;
+  white-space: pre;
+- content: "課程: 電腦輔助設計實習B 學號: 40323202"; }&lt;/style&gt;
+?                                    ^            -
++ content: "課程: 電腦輔助設計實習B\A 學號: 40323205"; }&lt;/style&gt;?                        ++            ^
+</t>
+<t tx="leo.20160108232604.6">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B\A 學號: 40323205"; }&lt;/style&gt;</t>
+<t tx="leo.20160108232604.7">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323202"; }&lt;/style&gt;
+</t>
+<t tx="leo.20160108232604.8">(uncached) leo.20160108224748.10
+Diff...
+  &lt;&lt; header &gt;&gt;
+  
+- &lt;section&gt;
+-     &lt;h1&gt;期末心得自評&lt;/h1&gt;
+?         ----
++     &lt;h1&gt;自評分數：75分&lt;/h1&gt;
+?           ++++++
++     &lt;p&gt;這學期學習到的python及github的觀念又更新增的一層，&lt;/br&gt;在課堂上學習到的，跟回家所做的作業，&lt;/br&gt;又讓我對程式語言更感興趣了一點。&lt;/br&gt;在這學期還是有一些問題沒有解決，&lt;/br&gt;譬如：班上協同的leo錯誤了不知道該怎麼去解決，&lt;/br&gt;只能依靠比較厲害的同學來處理。&lt;/br&gt;但這讓我在做協同倉儲時清楚明白，&lt;/br&gt;應該要先在自己的個人倉儲push看看，&lt;/br&gt;如沒有錯誤，再一次推上班上的協同倉儲，&lt;/br&gt;減少自己麻煩，也不要帶給別人麻煩。&lt;/p&gt;
+-     
+-      &lt;p&gt;自評分數:85&lt;/p&gt;
+-     &lt;li&gt;這個學期學會了如何使用creo和Onshape把零件畫出來並將其所有的零件組裝出來。一開始用creo和Onshape畫零件和組裝的過程中並不是很熟練，但是一下子就可以熟練地使用，並將小組所分配的零件畫出來和把所有的零件組裝起來。並對倉儲的觀念有更進一步的了解，當做完每次的作業，會充滿成就感和充滿信心。&lt;/li&gt;    
+-     
+-     &lt;/ol&gt;		
+-     &lt;/section&gt;
+      
+  &lt;/section&gt;
++ 				
+</t>
+<t tx="leo.20160108232604.9">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;自評分數：75分&lt;/h1&gt;
+    &lt;p&gt;這學期學習到的python及github的觀念又更新增的一層，&lt;/br&gt;在課堂上學習到的，跟回家所做的作業，&lt;/br&gt;又讓我對程式語言更感興趣了一點。&lt;/br&gt;在這學期還是有一些問題沒有解決，&lt;/br&gt;譬如：班上協同的leo錯誤了不知道該怎麼去解決，&lt;/br&gt;只能依靠比較厲害的同學來處理。&lt;/br&gt;但這讓我在做協同倉儲時清楚明白，&lt;/br&gt;應該要先在自己的個人倉儲push看看，&lt;/br&gt;如沒有錯誤，再一次推上班上的協同倉儲，&lt;/br&gt;減少自己麻煩，也不要帶給別人麻煩。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160109004406.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20160109004406.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;步驟說明&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;利用solvwspace計算出機構的最大運動範圍和最小運動範圍&lt;/li&gt;    
+    
+    &lt;/ol&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+</t>
+<t tx="leo.20160109004406.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323202"; }&lt;/style&gt;</t>
+<t tx="leo.20160109004406.12">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;心得評分&lt;/h1&gt;
+    &lt;p&gt;自評分數:75&lt;/p&gt;
+    &lt;p&gt;這週的作業是這學期最後一週的作業了，利用了之前學的solvwspace來計算出機構的運動範圍。完成了這週的作業也代表這學期告一個段落了，很高興自己這學期學會了許多許多東西，所以要繼續加油。
+
+&lt;/p&gt;
+        
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160109004406.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323202"; }&lt;/style&gt;</t>
+<t tx="leo.20160109004406.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160109004406.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160109004406.3">&lt;!--
+cadp w17 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160109004406.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W17 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160109004406.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160109004406.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160109004406.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160109004406.8">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
