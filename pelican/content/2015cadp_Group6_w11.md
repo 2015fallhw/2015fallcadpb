@@ -38,7 +38,7 @@ Summary: 第六組第十一週工作報告<br />
  <img src="https://copy.com/Wyq4KTtqpuU2Cvf8"width="300"height="300">
 <br>
 <br>
- <script src="https://embed.github.com/view/3d//2015fallhw/2015fallcadpb/gh-pages/user/40223212/project/adjuster.stl"width="300"height="300"></script>
+ <script src="https://embed.github.com/view/3d//2015fallhw/2015fallcadpb/gh-pages/user/40223212/project/adjuster.stl"width="600"height="600"></script>
 <br>
 <br>
  <iframe src="https://player.vimeo.com/video/150897691" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150897691">adjuster</a> from <a href="https://vimeo.com/user45258346">何師誠</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -50,7 +50,7 @@ Summary: 第六組第十一週工作報告<br />
  <font face="標楷體" color="#FF0000" size="5">Part_3 : Base </font>- by<a href='user/40323254/'>40323254</a>
 <br>
 <br>
- <img src="https://copy.com/T7VYLM0MVBWgyfO1"width="300"height="300">
+ <img src="https://copy.com/T7VYLM0MVBWgyfO1"width="600"height="600">
 <br>
 <br>
  <p align="left"><a href="https://copy.com/dexQEV6UZ2tZl3dW">Base.prt</a>
@@ -86,8 +86,7 @@ Summary: 第六組第十一週工作報告<br />
  <img src="https://copy.com/1h46GJjTrhXocQnN"width="300"height="300">
 <br>
 <br>
- <iframe src="https://player.vimeo.com/video/151137344" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/151137344">piston</a> from <a href="https://vimeo.com/user46488280">40328242</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+ <iframe src="https://player.vimeo.com/video/150164367" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150164367">bandicam 2015-12-28 20-17-36-604</a> from <a href="https://vimeo.com/user44554199">Tsai Bo Feng</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
  =================================================
@@ -162,7 +161,5 @@ src="https://copy.com/oFpCBHm09KB1UhbQ"width="300"height="300">
  <font face="標楷體" color="#FF0000" size="5"> Nutcracker </font>- by<a href='user/40223212/'>40223212</a>
 <br>
 <br>
- <iframe src="https://player.vimeo.com/video/147283357" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/147283357">connection.prt</a> from <a href="https://vimeo.com/user45258346">何師誠</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<br>
-<br>
+
   =================================================
