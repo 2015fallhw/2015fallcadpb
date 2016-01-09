@@ -34,6 +34,10 @@
 <v t="LEO.20151221104934.1"><vh>@edit 2015cadp_w12.md</vh></v>
 <v t="leo.20151228102406.1"><vh>@edit 2015cadp_w13.md</vh></v>
 <v t="leo.20151228112220.1"><vh>@edit 2015cadp_w14.md</vh></v>
+<v t="leo.20160104101243.1"><vh>@edit 2015cadp_w15.md</vh></v>
+<v t="leo.20160104102912.1"><vh>@edit 2015cadp_w16.md</vh></v>
+<v t="leo.20160104104822.1"><vh>@edit 2015cadp_w17.md</vh></v>
+<v t="leo.20160107133737.1"><vh>@edit 2015cadp_all.md</vh></v>
 </v>
 </v>
 </v>
@@ -197,6 +201,95 @@
 </v>
 </v>
 <v t="leo.20151228112835.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="leo.20160104101716.1"><vh>@button open htm1</vh>
+<v t="leo.20160104101716.2" a="E"><vh>@clean cadp_w15_lecture.html</vh>
+<v t="leo.20160104101716.3"><vh>檔案說明</vh></v>
+<v t="leo.20160104101716.4" a="E"><vh>html 標註</vh>
+<v t="leo.20160104101716.5" a="E"><vh>body 標註</vh>
+<v t="leo.20160104101716.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160104101716.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160104101716.8" a="E"><vh>第 15 週開始的規劃</vh>
+<v t="leo.20160104101716.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104101716.10" a="E"><vh>header 測試</vh>
+<v t="leo.20160104101716.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104101716.12" a="E"><vh>第15週自評與心得</vh>
+<v t="leo.20160104101716.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160104101716.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="leo.20160104103122.1"><vh>@button open htm1</vh>
+<v t="leo.20160104103122.2" a="E"><vh>@clean cadp_w16_lecture.html</vh>
+<v t="leo.20160104103122.3"><vh>檔案說明</vh></v>
+<v t="leo.20160104103122.4" a="E"><vh>html 標註</vh>
+<v t="leo.20160104103122.5" a="E"><vh>body 標註</vh>
+<v t="leo.20160104103122.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160104103122.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160104103122.8" a="E"><vh>第 16 週開始的規劃</vh>
+<v t="leo.20160104103122.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104103122.10" a="E"><vh>header 測試</vh>
+<v t="leo.20160104103122.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104103122.12" a="E"><vh>第16週自評與心得</vh>
+<v t="leo.20160104103122.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160104103122.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="leo.20160104105231.1"><vh>@button open htm1</vh>
+<v t="leo.20160104105231.2" a="E"><vh>@clean cadp_w17_lecture.html</vh>
+<v t="leo.20160104105231.3"><vh>檔案說明</vh></v>
+<v t="leo.20160104105231.4" a="E"><vh>html 標註</vh>
+<v t="leo.20160104105231.5" a="E"><vh>body 標註</vh>
+<v t="leo.20160104105231.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160104105231.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160104105231.8" a="E"><vh>第 17 週開始的規劃</vh>
+<v t="leo.20160104105231.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104105231.10" a="E"><vh>header 測試</vh>
+<v t="leo.20160104105231.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104105231.12" a="E"><vh>第17週自評與心得</vh>
+<v t="leo.20160104105231.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160104105231.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="leo.20160107134017.1" a="E"><vh>@button open htm1</vh>
+<v t="leo.20160107134017.2" a="E"><vh>@clean cadp_all_lecture.html</vh>
+<v t="leo.20160107134017.3"><vh>檔案說明</vh></v>
+<v t="leo.20160107134017.4" a="E"><vh>html 標註</vh>
+<v t="leo.20160107134017.5" a="E"><vh>body 標註</vh>
+<v t="leo.20160107134017.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160107134017.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160107134017.8" a="E"><vh>學期自評</vh>
+<v t="leo.20160107134017.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160107134017.10" a="E"><vh>header 測試</vh>
+<v t="leo.20160107134017.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160107134017.14"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -1079,6 +1172,419 @@ cadp w12 講課內容投影片
 	
 </t>
 <t tx="leo.20151228112835.9">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104101716.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20160104101716.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業說明&lt;/h1&gt;
+    &lt;p&gt;目的:利用線上的繪圖軟體onshape畫出之前利用creo畫的零件。
+    &lt;br&gt;handle:先點草繪，然後選要畫的面，轉正視圖，畫一正方形開始長料，再依同步驟畫圓形長料，然後鑽孔。
+    &lt;br&gt;hinge:和handle大同小異，只需畫出自己需要的形狀，再改尺寸然後長料鑽孔即可。&lt;/p&gt;
+    
+&lt;/section&gt;
+    </t>
+<t tx="leo.20160104101716.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104101716.12">&lt;&lt; header &gt;&gt;
+    &lt;h1&gt;自評及感想&lt;/h1&gt;
+    &lt;p&gt;自評分數:65 
+    &lt;br&gt;感想:這是第一次用這個軟體，感覺新奇可是在操作過程中很卡因為會有之前使用其他軟體的繪圖習慣，加上對這個軟體很不熟，後來在拍影片之前多操作練習了幾次，發現其實也還不錯用，就是熟練度的部分需加強。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20160104101716.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104101716.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160104101716.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160104101716.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160104101716.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W13 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160104101716.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160104101716.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160104101716.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160104101716.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 15 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160104101716.9">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104103122.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20160104103122.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業說明&lt;/h1&gt;
+    &lt;p&gt;目的:把零件用onshape組合
+    &lt;br&gt;群組中的一人建立大家可共用的部分&lt;br&gt;確認可以和隊員共用零件
+    &lt;br&gt;從基底部分組合，利用軸對軸和面貼面的限制條件加以思考並組合出整體。&lt;/p&gt;
+    
+&lt;/section&gt;
+    </t>
+<t tx="leo.20160104103122.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104103122.12">&lt;&lt; header &gt;&gt;
+    &lt;h1&gt;自評及感想&lt;/h1&gt;
+    &lt;p&gt;自評分數:68 
+    &lt;br&gt;感想:onshape的組合比它的零件難操作出來，一開始看同學的影片操作加上自己組合其實還算可以，有點像是反覆動作，只是當要點軸時，必須要把滾輪滾到很近才容易找到對的點，感覺花費很多時間，而當我組到最後一個部分時，發現一直出現衝突，我也努力找出，可是依舊不能完成，真的覺得快崩潰，終於在我努力不放棄加上詢問同學後終於做出來。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20160104103122.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104103122.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160104103122.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160104103122.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160104103122.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W13 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160104103122.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160104103122.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160104103122.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160104103122.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 16 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160104103122.9">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105231.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20160104105231.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業說明&lt;/h1&gt;
+    &lt;p&gt;目的:利用solvespace劃出機構圖，然後找出實體操作時的限制，例如哪裡會卡住或是無法轉動，然後在onshape輸入的數值進行模擬。&lt;/p&gt;
+    
+&lt;/section&gt;
+    </t>
+<t tx="leo.20160104105231.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105231.12">&lt;&lt; header &gt;&gt;
+    &lt;h1&gt;自評及感想&lt;/h1&gt;
+    &lt;p&gt;自評分數: 70
+    &lt;br&gt;感想:這周算是總結了，把組合後的機構做總整理，也加入限制條件，再利用之前學過的solvespace輔助，所以之前學的也是很重要的，要多加練習，完成整個學期的作業覺得很開心也覺得自己多了更多學習的東西。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20160104105231.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105231.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160104105231.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160104105231.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160104105231.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W13 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160104105231.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160104105231.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160104105231.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160104105231.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 17 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160104105231.9">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160107134017.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20160107134017.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h50&gt;自評&lt;/h50&gt;
+    &lt;p&gt;自評分數:72
+    &lt;br&gt;這學期對倉儲的觀念更清楚，也更知道要幹嘛，還有使用其他軟體繪圖和組立，看著作業一周一周在自己的努力和同學幫助下漸漸完成，就覺得好開心和成就，會更激發自己完成作業的動力。&lt;/p&gt;
+    
+&lt;/section&gt;
+    </t>
+<t tx="leo.20160107134017.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160107134017.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160107134017.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160107134017.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160107134017.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W13 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160107134017.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160107134017.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160107134017.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160107134017.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;期末自評&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160107134017.9">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;

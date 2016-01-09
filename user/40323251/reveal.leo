@@ -22,22 +22,39 @@
 <v t="123.20151228115852.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="123.20151228115852.2"><vh>@button admin pelican</vh></v>
 <v t="123.20151228115852.3"><vh>@button user pelican</vh></v>
-<v t="123.20151228115852.4" a="E"><vh>@path pelican</vh>
-<v t="123.20151228115852.5"><vh>@edit publishconf.py</vh></v>
-<v t="123.20151228115852.6"><vh>@path content</vh>
-<v t="123.20151228115852.7"><vh>@edit 2015cphww7.md</vh></v>
-<v t="123.20151228115852.8"><vh>@edit 2015cphww7-1.md</vh></v>
-<v t="123.20151228115852.9"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="123.20160103232008.1" a="E"><vh>@path pelican</vh>
+<v t="123.20160103232008.2"><vh>以下為設定檔 ------------</vh></v>
+<v t="123.20160103232008.3"><vh>@edit publishconf.py</vh></v>
+<v t="123.20160103232008.4" a="E"><vh>@path content</vh>
+<v t="123.20160103232008.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="123.20160103232008.6"><vh>@edit 40323251_cp_w1.md</vh></v>
+<v t="123.20160103232008.7"><vh>@edit 40323251_cp_w1&amp;2.md</vh></v>
+<v t="123.20160103232008.8"><vh>@edit 40323251_cp_w3.md</vh></v>
+<v t="123.20160103232008.9"><vh>@edit 40323251_cp_w4.md</vh></v>
+<v t="123.20160103232008.10"><vh>@edit 40323251_cp_w5.md</vh></v>
+<v t="123.20160103232008.11"><vh>@edit 40323251_cp_w6.md</vh></v>
+<v t="123.20160103232008.12"><vh>@edit 40323251_cp_w7.md</vh></v>
+<v t="123.20160103232008.13"><vh>@edit 40323251_cp_w10.md</vh></v>
+<v t="123.20160103232008.14"><vh>@edit 40323251_cp_w11.md</vh></v>
+<v t="123.20160103232008.15"><vh>@edit 40323251_cp_w12.md</vh></v>
+<v t="123.20160103232008.16"><vh>@edit 40323251_cp_w13.md</vh></v>
+<v t="123.20160103232008.17"><vh>@edit 40323251_cp_w14.md</vh></v>
+<v t="123.20160103232008.18"><vh>@edit 40323251_cp_w15.md</vh></v>
+<v t="123.20160103232008.19"><vh>@edit 40323251_cp_w16.md</vh></v>
+<v t="123.20160103232008.20"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="123.20160103232030.1"><vh>@edit 2015cphww7-1.md</vh></v>
+<v t="123.20160103232035.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="123.20160103232040.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
 </v>
 <v t="123.20151228115856.1"><vh>以下為 reveal 投影片</vh>
-<v t="123.20151228115856.2"><vh>@clean simplest.html</vh>
+<v t="123.20151228115856.2" a="E"><vh>@clean simplest.html</vh>
 <v t="123.20151228115856.3"><vh>檔案說明</vh></v>
-<v t="123.20151228115856.4"><vh>html 標註</vh>
-<v t="123.20151228115856.5"><vh>body 標註</vh>
-<v t="123.20151228115856.6"><vh>div class="reveal"</vh>
-<v t="123.20151228115856.7"><vh>div class="slides"</vh>
+<v t="123.20151228115856.4" a="E"><vh>html 標註</vh>
+<v t="123.20151228115856.5" a="E"><vh>body 標註</vh>
+<v t="123.20151228115856.6" a="E"><vh>div class="reveal"</vh>
+<v t="123.20151228115856.7" a="E"><vh>div class="slides"</vh>
 <v t="123.20151228115856.8"><vh>有關我的作業</vh></v>
 <v t="123.20151228115856.9"><vh>作業任務一</vh></v>
 <v t="123.20151228115856.10"><vh>第3張投影片</vh></v>
@@ -143,7 +160,7 @@
 <v t="123.20151228115222.69" a="E"><vh>div class="slides"</vh>
 <v t="123.20151228115222.70"><vh>div class="slides"</vh></v>
 <v t="123.20151228115222.71"><vh>投影片第一頁</vh></v>
-<v t="123.20151228115222.72"><vh>投影片第二頁</vh>
+<v t="123.20151228115222.72" a="E"><vh>投影片第二頁</vh>
 <v t="123.20151228115222.73"><vh>1</vh></v>
 <v t="123.20151228115222.74"><vh>2</vh></v>
 <v t="123.20151228115222.75"><vh>3</vh></v>
@@ -259,7 +276,7 @@
 </v>
 </v>
 </v>
-<v t="123.20160103223604.1" a="E"><vh>@clean simplest14.html</vh>
+<v t="123.20160103223604.1"><vh>@clean simplest14.html</vh>
 <v t="123.20160103223604.2"><vh>檔案說明</vh></v>
 <v t="123.20160103223604.3" a="E"><vh>html 標註</vh>
 <v t="123.20160103223604.4" a="E"><vh>body 標註</vh>
@@ -270,7 +287,6 @@
 <v t="123.20160103223604.9" a="E"><vh>投影片第二頁</vh>
 <v t="123.20160103223604.10"><vh>1</vh></v>
 <v t="123.20160103223604.11"><vh>2</vh></v>
-<v t="123.20160103223604.12"><vh>3</vh></v>
 </v>
 <v t="123.20160103223604.13"><vh>第十四週作業心得</vh></v>
 <v t="123.20160103223604.14"><vh>第十四週自評</vh></v>
@@ -290,8 +306,6 @@
 <v t="123.20160103223606.8"><vh>投影片第一頁</vh></v>
 <v t="123.20160103223606.9" a="E"><vh>投影片第二頁</vh>
 <v t="123.20160103223606.10"><vh>1</vh></v>
-<v t="123.20160103223606.11"><vh>2</vh></v>
-<v t="123.20160103223606.12"><vh>3</vh></v>
 </v>
 <v t="123.20160103223606.13"><vh>第十五週作業心得</vh></v>
 <v t="123.20160103223606.14"><vh>第十五週自評</vh></v>
@@ -309,39 +323,19 @@
 <v t="123.20160103223618.6" a="E"><vh>div class="slides"</vh>
 <v t="123.20160103223618.7"><vh>div class="slides"</vh></v>
 <v t="123.20160103223618.8"><vh>投影片第一頁</vh></v>
-<v t="123.20160103223618.9" a="E"><vh>投影片第二頁</vh>
-<v t="123.20160103223618.10"><vh>1</vh></v>
-<v t="123.20160103223618.11"><vh>2</vh></v>
-<v t="123.20160103223618.12"><vh>3</vh></v>
+<v t="123.20160104030349.1" a="E"><vh>投影片第二頁</vh>
+<v t="123.20160104030349.2"><vh>1</vh></v>
+<v t="123.20160104030349.3"><vh>2</vh></v>
+<v t="123.20160104030349.4"><vh>3</vh></v>
+<v t="123.20160104030416.2"><vh>4</vh></v>
+<v t="123.20160104030416.3"><vh>5</vh></v>
+<v t="123.20160104030416.4"><vh>6</vh></v>
 </v>
-<v t="123.20160103223618.13"><vh>第十六週作業心得</vh></v>
 <v t="123.20160103223618.14"><vh>第十六週自評</vh></v>
 </v>
 </v>
 <v t="123.20160103223618.15"><vh>script</vh></v>
 </v>
-</v>
-</v>
-<v t="123.20151228115222.94" a="E"><vh>@path pelican</vh>
-<v t="123.20151228115222.95"><vh>以下為設定檔 ------------</vh></v>
-<v t="123.20151228115222.96"><vh>@edit publishconf.py</vh></v>
-<v t="123.20151228115222.97" a="E"><vh>@path content</vh>
-<v t="123.20151228115222.98"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="123.20151228115222.99"><vh>@edit 40323251_cp_w1.md</vh></v>
-<v t="123.20151228115222.100"><vh>@edit 40323251_cp_w1&amp;2.md</vh></v>
-<v t="123.20151228115222.101"><vh>@edit 40323251_cp_w3.md</vh></v>
-<v t="123.20151228115222.102"><vh>@edit 40323251_cp_w4.md</vh></v>
-<v t="123.20151228115222.103"><vh>@edit 40323251_cp_w5.md</vh></v>
-<v t="123.20151228115222.104"><vh>@edit 40323251_cp_w6.md</vh></v>
-<v t="123.20151228115222.105"><vh>@edit 40323251_cp_w7.md</vh></v>
-<v t="123.20160103203628.1"><vh>@edit 40323251_cp_w10.md</vh></v>
-<v t="123.20160103203629.1"><vh>@edit 40323251_cp_w11.md</vh></v>
-<v t="123.20160103203630.1"><vh>@edit 40323251_cp_w12.md</vh></v>
-<v t="123.20160103203632.1"><vh>@edit 40323251_cp_w13.md</vh></v>
-<v t="123.20160103203634.1"><vh>@edit 40323251_cp_w14.md</vh></v>
-<v t="123.20160103203650.1"><vh>@edit 40323251_cp_w15.md</vh></v>
-<v t="123.20160103204523.1"><vh>@edit 40323251_cp_w16.md</vh></v>
-<v t="123.20151228115222.106"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
 </v>
@@ -1069,10 +1063,6 @@
 &lt;/script&gt;
 	
 </t>
-<t tx="123.20151228115222.94"></t>
-<t tx="123.20151228115222.95"></t>
-<t tx="123.20151228115222.97"></t>
-<t tx="123.20151228115222.98"></t>
 <t tx="123.20151228115841.1"></t>
 <t tx="123.20151228115841.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1186,8 +1176,6 @@ g.es("admin pelican 執行完畢")</t>
 import os
 os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
 g.es("user pelican 執行完畢")</t>
-<t tx="123.20151228115852.4"></t>
-<t tx="123.20151228115852.6"></t>
 <t tx="123.20151228115856.1"></t>
 <t tx="123.20151228115856.10">&lt;section&gt;
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
@@ -1732,36 +1720,29 @@ g.es("user pelican 執行完畢")</t>
 <t tx="123.20160103223604.10">&lt;section&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     
-    &lt;p align="left"&gt;(1) http://conda.pydata.org/miniconda.html &lt;/p&gt;
+    &lt;p align="left"&gt;(1) Creo可另存零件為stl檔 &lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;(2) python3.5 (64bit) &lt;/p&gt;
+    &lt;p align="left"&gt;(2) stl檔上傳到github &lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;(3)conda install pip &lt;/p&gt;
+    &lt;p align="left"&gt;(3)在github會顯示立體圖 &lt;/p&gt;
     &lt;br&gt;
 &lt;/section&gt;
 	
 </t>
 <t tx="123.20160103223604.11">&lt;section&gt;
-    &lt;p align="left"&gt;(4)pip install pelican Markdown &lt;/p&gt;
+    &lt;p align="left"&gt;(4)github有一個raw鍵 &lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;(5)conda install pyqt &lt;/p&gt;
+    &lt;p align="left"&gt;(5)複製網址 &lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;(6)pip install  &lt;/p&gt;
+    &lt;p align="left"&gt;(6)使用老師課程中的語法  &lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;(7)conda install anaconda-client &lt;/p&gt;
-    &lt;br&gt;
-&lt;/section&gt;
-</t>
-<t tx="123.20160103223604.12">&lt;section&gt;
-
-    &lt;p align="left"&gt;(8)conda install jupyter &lt;/p&gt;
+    &lt;p align="left"&gt;(7)在網頁上就能顯示360度零件圖 &lt;/p&gt;
     &lt;br&gt;
 &lt;/section&gt;
-				
 </t>
 <t tx="123.20160103223604.13">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;第十四週作業心得&lt;/h2&gt;
-    &lt;p&gt;之前的使用工具都是由老師提供給我們的，可是工具的版本會不斷的更新，因此我們不能只依賴老師提供新版本給我們，要自己學習如何更新工具的版本，學會自主管理。
+    &lt;p&gt;老師在課堂上的講解很清楚，在這次的課程中，很快就能將零件以360度的方式呈現在網頁中，不過在儲存零件時，有一點要特別注意，如果沒有存成ASCII檔，會沒辦法正確呈現。
     &lt;/p&gt;
     
 &lt;/section&gt;
@@ -1769,9 +1750,9 @@ g.es("user pelican 執行完畢")</t>
 </t>
 <t tx="123.20160103223604.14">&lt;section&gt;
     &lt;h2&gt;第十四週成績自評&lt;/h2&gt;
-    &lt;p&gt;第十週的課程在於讓我們自己學會打理自己使用的工具，工具會時時刻刻的更新版本，我們也要學會同步更新版本，這樣才能夠跟著時代的潮流，使用最新的工具，建立我們的專業能力，在課程上，雖然看起來操作簡單，但是其實還滿佈好弄得，有時候還會按錯，很難發現，不過在同學的幫助下還是有成功。所以我給自己65分。
+    &lt;p&gt;這周的課程相對起來比較簡單，而且老師在課程上講的也很清楚，所以進度相當快，我也利用了剩下的時間繪製其餘零件。所以我給自己70分。
     
-    評分：65
+    評分：70
     
     
 &lt;/section&gt;
@@ -1852,36 +1833,18 @@ g.es("user pelican 執行完畢")</t>
 <t tx="123.20160103223606.10">&lt;section&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     
-    &lt;p align="left"&gt;(1) http://conda.pydata.org/miniconda.html &lt;/p&gt;
+    &lt;p align="left"&gt;(1) 建立工作空間"cadpb_g2_nutcracker" &lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;(2) python3.5 (64bit) &lt;/p&gt;
+    &lt;p align="left"&gt;(2) 使用share功能分享給組員並設定權限 &lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;(3)conda install pip &lt;/p&gt;
+    &lt;p align="left"&gt;(3)組員在工作空間中要先點選Create assembly建立自己的組立空間 &lt;/p&gt;
     &lt;br&gt;
 &lt;/section&gt;
 	
 </t>
-<t tx="123.20160103223606.11">&lt;section&gt;
-    &lt;p align="left"&gt;(4)pip install pelican Markdown &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;(5)conda install pyqt &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;(6)pip install  &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;(7)conda install anaconda-client &lt;/p&gt;
-    &lt;br&gt;
-&lt;/section&gt;
-</t>
-<t tx="123.20160103223606.12">&lt;section&gt;
-
-    &lt;p align="left"&gt;(8)conda install jupyter &lt;/p&gt;
-    &lt;br&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="123.20160103223606.13">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;第十五週作業心得&lt;/h2&gt;
-    &lt;p&gt;之前的使用工具都是由老師提供給我們的，可是工具的版本會不斷的更新，因此我們不能只依賴老師提供新版本給我們，要自己學習如何更新工具的版本，學會自主管理。
+    &lt;p&gt;這週的作業要組內的組員們一起完成，一開始大家不斷的傳送零件到空間中，導致空間會當機，變得很lag，後來統一將零件由一個人傳送上去，大家再各自進行組立，就很順利了，Onshape是很不錯的網頁空間，可以在網頁上組立，而且功能也相當齊全。
     &lt;/p&gt;
     
 &lt;/section&gt;
@@ -1889,7 +1852,7 @@ g.es("user pelican 執行完畢")</t>
 </t>
 <t tx="123.20160103223606.14">&lt;section&gt;
     &lt;h2&gt;第十五週成績自評&lt;/h2&gt;
-    &lt;p&gt;第十週的課程在於讓我們自己學會打理自己使用的工具，工具會時時刻刻的更新版本，我們也要學會同步更新版本，這樣才能夠跟著時代的潮流，使用最新的工具，建立我們的專業能力，在課程上，雖然看起來操作簡單，但是其實還滿佈好弄得，有時候還會按錯，很難發現，不過在同學的幫助下還是有成功。所以我給自己65分。
+    &lt;p&gt;這週的進度是組別的進度，要組內的大家一起完成，在過程中比較困難的是約束的部分，因為約束有時候不知道要填入哪個約束才能完整的約束好，不會有干涉，除此之外並不難，也在課堂上就完成了。所以我給自己65分。
     
     評分：65
     
@@ -1969,47 +1932,9 @@ g.es("user pelican 執行完畢")</t>
 @others
 
 </t>
-<t tx="123.20160103223618.10">&lt;section&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    
-    &lt;p align="left"&gt;(1) http://conda.pydata.org/miniconda.html &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;(2) python3.5 (64bit) &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;(3)conda install pip &lt;/p&gt;
-    &lt;br&gt;
-&lt;/section&gt;
-	
-</t>
-<t tx="123.20160103223618.11">&lt;section&gt;
-    &lt;p align="left"&gt;(4)pip install pelican Markdown &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;(5)conda install pyqt &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;(6)pip install  &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;(7)conda install anaconda-client &lt;/p&gt;
-    &lt;br&gt;
-&lt;/section&gt;
-</t>
-<t tx="123.20160103223618.12">&lt;section&gt;
-
-    &lt;p align="left"&gt;(8)conda install jupyter &lt;/p&gt;
-    &lt;br&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="123.20160103223618.13">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;第十六週作業心得&lt;/h2&gt;
-    &lt;p&gt;之前的使用工具都是由老師提供給我們的，可是工具的版本會不斷的更新，因此我們不能只依賴老師提供新版本給我們，要自己學習如何更新工具的版本，學會自主管理。
-    &lt;/p&gt;
-    
-&lt;/section&gt;
-				
-</t>
 <t tx="123.20160103223618.14">&lt;section&gt;
     &lt;h2&gt;第十六週成績自評&lt;/h2&gt;
-    &lt;p&gt;第十週的課程在於讓我們自己學會打理自己使用的工具，工具會時時刻刻的更新版本，我們也要學會同步更新版本，這樣才能夠跟著時代的潮流，使用最新的工具，建立我們的專業能力，在課程上，雖然看起來操作簡單，但是其實還滿佈好弄得，有時候還會按錯，很難發現，不過在同學的幫助下還是有成功。所以我給自己65分。
+    &lt;p&gt;總結了這個學期的一些筆記，在課程中也學習了許多不同的東西，尤其是新穎的軟體以及程式，讓我對科技的演變更加欽佩，老師教的製圖軟體在方便性上真的相當強大，尤其是可以帶著跑的creo以及網頁中就能組立的Onshape等等，在這些課堂上我也學到不少，不過常常不能馬上學以致用，但是仍然會試著學習。所以我給自己65分。
     
     評分：65
     
@@ -2077,11 +2002,77 @@ g.es("user pelican 執行完畢")</t>
 &lt;/section&gt;
 	
 </t>
-<t tx="123.20160103223618.9">&lt;section&gt;
+<t tx="123.20160103232008.1"></t>
+<t tx="123.20160103232008.2"></t>
+<t tx="123.20160103232008.4"></t>
+<t tx="123.20160103232008.5"></t>
+<t tx="123.20160104030349.1">&lt;section&gt;
 &lt;p&gt;
 @others
 &lt;/p&gt;
 				&lt;/section&gt;
+				
+</t>
+<t tx="123.20160104030349.2">&lt;section&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    
+    &lt;p&gt;(1)由於學校電腦內部的資料夾少了leo的檔案，所以要去老師網站上2GB的環境載點裡面把leo的檔案複製到缺少的資料夾，然後要透過環境修改start的內容，才可以在開始環境的同時開始leo。&lt;/p&gt;
+    
+    &lt;p&gt;(2)檢查目前擁有的分支：git branch
+    建立新的分支：git branch 新分支的名字
+    切換到另外的分支：git branch 另外分支的名字&lt;/p&gt;
+    
+    &lt;p&gt;(3)切換分支過後，資料夾的內容會同步改變。&lt;/p&gt;
+    
+&lt;/section&gt;
+	
+</t>
+<t tx="123.20160104030349.3">&lt;section&gt;
+    &lt;p&gt;(4)回推分支內容時，要輸入"git push gh-pages"才會成功回推到分支。&lt;/p&gt;
+    
+    &lt;p&gt;(5)如果不輸入"git push gh-pages"會重複出現錯誤，而且會無法回推成功。&lt;/p&gt;
+    
+    &lt;p&gt;(6)Solvespace基本操作手冊在老師的網頁上有顯示，基本上按照手冊上的操作就可以了。&lt;/p&gt;
+    
+    &lt;p&gt;(7)另外，Solvespace的檔案在data資料夾的apps裡面，如果裡面沒有檔案，要到電腦教室裡面的資料夾複製。&lt;/p&gt;
+    
+&lt;/section&gt;
+</t>
+<t tx="123.20160104030349.4">&lt;section&gt;
+
+    &lt;p&gt;(8)新的分支頁面，在創立的同時會複製主頁面的檔案。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="123.20160104030416.2">&lt;section&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    
+    &lt;p align="left"&gt;(1) http://conda.pydata.org/miniconda.html &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;(2) python3.5 (64bit) &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;(3)conda install pip &lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+	
+</t>
+<t tx="123.20160104030416.3">&lt;section&gt;
+    &lt;p align="left"&gt;(4)pip install pelican Markdown &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;(5)conda install pyqt &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;(6)pip install  &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;(7)conda install anaconda-client &lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
+</t>
+<t tx="123.20160104030416.4">&lt;section&gt;
+
+    &lt;p align="left"&gt;(8)conda install jupyter &lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;
 				
 </t>
 </tnodes>
