@@ -164,5 +164,14 @@ src="https://copy.com/oFpCBHm09KB1UhbQ"width="500"height="500">
  <font face="標楷體" color="#FF0000" size="5"> Nutcracker </font>- by<a href='user/40223212/'>40223212</a>
 <br>
 <br>
-
+<font face="標楷體" color="#FF0000" size="5"> Nutcracker </font>- by<a href='user/40228245/'>40228245</a>
+<br>
+<br>
+<p align="left"><a href="https://copy.com/lQ8jgYSfkUPclISn">Nutcracker.asm</a>
+<br>
+<br>
+<iframe src="https://player.vimeo.com/video/151207756" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/151207756">nutcraker</a> from <a href="https://vimeo.com/user45396653">40328245@gm.nfu.edu.tw</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<br>
   =================================================
