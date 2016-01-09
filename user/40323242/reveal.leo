@@ -21,10 +21,10 @@
 </v>
 <v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
-<v t="leo.20160109122355.1"><vh>@path pelican</vh>
+<v t="leo.20160109122355.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20160109122355.2"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20160109122355.3"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20160109122355.4"><vh>@path content</vh>
+<v t="leo.20160109122355.4" a="E"><vh>@path content</vh>
 <v t="leo.20160109122355.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20160109122530.1"><vh>@edit 2015cphww3.md</vh></v>
 <v t="leo.20160109122534.1"><vh>@edit 2015cphww3.md</vh></v>
