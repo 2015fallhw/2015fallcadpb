@@ -19,18 +19,18 @@
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="leo.20160109112833.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20160109112833.2"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20160109112833.3"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20160109112833.4" a="E"><vh>@path content</vh>
 <v t="leo.20160109112833.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160109112833.9"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="leo.20160109112833.6"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20160109112833.7"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20160109112833.8"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20160109113118.1"><vh>@edit 2015cphww11.md</vh></v>
-<v t="leo.20160109112833.9"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="leo.20160109152122.1"><vh>@edit 2015cphww12.md</vh></v>
 <v t="leo.20160109165603.1"><vh>@edit 2015cphww13.md</vh></v>
 <v t="leo.20160109170808.1"><vh>@edit 2015cphww14.md</vh></v>
@@ -38,7 +38,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160109112637.1" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="leo.20160109112637.1"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20160109112637.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20160109112637.3"><vh>@clean simplest.html</vh>
 <v t="leo.20160109112637.4"><vh>檔案說明</vh></v>
@@ -85,7 +85,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160109150305.1"><vh>@clean simplest11.html</vh>
+<v t="leo.20160109150305.1" a="E"><vh>@clean simplest11.html</vh>
 <v t="leo.20160109150305.2"><vh>檔案說明</vh></v>
 <v t="leo.20160109150305.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160109150305.4" a="E"><vh>body 標註</vh>
