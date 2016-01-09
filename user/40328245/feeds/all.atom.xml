@@ -11,12 +11,20 @@
 
 &lt;p&gt;============================================================&lt;/p&gt;
 &lt;p&gt;十二周:在班上倉儲建立LEO檔&lt;/p&gt;
-&lt;p&gt;1.先把班上倉儲git clone&lt;/p&gt;
-&lt;p&gt;2.再把班上倉儲複製留存&lt;/p&gt;
-&lt;p&gt;3.把LEO檔複製,並移至自己倉儲內&lt;/p&gt;
-&lt;p&gt;4.更改LEO內容&lt;/p&gt;
-&lt;p&gt;5.完成&lt;/p&gt;
-&lt;p&gt;6.上傳至班上倉儲(先自行確認是否打開的了班上LEO檔案在上傳)&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1.先把班上倉儲git clone
+
+2.再把班上倉儲複製留存
+
+3.把LEO檔複製,並移至自己倉儲內
+
+4.更改LEO內容
+
+5.完成
+
+6.上傳至班上倉儲(先自行確認是否打開的了班上LEO檔案在上傳)
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;============================================================&lt;/p&gt;
 &lt;p&gt;十三周: 更改fix.bat&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;1.先至班上網站下載fix壓縮檔
