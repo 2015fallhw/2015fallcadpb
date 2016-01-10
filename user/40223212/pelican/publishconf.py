@@ -29,7 +29,8 @@ LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
          ('Python', 'http://python.org/'),
          ('G6組', 'http://2015fallhw.github.io/2015fallcadpb/category/g6.html'),
          ('虎尾科大機械設計工程系 KMOL','https://vimeo.com/user24079973/videos/'),
-         ('學生40223212 主頁面','http://2015fallhw.github.io/2015fallcadpb/user/40223212/'))
+         ('學生40223212 主頁面','http://2015fallhw.github.io/2015fallcadpb/user/40223212/'),
+         ('全班的倉儲github','https://github.com/2015fallhw/2015fallcadpb'))
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
