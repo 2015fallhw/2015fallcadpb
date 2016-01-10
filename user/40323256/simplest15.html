@@ -1,0 +1,69 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+
+<!-- 出現在每一頁的 header 格式 -->
+
+<header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"></header>
+
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323256"; }</style>
+
+    <h1>四設計二乙</h1>
+    <p>40323256 錢柏辰</p>		
+</section>
+	
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323256"; }</style>
+
+    <h1>作業15</h1>
+    <p>onshape是一個讓我很驚豔的東西，它竟然是一個繪圖的"網站"而且功能完全不遜色於CAD，甚至能下線自己儲存。真的是個非常厲害的東西，發行它的公司真的是個天才。</p>
+</section>
+				
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323256"; }</style>
+
+    <h1>自評</h1>
+    <p>對於onshape的了解我認為有一定的基本，會畫圖也會組合，跟組員的配合也不錯，因此給自己的分數為80分。</p>
+</section>
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
