@@ -17,6 +17,7 @@
 <v t="amd.20151208112457.1"><vh>嘗試利用 user/9999/ 目錄下得 9999.leo 檔案來編輯外部的 md 檔案</vh></v>
 <v t="amd.20151208114351.1"><vh>必須確認執行 admin pelican button 指令的相對位置</vh></v>
 <v t="amd.20151208113652.1" a="E"><vh>@path ./../../</vh>
+<v t="amd.20160110182000.1"><vh>@edit index.html</vh></v>
 <v t="amd.20151208113324.1"><vh>@button admin pelican</vh></v>
 <v t="amd.20151209145935.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151209145943.1"><vh>@edit publishconf.py</vh></v>
