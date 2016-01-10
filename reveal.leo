@@ -135,6 +135,27 @@
 </v>
 </v>
 </v>
+<v t="40323255.20160110221654.1"><vh>@clean simplest40323255.html</vh>
+<v t="40323255.20160110221654.2"><vh>檔案說明</vh></v>
+<v t="40323255.20160110221654.3" a="E"><vh>html 標註</vh>
+<v t="40323255.20160110221654.4" a="E"><vh>body 標註</vh>
+<v t="40323255.20160110221654.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323255.20160110221654.6" a="E"><vh>div class="slides"</vh>
+<v t="40323255.20160110221654.7" a="E"><vh>封面</vh>
+<v t="40323255.20160110221654.8"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20160110221654.11" a="E"><vh>第一頁</vh>
+<v t="40323255.20160110221654.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="40323255.20160110221654.13" a="E"><vh>第二頁</vh>
+<v t="40323255.20160110221654.14"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="40323255.20160110221654.15"><vh>script</vh></v>
+</v>
+</v>
+</v>
 </v>
 <v t="amd.20151021113722.1"><vh>@path plugin</vh>
 <v t="amd.20151021113731.1"><vh>@path liquid_tags</vh>
@@ -345,6 +366,115 @@ content: "課程: 電腦輔助設計實習B \A 學號: 9999"; }&lt;/style&gt;</t
 &lt;/section&gt;
 	
 </t>
+<t tx="40323255.20160110221654.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323255.20160110221654.11">&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+
+   &lt;h3&gt;學期應用&lt;/h3&gt;
+&lt;p&gt;1.將影片用到網路上，再推到遠端。&lt;/p&gt;
+&lt;p&gt;2.更新Leo版本。&lt;/p&gt;
+&lt;p&gt;3.如何將電腦變成工作環境。 &lt;/p&gt;
+&lt;p&gt;4.協同製作核桃機的組裝(onshape)。 &lt;/p&gt;
+&lt;p&gt;5.運用Creo組裝核桃機。 &lt;/p&gt;
+&lt;p&gt;6.利用solvespace解決機構計算問題。 &lt;/p&gt;
+      
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="40323255.20160110221654.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="40323255.20160110221654.13">&lt;&lt; header &gt;&gt;
+
+      &lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;成績自評分數80分&lt;/h3&gt;
+      &lt;p&gt;這次嘗試真正的協同作業，感覺蠻特別的，大家一起為同一個產品做奮鬥的感覺，其實是很好的，包括很多不會的部分，就會特別去問同學要怎麼解決，或是為甚麼會遇到這樣的問題，可以的話希望能有多點機會，做這種協同的工作。
+    &lt;/p&gt;
+      
+    &lt;/section&gt;
+    
+&lt;/section&gt;</t>
+<t tx="40323255.20160110221654.14">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
+<t tx="40323255.20160110221654.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323255.20160110221654.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323255.20160110221654.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323255.20160110221654.4">&lt;body bgcolor="green"&gt;
+&lt;/body&gt;
+</t>
+<t tx="40323255.20160110221654.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top:15px; left: 15px; z-index:300; font-size:20px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20160110221654.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20160110221654.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;&lt; header &gt;&gt;
+
+
+    &lt;section&gt;
+    &lt;body bgcolor="green"&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323255 &lt;/p&gt;
+    &lt;p&gt; 鄭智文  &lt;/p&gt;		
+    &lt;/section&gt;
+	
+&lt;/section&gt;</t>
+<t tx="40323255.20160110221654.8">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt;</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
