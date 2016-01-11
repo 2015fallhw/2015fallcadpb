@@ -27,10 +27,12 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
          ('我的GitHub', 'https://github.com/40323243/roger2/tree/gh-pages'),
-         ('我的個人網站', 'http://40323243.github.io/roger2/'),
+         
          ('分組G5作業網站', 'http://2015fallhw.github.io/2015fallcadpb/category/g5.html'),
 
-('2015作業主頁', '../../'))
+         ('2015作業主頁', '../../'),
+
+         ('40323243 個人網站', 'http://40323243.github.io/roger2/'))
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
