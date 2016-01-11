@@ -161,9 +161,9 @@
 </v>
 </v>
 </v>
-<v t="123.20151230204240.1"><vh>@clean simplest9.html</vh>
+<v t="123.20151230204240.1" a="E"><vh>@clean simplest9.html</vh>
 <v t="123.20151230204240.2"><vh>檔案說明</vh></v>
-<v t="123.20151230204240.3"><vh>html 標註</vh>
+<v t="123.20151230204240.3" a="E"><vh>html 標註</vh>
 <v t="123.20151230204240.4" a="E"><vh>body 標註</vh>
 <v t="123.20151230204240.5" a="E"><vh>div class="reveal"</vh>
 <v t="123.20151230204240.6" a="E"><vh>div class="slides"</vh>
@@ -278,6 +278,12 @@
 <v t="123.20160109001507.2"><vh>Recovered node "第二頁" from @clean simplest9.html</vh>
 <v t="123.20160109001507.3"><vh>old:第二頁</vh></v>
 <v t="123.20160109001507.4"><vh>new:第二頁</vh></v>
+</v>
+</v>
+<v t="123.20160111094341.1" a="E"><vh>Recovered Nodes</vh>
+<v t="123.20160111094341.2"><vh>Recovered node "第二頁" from @clean simplest9.html</vh>
+<v t="123.20160111094341.3"><vh>old:第二頁</vh></v>
+<v t="123.20160111094341.4"><vh>new:第二頁</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1502,7 +1508,7 @@ Diff...
   &lt;p&gt;1.至&lt;a href="http://conda.pydata.org/miniconda.html"&gt;&lt;/a&gt;安裝python3.5&lt;br&gt;
   2.到cmd輸入指令&lt;br&gt;
   →conda install pip&lt;br&gt;
-- →pip install pelican Markdown&lt;br&gt;
+-  →pip install pelican Markdown&lt;br&gt;
 ? ^
 +  →pip install pelican Markdown&lt;br&gt;
 ? ^
@@ -1529,6 +1535,54 @@ Diff...
 				
 </t>
 <t tx="123.20160109001507.4">&lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;筆記&lt;/h3&gt;
+&lt;p&gt;1.至&lt;a href="http://conda.pydata.org/miniconda.html"&gt;&lt;/a&gt;安裝python3.5&lt;br&gt;
+2.到cmd輸入指令&lt;br&gt;
+→conda install pip&lt;br&gt;
+ →pip install pelican Markdown&lt;br&gt;
+→conda install pyqt&lt;br&gt;
+→pip uninstall leo (解除原本的leo 5.0)&lt;br&gt;
+→pip install ( github的leo檔網址 )&lt;br&gt;
+→conda install anaconda-client&lt;br&gt;
+→conda install jupyter&lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="123.20160111094341.1"></t>
+<t tx="123.20160111094341.2">(uncached) 123.20151230204240.9
+Diff...
+  &lt;section id="hw-task-one"&gt;
+        &lt;h3&gt;筆記&lt;/h3&gt;
+  &lt;p&gt;1.至&lt;a href="http://conda.pydata.org/miniconda.html"&gt;&lt;/a&gt;安裝python3.5&lt;br&gt;
+  2.到cmd輸入指令&lt;br&gt;
+  →conda install pip&lt;br&gt;
+- →pip install pelican Markdown&lt;br&gt;
+? ^
++  →pip install pelican Markdown&lt;br&gt;
+? ^
+  →conda install pyqt&lt;br&gt;
+  →pip uninstall leo (解除原本的leo 5.0)&lt;br&gt;
+  →pip install ( github的leo檔網址 )&lt;br&gt;
+  →conda install anaconda-client&lt;br&gt;
+  →conda install jupyter&lt;br&gt;
+  &lt;/section&gt;
+  				
+</t>
+<t tx="123.20160111094341.3">&lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;筆記&lt;/h3&gt;
+&lt;p&gt;1.至&lt;a href="http://conda.pydata.org/miniconda.html"&gt;&lt;/a&gt;安裝python3.5&lt;br&gt;
+2.到cmd輸入指令&lt;br&gt;
+→conda install pip&lt;br&gt;
+ →pip install pelican Markdown&lt;br&gt;
+→conda install pyqt&lt;br&gt;
+→pip uninstall leo (解除原本的leo 5.0)&lt;br&gt;
+→pip install ( github的leo檔網址 )&lt;br&gt;
+→conda install anaconda-client&lt;br&gt;
+→conda install jupyter&lt;br&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="123.20160111094341.4">&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;筆記&lt;/h3&gt;
 &lt;p&gt;1.至&lt;a href="http://conda.pydata.org/miniconda.html"&gt;&lt;/a&gt;安裝python3.5&lt;br&gt;
 2.到cmd輸入指令&lt;br&gt;
