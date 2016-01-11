@@ -237,7 +237,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107140748.1" a="E"><vh>@button open htm1</vh>
+<v t="leo.20160107140748.1"><vh>@button open htm1</vh>
 <v t="leo.20160107140748.2" a="E"><vh>@clean cadp_w17_lecture.html</vh>
 <v t="leo.20160107140748.3"><vh>檔案說明</vh></v>
 <v t="leo.20160107140748.4" a="E"><vh>html 標註</vh>
@@ -816,7 +816,6 @@ for ch in p.children():
     &lt;li&gt;繪製出一長方體並更改其尺寸&lt;/li&gt;
     &lt;li&gt;在長方體旁繪製出兩圓更改其尺寸&lt;/li&gt;
     &lt;li&gt;長料&lt;/li&gt;
-    &lt;li&gt;再畫出8個孔標註並除料&lt;/li&gt;
     &lt;/ol&gt;		
     &lt;/section&gt;
     
