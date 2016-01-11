@@ -78,7 +78,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160105150348.1"><vh>@button open html</vh>
+<v t="leo.20160105150348.1" a="E"><vh>@button open html</vh>
 <v t="leo.20160105150348.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
 <v t="leo.20160105150348.3"><vh>檔案說明</vh></v>
 <v t="leo.20160105150348.4" a="E"><vh>html 標註</vh>
@@ -371,6 +371,12 @@
 </v>
 <v t="leo.20160105144701.10"><vh>script</vh></v>
 </v>
+</v>
+</v>
+<v t="leo.20160111103738.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20160111103738.3"><vh>Recovered node "心得與自評" from @clean cadp_w14_lecture.html</vh>
+<v t="leo.20160111103738.4"><vh>old:心得與自評</vh></v>
+<v t="leo.20160111103738.5"><vh>new:心得與自評</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1422,10 +1428,10 @@ for ch in p.children():
 <t tx="leo.20160105150348.10">&lt;&lt; header &gt;&gt;
  &lt;section&gt;
     &lt;h1&gt;心得和評分&lt;/h1&gt;
-    &lt;p&gt;這次是以小組為主，繪製Nutcracker 機構，然後&lt;/p&gt;
-    &lt;p&gt;再用ONSHAPE 畫出被分配到的圖形，ONSHAPE很特&lt;/p&gt;
-    &lt;p&gt;別的事它可以在線上畫圖，非常的方便，以後我會&lt;/p&gt;
-    &lt;p&gt;善加利用ONSHAPE。&lt;/p&gt;
+    &lt;p&gt;我被分配到的圖型是零件2，繪圖是用ONSHAPE，&lt;/p&gt;
+    &lt;p&gt;雖然我以前都是用別的軟體來繪圖，但這次適用ONSHAPE，&lt;/p&gt;
+    &lt;p&gt;這對我來說一大挑戰，我很喜歡這次的作業，有讓我學到新的東西。&lt;/p&gt;
+    &lt;p&gt;自評75&lt;/p&gt;
     
 &lt;/section&gt;
 				
@@ -1434,7 +1440,8 @@ for ch in p.children():
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323246"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B \A 學號: 40323246"; }&lt;/style&gt;
+</t>
 <t tx="leo.20160105150348.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -1770,6 +1777,46 @@ cadp w12 講課內容投影片
     
 &lt;/section&gt;
 	
+</t>
+<t tx="leo.20160111103738.2"></t>
+<t tx="leo.20160111103738.3">(uncached) leo.20160105150348.10
+Diff...
+  &lt;&lt; header &gt;&gt;
+   &lt;section&gt;
+      &lt;h1&gt;心得和評分&lt;/h1&gt;
+-     &lt;p&gt;我被分配到的圖型是零件2，繪圖是用CREO，&lt;/p&gt;
+-     &lt;p&gt;雖然我以前都是用別的軟體來繪圖，但這次適用CREO，&lt;/p&gt;
+-     &lt;p&gt;這對我來說一大挑戰，我很喜歡這次的作業，有讓我學到新的東西。&lt;/p&gt;
+-     &lt;p&gt;自評65&lt;/p&gt;
++     &lt;p&gt;這次是以小組為主，繪製Nutcracker 機構，然後&lt;/p&gt;
++     &lt;p&gt;再用ONSHAPE 畫出被分配到的圖形，ONSHAPE很特&lt;/p&gt;
++     &lt;p&gt;別的事它可以在線上畫圖，非常的方便，以後我會&lt;/p&gt;
++     &lt;p&gt;善加利用ONSHAPE。&lt;/p&gt;
+      
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20160111103738.4">&lt;&lt; header &gt;&gt;
+ &lt;section&gt;
+    &lt;h1&gt;心得和評分&lt;/h1&gt;
+    &lt;p&gt;這次是以小組為主，繪製Nutcracker 機構，然後&lt;/p&gt;
+    &lt;p&gt;再用ONSHAPE 畫出被分配到的圖形，ONSHAPE很特&lt;/p&gt;
+    &lt;p&gt;別的事它可以在線上畫圖，非常的方便，以後我會&lt;/p&gt;
+    &lt;p&gt;善加利用ONSHAPE。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160111103738.5">&lt;&lt; header &gt;&gt;
+ &lt;section&gt;
+    &lt;h1&gt;心得和評分&lt;/h1&gt;
+    &lt;p&gt;我被分配到的圖型是零件2，繪圖是用CREO，&lt;/p&gt;
+    &lt;p&gt;雖然我以前都是用別的軟體來繪圖，但這次適用CREO，&lt;/p&gt;
+    &lt;p&gt;這對我來說一大挑戰，我很喜歡這次的作業，有讓我學到新的東西。&lt;/p&gt;
+    &lt;p&gt;自評65&lt;/p&gt;
+    
+&lt;/section&gt;
+				
 </t>
 </tnodes>
 </leo_file>
