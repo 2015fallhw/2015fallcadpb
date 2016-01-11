@@ -25,6 +25,7 @@
 <v t="leo.20151203165920.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="leo.20151203165806.1"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160111101710.1"><vh>@edit 2015cadp_w16.md</vh></v>
 <v t="leo.20160104211554.1"><vh>@edit 2015cadp_w14.md</vh></v>
 <v t="2015cp.20160103220057.1"><vh>@edit 2015cadp_w13.md</vh></v>
 <v t="leo.20151230172136.1"><vh>@edit 2015cadp_w12.md</vh></v>
@@ -40,7 +41,7 @@
 </v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
-<v t="leo.20160104211603.1" a="E"><vh>@button open html</vh>
+<v t="leo.20160104211603.1"><vh>@button open html</vh>
 <v t="leo.20160104211603.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
 <v t="leo.20160104211603.3"><vh>檔案說明</vh></v>
 <v t="leo.20160104211603.4" a="E"><vh>html 標註</vh>
@@ -63,7 +64,7 @@
 </v>
 </v>
 </v>
-<v t="2015cp.20160103220110.1" a="E"><vh>@button open html</vh>
+<v t="2015cp.20160103220110.1"><vh>@button open html</vh>
 <v t="2015cp.20160103220110.2"><vh>@clean cadp_w13_lecture.html</vh>
 <v t="2015cp.20160103220110.3"><vh>檔案說明</vh></v>
 <v t="2015cp.20160103220110.4" a="E"><vh>html 標註</vh>
@@ -86,7 +87,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151230172450.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151230172450.1"><vh>@button open html</vh>
 <v t="leo.20151230172450.2"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151230172450.3"><vh>檔案說明</vh></v>
 <v t="leo.20151230172450.4" a="E"><vh>html 標註</vh>
@@ -109,7 +110,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151230172441.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151230172441.1"><vh>@button open html</vh>
 <v t="leo.20151230172441.2"><vh>@clean cadp_w11_lecture.html</vh>
 <v t="leo.20151230172441.3"><vh>檔案說明</vh></v>
 <v t="leo.20151230172441.4" a="E"><vh>html 標註</vh>
