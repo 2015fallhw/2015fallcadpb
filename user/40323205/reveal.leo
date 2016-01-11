@@ -43,10 +43,10 @@
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20151203165854.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151203165854.2"><vh>檔案說明</vh></v>
-<v t="leo.20151203165854.3"><vh>html 標註</vh>
-<v t="leo.20151203165854.4"><vh>body 標註</vh>
-<v t="leo.20151203165854.5"><vh>div class="reveal"</vh>
-<v t="leo.20151203165854.6"><vh>div class="slides"</vh>
+<v t="leo.20151203165854.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151203165854.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151203165854.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151203165854.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151203165854.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151203165854.8"><vh>作業任務一</vh></v>
 <v t="leo.20151203165854.9"><vh>第3張投影片</vh></v>
