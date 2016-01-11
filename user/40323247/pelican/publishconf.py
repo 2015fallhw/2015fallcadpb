@@ -27,9 +27,9 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
          ('Python', 'http://python.org/'),
-          ('My GitHub', 'https://github.com/40323247/zongzi/tree/gh-pages'),
-          ('My 個人作業網站', 'http://40323247.github.io/zongzi/'),
-         ('G4 分組作業網站', 'http://2015fallhw.github.io/2015fallcadpb/category/g4.html'),('2015作業主頁', '../../'))
+          ('40323247 個人倉儲', 'https://github.com/40323247/zongzi/tree/gh-pages'),
+         ('G4 分組作業網站', 'http://2015fallhw.github.io/2015fallcadpb/category/g4.html'),('2015作業主頁', '../../')
+          ('40323247 個人作業', 'http://40323247.github.io/zongzi/'),)
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
