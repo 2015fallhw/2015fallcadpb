@@ -25,10 +25,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('個人倉儲網站', 'http://40323205.github.io/mdehw/'),('個人github網址', 'https://github.com/40323205/mdehw/tree/gh-pages'),('Group3_作業主頁', 'http://2015fallhw.github.io/2015fallcadpb/category/g3.html'),('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),('2015作業主頁', 'http://2015fallhw.github.io/2015fallcadpb/'))
+LINKS = (('個人github網址', 'https://github.com/40323205/mdehw/tree/gh-pages'),('Group3_作業主頁', 'http://2015fallhw.github.io/2015fallcadpb/category/g3.html'),('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),('2015作業主頁', 'http://2015fallhw.github.io/2015fallcadpb/'),('我的Youtube頻道','https://www.youtube.com/channel/UCoDOwPOEvOMWzrIZS2bkVPg/videos?view_as=public'),('40323205 個人網頁', 'http://40323205.github.io/mdehw/'))
 
 # Social widget
-SOCIAL = (('My Page', ' http://40323205.github.io/mdehw/'),('My Github', 'https://github.com/40323205/mdehw/tree/gh-pages'),('2015fallhw/2015fallcadpb', 'https://github.com/2015fallhw/2015fallcadpb/tree/gh-pages'))
+SOCIAL = (('My Page', ' http://40323205.github.io/mdehw/'),('My Github', 'https://github.com/40323205/mdehw/tree/gh-pages'),('My Youtube Channel', 'https://www.youtube.com/channel/UCoDOwPOEvOMWzrIZS2bkVPg/videos?view_as=public'),('2015fallhw/2015fallcadpb', 'https://github.com/2015fallhw/2015fallcadpb/tree/gh-pages'))
           
 DEFAULT_PAGINATION = 10
 
