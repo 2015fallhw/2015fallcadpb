@@ -199,6 +199,12 @@
 </v>
 </v>
 </v>
+<v t="leo.20160103213303.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20160103213303.3"><vh>Recovered node "作業任務一" from @clean 40323248_cp_w4.html</vh>
+<v t="leo.20160103213303.4"><vh>old:作業任務一</vh></v>
+<v t="leo.20160103213303.5"><vh>new:作業任務一</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="12.20151229181952.1"></t>
@@ -424,6 +430,7 @@ jupyter notebook
 <t tx="leo.20151230182043.4">&lt;body&gt;
 @others
 &lt;/body&gt;
+
 </t>
 <t tx="leo.20151230182043.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
@@ -443,11 +450,12 @@ jupyter notebook
     &lt;p&gt;40323248 楊承儒 &lt;br&gt;10月11日&lt;/p&gt;		
 &lt;/section&gt;
 	
-    </t>
+    
+</t>
 <t tx="leo.20151230182043.8">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest2→在切換button pelican content之後按 pelican-content 確認執行完畢→練習solvespace.exe 繪圖→練習後畫好截圖→把圖丟進資料夾images→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w4.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
 
 				
@@ -498,6 +506,7 @@ jupyter notebook
 <t tx="leo.20151230182050.4">&lt;body&gt;
 @others
 &lt;/body&gt;
+
 </t>
 <t tx="leo.20151230182050.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
@@ -517,11 +526,12 @@ jupyter notebook
     &lt;p&gt;40323248 楊承儒 &lt;br&gt;10月19日&lt;/p&gt;		
 &lt;/section&gt;
 	
-    </t>
+    
+</t>
 <t tx="leo.20151230182050.8">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest3→在切換button pelican content之後按 pelican-content 確認執行完畢→練習Creo Parametric 繪製方塊及連接桿→練習時錄製影片→並把影片上傳至vimeo→複製嵌入程式碼→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w5.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20151230182050.9">&lt;section&gt;
@@ -590,11 +600,12 @@ jupyter notebook
     &lt;p&gt;40323248 楊承儒 &lt;br&gt;11月7日&lt;/p&gt;		
 &lt;/section&gt;
 	
-    </t>
+    
+</t>
 <t tx="leo.20151230182058.8">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;p&gt; 利用 Leo Editor 摘要重點, 建立個人 Github 課程倉儲 (名稱為 2015cadpb，練習solvespace及cero parametric ,並繪製腳踏車零件 &lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w6.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20151230182058.9">&lt;section&gt;
@@ -1102,22 +1113,52 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323248 楊承儒 &lt;br&gt;12月21日&lt;/p&gt;		
+    &lt;p&gt;40323248 楊承儒 &lt;br&gt;1月4日&lt;/p&gt;		
 &lt;/section&gt;
 	
     </t>
 <t tx="leo.20151230182156.8">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;，
-      &lt;/p&gt;
+    &lt;p&gt;建立一個共同介面，名稱為b_g*_nutcracker(*為組別)，零件分工畫出，並且放入公用見面分享給組員，import所有零件，建一個組合圖 ，引入八個零件組合，並設定參數。
+&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w16.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151230182156.9">&lt;section&gt;
-    &lt;h2&gt;自評75分&lt;/h2&gt;
-    &lt;p&gt;，&lt;/p&gt;
+    &lt;h2&gt;自評80分&lt;/h2&gt;
+    &lt;p&gt;電腦輔助設計與實習課程讓我們接觸到了二個繪圖程式(solvespace和Creo)還有一個繪圖網站(Onshape),並且以分組的模式讓隊友們能各自安排各自的任務,而且互相討論及學習,操作較方便,但容易受到網路影響，這學期下來讓我們漸漸的進入協同課程,替下學期的產品協同課程做基礎,希望下學期能夠充分學習到。&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+
+				
+</t>
+<t tx="leo.20160103213303.2"></t>
+<t tx="leo.20160103213303.3">(uncached) leo.20151230182043.8
+Diff...
+  &lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;筆記&lt;/h3&gt;
+      &lt;p&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest2→在切換button pelican content之後按 pelican-content 確認執行完畢→練習solvespace.exe 繪圖→練習後畫好截圖→把圖丟進資料夾images→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
+-     &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+?                                                                       ^
++     &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w4.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+?                                                                       ^
+  &lt;/section&gt;
+  
+  				
+</t>
+<t tx="leo.20160103213303.4">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest2→在切換button pelican content之後按 pelican-content 確認執行完畢→練習solvespace.exe 繪圖→練習後畫好截圖→把圖丟進資料夾images→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w4.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
+&lt;/section&gt;
+
+				
+</t>
+<t tx="leo.20160103213303.5">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest2→在切換button pelican content之後按 pelican-content 確認執行完畢→練習solvespace.exe 繪圖→練習後畫好截圖→把圖丟進資料夾images→推回去git add -A →git commit -m "a"→git push origin gh-pages &lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://yang-cheng-ru.github.io/capd923/2015cp_hw_w1.html"&gt;Yang-Cheng-Ru&lt;/a&gt;
 &lt;/section&gt;
 
 				

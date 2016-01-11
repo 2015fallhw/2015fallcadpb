@@ -17,13 +17,18 @@
 <v t="amd.20151208112457.1"><vh>嘗試利用 user/9999/ 目錄下得 9999.leo 檔案來編輯外部的 md 檔案</vh></v>
 <v t="amd.20151208114351.1"><vh>必須確認執行 admin pelican button 指令的相對位置</vh></v>
 <v t="amd.20151208113652.1" a="E"><vh>@path ./../../</vh>
+<v t="amd.20160110182000.1"><vh>@edit index.html</vh></v>
 <v t="amd.20151208113324.1"><vh>@button admin pelican</vh></v>
 <v t="amd.20151209145935.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151209145943.1"><vh>@edit publishconf.py</vh></v>
+<v t="amd.20160110143646.1" a="E"><vh>@path content</vh>
+<v t="amd.20160110143657.1"><vh>@edit 9999_w13_1.md</vh></v>
+<v t="amd.20160110143737.1"><vh>@edit 9999_final.md</vh></v>
+</v>
 </v>
 </v>
 <v t="amd.20151208114418.1"><vh>必須確定每週的分組報告, 要放到那裏, 命名與格式為何?</vh></v>
-<v t="amd.20151208112521.1" a="E"><vh>@path ./../../pelican/content/</vh>
+<v t="amd.20151208112521.1"><vh>@path ./../../pelican/content/</vh>
 <v t="amd.20151208114252.1"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
 <v t="amd.20151208112612.1" a="E"><vh>@clean 9999_w13_1.md</vh>
 <v t="amd.20151208113025.1"><vh>其他內容</vh></v>
@@ -237,5 +242,6 @@ vertical: body pane on the botton</t>
 <t tx="amd.20151208114351.1"></t>
 <t tx="amd.20151208114418.1"></t>
 <t tx="amd.20151209145935.1"></t>
+<t tx="amd.20160110143646.1"></t>
 </tnodes>
 </leo_file>

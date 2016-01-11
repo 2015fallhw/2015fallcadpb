@@ -6,127 +6,39 @@ Slug: 2015cadpb_blog_g2_w15
 Authors: G2
 Summary: 第二組第十五週工作報告<br />Nutcracker 機構
 
+組員：<br />
+張筱萱<a href='user/40323204/'>40323204</a><br />黃婉菁<a href='user/40323206/'>40323206</a><br />李伯皇<a href='user/40323217/'>40323217</a><br />雷堯軒<a href='user/40323251/'>40323251</a><br />鄭智文<a href='user/40323255/'>40323255</a><br />陳政憲<a href='user/40323241/'>40323241</a>
+
 以下為相關工作報告資料
 <br />
 
-By 40323204
-<script src="https://embed.github.com/view/3d/hsungchang/test/blob/master/b_g2_nutcracker%20-%2040323204_nutcrack.stl"></script>
 
-
+Onshape連結:
+<a href="https://cad.onshape.com/documents/98a3ab85f5f1470b8fd94933/w/e090b0a49e7f479aa8c11451">Onshape</a>
 
 
 <span style="font-size: 20pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">Nutcracker 機構</span></strong></span>
 <br />
 <img src="https://copy.com/wXCvlymg27qCrhG8"width="550"height="450">
 
-零件NO.1   Adjuster_Base  by.40323251 
-
-<a href="https://copy.com/hgHwCB3DFB6CDjWB">零件NO.1檔案位置</a>
-<br />
-
-
-<img src="https://copy.com/Cq7j0E9GN00X6T9g"width="300"height="300">
-
-
-<p>
-<iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-</p>
-
-<script src="https://embed.github.com/view/3d/40323251/test/master/adhuster_base.stl"></script>
-
-
-零件NO.2   Adjuster  by.40323255
-
-<a href="https://copy.com/Ns3tepiUZ3bqPYWV">零件NO.2檔案位置</a>
-
-<img src="https://copy.com/FuUlr3wAhieNl3C4"width="550"height="450">
-
-<p>
-<iframe src="https://player.vimeo.com/video/150088678" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-</p>
-
-<script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/adjuster.stl"></script>
-
-零件NO.3   Base  by.40323204
-
-<a href="https://copy.com/HYuFKm9j82iMJBwC">零件NO.3檔案位置</a>
-
-<img src="https://copy.com/8ZBPUMlMFsG7lxZG"width="550"height="450">
-
-<p>
-<iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-</p>
-
-<script src="https://embed.github.com/view/3d/hsungchang/test/master/prt3.stl"></script>
-
-零件NO.4   Connection  by.40323217
-
-<a href="https://copy.com/YpVnokEJI2Lt81uB">零件NO.4檔案位置</a>
-<br />
-<p>
-<iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-</p>
-<img src="https://copy.com/UcmNgceE8mxdrsCq"width="550"height="450">
-<br / >
-<img src="https://copy.com/TPklzsECNAOjjYBk"width="550"height="450">
-<br / >
-<script src="https://embed.github.com/view/3d/Openandgit/40323217cphw/gh-pages/connection.stl"></script>
-<br / >
-<iframe src="https://player.vimeo.com/video/149553485" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-
-
-
-零件NO.5    Cylinder  by.40323206
-
-<a href="https://copy.com/wWcYaBB4Xyo7dnav">零件NO.5檔案位置</a>
-
-<img src="https://copy.com/lBGqa4W4FR1GV9io"width="550"height="450">
-
-<p>
-<iframe src="https://player.vimeo.com/video/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-</p>
-
-<script src="https://embed.github.com/view/3d/michell1995huang/test_stl_3D/master/prt5.stl"></script>
-
-
-零件NO.6   Handle  by.40323255
-
-<a href="https://copy.com/V8A0t9ySlWG8Dfpa">零件NO.6檔案位置</a>
-
-<img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450">
-
-<p>
-<iframe src="https://player.vimeo.com/video/150088928" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-</p>
-
-<script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/handle.stl"></script>
-零件NO.7   Hinge  by.40323255
-
-<a href="https://copy.com/cjXMvw0xDPncvOeg">零件NO.7檔案位置</a>
-
-<img src="https://copy.com/Ty3MxZTLeZrqpllf"width="550"height="450">
-
-<p>
-<iframe src="https://player.vimeo.com/video/150088203" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-</p>
-
-<script src="https://embed.github.com/view/3d/40323255/40323255cadp/master/hinge.stl"></script>
-零件NO.8   Piston  by.40323204 
-
-<a href="https://copy.com/VHJhcuB9n6Gey8g6">零件NO.8檔案位置</a>
-<br />
-
-<img src="https://copy.com/pzQN4TAdZ3u9byZ3"width="550"height="450">
-
-<p>
-<iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-</p>
-
-<script src="https://embed.github.com/view/3d/hsungchang/test/master/prt8.stl"></script>
 
 <span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #7A0099;">機構組裝影片</span></strong></span>
 <br />
 
+By 40323204
+
+<iframe src="https://player.vimeo.com/video/150584458" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+by.40323251
+<iframe src="https://player.vimeo.com/video/150608565" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+
+by.40323241
+<iframe src="https://player.vimeo.com/video/150593640" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+
 by.40323255
 <iframe src="https://player.vimeo.com/video/150357688" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+
+by.40323217
+<iframe src="https://player.vimeo.com/video/149553485" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+
 

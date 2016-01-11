@@ -14,7 +14,7 @@
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
@@ -36,6 +36,7 @@
 <v t="leo.20151228223512.1"><vh>@edit 40323230_cp_w12.md</vh></v>
 <v t="leo.20151228224344.1"><vh>@edit 40323230_cp_w14.md</vh></v>
 <v t="leo.20151228232923.1"><vh>@edit 40323230_cp_w15.md</vh></v>
+<v t="leo.20160102215600.1"><vh>@edit 40323230_cp_w16.md</vh></v>
 </v>
 </v>
 </v>
@@ -106,58 +107,82 @@
 </v>
 <v t="123.20151228210745.47"><vh>@clean 40323230_cp_w7.html</vh>
 <v t="123.20151228210745.48"><vh>檔案說明</vh></v>
-<v t="123.20151228210745.49"><vh>html 標註</vh>
-<v t="123.20151228210745.50"><vh>body 標註</vh>
-<v t="123.20151228210745.51"><vh>div class="reveal"</vh>
-<v t="123.20151228210745.52"><vh>div class="slides"</vh>
-<v t="123.20151228210745.53"><vh>標題</vh></v>
-<v t="123.20151228210745.54"><vh>作業任務一</vh></v>
-<v t="123.20151228210745.55"><vh>自評</vh></v>
+<v t="123.20151228210745.49" a="E"><vh>html 標註</vh>
+<v t="123.20151228210745.50" a="E"><vh>body 標註</vh>
+<v t="123.20151228210745.51" a="E"><vh>div class="reveal"</vh>
+<v t="123.20151228210745.52" a="E"><vh>div class="slides"</vh>
+<v t="123.20151228210745.53" a="E"><vh>標題</vh>
+<v t="leo.20160102213613.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="123.20151228210745.54" a="E"><vh>作業任務一</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
+<v t="123.20151228210745.55" a="E"><vh>自評</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
 </v>
 </v>
 <v t="123.20151228210745.56"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151228224659.1" a="E"><vh>@clean 40323230_cp_w10.html</vh>
+<v t="leo.20151228224659.1"><vh>@clean 40323230_cp_w10.html</vh>
 <v t="leo.20151228224659.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228224659.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228224659.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151228224659.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228224659.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151228224659.7"><vh>標題</vh></v>
-<v t="leo.20151228224659.8"><vh>作業任務一</vh></v>
-<v t="leo.20151228224659.9"><vh>自評</vh></v>
+<v t="leo.20151228224659.7" a="E"><vh>標題</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
+<v t="leo.20151228224659.8" a="E"><vh>作業任務一</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
+<v t="leo.20151228224659.9" a="E"><vh>自評</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
 </v>
 </v>
 <v t="leo.20151228224659.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151228225053.1" a="E"><vh>@clean 40323230_cp_w11.html</vh>
+<v t="leo.20151228225053.1"><vh>@clean 40323230_cp_w11.html</vh>
 <v t="leo.20151228225053.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228225053.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228225053.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151228225053.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228225053.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151228225053.7"><vh>標題</vh></v>
-<v t="leo.20151228225053.8"><vh>作業任務一</vh></v>
-<v t="leo.20151228225053.9"><vh>自評</vh></v>
+<v t="leo.20151228225053.7" a="E"><vh>標題</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
+<v t="leo.20151228225053.8" a="E"><vh>作業任務一</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
+<v t="leo.20151228225053.9" a="E"><vh>自評</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
 </v>
 </v>
 <v t="leo.20151228225053.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151228225706.1" a="E"><vh>@clean 40323230_cp_w12.html</vh>
+<v t="leo.20151228225706.1"><vh>@clean 40323230_cp_w12.html</vh>
 <v t="leo.20151228225706.2"><vh>檔案說明</vh></v>
 <v t="leo.20151228225706.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151228225706.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151228225706.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228225706.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151228225706.7"><vh>標題</vh></v>
-<v t="leo.20151228225706.8"><vh>作業任務一</vh></v>
-<v t="leo.20151228225706.9"><vh>自評</vh></v>
+<v t="leo.20151228225706.7" a="E"><vh>標題</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
+<v t="leo.20151228225706.8" a="E"><vh>作業任務一</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
+<v t="leo.20151228225706.9" a="E"><vh>自評</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
 </v>
 </v>
 <v t="leo.20151228225706.10"><vh>script</vh></v>
@@ -170,9 +195,15 @@
 <v t="leo.20151228225725.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151228225725.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228225725.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151228225725.7"><vh>標題</vh></v>
-<v t="leo.20151228225725.8"><vh>作業任務一</vh></v>
-<v t="leo.20151228225725.9"><vh>自評</vh></v>
+<v t="leo.20151228225725.7" a="E"><vh>標題</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
+<v t="leo.20151228225725.8" a="E"><vh>作業任務一</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
+<v t="leo.20151228225725.9" a="E"><vh>自評</vh>
+<v t="leo.20160102213613.1"></v>
+</v>
 </v>
 </v>
 <v t="leo.20151228225725.10"><vh>script</vh></v>
@@ -502,6 +533,11 @@ g.es("user pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="123.20151228210745.51">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -514,21 +550,28 @@ g.es("user pelican 執行完畢")</t>
 <t tx="123.20151228210745.53">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
+&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
     &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
     &lt;hr&gt;
-    &lt;p&gt;40323230-張元-11/15&lt;/p&gt;		
+    &lt;p&gt;40323230-張元-11/15&lt;/p&gt;
+    &lt;/section&gt;
+    
 &lt;/section&gt;
 </t>
-<t tx="123.20151228210745.54">&lt;section id="hw-task-one"&gt;
+<t tx="123.20151228210745.54">&lt;&lt; header &gt;&gt;
+
     &lt;h1&gt;摘要與心得&lt;/h1&gt;
     &lt;p&gt;透過Creo繪製專案任務是一件繁瑣的工作，因為以前比較習慣的軟體和作業環境不一樣了，使得作業時較以往更為緩慢。以前沒用過SoildWork或是Pro-E，完全不知道與Inventor或AutoCAD相對應的功能位置在哪，但是多摸索或是上網觀看講解影片可以上手更快。&lt;/p&gt;
+    
 &lt;/section&gt;</t>
-<t tx="123.20151228210745.55">&lt;section&gt;
-    &lt;h1&gt;自評&lt;/h1&gt;
+<t tx="123.20151228210745.55">&lt;&lt; header &gt;&gt;
+
+    &lt;h2&gt;自評&lt;/h2&gt;
     &lt;p&gt;在作業上沒什麼進步，不過多花點時間學習不同的繪製環境，還是有所成果，給自己70分。&lt;/p&gt;
     &lt;hr&gt;
     &lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;課程資料&lt;/a&gt;
+
 &lt;/section&gt;
 				
 </t>
@@ -708,6 +751,11 @@ jupyter notebook
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228224659.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -720,13 +768,16 @@ jupyter notebook
 <t tx="leo.20151228224659.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
+&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
     &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
     &lt;hr&gt;
     &lt;p&gt;40323230-張元-12/5&lt;/p&gt;		
+    &lt;/section&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20151228224659.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151228224659.8">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;安裝 miniconda&lt;/h1&gt;
     &lt;p&gt;步驟 : 
 &lt;/br&gt;
@@ -743,7 +794,8 @@ jupyter notebook
 6. conda install jupyter
 &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151228224659.9">&lt;section&gt;
+<t tx="leo.20151228224659.9">&lt;&lt; header &gt;&gt;
+&lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;安裝一個可攜式、能夠自訂化的工具，雖然不知道所有的用途，但是已經可以突破既有的框架，給自己80分。&lt;/p&gt;
     &lt;hr&gt;
@@ -790,6 +842,11 @@ jupyter notebook
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228225053.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -802,13 +859,16 @@ jupyter notebook
 <t tx="leo.20151228225053.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
+&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
     &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
     &lt;hr&gt;
     &lt;p&gt;40323230-張元-12/12&lt;/p&gt;		
+    &lt;/section&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20151228225053.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151228225053.8">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;連結個人倉儲&lt;/h1&gt;
     &lt;p&gt;步驟 : 
 &lt;/br&gt;
@@ -821,13 +881,13 @@ jupyter notebook
 4.完成
 &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151228225053.9">&lt;section&gt;
+<t tx="leo.20151228225053.9">&lt;&lt; header &gt;&gt;
+&lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;安裝一個可攜式、能夠自訂化的工具，雖然不知道所有的用途，但是已經可以突破既有的框架，給自己80分。&lt;/p&gt;
+    &lt;p&gt;將個人倉儲和班級的倉儲內容作連結，藉此連動相關內容，給自己80分。&lt;/p&gt;
     &lt;hr&gt;
     &lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;課程資料&lt;/a&gt;
 &lt;/section&gt;
-				
 </t>
 <t tx="leo.20151228225706.1">@language xml
 @tabwidth -4
@@ -868,6 +928,11 @@ jupyter notebook
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228225706.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -880,13 +945,16 @@ jupyter notebook
 <t tx="leo.20151228225706.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
+&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
     &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
     &lt;hr&gt;
     &lt;p&gt;40323230-張元-12/19&lt;/p&gt;		
+    &lt;/section&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20151228225706.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151228225706.8">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;學校的電腦使用fix安裝leo檔案&lt;/h2&gt;
     &lt;p&gt;步驟 :
 &lt;/br&gt;
@@ -903,9 +971,10 @@ jupyter notebook
 如果已安裝過pelican和Markdown等模組，可以用rem跳過該段程序
 &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151228225706.9">&lt;section&gt;
+<t tx="leo.20151228225706.9">&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;安裝一個可攜式、能夠自訂化的工具，雖然不知道所有的用途，但是已經可以突破既有的框架，給自己80分。&lt;/p&gt;
+    &lt;p&gt;解決學校電腦無法使用leo的問題，學到很多常識，給自己80分。&lt;/p&gt;
     &lt;hr&gt;
     &lt;a href="https://wordpress-2015course.rhcloud.com/"&gt;課程資料&lt;/a&gt;
 &lt;/section&gt;
@@ -950,6 +1019,11 @@ jupyter notebook
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228225725.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -962,13 +1036,16 @@ jupyter notebook
 <t tx="leo.20151228225725.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
+&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
     &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
     &lt;hr&gt;
     &lt;p&gt;40323230-張元-12/26&lt;/p&gt;		
-&lt;/section&gt;
-</t>
-<t tx="leo.20151228225725.8">&lt;section id="hw-task-one"&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20151228225725.8">&lt;&lt; header &gt;&gt;
+&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;Nutcracker組合圖&lt;/h2&gt;
     &lt;p&gt;
 1. 使用creo繪製零件並組立(影片)
@@ -978,7 +1055,8 @@ jupyter notebook
 3. 使用onshape繪製零件並組立，及輸出零件圖等(影片)
 &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151228225725.9">&lt;section&gt;
+<t tx="leo.20151228225725.9">&lt;&lt; header &gt;&gt;
+&lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;以協同的方式合力繪製並組裝機構，這種線上即時的編輯方式十分方便，其他人的檔案有問題時可以迅速檢查並做修改，只要功能再完善流暢就更好了，給自己80分。&lt;/p&gt;
     &lt;hr&gt;
@@ -986,5 +1064,10 @@ jupyter notebook
 &lt;/section&gt;
 				
 </t>
+<t tx="leo.20160102213613.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323230"; }&lt;/style&gt;</t>
 </tnodes>
 </leo_file>

@@ -1,0 +1,98 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>電腦輔助設計與實習</h2>
+    <p>ONSHAPE組核桃機</p>
+    <p>四設計二乙</p>	
+    <p>40323255 鄭智文</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h2>Onshape簡介</h2>
+    <p>onshape，是一個由SoildWorks跟遠端做建立的網頁，簡單的來說就是[簡易的線上SoildWorks]，它可以不用再經過繁雜的下載程序，目前我們只需要申請帳號就可使用了；它最大的特點，就是可以跟別人共同開發零件、共同組立產品，是一個相當有實用價值的網頁。</p>
+    
+</section>
+			
+<section id="hw-task-one">
+    <h2>Adjuster</h2>
+    <p>Adjuster是拿來夾持核桃用的零件。</p>
+</section>
+				
+<section id="hw-task-one">
+    <h2>Handle</h2>
+    <p>Handle是負責操控的零件。畫法很簡單，我們可以直接畫一個圓長料(直徑0.5mm、長度7.5mm)，再長出矩形的形狀，之後再做孔除料的動作就完成了。</p>
+</section>
+				
+<section id="hw-task-one">
+    <h2>Hinge</h2>
+    <p>Hinge是用來固定我們Handle的零件。我們可以先畫出一個矩形(1.4mmx1.5mmx0.75mm)，做去做剩下除料的動作，就完成了。</p>
+</section>
+				
+<section id="hw-task-one">
+    <h2>Base</h2>
+    <p>Base是核桃機的機座。</p>
+</section>
+				
+<section id="hw-task-one">
+    <h2>Connection</h2>
+    <p>Connection是連接桿，用來連接handle及piston用的。</p>
+</section>
+				
+<section id="hw-task-one">
+    <h2>Piston</h2>
+    <p>Piston是拿來夾持核桃用的零件。</p>
+</section>
+				
+<section id="hw-task-one">
+    <h2>Cylinder</h2>
+    <p>Cylinder是用來固定piston的基座。</p>
+</section>
+				
+<section id="hw-task-one">
+    <h2>Adjuster_base</h2>
+    <p>Adjuster_base是用來固定Adjuster的基座。</p>
+</section>
+				
+<section>
+    <h2>心得及自評分數</h2>
+    <p>Onshape用完之後，覺得它的實用性很高以及相當方便，我們在外沒有任何繪圖軟體的時候就很需要它了，又可以讓我們跟組員們做統整的動作，又可以做共同協同零件的工作。</p>
+    <p>自評分數：80 </p>
+
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
