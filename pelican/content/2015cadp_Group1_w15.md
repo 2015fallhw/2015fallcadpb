@@ -53,3 +53,7 @@ Summary: 第一組第十五週工作報告<br />Nutcracker 機構 _ Onshape
 <br>
 <iframe src="https://player.vimeo.com/video/151219619" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/151219619">onshape</a> from <a href="https://vimeo.com/user45009540">吳信褘</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
+組合影片 - <a href='user/40323256/'>40323256</a>
+<br>
+<iframe src="https://player.vimeo.com/video/151277726" width="500" height="236" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/151277726">ice_video_20160110-143830</a> from <a href="https://vimeo.com/user45626607">錢柏辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

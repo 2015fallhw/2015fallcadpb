@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-08T21:40:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPB Group6 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g6_w15.html" rel="alternate"></link><updated>2016-01-08T21:40:00+08:00</updated><author><name>G6</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cadpb_blog_g6_w15.html</id><summary type="html">&lt;p&gt;Nutcracker 機構 from Onshape&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-20T01:20:00+08:00</updated><entry><title>2015 Fall 電腦輔助設計實習 期末評分註記</title><link href="http://coursemdetw.github.io/reveal/9999_final.html" rel="alternate"></link><updated>2016-01-20T01:20:00+08:00</updated><author><name>9999</name></author><id>tag:coursemdetw.github.io,2016-01-20:reveal/9999_final.html</id><summary type="html">&lt;p&gt;評分時程規劃請參考: &lt;a href="http://chiamingyen.github.io/kmolab/blog/2015-fall-final-schedule.html"&gt;http://chiamingyen.github.io/kmolab/blog/2015-fall-final-schedule.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;發現問題處理:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpb"&gt;http://2015fallhw.github.io/2015fallcadpb&lt;/a&gt; 頁面中的 tags 出現版本衝突記號, 因此 git clone 倉儲資料, 嘗試修正.&lt;/p&gt;
+&lt;p&gt;錯誤畫面:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/7GDkmDZjIu6q1Jfv" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;修正後:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/K6XZ6mHtPnlykFPk" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;修正方法:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;git clone https://github.com/2015fallhw/2015fallcadpb.git&lt;/li&gt;
+&lt;li&gt;利用 Leo Editor 開啟 user/9999/9999.leo&lt;/li&gt;
+&lt;li&gt;將滑鼠停在 @button admin pelican 節點上, 按下 admin-pelican 按鈕&lt;/li&gt;
+&lt;li&gt;檢查近端網頁, tags 錯誤已經修正, 準備提交推送&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+
+&lt;p&gt;2015 Fall CADP 課程影片整理:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/2015-fall-cadp-part-1"&gt;http://chiamingyen.github.io/kmolab/blog/2015-fall-cadp-part-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/2015-fall-cadp-part-2"&gt;http://chiamingyen.github.io/kmolab/blog/2015-fall-cadp-part-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;各學員在整理各週心得時, 可以參照以上影片所講授的內容.&lt;/p&gt;</summary><category term="期末評分"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group6 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g6_w15.html" rel="alternate"></link><updated>2016-01-08T21:40:00+08:00</updated><author><name>G6</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/2015cadpb_blog_g6_w15.html</id><summary type="html">&lt;p&gt;Nutcracker 機構 from Onshape&lt;/p&gt;
 &lt;p&gt;以下為相關工作報告資料:
 &lt;br&gt;
 &lt;br&gt;
@@ -19,7 +38,38 @@
 &lt;br&gt;
 &lt;br&gt;
 &lt;iframe src="https://player.vimeo.com/video/151213342" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/151213342"&gt;nutcraker on shape&lt;/a&gt; from &lt;a href="https://vimeo.com/user45396653"&gt;40328245@gm.nfu.edu.tw&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group1 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g1_w15.html" rel="alternate"></link><updated>2015-12-28T22:50:00+08:00</updated><author><name>G1</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g1_w15.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/151213342"&gt;nutcraker on shape&lt;/a&gt; from &lt;a href="https://vimeo.com/user45396653"&gt;40328245@gm.nfu.edu.tw&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 自評</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_all.html" rel="alternate"></link><updated>2016-01-07T13:38:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2016-01-07:reveal/2015cadpb_blog_all.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src=" cadp_all_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_all_lecture.html" target="_blank"&gt;投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============
+自評&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 第十七周</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w17.html" rel="alternate"></link><updated>2016-01-04T10:48:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cadpb_blog_w17.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src=" cadp_w17_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w17_lecture.html" target="_blank"&gt;作業十七投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============
+solvespace + onshape 做出操作上，實體之限制條件
+&lt;img src="https://copy.com/EZx4zUuSHASEjPPr" width="500" alt="草圖"&gt;&lt;/img&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 第十六周</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w16.html" rel="alternate"></link><updated>2016-01-04T10:29:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cadpb_blog_w16.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src=" cadp_w16_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w16_lecture.html" target="_blank"&gt;作業十六投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============
+將自己及團隊畫出的onshape零件利用onshape組合&lt;/p&gt;
+&lt;p&gt;組合影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/10eSfLlojqU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 第十五周</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w15.html" rel="alternate"></link><updated>2016-01-04T10:12:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cadpb_blog_w15.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src=" cadp_w15_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w15_lecture.html" target="_blank"&gt;作業十五投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============
+把之前畫的零件改用onshape畫出來&lt;/p&gt;
+&lt;p&gt;handle
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RtTYtUW_tqM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;hinge
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cGRavENfqL4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group1 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g1_w15.html" rel="alternate"></link><updated>2015-12-28T22:50:00+08:00</updated><author><name>G1</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g1_w15.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
 &lt;p&gt;組員：
 &lt;br&gt;
 何昶熠&lt;a href='user/40323212/'&gt;40323212&lt;/a&gt;
@@ -64,7 +114,11 @@
 組合影片 - &lt;a href='user/40323214/'&gt;40323214&lt;/a&gt;
 &lt;br&gt;
 &lt;iframe src="https://player.vimeo.com/video/151219619" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/151219619"&gt;onshape&lt;/a&gt; from &lt;a href="https://vimeo.com/user45009540"&gt;吳信褘&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;br&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group4 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g4_w15.html" rel="alternate"></link><updated>2015-12-28T13:30:00+08:00</updated><author><name>G4</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g4_w15.html</id><summary type="html">&lt;p&gt;組員：&lt;br /&gt;
+&lt;br&gt;
+組合影片 - &lt;a href='user/40323256/'&gt;40323256&lt;/a&gt;
+&lt;br&gt;
+&lt;iframe src="https://player.vimeo.com/video/151277726" width="500" height="236" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/151277726"&gt;ice_video_20160110-143830&lt;/a&gt; from &lt;a href="https://vimeo.com/user45626607"&gt;錢柏辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group4 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g4_w15.html" rel="alternate"></link><updated>2015-12-28T13:30:00+08:00</updated><author><name>G4</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g4_w15.html</id><summary type="html">&lt;p&gt;組員：&lt;br /&gt;
 劉瑜俊:&lt;a href='user/40323253/'&gt;40323253&lt;/a&gt;&lt;br /&gt;廖麒源:&lt;a href='user/40323252/'&gt;40323252&lt;/a&gt;&lt;br /&gt;黃顏維辰:&lt;a href='user/40323247/'&gt;40323247&lt;/a&gt;&lt;br /&gt;程偉銓:&lt;a href='user/40323245/'&gt;40323245&lt;/a&gt;&lt;br /&gt;陳建中:&lt;a href='user/40323240/'&gt;40323240&lt;/a&gt;&lt;br /&gt;姜智翔:&lt;a href='user/40323225/'&gt;40323225&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;以下為相關工作報告資料
 &lt;br /&gt;
@@ -225,7 +279,17 @@ Onshape這個網站真的太強大了!!完全不用安裝任何軟體就可以�
 href='http://2015fallhw.github.io/2015fallcadpb/user/40323225/'&gt;40323225-姜智翔&lt;/a&gt;
 &lt;br /&gt;
 Onshape這個網站是我看過以來唯一可以不用安裝任何軟體就可以直接在瀏覽器上畫圖，而且他還可以直接用聊天室討論，很方便~再來就是它的軟體與creo很相似，使用上也比較快適應~
-&lt;br /&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group2 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g2_w11.html" rel="alternate"></link><updated>2015-12-28T10:25:00+08:00</updated><author><name>G2</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g2_w11.html</id><summary type="html">&lt;p&gt;組員：&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 第十四周</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w14.html" rel="alternate"></link><updated>2015-12-28T11:22:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_w14.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src=" cadp_w14_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w14_lecture.html" target="_blank"&gt;作業十四投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============
+把CREO檔改為STL檔(包含影片)&lt;/p&gt;
+&lt;p&gt;handle
+&lt;script src="https://embed.github.com/view/3d/40323208/group3/master/handle.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;hinge
+&lt;script src="https://embed.github.com/view/3d/40323208/group3/master/hinge.stl"&gt;&lt;/script&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group2 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g2_w11.html" rel="alternate"></link><updated>2015-12-28T10:25:00+08:00</updated><author><name>G2</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g2_w11.html</id><summary type="html">&lt;p&gt;組員：&lt;br /&gt;
 張筱萱&lt;a href='user/40323204/'&gt;40323204&lt;/a&gt;&lt;br /&gt;黃婉菁&lt;a href='user/40323206/'&gt;40323206&lt;/a&gt;&lt;br /&gt;李伯皇&lt;a href='user/40323217/'&gt;40323217&lt;/a&gt;&lt;br /&gt;雷堯軒&lt;a href='user/40323251/'&gt;40323251&lt;/a&gt;&lt;br /&gt;鄭智文&lt;a href='user/40323255/'&gt;40323255&lt;/a&gt;&lt;br /&gt;陳政憲&lt;a href='user/40323241/'&gt;40323241&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
 
@@ -345,7 +409,9 @@ Onshape這個網站是我看過以來唯一可以不用安裝任何軟體就可�
 &lt;br /&gt;&lt;/p&gt;
 &lt;iframe src="simplest40323204.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;iframe src="simplest40323206.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group2 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g2_w15.html" rel="alternate"></link><updated>2015-12-28T10:25:00+08:00</updated><author><name>G2</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g2_w15.html</id><summary type="html">&lt;p&gt;組員：&lt;br /&gt;
+&lt;iframe src="simplest40323206.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;iframe src="simplest40323255.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group2 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g2_w15.html" rel="alternate"></link><updated>2015-12-28T10:25:00+08:00</updated><author><name>G2</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_g2_w15.html</id><summary type="html">&lt;p&gt;組員：&lt;br /&gt;
 張筱萱&lt;a href='user/40323204/'&gt;40323204&lt;/a&gt;&lt;br /&gt;黃婉菁&lt;a href='user/40323206/'&gt;40323206&lt;/a&gt;&lt;br /&gt;李伯皇&lt;a href='user/40323217/'&gt;40323217&lt;/a&gt;&lt;br /&gt;雷堯軒&lt;a href='user/40323251/'&gt;40323251&lt;/a&gt;&lt;br /&gt;鄭智文&lt;a href='user/40323255/'&gt;40323255&lt;/a&gt;&lt;br /&gt;陳政憲&lt;a href='user/40323241/'&gt;40323241&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;以下為相關工作報告資料
 &lt;br /&gt;&lt;/p&gt;
@@ -536,7 +602,14 @@ ONSHAPE是一個算蠻方便的軟體，可以直接在網路上畫一些簡單�
 &lt;img src="https://copy.com/xYEvgqQGwkEZKAZm" width="500" &gt;&lt;/img&gt;
 &lt;br&gt;
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/gr70geQDr0o" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;br&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group8 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g8_w11.html" rel="alternate"></link><updated>2015-12-21T09:30:00+08:00</updated><author><name>G8</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/2015cadpb_blog_g8_w11.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 第十三周</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w13.html" rel="alternate"></link><updated>2015-12-28T10:24:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cadpb_blog_w13.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src=" cadp_w13_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w13_lecture.html" target="_blank"&gt;作業十三投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============
+組合(包含影片)&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/c8z7NGwjJ98" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group8 w11 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g8_w11.html" rel="alternate"></link><updated>2015-12-21T09:30:00+08:00</updated><author><name>G8</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/2015cadpb_blog_g8_w11.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
 &lt;br&gt;
 組員：&lt;br /&gt;
 楊承儒&lt;a href='user/40323248/'&gt;40323248&lt;/a&gt;&lt;br /&gt;朱柏蔚&lt;a href='user/40323211/'&gt;40323211&lt;/a&gt;&lt;br /&gt;古丙駿&lt;a href='user/40323210/'&gt;40323210&lt;/a&gt;&lt;br /&gt;莊皓惟&lt;a href='user/40323235/'&gt;40323235&lt;/a&gt;&lt;br /&gt;呂易煒&lt;a href='user/40323215/'&gt;40323215&lt;/a&gt;&lt;br /&gt;林聖祐&lt;a href='user/40323223/'&gt;40323223&lt;/a&gt;&lt;/p&gt;
@@ -1225,7 +1298,37 @@ src="https://copy.com/oFpCBHm09KB1UhbQ"width="500"height="500"&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/151207756"&gt;nutcraker&lt;/a&gt; from &lt;a href="https://vimeo.com/user45396653"&gt;40328245@gm.nfu.edu.tw&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
 &lt;br&gt;
-  =================================================&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group3 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g3_w15.html" rel="alternate"></link><updated>2015-12-12T10:25:00+08:00</updated><author><name>G3</name></author><id>tag:coursemdetw.github.io,2015-12-12:reveal/2015cadpb_blog_g3_w15.html</id><summary type="html">&lt;p&gt;組員：&lt;br /&gt;
+  =================================================&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 第十一周</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w11.html" rel="alternate"></link><updated>2015-12-14T11:16:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/2015cadpb_blog_w11.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src=" cadp_w11_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w11_lecture.html" target="_blank"&gt;作業十一投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============
+把fix變成隨身&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 第十一周作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-14T11:16:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest5.html" target="_blank"&gt;作業十一投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;============
+把fix變成隨身&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第十周</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_w10.html" rel="alternate"></link><updated>2015-12-14T10:24:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/2015cadpb_blog_w10.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="cadp_w10_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w10_lecture.html" target="_blank"&gt;作業十投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;使用 H1 標題&lt;/h1&gt;
+&lt;p&gt;作業整理&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 第十周作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-12-14T10:24:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;作業十投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;使用 H1 標題&lt;/h1&gt;
+&lt;p&gt;作業整理&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第十二周作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-14T10:24:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;作業十二投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;使用 H1 標題&lt;/h1&gt;
+&lt;p&gt;作業整理&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 CADPB Group3 w15 報告</title><link href="http://coursemdetw.github.io/reveal/2015cadpb_blog_g3_w15.html" rel="alternate"></link><updated>2015-12-12T10:25:00+08:00</updated><author><name>G3</name></author><id>tag:coursemdetw.github.io,2015-12-12:reveal/2015cadpb_blog_g3_w15.html</id><summary type="html">&lt;p&gt;組員：&lt;br /&gt;
 李佩蓁&lt;a href='user/40323201/'&gt;40323201&lt;/a&gt;&lt;br /&gt;林姿馨&lt;a href='user/40323202/'&gt;40323202&lt;/a&gt;&lt;br /&gt;施郁琪&lt;a href='user/40323203/'&gt;40323203&lt;/a&gt;&lt;br /&gt;陳子潔&lt;a href='user/40323205/'&gt;40323205&lt;/a&gt;&lt;br /&gt;歐芳汝&lt;a href='user/40323207/'&gt;40323207&lt;/a&gt;&lt;br /&gt;羅文均&lt;a href='user/40323208/'&gt;40323208&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;hr/&gt;
 以下為相關工作報告資料
@@ -1571,9 +1674,15 @@ src="https://copy.com/CqI806YMEkNwAmBY"width="300"height="300"&gt;
 &lt;iframe src="https://player.vimeo.com/video/150588743" width="500" height="270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150588743"&gt;ice_video_20160103-222955&lt;/a&gt; from &lt;a href="https://vimeo.com/user45183410"&gt;呂紹新&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
 &lt;br&gt;
-Part_7 : Hinge
+Part_7 : Hinge&lt;a href='user/40323256/'&gt;40323256&lt;/a&gt;
 &lt;br&gt;
 &lt;p align="left"&gt;&lt;a href="https://copy.com/yJMQk4ddcl766mrs"&gt;Hinge.prt&lt;/a&gt;
+&lt;br&gt;
+&lt;iframe src="https://player.vimeo.com/video/151278534" width="500" height="236" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/151278534"&gt;ice_video_20160110-150513&lt;/a&gt; from &lt;a href="https://vimeo.com/user45626607"&gt;錢柏辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;iframe src="https://player.vimeo.com/video/151278533" width="500" height="236" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/151278533"&gt;ice_video_20160110-151529&lt;/a&gt; from &lt;a href="https://vimeo.com/user45626607"&gt;錢柏辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
 &lt;img
 src="https://copy.com/oec3ed89ifqimxca"width="300"height="300"&gt;
@@ -1978,7 +2087,23 @@ Onshape practice video(40023256)
 &lt;p&gt;包括簡報檔, vimeo 影片, copy.com 零件檔案與其他相關資料連結&lt;/p&gt;
 &lt;iframe src="cadp_w12_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="cadp_w12_lecture.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習乙班 W7 示範</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7-1.html" rel="alternate"></link><updated>2015-10-30T00:00:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-10-30:reveal/2015cp_hw_w7-1.html</id><summary type="html">&lt;p&gt;CADP 二乙連結:&lt;/p&gt;
+&lt;p&gt;&lt;a href="cadp_w12_lecture.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 第五周作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-11-01T17:50:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2015-11-01:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業五投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;使用 H1 標題&lt;/h1&gt;
+&lt;p&gt;1.找到creo軟體。&lt;/p&gt;
+&lt;p&gt;2.使用creo繪圖軟體，了解如何操作及練習題目。
+&lt;img src="https://copy.com/4DOt06eJpxMqiXK8" width="500" alt="骰子"&gt;&lt;/img&gt;
+操作影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8koCZsbll_0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="https://copy.com/IOyzcbCROLEiRV9K" width="500" alt="連桿"&gt;&lt;/img&gt;
+操作影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yrxY4vNnJdk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="https://copy.com/6yppHdoar9ve1P9H" width="500" alt="組裝"&gt;&lt;/img&gt;
+操作影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qjB3KIHJPR4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習乙班 W7 示範</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7-1.html" rel="alternate"></link><updated>2015-10-30T00:00:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-10-30:reveal/2015cp_hw_w7-1.html</id><summary type="html">&lt;p&gt;CADP 二乙連結:&lt;/p&gt;
 &lt;p&gt;&lt;a href='user/40023256/'&gt;40023256&lt;/a&gt;
 &lt;a href='user/40223212/'&gt;40223212&lt;/a&gt;
 &lt;a href='user/40323201/'&gt;40323201&lt;/a&gt;
@@ -2279,7 +2404,7 @@ href='user/40323254/'&gt;40323254&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323237/'&gt;40323237&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align:center;"colspan=1&gt;6-6&lt;/td&gt;
+&lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323227/'&gt;40323227&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;40323234&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323235/'&gt;40323235&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align:center;" colspan=1&gt;&lt;a href='user/40323239/'&gt;40323239&lt;/a&gt;&lt;/td&gt;
@@ -2297,7 +2422,134 @@ href='user/40323254/'&gt;40323254&lt;/a&gt;&lt;/td&gt;
 &lt;p&gt;&lt;a href="http://www.webtech.tw/info.php?tid=HTML+%E8%A1%A8%E6%A0%BC%E6%AC%84%E4%BD%8D%E5%85%A7%E6%96%87%E5%AD%97%E6%B0%B4%E5%B9%B3%E7%BD%AE%E4%B8%AD%E8%88%87%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD"&gt;HTML 表格欄位內文字水平置中與垂直置中&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
+&lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第二周作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-10-15T15:06:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2015-10-15:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;使用 H1 標題&lt;/h1&gt;
+&lt;p&gt;文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視為連續的資料&lt;/p&gt;
+&lt;p&gt;使用. &lt;em&gt;斜體文字&lt;/em&gt;, &lt;strong&gt;黑體文字&lt;/strong&gt;, 以及 &lt;code&gt;單線文字&lt;/code&gt;. 表列資料可以寫為:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第1項說明&lt;/li&gt;
+&lt;li&gt;第2項說明&lt;/li&gt;
+&lt;li&gt;第3項說明&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;特別注意 --- 不包括星號 --- 表列文字從第四欄位開始.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;引用的內容寫在這裡
+主要是以大於的符號開頭.&lt;/p&gt;
+&lt;p&gt;其中也可以利用空白行隔開,
+整區都是引用內容的範圍.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;em-dash 符號是3個 dashes. 利用兩個 dashes 來連接開始與結束 (ex., "這個禮拜要閱讀章節 12--14"). 3個逗點 ... 則會被轉為 ellipsis.
+pelican 可以支援 unicode. ☺&lt;/p&gt;
+&lt;h2&gt;H2 標題&lt;/h2&gt;
+&lt;p&gt;有數字的表列資料:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;第1項&lt;/li&gt;
+&lt;li&gt;第2項&lt;/li&gt;
+&lt;li&gt;第3項&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;跟前面一樣, 文字從第四個欄位開始.&lt;/p&gt;
+&lt;p&gt;程式碼的表達:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;# for 重複迴圈 ...
+for i in 1 .. 10 { 呼叫特定函式(i) }
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;這裡也是要空4個 space 鍵. &lt;/p&gt;
+&lt;p&gt;除了每一行空4個空白, 也可以使用 delimited 來界定程式碼範圍, 就像這樣:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;define foobar() {
+    print(&amp;quot;歡迎進入程式的世界!&amp;quot;)
+}
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;(這樣的表達比較容易用來複製程式碼內容).&lt;/p&gt;
+&lt;p&gt;python 的程式碼, 可以寫成下列格式&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;time&lt;/span&gt;
+&lt;span class="c"&gt;# 以下會從 0 數到 9&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 稍微暫停一下&lt;/span&gt;
+    &lt;span class="n"&gt;time&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;sleep&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;以下為另外一種嵌入程式碼的方法:&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
+2
+3
+4
+5
+6&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;time&lt;/span&gt;
+&lt;span class="c"&gt;# 以下會從 0 數到 9&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 稍微暫停一下&lt;/span&gt;
+    &lt;span class="n"&gt;time&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;sleep&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;h3&gt;H3 標題&lt;/h3&gt;
+&lt;p&gt;以下則為內嵌式的表列法t:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;首先, 將完成下列元件的設計:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;轉向機構&lt;/li&gt;
+&lt;li&gt;煞車系統&lt;/li&gt;
+&lt;li&gt;踩踏機構&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;接著連繫工業設計部門.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;確定上述元件的各項設計與用料都符合原始設計規格的要求
+    查驗表:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;各元件材質
+車蓋顏色
+機構調校流程
+需要熱處理的元件列表
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;完成上述查驗後, 請通知品保部門, 以便接續處理.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;特別注意各階資料都以內縮4個空白鍵來加以區隔, 包含最後一行.&lt;/p&gt;
+&lt;p&gt;Markdown 的超文件連結寫法 &lt;a href="http://www.google.com" target="_blank"&gt;連到 Google&lt;/a&gt;, 也可以連到同目錄下的檔案 &lt;a href="cadpbw1.html" target="_blank"&gt;cadpbw1.html&lt;/a&gt;, 也能使用註腳 &lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;放入圖檔, 可以直接利用 html 的 img 標註:&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/spur.png" width="500" alt="正齒輪繪圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;註腳會連結到這裡.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第四周作業</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-15T15:06:00+08:00</updated><author><name>40323208</name></author><id>tag:coursemdetw.github.io,2015-10-15:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;作業四投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;使用 H1 標題&lt;/h1&gt;
+&lt;p&gt;1.將Jupyter更新。&lt;/p&gt;
+&lt;p&gt;2.使用solvespace繪圖軟體，了解如何操作及練習題目
+&lt;img src="https://copy.com/aZtLmkgPjkEoqRno" width="500" alt="草圖"&gt;&lt;/img&gt;
+&lt;img src="https://copy.com/C9l7KMIvXzcdnAG3" width="500" alt="約束"&gt;&lt;/img&gt;
+&lt;img src="https://copy.com/KuTkNS8gJocT7Dha" width="500" alt="圓角"&gt;&lt;/img&gt;
+&lt;img src="https://copy.com/LefBH10GtgVYgiRc" width="500" alt="伸長1"&gt;&lt;/img&gt;
+&lt;img src="https://copy.com/NE6qcJPNRGvWnSQf" width="500" alt="伸長"&gt;&lt;/img&gt;
+&lt;img src="https://copy.com/Zwcrz4J4T2gJcuS3" width="500" alt="完成"&gt;&lt;/img&gt;
+操作影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/P09V3JeoYBU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
 &lt;p&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;

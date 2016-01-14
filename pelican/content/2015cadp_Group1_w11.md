@@ -86,9 +86,15 @@ src="https://copy.com/CqI806YMEkNwAmBY"width="300"height="300">
 <iframe src="https://player.vimeo.com/video/150588743" width="500" height="270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/150588743">ice_video_20160103-222955</a> from <a href="https://vimeo.com/user45183410">呂紹新</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <br>
-Part_7 : Hinge
+Part_7 : Hinge<a href='user/40323256/'>40323256</a>
 <br>
 <p align="left"><a href="https://copy.com/yJMQk4ddcl766mrs">Hinge.prt</a>
+<br>
+<iframe src="https://player.vimeo.com/video/151278534" width="500" height="236" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/151278534">ice_video_20160110-150513</a> from <a href="https://vimeo.com/user45626607">錢柏辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<iframe src="https://player.vimeo.com/video/151278533" width="500" height="236" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/151278533">ice_video_20160110-151529</a> from <a href="https://vimeo.com/user45626607">錢柏辰</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <img
 src="https://copy.com/oec3ed89ifqimxca"width="300"height="300">

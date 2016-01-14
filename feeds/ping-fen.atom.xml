@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPB 共用倉儲</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/ping-fen.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-20T01:20:00+08:00</updated><entry><title>2015 Fall 電腦輔助設計實習 期末評分註記</title><link href="http://coursemdetw.github.io/reveal/9999_final.html" rel="alternate"></link><updated>2016-01-20T01:20:00+08:00</updated><author><name>9999</name></author><id>tag:coursemdetw.github.io,2016-01-20:reveal/9999_final.html</id><summary type="html">&lt;p&gt;評分時程規劃請參考: &lt;a href="http://chiamingyen.github.io/kmolab/blog/2015-fall-final-schedule.html"&gt;http://chiamingyen.github.io/kmolab/blog/2015-fall-final-schedule.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;發現問題處理:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpb"&gt;http://2015fallhw.github.io/2015fallcadpb&lt;/a&gt; 頁面中的 tags 出現版本衝突記號, 因此 git clone 倉儲資料, 嘗試修正.&lt;/p&gt;
+&lt;p&gt;錯誤畫面:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/7GDkmDZjIu6q1Jfv" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;修正後:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/K6XZ6mHtPnlykFPk" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;修正方法:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;git clone https://github.com/2015fallhw/2015fallcadpb.git&lt;/li&gt;
+&lt;li&gt;利用 Leo Editor 開啟 user/9999/9999.leo&lt;/li&gt;
+&lt;li&gt;將滑鼠停在 @button admin pelican 節點上, 按下 admin-pelican 按鈕&lt;/li&gt;
+&lt;li&gt;檢查近端網頁, tags 錯誤已經修正, 準備提交推送&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+
+&lt;p&gt;2015 Fall CADP 課程影片整理:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/2015-fall-cadp-part-1"&gt;http://chiamingyen.github.io/kmolab/blog/2015-fall-cadp-part-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://chiamingyen.github.io/kmolab/blog/2015-fall-cadp-part-2"&gt;http://chiamingyen.github.io/kmolab/blog/2015-fall-cadp-part-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;各學員在整理各週心得時, 可以參照以上影片所講授的內容.&lt;/p&gt;</summary><category term="期末評分"></category></entry></feed>

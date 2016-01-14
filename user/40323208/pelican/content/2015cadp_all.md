@@ -1,4 +1,4 @@
-Title: 2015 電腦輔助設計實習 自評
+Title: 2015 電腦輔助設計實習 自評+總整理
 Date: 2016-01-07 13:38
 Category: cadpb 課程
 Tags: mechanism
@@ -16,5 +16,24 @@ Summary: 自評
 
 
 ============
-自評
+自評:72
+總整理
+//////////////////////
+17周
+<iframe src=" cadp_w17_lecture.html" width="800" height="600"></iframe>
+16周
+<iframe src=" cadp_w16_lecture.html" width="800" height="600"></iframe>
+15周
+<iframe src=" cadp_w15_lecture.html" width="800" height="600"></iframe>
+14周
+<iframe src=" cadp_w14_lecture.html" width="800" height="600"></iframe>
+13周
+<iframe src=" cadp_w13_lecture.html" width="800" height="600"></iframe>
+12周
+<iframe src=" cadp_w12_lecture.html" width="800" height="600"></iframe>
+11周
+<iframe src=" cadp_w11_lecture.html" width="800" height="600"></iframe>
+10周
+<iframe src="cadp_w10_lecture.html" width="800" height="600"></iframe>
+
 
