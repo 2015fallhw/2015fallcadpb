@@ -25,14 +25,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-<<<<<<< HEAD
-         ('Python', 'http://python.org/'),
-         ,('個人github倉儲', 'https://github.com/40323212/2055/tree/gh-pages/'),('40323212 個人網頁', 'http://40323212.github.io/2055/'),)
-=======
-         ('Python', 'http://python.org/')
-         ,('個人github倉儲', 'https://github.com/40323212/2055/tree/gh-pages/'),('40323212 個人網頁', 'http://40323212.github.io/2055/'))
->>>>>>> 3438e79e20801dafdcb08d1d253c3aeda6590aa0
+LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),('Python', 'http://python.org/'),('個人github倉儲', 'https://github.com/40323212/2055/tree/gh-pages/'),('40323212 個人網頁', 'http://40323212.github.io/2055/'),('Python', 'http://python.org/'),('個人github倉儲', 'https://github.com/40323212/2055/tree/gh-pages/'),('40323212 個人網頁', 'http://40323212.github.io/2055/'))
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
