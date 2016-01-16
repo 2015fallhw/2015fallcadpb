@@ -29,6 +29,7 @@
 <v t="40323255.20160116141439.1"><vh>@edit 40323215_cp_w2.md</vh></v>
 <v t="40323255.20160116141514.1"><vh>@edit 40323215_cp_w3.md</vh></v>
 <v t="40323255.20160116141527.1"><vh>@edit 40323215_cp_w11.md</vh></v>
+<v t="40323255.20160116172735.1"><vh>@edit 40323215_cp_w12.md</vh></v>
 <v t="40323255.20160116141544.1"><vh>@edit 40323215_cp_w14.md</vh></v>
 <v t="40323255.20160116141600.1"><vh>@edit 40323215_cp_w15.md</vh></v>
 </v>
@@ -88,6 +89,20 @@
 </v>
 </v>
 <v t="40323255.20160116141804.9"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323255.20160116172753.1" a="E"><vh>@clean 40323215_cp_w12.html</vh>
+<v t="40323255.20160116172753.2"><vh>檔案說明</vh></v>
+<v t="40323255.20160116172753.3" a="E"><vh>html 標註</vh>
+<v t="40323255.20160116172753.4" a="E"><vh>body 標註</vh>
+<v t="40323255.20160116172753.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323255.20160116172753.6" a="E"><vh>div class="slides"</vh>
+<v t="40323255.20160116172753.7"><vh>有關我的作業</vh></v>
+<v t="40323255.20160116172753.8"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="40323255.20160116172753.9"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -497,6 +512,70 @@
 				
 </t>
 <t tx="40323255.20160116141816.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323255.20160116172753.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323255.20160116172753.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323255.20160116172753.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323255.20160116172753.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323255.20160116172753.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20160116172753.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20160116172753.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323215 呂易煒&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323255.20160116172753.8">&lt;section&gt;
+    &lt;h2&gt;心得與自評分數75分&lt;/h2&gt;
+    &lt;p&gt;這禮拜下載了fix檔案,升級了leo editor,也讓我們使用起來更快速了  自評75分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20160116172753.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
