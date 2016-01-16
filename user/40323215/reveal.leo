@@ -570,7 +570,7 @@
 	
 </t>
 <t tx="40323255.20160116172753.8">&lt;section&gt;
-    &lt;h2&gt;心得與自評分數76分&lt;/h2&gt;
+    &lt;h2&gt;心得與自評分數75分&lt;/h2&gt;
     &lt;p&gt;這禮拜下載了fix檔案,升級了leo editor,也讓我們使用起來更快速了  自評75分&lt;/p&gt;
 &lt;/section&gt;
 				
