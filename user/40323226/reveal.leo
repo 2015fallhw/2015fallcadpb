@@ -79,7 +79,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160111112005.13"><vh>@clean simplest4.html</vh>
+<v t="leo.20160111112005.13" a="E"><vh>@clean simplest4.html</vh>
 <v t="leo.20160111112005.14"><vh>檔案說明</vh></v>
 <v t="leo.20160111112005.15" a="E"><vh>html 標註</vh>
 <v t="leo.20160111112005.16" a="E"><vh>body 標註</vh>
@@ -94,7 +94,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160111112005.23"><vh>@clean simplest5.html</vh>
+<v t="leo.20160111112005.23" a="E"><vh>@clean simplest5.html</vh>
 <v t="leo.20160111112005.24"><vh>檔案說明</vh></v>
 <v t="leo.20160111112005.25" a="E"><vh>html 標註</vh>
 <v t="leo.20160111112005.26" a="E"><vh>body 標註</vh>
@@ -375,9 +375,7 @@ Git checkout gh-pages：切換分支&lt;/p&gt;
 <t tx="leo.20160111112005.20">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;筆記&lt;/h1&gt;
     &lt;p&gt;1.Sketch → Tangent Arc at Point 選擇兩條線所相接的點,可以使那個點形成圓角並且拖曳相切的點可以改變半徑大小.2.New Group → Extrude, or choose the equivalent button from the toolbar.可以使你所畫的圖,往+x方向長料或者從工具列選擇長料.3.Change the extrusion depth by dragging a point on the extruded face.拉動所指定的面可以使所選擇的面身長或縮短4.New Group -&gt; Sketch in 3D(Shift + 3 建立新平面)5.New Group → Sketch in New Workplane 用在孔的時候必須選擇新平面.&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
+		
 </t>
 <t tx="leo.20160111112005.21">&lt;section&gt;
     &lt;h1&gt;自評60分&lt;/h1&gt;
@@ -452,8 +450,7 @@ Git checkout gh-pages：切換分支&lt;/p&gt;
 <t tx="leo.20160111112005.30">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;筆記&lt;/h1&gt;
     &lt;p&gt;1.標註尺寸時要按住Ctrl鍵選取兩點-&gt;滑鼠右鍵,就可以去改變尺寸。 2.零件組合時要靠近所組裝的地方，再去制定建置(不然會離太遠只會顯示距離) 3.繪製草圖前要先選擇要繪製的平面(例如:前視圖或者右視),在選擇是要拉伸還是選轉(除料時可以用到) 4.組合限制時可以選擇平面對平面或者自動。&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
+   
 				
 </t>
 <t tx="leo.20160111112005.31">&lt;section&gt;
@@ -888,8 +885,7 @@ Git checkout gh-pages：切換分支&lt;/p&gt;
 <t tx="leo.20160115001013.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;筆記和步驟&lt;/h1&gt;
     &lt;p&gt;利用onshape組裝零組件。&lt;/p&gt;
-     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
+   
 				
 </t>
 <t tx="leo.20160115001013.9">&lt;section&gt;
