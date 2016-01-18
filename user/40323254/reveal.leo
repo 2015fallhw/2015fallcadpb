@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
+<!-- Created by Leo (http://leoeditor.com/leo_toc.html) -->
 <?xml-stylesheet ekr_test ?>
-<leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
+<leo_file xmlns:leo="http://www.leo-editor.org/2011/leo" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
 	<global_window_position top="50" left="50" height="500" width="700"/>
@@ -107,7 +107,7 @@
 </v>
 </v>
 </v>
-<v t="40323255.20160115231013.1" a="E"><vh>@clean 40323254_cp_w11.html</vh>
+<v t="40323255.20160115231013.1"><vh>@clean 40323254_cp_w11.html</vh>
 <v t="40323255.20160115231013.2"><vh>檔案說明</vh></v>
 <v t="40323255.20160115231013.3" a="E"><vh>html 標註</vh>
 <v t="40323255.20160115231013.4" a="E"><vh>body 標註</vh>
@@ -121,7 +121,7 @@
 </v>
 </v>
 </v>
-<v t="40323255.20160117132807.1" a="E"><vh>@clean 40323254_cp_w14.html</vh>
+<v t="40323255.20160117132807.1"><vh>@clean 40323254_cp_w14.html</vh>
 <v t="40323255.20160117132807.2"><vh>檔案說明</vh></v>
 <v t="40323255.20160117132807.3" a="E"><vh>html 標註</vh>
 <v t="40323255.20160117132807.4" a="E"><vh>body 標註</vh>
@@ -135,7 +135,7 @@
 </v>
 </v>
 </v>
-<v t="40323255.20160117132808.1" a="E"><vh>@clean 40323254_cp_w15.html</vh>
+<v t="40323255.20160117132808.1"><vh>@clean 40323254_cp_w15.html</vh>
 <v t="40323255.20160117132808.2"><vh>檔案說明</vh></v>
 <v t="40323255.20160117132808.3" a="E"><vh>html 標註</vh>
 <v t="40323255.20160117132808.4" a="E"><vh>body 標註</vh>
