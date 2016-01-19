@@ -38,7 +38,7 @@
 </v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="leo.20151204210010.1"><vh>@button open html</vh>
+<v t="leo.20151204210010.1" a="E"><vh>@button open html</vh>
 <v t="leo.20151204210010.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151204210010.3"><vh>檔案說明</vh></v>
 <v t="leo.20151204210010.4" a="E"><vh>html 標註</vh>
@@ -817,7 +817,7 @@ for ch in p.children():
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B 學號: 40328242"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B 學號: 40323227"; }&lt;/style&gt;</t>
 <t tx="leo.20151204210010.16">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
