@@ -29,10 +29,10 @@
 <v t="leo.20160111112036.6"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20160111112036.7"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20160111112036.8"><vh>@edit 2015cphww5.md</vh></v>
-<v t="leo.20160114235239.1"><vh>@edit 2015cphww11.md</vh></v>
-<v t="leo.20160114235813.1"><vh>@edit 2015cphww12.md</vh></v>
-<v t="leo.20160115000600.1"><vh>@edit 2015cphww14.md</vh></v>
-<v t="leo.20160115000827.1"><vh>@edit 2015cphww15.md</vh></v>
+<v t="leo.20160114235239.1"><vh>@edit 2015cadp_w11.md</vh></v>
+<v t="leo.20160114235813.1"><vh>@edit 2015cadp_w12.md</vh></v>
+<v t="leo.20160115000600.1"><vh>@edit 2015cadp_w14.md</vh></v>
+<v t="leo.20160115000827.1"><vh>@edit 2015cadp_w15.md</vh></v>
 <v t="leo.20160111112036.9"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
