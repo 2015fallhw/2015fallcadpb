@@ -14,7 +14,7 @@
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
@@ -30,8 +30,6 @@
 <v t="leo.20160111100014.1"><vh>@edit 2015cp_hw_w3.md</vh></v>
 <v t="harry.20160106223057.1"><vh>@edit 2015cp_hw_w4.md</vh></v>
 <v t="harry.20160106223104.1"><vh>@edit 2015cp_hw_w5.md</vh></v>
-<v t="leo.20160111102031.1"><vh>@edit 2015cp_hw_w7.md</vh></v>
-<v t="leo.20160111102029.1"><vh>@edit 2015cp_hw_w6.md</vh></v>
 <v t="leo.20160111102031.2"><vh>@edit 2015cp_hw_w10.md</vh></v>
 <v t="leo.20160111102347.1"><vh>@edit 2015cp_hw_w11.md</vh></v>
 <v t="harry.20160106223109.1"><vh>@edit 2015cp_hw_w12.md</vh></v>
@@ -43,8 +41,6 @@
 <v t="harry.20160106223206.1"><vh>@edit 40223212_cp_w1_p.html</vh></v>
 <v t="harry.20160119194514.1"><vh>@edit 40223212_cp_w2_p.html</vh></v>
 <v t="harry.20160120012303.1"><vh>@edit 40223212_cp_w3_p.html</vh></v>
-<v t="harry.20160106223127.1"><vh>@edit 40223212_cp_w4_p.html</vh></v>
-<v t="harry.20160106223216.1"><vh>@edit 40223212_cp_w5_p.html</vh></v>
 <v t="harry.20160107154157.1"><vh>@edit 40223212_cp_w17_p.html</vh></v>
 </v>
 </vnodes>
