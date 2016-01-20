@@ -28,6 +28,11 @@
 <v t="leo.20151204180707.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151204180715.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="leo.20151204180722.1"><vh>@edit 2015cphww3.md</vh></v>
+<v t="leo.20160120112926.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="leo.20160120112917.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20160120112909.1"><vh>@edit 2015cphww6.md</vh></v>
+<v t="leo.20160120112901.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="leo.20160120112834.1"><vh>@edit 2015cphww8.md</vh></v>
 </v>
 </v>
 </v>
@@ -107,7 +112,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151204180626.1"><vh>@clean simplest4.html</vh>
+<v t="leo.20151204180626.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151204180626.2"><vh>檔案說明</vh></v>
 <v t="leo.20151204180626.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151204180626.4" a="E"><vh>body 標註</vh>
@@ -116,8 +121,6 @@
 <v t="leo.20151204180626.7"><vh>1</vh></v>
 <v t="leo.20151204180626.8"><vh>2</vh></v>
 <v t="leo.20151204180626.9"><vh>3</vh></v>
-<v t="leo.20151204180626.10"><vh>4</vh></v>
-<v t="leo.20151204180626.11"><vh>5</vh></v>
 <v t="leo.20151204180626.12"><vh>6</vh></v>
 <v t="leo.20151204180626.13"><vh>7</vh></v>
 <v t="leo.20151204180626.14"><vh>8</vh></v>
@@ -127,7 +130,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160109161322.1"><vh>@clean simplest5.html</vh>
+<v t="leo.20160109161322.1"><vh>@clean simplest4.html</vh>
 <v t="leo.20160109161322.2"><vh>newHeadline</vh></v>
 <v t="leo.20160109161322.3"><vh>檔案說明</vh></v>
 <v t="leo.20160109161322.4" a="E"><vh>html 標註</vh>
@@ -149,7 +152,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160109161328.1"><vh>@clean simplest6.html</vh>
+<v t="leo.20160109161328.1"><vh>@clean simplest5.html</vh>
 <v t="leo.20160109161328.2"><vh>newHeadline</vh></v>
 <v t="leo.20160109161328.3"><vh>檔案說明</vh></v>
 <v t="leo.20160109161328.4"><vh>html 標註</vh>
@@ -171,7 +174,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160109161334.1"><vh>@clean simplest7.html</vh>
+<v t="leo.20160109161334.1"><vh>@clean simplest6.html</vh>
 <v t="leo.20160109161334.2"><vh>newHeadline</vh></v>
 <v t="leo.20160109161334.3"><vh>檔案說明</vh></v>
 <v t="leo.20160109161334.4" a="E"><vh>html 標註</vh>
@@ -196,7 +199,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160109161340.1"><vh>@clean simplest8.html</vh>
+<v t="leo.20160109161340.1"><vh>@clean simplest7.html</vh>
 <v t="leo.20160109161340.2"><vh>newHeadline</vh></v>
 <v t="leo.20160109161340.3"><vh>檔案說明</vh></v>
 <v t="leo.20160109161340.4" a="E"><vh>html 標註</vh>
@@ -221,7 +224,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160109194059.1"><vh>@clean simplest9.html</vh>
+<v t="leo.20160109194059.1"><vh>@clean simplest8.html</vh>
 <v t="leo.20160109194059.2"><vh>newHeadline</vh></v>
 <v t="leo.20160109194059.3"><vh>檔案說明</vh></v>
 <v t="leo.20160109194059.4" a="E"><vh>html 標註</vh>
@@ -657,8 +660,6 @@ jupyter notebook
 @others
 
 </t>
-<t tx="leo.20151204180626.10"></t>
-<t tx="leo.20151204180626.11"></t>
 <t tx="leo.20151204180626.12">&lt;/section&gt;
 				
 </t>
@@ -695,7 +696,7 @@ jupyter notebook
 				
 &lt;section&gt;
     &lt;h1&gt;評分&lt;/h1&gt;
-    &lt;p&gt;評分:75&lt;/p&gt;
+    &lt;p&gt;評分:60&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -747,10 +748,10 @@ jupyter notebook
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;作業 肆&lt;/h1&gt;
-    &lt;p&gt;學號:40328245&lt;/p&gt;
+    &lt;h1&gt;作業&lt;/h1&gt;
+    &lt;p&gt;學號:40323227&lt;/p&gt;
     &lt;p&gt;班級:四設計二乙&lt;/p&gt;
-    &lt;p&gt;姓名:廖政齊&lt;/p&gt;
+    &lt;p&gt;姓名:紀凱淵&lt;/p&gt;
     &lt;p&gt;日期:11/06&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -1067,7 +1068,7 @@ Diff...
     &lt;p&gt;剛剛看了老師的影片還有同學教我才學會怎麼把班上的倉儲加上leo檔&lt;/p&gt;
     &lt;p&gt;雖然有些還是不熟&lt;/p&gt;
     &lt;p&gt;不過還是有認真在學它&lt;/p&gt;
-    &lt;p&gt;所以給自己70分&lt;/p&gt;
+    &lt;p&gt;所以給自己60分&lt;/p&gt;
     
 &lt;/section&gt;
 				
@@ -1129,9 +1130,9 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40328245"; }&lt;/style&gt
 
     &lt;section&gt;
     &lt;h2&gt;作業 伍&lt;/h2&gt;
-    &lt;p&gt;學號:40328245&lt;/p&gt;
+    &lt;p&gt;學號:40323227&lt;/p&gt;
     &lt;p&gt;班級:四設計二乙&lt;/p&gt;
-    &lt;p&gt;姓名:廖政齊&lt;/p&gt;
+    &lt;p&gt;姓名:紀凱淵&lt;/p&gt;
     &lt;p&gt;日期:01/06&lt;/p&gt;		
     &lt;/section&gt;
 	
@@ -1158,7 +1159,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40328245"; }&lt;/style&gt
     &lt;p&gt;這次的作業是關於怎麼修改bat的檔案&lt;/p&gt;
     &lt;p&gt;雖然有些程式還沒搞懂&lt;/p&gt;
     &lt;p&gt;不過也了解了許多&lt;/p&gt;
-    &lt;p&gt;所以給自己70分&lt;/p&gt;
+    &lt;p&gt;所以給自己60分&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -1220,10 +1221,10 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40328245"; }&lt;/style&gt
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
 
-    &lt;h1&gt;作業 陸&lt;/h1&gt;
-    &lt;p&gt;學號:40328245&lt;/p&gt;
+    &lt;h1&gt;作業&lt;/h1&gt;
+    &lt;p&gt;學號:40323227&lt;/p&gt;
     &lt;p&gt;班級:四設計二乙&lt;/p&gt;
-    &lt;p&gt;姓名:廖政齊&lt;/p&gt;
+    &lt;p&gt;姓名:紀凱淵&lt;/p&gt;
     &lt;p&gt;日期:01/07&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -1260,7 +1261,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40328245"; }&lt;/style&gt
     &lt;p&gt;所以現在才拍&lt;/p&gt;
     &lt;p&gt;組件雖然不難&lt;/p&gt;
     &lt;p&gt;可我還是只碰到一些簡單的操作而已&lt;/p&gt;
-    &lt;p&gt;所以給自己70分&lt;/p&gt;
+    &lt;p&gt;所以給自己60分&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -1322,10 +1323,10 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40328245"; }&lt;/style&gt
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
 
-    &lt;h1&gt;作業 柒&lt;/h1&gt;
-    &lt;p&gt;學號:40328245&lt;/p&gt;
+    &lt;h1&gt;作業&lt;/h1&gt;
+    &lt;p&gt;學號:40323227&lt;/p&gt;
     &lt;p&gt;班級:四設計二乙&lt;/p&gt;
-    &lt;p&gt;姓名:廖政齊&lt;/p&gt;
+    &lt;p&gt;姓名:紀凱淵&lt;/p&gt;
     &lt;p&gt;日期:01/08&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -1362,7 +1363,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40328245"; }&lt;/style&gt
     &lt;p&gt;這次是用onshape在網路上組起來&lt;/p&gt;
     &lt;p&gt;我覺得也還可以&lt;/p&gt;
     &lt;p&gt;不過還是用了比較少的工具&lt;/p&gt;
-    &lt;p&gt;所以給自己打70分&lt;/p&gt;
+    &lt;p&gt;所以給自己打60分&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -1424,10 +1425,10 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40328245"; }&lt;/style&gt
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;&lt; header &gt;&gt;
 
-    &lt;h1&gt;作業 捌&lt;/h1&gt;
-    &lt;p&gt;學號:40328245&lt;/p&gt;
+    &lt;h1&gt;作業&lt;/h1&gt;
+    &lt;p&gt;學號:40323227&lt;/p&gt;
     &lt;p&gt;班級:四設計二乙&lt;/p&gt;
-    &lt;p&gt;姓名:廖政齊&lt;/p&gt;
+    &lt;p&gt;姓名:紀凱淵&lt;/p&gt;
     &lt;p&gt;日期:01/09&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -1468,7 +1469,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40328245"; }&lt;/style&gt
     &lt;p&gt;不過我相信這些都會影響未來&lt;/p&gt;
     &lt;p&gt;這學期實在沒很認真&lt;/p&gt;
     &lt;p&gt;雖然這些東西都有學習到可覺得還不深入&lt;/p&gt;
-    &lt;p&gt;所以給自己70分&lt;/p&gt;
+    &lt;p&gt;所以給自己60分&lt;/p&gt;
     
 &lt;/section&gt;
 				
@@ -1532,9 +1533,9 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40328245"; }&lt;/style&gt
 &lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;作業 玖&lt;/h1&gt;
-    &lt;p&gt;學號:40328245&lt;/p&gt;
+    &lt;p&gt;學號:40323227&lt;/p&gt;
     &lt;p&gt;班級:四設計二乙&lt;/p&gt;
-    &lt;p&gt;姓名:廖政齊&lt;/p&gt;
+    &lt;p&gt;姓名:紀凱淵&lt;/p&gt;
     &lt;p&gt;日期:01/09&lt;/p&gt;		
 &lt;/section&gt;
 	
