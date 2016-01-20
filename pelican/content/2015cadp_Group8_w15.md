@@ -191,4 +191,10 @@ YANG-CHENG-RU/40323248-/master/888888888.stl"></script>
 <br>
 <br>
 <hr/>
-
+<br>
+<br>
+<span style="font-size: 22pt; font-family: 'arial black', 'avant garde';">&nbsp;<strong><span style="color: #003366;">nut cracker組立影片 - 40323235莊皓惟 </span></strong></span>
+<br>
+<br>
+<iframe src="https://player.vimeo.com/video/150254973" width="500" height="385" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/150254973">Onshape組立核桃機</a> from <a href="https://vimeo.com/user45622243">b51382909</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

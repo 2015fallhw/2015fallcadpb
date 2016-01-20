@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40223212 電腦輔助設計實習 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-11T10:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第十一週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2016-01-11T10:25:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-11:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;
-啟動存放在全班倉儲網頁中的分組報告
-&lt;h1&gt;fix.bat 的詳細介紹, Leo Editor 的近端 pip install 應用&lt;h1&gt;
-&lt;h1&gt;利用各自 user 目錄下的 Leo Editor 檔案, 發表位於全班 gh-pages 網頁的分組報告, 以電腦輔助方法管理 reveal.js 投影片中的學員學號註記, 介紹網頁式正齒輪齒面寬輔助設計, 說明正齒輪囓合繪製與組合的靜態繪圖與動態繪圖原理&lt;h1&gt;
-&lt;h1&gt;fix.bat 環境修補複習&lt;h1&gt;
-&lt;h1&gt;說明如何利用各學員 user/學號 目錄下的 .leo 檔案發表分組報告, 介紹如何利用 Github pages 展示零組件的 .stl 檔案&lt;h1&gt;
-&lt;h1&gt;介紹Creo Parametric 零件轉檔方法, gh-pages 網頁上的零件展示, Binary 與 ASCII STL 檔案格式介紹&lt;h1&gt;</summary><category term="creo"></category></entry><entry><title>2015 電腦輔助設計實習 第十週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w10.html" rel="alternate"></link><updated>2016-01-11T10:24:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-11:reveal/2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;
-介紹可攜程式系統的搭建流程與細節</summary><category term="creo"></category></entry><entry><title>2015 電腦輔助設計實習 第六週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2016-01-11T10:19:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-11:reveal/2015cp_hw_w6.html</id><summary type="html"></summary><category term="creo"></category></entry><entry><title>2015 電腦輔助設計實習 第七週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2016-01-11T10:19:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-11:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;P&gt;
-start.bat 內容的修改, 設法透過 Jupyter 執行網頁式設計分析或協同網頁資料編輯
-&lt;h1&gt;期中報告內容說明, Creo 2 Parametric Primer 電子書閱讀與零件繪製與零件組操作練習&lt;h1&gt;</summary><category term="creo"></category></entry><entry><title>2015 電腦輔助設計實習 第四週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2016-01-11T10:17:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-11:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;iframe src="40223212_cp_w4_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40223212 電腦輔助設計實習 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-11T10:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 第十一週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2016-01-11T10:25:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-11:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;h2&gt;fix.zip 修補流程再介紹&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href="40223212_cp_w4_p.html" target="_blank"&gt;投影片放大&lt;/a&gt;&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/143748956" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;P&gt;老師為了讓同學能夠順利繳交作業，所以再一次講解FIX.ZIP怎麼使用，以免當掉太多人&lt;P&gt;
+&lt;ol&gt;
+&lt;li&gt;先到&lt;a href="http://wordpress-2015course.rhcloud.com/?page_id=4243"&gt;2015Fall 專題&lt;/a&gt;下載fix.zip。&lt;li&gt;
+&lt;li&gt;了解fix.bat批次檔到底再做甚麼&lt;li&gt;
+&lt;li&gt;內文說明是，複製 start.bat, launchleo.py 與 python.properties&lt;li&gt;
+&lt;li&gt;和start.bat的第34、35行安裝Markdown和Leo&lt;li&gt;
+&lt;ol&gt;</summary><category term="creo"></category></entry><entry><title>2015 電腦輔助設計實習 第十週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w10.html" rel="alternate"></link><updated>2016-01-11T10:24:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-11:reveal/2015cp_hw_w10.html</id><summary type="html">&lt;h2&gt;介紹可攜程式系統的搭建流程與細節&lt;/h2&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/143748956"&gt;solvespace_tutorial&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第二週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2016-01-11T10:15:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-11:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;iframe src="40223212_cp_w2_p.html" width="700" height="500"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第三週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2016-01-11T10:15:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-11:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;
-&lt;h1&gt;Pelican 靜態網頁系統建立與分組協同, Solvespace 零件繪圖&lt;h1&gt;
-&lt;h1&gt;git rm 的使用, 以及 git 提交, 訊息註記與推送設定&lt;h1&gt;
-&lt;h1&gt;Solvespace 零件電腦輔助繪圖&lt;h1&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第十七週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w17.html" rel="alternate"></link><updated>2016-01-07T20:30:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-07:reveal/2015cp_hw_w17.html</id><summary type="html">&lt;p&gt;這機構我所接觸到的零件繪製和組立
+&lt;ol&gt;
+&lt;li&gt;首先下載與操作系統對應的 Miniconda (使用 Python3)&lt;/li&gt;
+&lt;li&gt;利用 conda install pip&lt;/li&gt;
+&lt;li&gt;利用 pip install pelican Markdown 安裝 pelican 與 Markdown 模組&lt;/li&gt;
+&lt;li&gt;可以利用 pip uninstall leo 移除先前所安裝的 Leo Editor 模組&lt;/li&gt;
+&lt;li&gt;利用 conda install pyqt (由 conda 自行選擇可以與既有系統相容的 pyqt 版本)&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="creo"></category></entry><entry><title>2015 電腦輔助設計實習 第四週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2016-01-11T10:17:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-11:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;強化電腦輔助設計的認知與概念
+What Engineers Do? 電子文件
+工程師做的是創意性的工作
+工程師與科學家的差別
+工程師的基本是解決問題
+人文的、藝術的，是工程師的養分
+不能跳脫自然界的認知&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第二週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2016-01-11T10:15:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-11:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;iframe src="40223212_cp_w2_p.html" width="700" height="500"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第三週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2016-01-11T10:15:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-11:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;Pelican 靜態網頁系統建立，發生問題與解決辦法&lt;p&gt;
+&lt;p&gt;git rm 的使用, 以及 git 提交, 訊息註記與推送設定&lt;p&gt;
+&lt;iframe src="40223212_cp_w3_p.html" width="700" height=500"&gt;&lt;/iframe&gt;
+&lt;hr&gt;
+solvespace是一套輕巧cad，他能夠做出許多事情。
+&lt;p&gt;例如 : 零件繪製、模擬動作、尺寸量測、路徑分析....等等許多&lt;p&gt;
+solvespace tutorial的零件繪圖。
+&lt;iframe src="https://player.vimeo.com/video/143748956" width="500" height="280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/143748956"&gt;solvespace_tutorial&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;img src="Y:\tmp\2015fallcadpb\user\40223212\image\text2.png" /&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第十七週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w17.html" rel="alternate"></link><updated>2016-01-07T20:30:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2016-01-07:reveal/2015cp_hw_w17.html</id><summary type="html">&lt;p&gt;這機構我所接觸到的零件繪製和組立
 &lt;br&gt;
 我畫過的，幫別人畫過得自己都有拍影片，都丟上來整理我做過的東西
 &lt;iframe src="40223212_cp_w17_p.html" width="700" height="500"&gt;&lt;/iframe&gt;
@@ -35,7 +48,7 @@ start.bat 內容的修改, 設法透過 Jupyter 執行網頁式設計分析或�
 &lt;br&gt;
 &lt;iframe src="https://player.vimeo.com/video/147246118" width="500" height="274" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147246118"&gt;Adjuster_Base&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
--------------------------------------------我是分隔線---------------------------------------------------------
+&lt;hr&gt;
 &lt;br&gt;
 &lt;br&gt;
  &lt;font face="標楷體" color="#FF0000" size="5"&gt;Part_2 : Aduster &lt;/font&gt;
@@ -53,7 +66,7 @@ start.bat 內容的修改, 設法透過 Jupyter 執行網頁式設計分析或�
  &lt;iframe src="https://player.vimeo.com/video/150897691" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150897691"&gt;adjuster&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
 &lt;br&gt;
--------------------------------------------我是分隔線---------------------------------------------------------
+&lt;hr&gt;
 &lt;br&gt;
 &lt;br&gt;
  &lt;font face="標楷體" color="#FF0000" size="5"&gt;Part_3 : Base &lt;/font&gt;
@@ -67,7 +80,7 @@ start.bat 內容的修改, 設法透過 Jupyter 執行網頁式設計分析或�
 &lt;br&gt;
 &lt;script src="https://embed.github.com/view/3d//2015fallhw/2015fallcadpb/gh-pages/user/40223212/project/base.stl"width="300"height="300"&gt;&lt;/script&gt;
 &lt;br&gt;
--------------------------------------------我是分隔線---------------------------------------------------------
+&lt;hr&gt;
 &lt;br&gt;
  &lt;font face="標楷體" color="#FF0000" size="5"&gt;Part_4 : connection&lt;/font&gt;- by&lt;a href='user/40223212/'&gt;40223212&lt;/a&gt;
 &lt;br&gt;
@@ -83,7 +96,7 @@ start.bat 內容的修改, 設法透過 Jupyter 執行網頁式設計分析或�
 &lt;br&gt;
   &lt;iframe src="https://player.vimeo.com/video/147283357" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147283357"&gt;connection.prt&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
--------------------------------------------我是分隔線---------------------------------------------------------
+&lt;hr&gt;
 &lt;br&gt;
  &lt;font face="標楷體" color="#FF0000" size="5"&gt;Part_5 : Cylinder &lt;/font&gt;
 &lt;br&gt;
@@ -97,7 +110,7 @@ start.bat 內容的修改, 設法透過 Jupyter 執行網頁式設計分析或�
 &lt;br&gt;
 &lt;iframe src="https://player.vimeo.com/video/150147845" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150147845"&gt;clip0006&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
--------------------------------------------我是分隔線---------------------------------------------------------
+&lt;hr&gt;
 &lt;br&gt;
 &lt;br&gt;
  &lt;font face="Arial" color="#FF0000" size="5"&gt;Part_6 :Handle &lt;/font&gt;
@@ -114,7 +127,7 @@ start.bat 內容的修改, 設法透過 Jupyter 執行網頁式設計分析或�
 &lt;br&gt; &lt;br /&gt;
  &lt;iframe src="https://player.vimeo.com/video/150147846" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150147846"&gt;clip0005&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
--------------------------------------------我是分隔線---------------------------------------------------------
+&lt;hr&gt;
 &lt;br&gt;
 &lt;br&gt;
  &lt;font face="標楷體" color="#FF0000" size="5"&gt; Part_7 : Hinge &lt;/font&gt;
@@ -132,7 +145,7 @@ src="https://copy.com/LqL49YKs7QplisTr"width="300"height="300"&gt;
 &lt;br&gt;
  &lt;iframe src="https://player.vimeo.com/video/147246115" width="500" height="274" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147246115"&gt;Nutcracker 機構零件_ADJUSTER-BASE&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
--------------------------------------------我是分隔線---------------------------------------------------------
+&lt;hr&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;font face="標楷體" color="#FF0000" size="5"&gt; Nutcracker &lt;/font&gt;- by&lt;a href='user/40223212/'&gt;40223212&lt;/a&gt;
@@ -148,9 +161,7 @@ HINGE
 &lt;iframe src="https://player.vimeo.com/video/147246118" width="500" height="274" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147246118"&gt;Nutcracker 機構零件_HINGE&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 ADJUSTER-BASE
 &lt;iframe src="https://player.vimeo.com/video/147246115" width="500" height="274" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147246115"&gt;Nutcracker 機構零件_ADJUSTER-BASE&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://copy.com/kI10Grc71GSlwGa1"&gt;有需要可以下載0.0&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="creo"></category></entry><entry><title>2015 電腦輔助設計實習 第五週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-27T20:04:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2015-10-27:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;iframe src="40223212_cp_w4_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="40223212_cp_w4_p.html" target="_blank"&gt;投影片放大&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copy.com/kI10Grc71GSlwGa1"&gt;有需要可以下載0.0&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="creo"></category></entry><entry><title>2015 電腦輔助設計實習 第五週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-27T20:04:00+08:00</updated><author><name>maple</name></author><id>tag:coursemdetw.github.io,2015-10-27:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;CREO的基本零件繪製&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/145038645" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/145038645"&gt;零件一&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -159,11 +170,7 @@ ADJUSTER-BASE
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/145038647"&gt;零件二&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/145038646" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/145038646"&gt;組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h1&gt;從 2008 年舊資料的回顧, 說明在地化與國際化的整合, 培養有專長, 能就業, 說明文化與教育對工程師的重要影響, 以及追求卓越的本意&lt;h1&gt;
-&lt;h1&gt;zoomit.exe 在錄製電腦輔助設計說明流程上的應用, Leo Editor 與 Pelican 的使用&lt;h1&gt;
-&lt;h1&gt;電腦輔助設計系列課程的標準執行流程, 可攜, 永續與體貼的電腦輔助設計方法&lt;h1&gt;
-&lt;h1&gt;Creo2 primer 電子書的網頁化處理&lt;h1&gt;</summary><category term="creo"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/145038646"&gt;組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user45258346"&gt;何師誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="creo"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
 &lt;p&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;

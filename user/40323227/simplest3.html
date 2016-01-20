@@ -1,0 +1,103 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>作業</h1>
+    <p>學號:40323227</p>
+    <p>班級:四設計二乙</p>
+    <p>姓名:紀凱淵</p>
+    <p>日期:11/06</p>		
+</section>
+	
+<section>
+    <h1>筆記</h1>
+    <p> 第一、二週</p>
+    <p>日期 : 09/14~09/27</p>
+    <p>利用leo作PPT在上傳至GITHUB</p>
+    <p>cd XXX :進入某資料夾</p>
+    <p>git branch:查看分支</p>
+    <p>git add -A:加入檔案至index</p>
+    <p>git commit -m  "倉儲名稱":複製檔案至倉儲</p>
+    <p>git push origin "分支名稱":複製檔案至分支</p>
+</section>
+				
+<section>
+    <h1>筆記</h1>
+    <p>第四週</p>
+    <p>日期 : 10/05~10/11</p>
+    <p>利用solvespace製作L型支架</p>
+    <p>X軸為R</p>
+    <p>Y軸為G</p>
+    <p>Z軸為B</p>    
+</section>
+				
+<section>
+    <h1>筆記</h1>
+    <p>第五週</p>
+    <p>日期 : 10/12~10/18</p>
+    <p>creo direct:可以直接建模 </p>
+    <p>ptc  creo parametric :有繪圖歷程、參數約束</p>
+    <p>creo simulate:分析</p>
+</section>
+				
+<section>
+    <h1>期中心得</h1>
+    <p>這半學期學了許多PYTHON的用法,</p>
+    <p>也了解了怎麼製作一些零組件,</p>
+    <p>在這門課上,我查了許多東西還問了許多人問題,</p>
+    <p>也覺得這門課收穫很多</p>
+    <p>雖然我很被動的去查了這些東西</p>
+    <p>可也對這個越來越喜歡,</p>
+    <p>希望未來職場上還能繼續沿用下去。</p>
+</section>
+				
+<section>
+    <h1>單字</h1>
+    <p>adjuster:調整桿</p>
+    <p>connection:連接</p>
+    <p>cylinder:鎖芯</p>
+    <p>handle:手柄</p>
+    <p>hinge:鉸鏈</p>
+    <p>piston:活塞</p>
+</section>
+				
+<section>
+    <h1>評分</h1>
+    <p>評分:60</p>
+</section>
+				
+</div>
+</div>
+<body>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
