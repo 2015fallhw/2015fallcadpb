@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Created by Leo (http://leoeditor.com/leo_toc.html) -->
+<!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <?xml-stylesheet ekr_test ?>
-<leo_file xmlns:leo="http://www.leo-editor.org/2011/leo" >
+<leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
 	<global_window_position top="50" left="50" height="500" width="700"/>
@@ -36,7 +36,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
+<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="40323255.20160115225328.1"><vh>@clean 40323254_cp_w2.html</vh>
 <v t="40323255.20160115225328.2"><vh>檔案說明</vh></v>
 <v t="40323255.20160115225328.3" a="E"><vh>html 標註</vh>
@@ -146,6 +146,7 @@
 </v>
 </v>
 <v t="40323255.20160117132808.12"><vh>script</vh></v>
+</v>
 </v>
 </v>
 </v>
