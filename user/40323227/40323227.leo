@@ -28,17 +28,11 @@
 <v t="leo.20151204180707.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151204180715.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="leo.20151204180722.1"><vh>@edit 2015cphww3.md</vh></v>
-<v t="leo.20151204180729.1"><vh>@edit 2015cphww4.md</vh></v>
-<v t="leo.20160109161241.1"><vh>@edit 2015cphww5.md</vh></v>
-<v t="leo.20160109161227.1"><vh>@edit 2015cphww6.md</vh></v>
-<v t="leo.20160109161220.1"><vh>@edit 2015cphww7.md</vh></v>
-<v t="leo.20160109161213.1"><vh>@edit 2015cphww8.md</vh></v>
-<v t="leo.20160109193950.1"><vh>@edit 2015cphww9.md</vh></v>
 </v>
 </v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="leo.20151204210010.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151204210010.1"><vh>@button open html</vh>
 <v t="leo.20151204210010.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="leo.20151204210010.3"><vh>檔案說明</vh></v>
 <v t="leo.20151204210010.4" a="E"><vh>html 標註</vh>
@@ -64,7 +58,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151204180559.1"><vh>@clean simplest1.html</vh>
+<v t="leo.20151204180559.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151204180559.2"><vh>newHeadline</vh></v>
 <v t="leo.20151204180559.3"><vh>檔案說明</vh></v>
 <v t="leo.20151204180559.4" a="E"><vh>html 標註</vh>
@@ -83,7 +77,7 @@
 </v>
 <v t="leo.20151204180610.1"><vh>@clean simplest2.html</vh>
 <v t="leo.20151204180610.2"><vh>檔案說明</vh></v>
-<v t="leo.20151204180610.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151204180610.3"><vh>html 標註</vh>
 <v t="leo.20151204180610.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151204180610.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151204180610.6" a="E"><vh>div class="slides"</vh>
@@ -451,9 +445,9 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;作業一&lt;/h1&gt;
-    &lt;p&gt;學號:40328242&lt;/p&gt;
+    &lt;p&gt;學號:40323227&lt;/p&gt;
     &lt;p&gt;班級:四設二乙&lt;/p&gt;
-    &lt;p&gt;姓名:楊承得&lt;/p&gt;
+    &lt;p&gt;姓名:紀凱淵&lt;/p&gt;
     &lt;p&gt;日期:2015-11-3&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -541,10 +535,10 @@ jupyter notebook
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;作業 貳&lt;/h1&gt;
-    &lt;p&gt;學號:40328245&lt;/p&gt;
+    &lt;h1&gt;作業&lt;/h1&gt;
+    &lt;p&gt;學號:40323227&lt;/p&gt;
     &lt;p&gt;班級:四設計二乙&lt;/p&gt;
-    &lt;p&gt;姓名:廖政齊&lt;/p&gt;
+    &lt;p&gt;姓名:紀凱淵&lt;/p&gt;
     &lt;p&gt;日期:10/28&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -632,10 +626,10 @@ jupyter notebook
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;作業 參&lt;/h1&gt;
-    &lt;p&gt;學號:40328245&lt;/p&gt;
+    &lt;h1&gt;作業&lt;/h1&gt;
+    &lt;p&gt;學號:403232227&lt;/p&gt;
     &lt;p&gt;班級:四設計二乙&lt;/p&gt;
-    &lt;p&gt;姓名:廖政齊&lt;/p&gt;
+    &lt;p&gt;姓名:紀凱淵&lt;/p&gt;
     &lt;p&gt;日期:11/01&lt;/p&gt;		
 &lt;/section&gt;
 	
