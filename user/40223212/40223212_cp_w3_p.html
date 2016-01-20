@@ -1,0 +1,60 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>40223212_cp_w3_p</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+<h1>cadp-2B  HW</h1>
+<h2>四設三乙 何師誠</h2>
+</section>
+<section>
+<H3 align="center">老師解釋前三周為甚麼不能使用Pelican 靜態網頁系統建立</H3>
+<p align="left">1.問題發生 : 學生發現從.MD轉網誌時有出現問題<p>
+<p align="left">2.老師解釋 : 因為現在台灣和老華僑所使用的中文不是國際標準語言。<p>
+<p align="left">3.解決辦法 : <a href="http://wordpress-2015course.rhcloud.com/?p=4054">老師的網誌</a><p>
+<p align="left">4.這樣就可以解決無法轉檔的問題<p>
+</section>
+<section>
+<H3 align="center">git rm 的使用方法</H3>
+<p align="left">1.如果想刪除已經上傳到github遠端資料，除了從github刪除外還可以透過git rm的指令來刪除<p>
+<p align="left">2.指令 git rm 資料檔名.副檔名 <p>
+<p align="left">3.這樣就可以從.git的暫存刪除，再推送時候github上的檔案就會被刪掉<p>
+<p align="left">4.結論，每次檔案準備好後才上傳到github比較省事情....在家裡做的話啦<p>
+</section>
+<section>
+<H2 align="center">自評分數</H2>
+<p align="center">80分<p>
+</section>
+ </div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

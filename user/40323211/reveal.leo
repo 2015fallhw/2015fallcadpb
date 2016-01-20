@@ -35,6 +35,7 @@
 <v t="leo.20160104031115.1"><vh>@edit 40323211_cp_w12.md</vh></v>
 <v t="leo.20160104031122.1"><vh>@edit 40323211_cp_w14.md</vh></v>
 <v t="leo.20160104031129.1"><vh>@edit 40323211_cp_w15.md</vh></v>
+<v t="leo.20160119224747.1"><vh>@edit 40323211_cp_w16.md</vh></v>
 </v>
 </v>
 </v>
@@ -144,7 +145,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160104031208.1" a="E"><vh>@clean 40323211_cp_w12.html</vh>
+<v t="leo.20160104031208.1"><vh>@clean 40323211_cp_w12.html</vh>
 <v t="leo.20160104031208.2"><vh>檔案說明</vh></v>
 <v t="leo.20160104031208.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160104031208.4" a="E"><vh>body 標註</vh>
@@ -165,7 +166,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160104031213.1" a="E"><vh>@clean 40323211_cp_w14.html</vh>
+<v t="leo.20160104031213.1"><vh>@clean 40323211_cp_w14.html</vh>
 <v t="leo.20160104031213.2"><vh>檔案說明</vh></v>
 <v t="leo.20160104031213.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160104031213.4" a="E"><vh>body 標註</vh>
@@ -186,7 +187,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160104031222.1" a="E"><vh>@clean 40323211_cp_w15.html</vh>
+<v t="leo.20160104031222.1"><vh>@clean 40323211_cp_w15.html</vh>
 <v t="leo.20160104031222.2"><vh>檔案說明</vh></v>
 <v t="leo.20160104031222.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160104031222.4" a="E"><vh>body 標註</vh>
@@ -204,6 +205,27 @@
 </v>
 </v>
 <v t="leo.20160104031222.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160119224757.1"><vh>@clean 40323211_cp_w16.html</vh>
+<v t="leo.20160119224757.2"><vh>檔案說明</vh></v>
+<v t="leo.20160119224757.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160119224757.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160119224757.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160119224757.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160119224757.7" a="E"><vh>有關我的作業</vh>
+<v t="leo.20160119224757.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160119224757.9" a="E"><vh>作業十五</vh>
+<v t="leo.20160119224757.12"></v>
+</v>
+<v t="leo.20160119224757.11" a="E"><vh>第3張投影片</vh>
+<v t="leo.20160119224757.12"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160119224757.13"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -1102,6 +1124,90 @@ jupyter notebook
  
  &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119224757.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160119224757.11">&lt;&lt; header &gt;&gt;
+    &lt;h2&gt;自評&lt;/h2&gt;
+    &lt;p&gt;使用onshape跟其他繪圖軟體並無太大區別,不過一次性能讓多個使用者同時編輯檔案,此功能與方便性令人驚艷,透過這軟體進行遠端討論或表達,比起一般討論與雲端傳送檔案來的方便許多,以Autodesk 的fusion 360來比較,fusion 360的限制在不能通時編輯與雲端回傳較慢,沒辦法在第一時間看成果,也無法同時模擬與表達
+我給自己的評分:85分&lt;/p&gt;
+ 
+ &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119224757.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323211"; }&lt;/style&gt;</t>
+<t tx="leo.20160119224757.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160119224757.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160119224757.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160119224757.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160119224757.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160119224757.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160119224757.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+    &lt;h2&gt;四設二乙 &lt;/h2&gt;
+    &lt;p&gt;40323211 朱柏蔚 11/08&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160119224757.9">&lt;&lt; header &gt;&gt;
+    &lt;h2&gt;作業任務二&lt;/h2&gt;
+    &lt;p&gt;在onshape新增群組檔案，再新增組員為管理者，進行同時間編輯的功能，然後利用solvespace計算機構最大最小移動範圍
+    &lt;/p&gt;
+    請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
