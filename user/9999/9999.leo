@@ -24,11 +24,12 @@
 <v t="amd.20160110143646.1" a="E"><vh>@path content</vh>
 <v t="amd.20160110143657.1"><vh>@edit 9999_w13_1.md</vh></v>
 <v t="amd.20160110143737.1"><vh>@edit 9999_final.md</vh></v>
+<v t="amd.20160121191845.1"><vh>@edit 9999_final_note.md</vh></v>
 </v>
 </v>
 </v>
 <v t="amd.20151208114418.1"><vh>必須確定每週的分組報告, 要放到那裏, 命名與格式為何?</vh></v>
-<v t="amd.20151208112521.1"><vh>@path ./../../pelican/content/</vh>
+<v t="amd.20151208112521.1" a="E"><vh>@path ./../../pelican/content/</vh>
 <v t="amd.20151208114252.1"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
 <v t="amd.20151208112612.1" a="E"><vh>@clean 9999_w13_1.md</vh>
 <v t="amd.20151208113025.1"><vh>其他內容</vh></v>
